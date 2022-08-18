@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+		Taxonomy: 2022-05-25 (Staff Draft)
+		********************** 
+        Copyright (c) 2022 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><xsd:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s2_2022-05-25" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:rol_ifrs_s2_2022-05-25="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s2_2022-05-25" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <xsd:annotation>
+    <xsd:appinfo>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000">
+        <link:definition>[210000] Climate-related disclosures</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000a">
+        <link:definition>[210000a] Climate-related disclosures - Definition of time horizons</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000b">
+        <link:definition>[210000b] Climate-related disclosures - Disclosure of significant climate-related risks and opportunities that could reasonably be expected to affect business model, strategy and cash flows, access to finance and cost of capital</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000c">
+        <link:definition>[210000c] Climate-related disclosures - Disclosure of current and anticipated effects of significant climate-related risks and opportunities on business model</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000d" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000d">
+        <link:definition>[210000d] Climate-related disclosures - Disclosure of extent to which climate-related targets rely on use of carbon offsets</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000e" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000e">
+        <link:definition>[210000e] Climate-related disclosures - Disclosure of financial effects for reporting period of significant climate-related risks and opportunities</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000f" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000f">
+        <link:definition>[210000f] Climate-related disclosures - Disclosure of anticipated financial effects of significant climate-related risks and opportunities</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000g" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000g">
+        <link:definition>[210000g] Climate-related disclosures - Scope 1 and 2 greenhouse gas emissions</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000h" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000h">
+        <link:definition>[210000h] Climate-related disclosures - Disclosure of climate-related targets</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="ifrs_s2_2022-05-25_role-210000i" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000i">
+        <link:definition>[210000i] Climate-related disclosures - Disclosure of early application of new or amended IFRS Sustainability Disclosure Standard</link:definition>
+        <link:usedOn>link:calculationLink</link:usedOn>
+        <link:usedOn>link:definitionLink</link:usedOn>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+    </xsd:appinfo>
+  </xsd:annotation>
+</xsd:schema>

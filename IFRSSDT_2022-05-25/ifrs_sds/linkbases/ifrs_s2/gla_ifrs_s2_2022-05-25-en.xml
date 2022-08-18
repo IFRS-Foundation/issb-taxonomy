@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+		Taxonomy: 2022-05-25 (Staff Draft)
+		********************** 
+        Copyright (c) 2022 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><link:linkbase xmlns:gen="http://xbrl.org/2008/generic" xmlns:label="http://xbrl.org/2008/label" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd http://xbrl.org/2008/label http://www.xbrl.org/2008/generic-label.xsd http://xbrl.org/2008/generic http://www.xbrl.org/2008/generic-link.xsd http://www.w3.org/1999/xlink http://www.xbrl.org/2003/xlink-2003-12-31.xsd">
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/link" xlink:href="http://www.xbrl.org/2008/generic-link.xsd#standard-link-role" xlink:type="simple"/>
+  <link:roleRef roleURI="http://www.xbrl.org/2008/role/label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#standard-label" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/arcrole/2008/element-label" xlink:href="http://www.xbrl.org/2008/generic-label.xsd#element-label" xlink:type="simple"/>
+  <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
+    <label:label xlink:label="res_1" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000] Climate-related disclosures</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000" xlink:label="loc_1" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
+    <label:label xlink:label="res_2" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000a] Climate-related disclosures - Definition of time horizons</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000a" xlink:label="loc_2" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_2" xlink:to="res_2" xlink:type="arc"/>
+    <label:label xlink:label="res_3" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000b] Climate-related disclosures - Disclosure of significant climate-related risks and opportunities that could reasonably be expected to affect business model, strategy and cash flows, access to finance and cost of capital</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000b" xlink:label="loc_3" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_3" xlink:to="res_3" xlink:type="arc"/>
+    <label:label xlink:label="res_4" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000c] Climate-related disclosures - Disclosure of current and anticipated effects of significant climate-related risks and opportunities on business model</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000c" xlink:label="loc_4" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_4" xlink:to="res_4" xlink:type="arc"/>
+    <label:label xlink:label="res_5" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000d] Climate-related disclosures - Disclosure of extent to which climate-related targets rely on use of carbon offsets</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000d" xlink:label="loc_5" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_5" xlink:to="res_5" xlink:type="arc"/>
+    <label:label xlink:label="res_6" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000e] Climate-related disclosures - Disclosure of financial effects for reporting period of significant climate-related risks and opportunities</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000e" xlink:label="loc_6" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_6" xlink:to="res_6" xlink:type="arc"/>
+    <label:label xlink:label="res_7" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000f] Climate-related disclosures - Disclosure of anticipated financial effects of significant climate-related risks and opportunities</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000f" xlink:label="loc_7" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_7" xlink:to="res_7" xlink:type="arc"/>
+    <label:label xlink:label="res_8" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000g] Climate-related disclosures - Scope 1 and 2 greenhouse gas emissions</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000g" xlink:label="loc_8" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_8" xlink:to="res_8" xlink:type="arc"/>
+    <label:label xlink:label="res_9" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000h] Climate-related disclosures - Disclosure of climate-related targets</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000h" xlink:label="loc_9" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_9" xlink:to="res_9" xlink:type="arc"/>
+    <label:label xlink:label="res_10" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000i] Climate-related disclosures - Disclosure of early application of new or amended IFRS Sustainability Disclosure Standard</label:label>
+    <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000i" xlink:label="loc_10" xlink:type="locator"/>
+    <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_10" xlink:to="res_10" xlink:type="arc"/>
+  </gen:link>
+</link:linkbase>
