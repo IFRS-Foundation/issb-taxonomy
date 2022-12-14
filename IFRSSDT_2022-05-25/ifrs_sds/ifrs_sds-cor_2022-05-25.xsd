@@ -1317,6 +1317,12 @@
   <xsd:element abstract="false" id="ifrs-sds_HydrocarbonReservesProvedEstimatedCarbonDioxideEmissions" name="HydrocarbonReservesProvedEstimatedCarbonDioxideEmissions" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:massItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_HydrocarbonrelatedProjectsMember" name="HydrocarbonrelatedProjectsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_IECWindTurbineClassAxis" name="IECWindTurbineClassAxis" nillable="true" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+  <xsd:element name="IECWindTurbineClassDomain" id="ifrs-sds_IECWindTurbineClassDomain" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="IECWindTurbineClassIMember" id="ifrs-sds_IECWindTurbineClassIMember" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="IECWindTurbineClassIIMember" id="ifrs-sds_IECWindTurbineClassIIMember" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="IECWindTurbineClassIIIMember" id="ifrs-sds_IECWindTurbineClassIIIMember" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="IECWindTurbineClassIVMember" id="ifrs-sds_IECWindTurbineClassIVMember" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
+  <xsd:element name="IECWindTurbineClassSMember" id="ifrs-sds_IECWindTurbineClassSMember" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_IFEN000AAbstract" name="IFEN000AAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_IFEN000BAbstract" name="IFEN000BAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_IFEN000CAbstract" name="IFEN000CAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
@@ -1849,6 +1855,7 @@
   <xsd:element abstract="true" id="ifrs-sds_OtherCombustionMember" name="OtherCombustionMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherFiberSourcingStandardsMember" name="OtherFiberSourcingStandardsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherHardwareMember" name="OtherHardwareMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
+  <xsd:element name="OtherIECWindTurbineMember" id="ifrs-sds_OtherIECWindTurbineMember" type="dtr-types:domainItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherNonroadDieselEnginesMember" name="OtherNonroadDieselEnginesMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherPropertyMember" name="OtherPropertyMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherRenewableEnergyMember" name="OtherRenewableEnergyMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
