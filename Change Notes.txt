@@ -1,0 +1,4 @@
+Corrections to staff draft:
+
+* Corrected the date in the linkroles on enum elements
+* Added missing trailing '/' to rewrite URL
