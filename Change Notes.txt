@@ -4,3 +4,4 @@ Corrections to staff draft:
 * Added missing trailing '/' to rewrite URL
 * Added missing children of IECWindTurbineClassAxis
 * Removed duplicative "OtherStandardMember", coalesce on "OtherStandardsMember"
+* Fixed missing ELR for PriorityFoodIngredientsListing enunm2:linkrole, point to https://xbrl.ifrs.org/role/ifrs_sds/table/ProcessedFoodsPriorityFoodIngredientsListingTable-2022-05-25_role-820600j
