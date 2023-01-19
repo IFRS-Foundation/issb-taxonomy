@@ -11,10 +11,10 @@
   <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
   <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2022-05-25_role-995000" xlink:type="extended">
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteMeasureMember" xlink:label="loc_2" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherAbstract" xlink:label="loc_1" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain" xlink:label="loc_1" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ConsumerGoodsSectorMember" xlink:label="loc_5" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainableIndustryClassificationSystemSicsAbstract" xlink:label="loc_4" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainableIndustryClassificationSystemSicsDomain" xlink:label="loc_4" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ApparelAndTextilesSubSectorMember" xlink:label="loc_6" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
@@ -149,16 +149,16 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LandTransportationSubSectorMember" xlink:label="loc_127" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_127" xlink:to="loc_128" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalMember" xlink:label="loc_131" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetBasisAbstract" xlink:label="loc_130" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetBasisDomain" xlink:label="loc_130" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_130" xlink:to="loc_131" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NatureBasedCarbonRemovalsMember" xlink:label="loc_134" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalBasisAbstract" xlink:label="loc_133" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalBasisDomain" xlink:label="loc_133" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_133" xlink:to="loc_134" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskMember" xlink:label="loc_137" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskOrOpportunityAbstract" xlink:label="loc_136" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IsClimateRelatedRiskOrOpportunityDomain" xlink:label="loc_136" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_136" xlink:to="loc_137" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PhysicalClimateRelatedRiskMember" xlink:label="loc_140" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskTypeAbstract" xlink:label="loc_139" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskTypeDomain" xlink:label="loc_139" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_139" xlink:to="loc_140" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AcutePhysicalClimateRelatedRiskMember" xlink:label="loc_141" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_140" xlink:to="loc_141" xlink:type="arc"/>
@@ -166,13 +166,13 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TransitionClimateRelatedRiskMember" xlink:label="loc_143" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_143" xlink:to="loc_144" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TransitionRiskMember" xlink:label="loc_150" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedScenariosTypeOfRiskAbstract" xlink:label="loc_149" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedScenariosTypeOfRiskDomain" xlink:label="loc_149" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_149" xlink:to="loc_150" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteTargetMember" xlink:label="loc_153" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedTargetAbsoluteOrIntensityAbstract" xlink:label="loc_152" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedTargetAbsoluteOrIntensityDomain" xlink:label="loc_152" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_152" xlink:to="loc_153" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PurchasedGoodsAndServicesMember" xlink:label="loc_156" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_Scope3EmissionsCategoriesAbstract" xlink:label="loc_155" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_Scope3EmissionsCategoriesDomain" xlink:label="loc_155" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_155" xlink:to="loc_156" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MeasureExpressedInRelationToAnotherMetricMember" xlink:label="loc_3" xlink:type="locator"/>
     <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_3" xlink:type="arc"/>

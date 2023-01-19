@@ -6,3 +6,6 @@ Corrections to staff draft:
 * Removed duplicative "OtherStandardMember", coalesce on "OtherStandardsMember"
 * Fixed missing ELR for PriorityFoodIngredientsListing enunm2:linkrole: Added FoodIngredientDomain to ELR 995000, set enum2:linkrole of PriorityFoodIngredientsListing to that ELR "https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2022-05-25_role-995000" (Corefiling)
 
+Changes:
+
+* Changed all the 'Abstract' elements that were being used as parents of domain member lists in ELR 995000 to 'Domain' Elements - more consistent with use in Axes, avoids mix of types of top level item (Abstract and Domain) - Required changing ClimateRelatedRiskOrOpportunityAbstract to IsClimateRelatedRiskOrOpportunityDomain (BR-AG)

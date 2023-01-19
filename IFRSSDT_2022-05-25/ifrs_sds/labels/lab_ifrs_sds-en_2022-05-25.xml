@@ -7012,8 +7012,8 @@
     <link:label id="ifrs-sds_ExtensibleEnumerationDomainMembersAbstract_label" xlink:label="res_3179" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extensible enumeration domain members [Abstract]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExtensibleEnumerationDomainMembersAbstract" xlink:label="loc_2434" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2434" xlink:to="res_3179" xlink:type="arc"/>
-    <link:label id="ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherAbstract_label" xlink:label="res_3180" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability-related metric, absolute or expressed in relation to another [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherAbstract" xlink:label="loc_2435" xlink:type="locator"/>
+    <link:label id="ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain_label" xlink:label="res_3180" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability-related metric, absolute or expressed in relation to another [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain" xlink:label="loc_2435" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2435" xlink:to="res_3180" xlink:type="arc"/>
     <link:label id="ifrs-sds_AbsoluteMeasureMember_label" xlink:label="res_3181" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Absolute measure [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteMeasureMember" xlink:label="loc_2436" xlink:type="locator"/>
@@ -7021,8 +7021,8 @@
     <link:label id="ifrs-sds_MeasureExpressedInRelationToAnotherMetricMember_label" xlink:label="res_3182" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Measure expressed in relation to another metric [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MeasureExpressedInRelationToAnotherMetricMember" xlink:label="loc_2437" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2437" xlink:to="res_3182" xlink:type="arc"/>
-    <link:label id="ifrs-sds_SustainableIndustryClassificationSystemSicsAbstract_label" xlink:label="res_3183" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainable Industry Classification System (SICS) [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainableIndustryClassificationSystemSicsAbstract" xlink:label="loc_2438" xlink:type="locator"/>
+    <link:label id="ifrs-sds_SustainableIndustryClassificationSystemSicsDomain_label" xlink:label="res_3183" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainable Industry Classification System (SICS) [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainableIndustryClassificationSystemSicsDomain" xlink:label="loc_2438" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2438" xlink:to="res_3183" xlink:type="arc"/>
     <link:label id="ifrs-sds_ConsumerGoodsSectorMember_label" xlink:label="res_3184" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Consumer Goods Sector [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ConsumerGoodsSectorMember" xlink:label="loc_2439" xlink:type="locator"/>
@@ -7837,8 +7837,8 @@
     <link:label id="ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSignificantSustainabilityRelatedRisksAndOpportunitiesOnBusinessModelLineItems_label" xlink:label="res_3454" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of current and anticipated effects of significant sustainability-related risks and opportunities on business model [Line Items]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSignificantSustainabilityRelatedRisksAndOpportunitiesOnBusinessModelLineItems" xlink:label="loc_2709" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2709" xlink:to="res_3454" xlink:type="arc"/>
-    <link:label id="ifrs-sds_CarbonOffsetBasisAbstract_label" xlink:label="res_3455" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Carbon offset, basis [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetBasisAbstract" xlink:label="loc_2710" xlink:type="locator"/>
+    <link:label id="ifrs-sds_CarbonOffsetBasisDomain_label" xlink:label="res_3455" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Carbon offset, basis [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetBasisDomain" xlink:label="loc_2710" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2710" xlink:to="res_3455" xlink:type="arc"/>
     <link:label id="ifrs-sds_CarbonRemovalMember_label" xlink:label="res_3456" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Carbon removal [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalMember" xlink:label="loc_2711" xlink:type="locator"/>
@@ -7846,8 +7846,8 @@
     <link:label id="ifrs-sds_EmissionAvoidanceMember_label" xlink:label="res_3457" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emission avoidance [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EmissionAvoidanceMember" xlink:label="loc_2712" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2712" xlink:to="res_3457" xlink:type="arc"/>
-    <link:label id="ifrs-sds_CarbonRemovalBasisAbstract_label" xlink:label="res_3458" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Carbon removal, basis [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalBasisAbstract" xlink:label="loc_2713" xlink:type="locator"/>
+    <link:label id="ifrs-sds_CarbonRemovalBasisDomain_label" xlink:label="res_3458" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Carbon removal, basis [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalBasisDomain" xlink:label="loc_2713" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2713" xlink:to="res_3458" xlink:type="arc"/>
     <link:label id="ifrs-sds_NatureBasedCarbonRemovalsMember_label" xlink:label="res_3459" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Nature-based carbon removals [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NatureBasedCarbonRemovalsMember" xlink:label="loc_2714" xlink:type="locator"/>
@@ -7855,8 +7855,8 @@
     <link:label id="ifrs-sds_TechnologyBasedCarbonRemovalsMember_label" xlink:label="res_3460" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Technology-based carbon removals [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TechnologyBasedCarbonRemovalsMember" xlink:label="loc_2715" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2715" xlink:to="res_3460" xlink:type="arc"/>
-    <link:label id="ifrs-sds_ClimateRelatedRiskOrOpportunityAbstract_label" xlink:label="res_3461" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related risk or opportunity [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskOrOpportunityAbstract" xlink:label="loc_2716" xlink:type="locator"/>
+    <link:label id="ifrs-sds_IsClimateRelatedRiskOrOpportunityDomain_label" xlink:label="res_3461" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Is climate-related risk or opportunity [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IsClimateRelatedRiskOrOpportunityDomain" xlink:label="loc_2716" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2716" xlink:to="res_3461" xlink:type="arc"/>
     <link:label id="ifrs-sds_ClimateRelatedRiskMember_label" xlink:label="res_3462" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related risk [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskMember" xlink:label="loc_2717" xlink:type="locator"/>
@@ -7864,8 +7864,8 @@
     <link:label id="ifrs-sds_ClimateRelatedOpportunityMember_label" xlink:label="res_3463" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related opportunity [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedOpportunityMember" xlink:label="loc_2718" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2718" xlink:to="res_3463" xlink:type="arc"/>
-    <link:label id="ifrs-sds_ClimateRelatedRiskTypeAbstract_label" xlink:label="res_3464" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related risk, type [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskTypeAbstract" xlink:label="loc_2719" xlink:type="locator"/>
+    <link:label id="ifrs-sds_ClimateRelatedRiskTypeDomain_label" xlink:label="res_3464" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related risk, type [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskTypeDomain" xlink:label="loc_2719" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2719" xlink:to="res_3464" xlink:type="arc"/>
     <link:label id="ifrs-sds_PhysicalClimateRelatedRiskMember_label" xlink:label="res_3465" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Physical climate-related risk [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PhysicalClimateRelatedRiskMember" xlink:label="loc_2720" xlink:type="locator"/>
@@ -7894,8 +7894,8 @@
     <link:label id="ifrs-sds_ReputationalTransitionClimateRelatedRiskMember_label" xlink:label="res_3473" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Reputational transition climate-related risk [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ReputationalTransitionClimateRelatedRiskMember" xlink:label="loc_2728" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2728" xlink:to="res_3473" xlink:type="arc"/>
-    <link:label id="ifrs-sds_ClimateRelatedScenariosTypeOfRiskAbstract_label" xlink:label="res_3474" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related scenarios, type of risk [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedScenariosTypeOfRiskAbstract" xlink:label="loc_2729" xlink:type="locator"/>
+    <link:label id="ifrs-sds_ClimateRelatedScenariosTypeOfRiskDomain_label" xlink:label="res_3474" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related scenarios, type of risk [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedScenariosTypeOfRiskDomain" xlink:label="loc_2729" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2729" xlink:to="res_3474" xlink:type="arc"/>
     <link:label id="ifrs-sds_TransitionRiskMember_label" xlink:label="res_3475" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transition risk [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TransitionRiskMember" xlink:label="loc_2730" xlink:type="locator"/>
@@ -7903,8 +7903,8 @@
     <link:label id="ifrs-sds_PhysicalRiskMember_label" xlink:label="res_3476" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Physical risk [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PhysicalRiskMember" xlink:label="loc_2731" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2731" xlink:to="res_3476" xlink:type="arc"/>
-    <link:label id="ifrs-sds_ClimateRelatedTargetAbsoluteOrIntensityAbstract_label" xlink:label="res_3477" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related target, absolute or intensity [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedTargetAbsoluteOrIntensityAbstract" xlink:label="loc_2732" xlink:type="locator"/>
+    <link:label id="ifrs-sds_ClimateRelatedTargetAbsoluteOrIntensityDomain_label" xlink:label="res_3477" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related target, absolute or intensity [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedTargetAbsoluteOrIntensityDomain" xlink:label="loc_2732" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2732" xlink:to="res_3477" xlink:type="arc"/>
     <link:label id="ifrs-sds_AbsoluteTargetMember_label" xlink:label="res_3478" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Absolute target [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteTargetMember" xlink:label="loc_2733" xlink:type="locator"/>
@@ -7912,8 +7912,8 @@
     <link:label id="ifrs-sds_IntensityTargetMember_label" xlink:label="res_3479" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Intensity target [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IntensityTargetMember" xlink:label="loc_2734" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2734" xlink:to="res_3479" xlink:type="arc"/>
-    <link:label id="ifrs-sds_Scope3EmissionsCategoriesAbstract_label" xlink:label="res_3480" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Scope 3 emissions categories [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_Scope3EmissionsCategoriesAbstract" xlink:label="loc_2735" xlink:type="locator"/>
+    <link:label id="ifrs-sds_Scope3EmissionsCategoriesDomain_label" xlink:label="res_3480" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Scope 3 emissions categories [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_Scope3EmissionsCategoriesDomain" xlink:label="loc_2735" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2735" xlink:to="res_3480" xlink:type="arc"/>
     <link:label id="ifrs-sds_PurchasedGoodsAndServicesMember_label" xlink:label="res_3481" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Purchased goods and services [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PurchasedGoodsAndServicesMember" xlink:label="loc_2736" xlink:type="locator"/>
