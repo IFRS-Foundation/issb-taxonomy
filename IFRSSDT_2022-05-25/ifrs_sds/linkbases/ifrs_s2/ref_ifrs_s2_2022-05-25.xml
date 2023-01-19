@@ -6548,7 +6548,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EN-000.Aa</ref:Section>
+      <ref:Section>IF-EN-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ActiveProjectsNumber" xlink:label="loc_818" xlink:title="ActiveProjectsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_818" xlink:title="reference: ActiveProjectsNumber to reference_ActiveProjectsNumber" xlink:to="res_818" xlink:type="arc"/>
@@ -6556,7 +6556,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-HB-000.Ca</ref:Section>
+      <ref:Section>IF-HB-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ActiveSellingCommunitiesNumber" xlink:label="loc_819" xlink:title="ActiveSellingCommunitiesNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_819" xlink:title="reference: ActiveSellingCommunitiesNumber to reference_ActiveSellingCommunitiesNumber" xlink:to="res_819" xlink:type="arc"/>
@@ -6580,7 +6580,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-AG-000.Da</ref:Section>
+      <ref:Section>FB-AG-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AgriculturalRawMaterialsSourcedExternally" xlink:label="loc_822" xlink:title="AgriculturalRawMaterialsSourcedExternally" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_822" xlink:title="reference: AgriculturalRawMaterialsSourcedExternally to reference_AgriculturalRawMaterialsSourcedExternally" xlink:to="res_822" xlink:type="arc"/>
@@ -6708,7 +6708,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AL-000.Ea</ref:Section>
+      <ref:Section>TR-AL-000.E</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AirlineDeparturesNumber" xlink:label="loc_824" xlink:title="AirlineDeparturesNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_824" xlink:title="reference: AirlineDeparturesNumber to reference_AirlineDeparturesNumber" xlink:to="res_840" xlink:type="arc"/>
@@ -6772,7 +6772,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-RS-000.Ea</ref:Section>
+      <ref:Section>IF-RS-000.E</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AppraisalsProvidedNumber" xlink:label="loc_832" xlink:title="AppraisalsProvidedNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_832" xlink:title="reference: AppraisalsProvidedNumber to reference_AppraisalsProvidedNumber" xlink:to="res_848" xlink:type="arc"/>
@@ -6827,7 +6827,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FN-AC-000.Ba</ref:Section>
+      <ref:Section>FN-AC-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AssetsUnderCustodyAndSupervision" xlink:label="loc_838" xlink:title="AssetsUnderCustodyAndSupervision" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_838" xlink:title="reference: AssetsUnderCustodyAndSupervision to reference_AssetsUnderCustodyAndSupervision" xlink:to="res_855" xlink:type="arc"/>
@@ -6971,7 +6971,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-HL-000.Aa</ref:Section>
+      <ref:Section>SV-HL-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AvailableRoomNightsNumber" xlink:label="loc_856" xlink:title="AvailableRoomNightsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_856" xlink:title="reference: AvailableRoomNightsNumber to reference_AvailableRoomNightsNumber" xlink:to="res_873" xlink:type="arc"/>
@@ -6979,7 +6979,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AL-000.Aa</ref:Section>
+      <ref:Section>TR-AL-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AvailableSeatDistance" xlink:label="loc_857" xlink:title="AvailableSeatDistance" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_857" xlink:title="reference: AvailableSeatDistance to reference_AvailableSeatDistance" xlink:to="res_874" xlink:type="arc"/>
@@ -7002,7 +7002,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-CL-000.Ba</ref:Section>
+      <ref:Section>TR-CL-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AveragePassengerCruiseDays" xlink:label="loc_859" xlink:title="AveragePassengerCruiseDays" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_859" xlink:title="reference: AveragePassengerCruiseDays to reference_AveragePassengerCruiseDays" xlink:to="res_877" xlink:type="arc"/>
@@ -7063,7 +7063,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-FC-000.Ba</ref:Section>
+      <ref:Section>RR-FC-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BatteriesSoldStorageCapacity" xlink:label="loc_864" xlink:title="BatteriesSoldStorageCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_864" xlink:title="reference: BatteriesSoldStorageCapacity to reference_BatteriesSoldStorageCapacity" xlink:to="res_885" xlink:type="arc"/>
@@ -7126,7 +7126,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-TL-000.Ca</ref:Section>
+      <ref:Section>TC-TL-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BroadbandSubscribers" xlink:label="loc_871" xlink:title="BroadbandSubscribers" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_871" xlink:title="reference: BroadbandSubscribers to reference_BroadbandSubscribers" xlink:to="res_893" xlink:type="arc"/>
@@ -7158,7 +7158,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-RS-000.Ba</ref:Section>
+      <ref:Section>IF-RS-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BuildingsUnderManagementFloorAreaWithOwnerOperationalControl" xlink:label="loc_875" xlink:title="BuildingsUnderManagementFloorAreaWithOwnerOperationalControl" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_875" xlink:title="reference: BuildingsUnderManagementFloorAreaWithOwnerOperationalControl to reference_BuildingsUnderManagementFloorAreaWithOwnerOperationalControl" xlink:to="res_897" xlink:type="arc"/>
@@ -7166,7 +7166,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-RS-000.Ca</ref:Section>
+      <ref:Section>IF-RS-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BuildingsUnderManagementNumberWithOwnerOperationalControl" xlink:label="loc_876" xlink:title="BuildingsUnderManagementNumberWithOwnerOperationalControl" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_876" xlink:title="reference: BuildingsUnderManagementNumberWithOwnerOperationalControl to reference_BuildingsUnderManagementNumberWithOwnerOperationalControl" xlink:to="res_898" xlink:type="arc"/>
@@ -7198,7 +7198,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RA-000.Aa</ref:Section>
+      <ref:Section>TR-RA-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarloadsTransportedNumber" xlink:label="loc_880" xlink:title="CarloadsTransportedNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_880" xlink:title="reference: CarloadsTransportedNumber to reference_CarloadsTransportedNumber" xlink:to="res_902" xlink:type="arc"/>
@@ -7285,7 +7285,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EN-000.Ba</ref:Section>
+      <ref:Section>IF-EN-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommissionedProjectsNumber" xlink:label="loc_890" xlink:title="CommissionedProjectsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_890" xlink:title="reference: CommissionedProjectsNumber to reference_CommissionedProjectsNumber" xlink:to="res_913" xlink:type="arc"/>
@@ -7293,7 +7293,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-ST-000.Ba</ref:Section>
+      <ref:Section>RR-ST-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CompletedSolarEnergySystemsCapacity" xlink:label="loc_891" xlink:title="CompletedSolarEnergySystemsCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_891" xlink:title="reference: CompletedSolarEnergySystemsCapacity to reference_CompletedSolarEnergySystemsCapacity" xlink:to="res_914" xlink:type="arc"/>
@@ -7309,7 +7309,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-HB-000.Aa</ref:Section>
+      <ref:Section>IF-HB-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ControlledLotsNumber" xlink:label="loc_893" xlink:title="ControlledLotsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_893" xlink:title="reference: ControlledLotsNumber to reference_ControlledLotsNumber" xlink:to="res_916" xlink:type="arc"/>
@@ -7353,7 +7353,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-CL-000.Da</ref:Section>
+      <ref:Section>TR-CL-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CruisePassengersNumber" xlink:label="loc_895" xlink:title="CruisePassengersNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_895" xlink:title="reference: CruisePassengersNumber to reference_CruisePassengersNumber" xlink:to="res_922" xlink:type="arc"/>
@@ -7361,7 +7361,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-CL-000.Aa</ref:Section>
+      <ref:Section>TR-CL-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CruiseShipCapacityAvailableLowerBerthDistance" xlink:label="loc_896" xlink:title="CruiseShipCapacityAvailableLowerBerthDistance" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_896" xlink:title="reference: CruiseShipCapacityAvailableLowerBerthDistance to reference_CruiseShipCapacityAvailableLowerBerthDistance" xlink:to="res_923" xlink:type="arc"/>
@@ -7385,7 +7385,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-LF-000.Ba</ref:Section>
+      <ref:Section>SV-LF-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CustomerDaysNumber" xlink:label="loc_899" xlink:title="CustomerDaysNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_899" xlink:title="reference: CustomerDaysNumber to reference_CustomerDaysNumber" xlink:to="res_926" xlink:type="arc"/>
@@ -7469,7 +7469,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-EC-000.Ba</ref:Section>
+      <ref:Section>CG-EC-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DataProcessingCapacity" xlink:label="loc_906" xlink:title="DataProcessingCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_906" xlink:title="reference: DataProcessingCapacity to reference_DataProcessingCapacity" xlink:to="res_937" xlink:type="arc"/>
@@ -7477,21 +7477,21 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-IM-000.Ba</ref:Section>
+      <ref:Section>TC-IM-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_906" xlink:title="reference: DataProcessingCapacity to reference_DataProcessingCapacity" xlink:to="res_938" xlink:type="arc"/>
     <link:reference xlink:label="res_939" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_DataProcessingCapacity" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SI-000.Ba</ref:Section>
+      <ref:Section>TC-SI-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_906" xlink:title="reference: DataProcessingCapacity to reference_DataProcessingCapacity" xlink:to="res_939" xlink:type="arc"/>
     <link:reference xlink:label="res_940" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_DataProcessingCapacityPercentageOutsourced" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-EC-000.Bb</ref:Section>
+      <ref:Section>CG-EC-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DataProcessingCapacityPercentageOutsourced" xlink:label="loc_907" xlink:title="DataProcessingCapacityPercentageOutsourced" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_907" xlink:title="reference: DataProcessingCapacityPercentageOutsourced to reference_DataProcessingCapacityPercentageOutsourced" xlink:to="res_940" xlink:type="arc"/>
@@ -7499,21 +7499,21 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-IM-000.Bb</ref:Section>
+      <ref:Section>TC-IM-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_907" xlink:title="reference: DataProcessingCapacityPercentageOutsourced to reference_DataProcessingCapacityPercentageOutsourced" xlink:to="res_941" xlink:type="arc"/>
     <link:reference xlink:label="res_942" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_DataProcessingCapacityPercentageOutsourced" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SI-000.Bb</ref:Section>
+      <ref:Section>TC-SI-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_907" xlink:title="reference: DataProcessingCapacityPercentageOutsourced to reference_DataProcessingCapacityPercentageOutsourced" xlink:to="res_942" xlink:type="arc"/>
     <link:reference xlink:label="res_943" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_DataStorage" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-IM-000.Ca</ref:Section>
+      <ref:Section>TC-IM-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DataStorage" xlink:label="loc_908" xlink:title="DataStorage" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_908" xlink:title="reference: DataStorage to reference_DataStorage" xlink:to="res_943" xlink:type="arc"/>
@@ -7521,14 +7521,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SI-000.Ca</ref:Section>
+      <ref:Section>TC-SI-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_908" xlink:title="reference: DataStorage to reference_DataStorage" xlink:to="res_944" xlink:type="arc"/>
     <link:reference xlink:label="res_945" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_DataStoragePercentageOutsourced" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-IM-000.Cb</ref:Section>
+      <ref:Section>TC-IM-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DataStoragePercentageOutsourced" xlink:label="loc_909" xlink:title="DataStoragePercentageOutsourced" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_909" xlink:title="reference: DataStoragePercentageOutsourced to reference_DataStoragePercentageOutsourced" xlink:to="res_945" xlink:type="arc"/>
@@ -7536,7 +7536,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SI-000.Cb</ref:Section>
+      <ref:Section>TC-SI-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_909" xlink:title="reference: DataStoragePercentageOutsourced to reference_DataStoragePercentageOutsourced" xlink:to="res_946" xlink:type="arc"/>
     <link:reference xlink:label="res_947" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:type="resource">
@@ -7559,7 +7559,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>EM-SV-000.Ca</ref:Section>
+      <ref:Section>EM-SV-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DrillingPerformed" xlink:label="loc_912" xlink:title="DrillingPerformed" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_912" xlink:title="reference: DrillingPerformed to reference_DrillingPerformed" xlink:to="res_949" xlink:type="arc"/>
@@ -7694,7 +7694,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EU-000.Da</ref:Section>
+      <ref:Section>IF-EU-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ElectricityGenerated" xlink:label="loc_928" xlink:title="ElectricityGenerated" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_928" xlink:title="reference: ElectricityGenerated to reference_ElectricityGenerated" xlink:to="res_966" xlink:type="arc"/>
@@ -7702,7 +7702,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EU-000.Dc</ref:Section>
+      <ref:Section>IF-EU-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ElectricityGeneratedRegulatedMarket" xlink:label="loc_929" xlink:title="ElectricityGeneratedRegulatedMarket" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_929" xlink:title="reference: ElectricityGeneratedRegulatedMarket to reference_ElectricityGeneratedRegulatedMarket" xlink:to="res_967" xlink:type="arc"/>
@@ -7718,7 +7718,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EU-000.Ea</ref:Section>
+      <ref:Section>IF-EU-000.E</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ElectricityPurchasedWholesale" xlink:label="loc_931" xlink:title="ElectricityPurchasedWholesale" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_931" xlink:title="reference: ElectricityPurchasedWholesale to reference_ElectricityPurchasedWholesale" xlink:to="res_969" xlink:type="arc"/>
@@ -7726,7 +7726,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>EM-SV-000.Da</ref:Section>
+      <ref:Section>EM-SV-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EmployeesHoursWorked" xlink:label="loc_932" xlink:title="EmployeesHoursWorked" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_932" xlink:title="reference: EmployeesHoursWorked to reference_EmployeesHoursWorked" xlink:to="res_970" xlink:type="arc"/>
@@ -7734,7 +7734,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-PS-000.Ba</ref:Section>
+      <ref:Section>SV-PS-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_932" xlink:title="reference: EmployeesHoursWorked to reference_EmployeesHoursWorked" xlink:to="res_971" xlink:type="arc"/>
     <link:reference xlink:label="res_972" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
@@ -7749,7 +7749,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>EM-MM-000.Ba</ref:Section>
+      <ref:Section>EM-MM-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_973" xlink:type="arc"/>
     <link:reference xlink:label="res_974" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
@@ -7763,35 +7763,35 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RT-AE-000.Ba</ref:Section>
+      <ref:Section>RT-AE-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_975" xlink:type="arc"/>
     <link:reference xlink:label="res_976" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RT-CP-000.Ca</ref:Section>
+      <ref:Section>RT-CP-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_976" xlink:type="arc"/>
     <link:reference xlink:label="res_977" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RT-EE-000.Ba</ref:Section>
+      <ref:Section>RT-EE-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_977" xlink:type="arc"/>
     <link:reference xlink:label="res_978" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RT-IG-000.Ba</ref:Section>
+      <ref:Section>RT-IG-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_978" xlink:type="arc"/>
     <link:reference xlink:label="res_979" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-AD-000.Da</ref:Section>
+      <ref:Section>SV-AD-000.D</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_979" xlink:type="arc"/>
     <link:reference xlink:label="res_980" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
@@ -7812,7 +7812,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-ES-000.Ca</ref:Section>
+      <ref:Section>TC-ES-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_982" xlink:type="arc"/>
     <link:reference xlink:label="res_983" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
@@ -7826,7 +7826,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AF-000.Ca</ref:Section>
+      <ref:Section>TR-AF-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_984" xlink:type="arc"/>
     <link:reference xlink:label="res_985" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
@@ -7847,7 +7847,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RA-000.Ea</ref:Section>
+      <ref:Section>TR-RA-000.E</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_987" xlink:type="arc"/>
     <link:reference xlink:label="res_988" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EmployeesNumber" xlink:type="resource">
@@ -7861,7 +7861,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RO-000.Ca</ref:Section>
+      <ref:Section>TR-RO-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_933" xlink:title="reference: EmployeesNumber to reference_EmployeesNumber" xlink:to="res_989" xlink:type="arc"/>
     <link:reference xlink:label="res_990" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_EndOfLifeMaterialRecoveredWeight" xlink:type="resource">
@@ -8674,7 +8674,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AL-000.Fa</ref:Section>
+      <ref:Section>TR-AL-000.F</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FleetAverageVehicleAge" xlink:label="loc_949" xlink:title="FleetAverageVehicleAge" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_949" xlink:title="reference: FleetAverageVehicleAge to reference_FleetAverageVehicleAge" xlink:to="res_1103" xlink:type="arc"/>
@@ -8682,7 +8682,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-CR-000.Aa</ref:Section>
+      <ref:Section>TR-CR-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_949" xlink:title="reference: FleetAverageVehicleAge to reference_FleetAverageVehicleAge" xlink:to="res_1104" xlink:type="arc"/>
     <link:reference xlink:label="res_1105" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FleetFuelEconomySalesWeightedAverage" xlink:type="resource">
@@ -8705,7 +8705,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-WM-000.Ba</ref:Section>
+      <ref:Section>IF-WM-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_951" xlink:title="reference: FleetNumberOfVehicles to reference_FleetNumberOfVehicles" xlink:to="res_1107" xlink:type="arc"/>
     <link:reference xlink:label="res_1108" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FleetNumberOfVehicles" xlink:type="resource">
@@ -8726,7 +8726,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-AB-000.Ca</ref:Section>
+      <ref:Section>FB-AB-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FleetRoadDistanceTraveled" xlink:label="loc_952" xlink:title="FleetRoadDistanceTraveled" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_952" xlink:title="reference: FleetRoadDistanceTraveled to reference_FleetRoadDistanceTraveled" xlink:to="res_1110" xlink:type="arc"/>
@@ -8734,7 +8734,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-NB-000.Ca</ref:Section>
+      <ref:Section>FB-NB-000.C</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_952" xlink:title="reference: FleetRoadDistanceTraveled to reference_FleetRoadDistanceTraveled" xlink:to="res_1111" xlink:type="arc"/>
     <link:reference xlink:label="res_1112" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FleetUtilizationRate" xlink:type="resource">
@@ -8810,7 +8810,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-FM-000.Aa</ref:Section>
+      <ref:Section>RR-FM-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ForestlandOwnedLeasedOrManagedByEntityArea" xlink:label="loc_959" xlink:title="ForestlandOwnedLeasedOrManagedByEntityArea" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_959" xlink:title="reference: ForestlandOwnedLeasedOrManagedByEntityArea to reference_ForestlandOwnedLeasedOrManagedByEntityArea" xlink:to="res_1121" xlink:type="arc"/>
@@ -8907,7 +8907,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-FC-000.Ca</ref:Section>
+      <ref:Section>RR-FC-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FuelCellsSoldEnergyProductionCapacity" xlink:label="loc_965" xlink:title="FuelCellsSoldEnergyProductionCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_965" xlink:title="reference: FuelCellsSoldEnergyProductionCapacity to reference_FuelCellsSoldEnergyProductionCapacity" xlink:to="res_1134" xlink:type="arc"/>
@@ -9079,7 +9079,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-CA-000.Da</ref:Section>
+      <ref:Section>SV-CA-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GamingFloorArea" xlink:label="loc_969" xlink:title="GamingFloorArea" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_969" xlink:title="reference: GamingFloorArea to reference_GamingFloorArea" xlink:to="res_1158" xlink:type="arc"/>
@@ -9087,7 +9087,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-CA-000.Aa</ref:Section>
+      <ref:Section>SV-CA-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GamingTablesNumber" xlink:label="loc_970" xlink:title="GamingTablesNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_970" xlink:title="reference: GamingTablesNumber to reference_GamingTablesNumber" xlink:to="res_1159" xlink:type="arc"/>
@@ -9490,7 +9490,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-HB-000.Ba</ref:Section>
+      <ref:Section>IF-HB-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_HomesDeliveredNumber" xlink:label="loc_988" xlink:title="HomesDeliveredNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_988" xlink:title="reference: HomesDeliveredNumber to reference_HomesDeliveredNumber" xlink:to="res_1214" xlink:type="arc"/>
@@ -9735,7 +9735,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RA-000.Ba</ref:Section>
+      <ref:Section>TR-RA-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IntermodalUnitsTransportedNumber" xlink:label="loc_1002" xlink:title="IntermodalUnitsTransportedNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1002" xlink:title="reference: IntermodalUnitsTransportedNumber to reference_IntermodalUnitsTransportedNumber" xlink:to="res_1247" xlink:type="arc"/>
@@ -9799,7 +9799,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-LF-000.Aa</ref:Section>
+      <ref:Section>SV-LF-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LeisureFacilityAttendance" xlink:label="loc_1010" xlink:title="LeisureFacilityAttendance" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1010" xlink:title="reference: LeisureFacilityAttendance to reference_LeisureFacilityAttendance" xlink:to="res_1255" xlink:type="arc"/>
@@ -9807,7 +9807,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SI-000.Aa</ref:Section>
+      <ref:Section>TC-SI-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LicensesOrSubscriptionsNumber" xlink:label="loc_1011" xlink:title="LicensesOrSubscriptionsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1011" xlink:title="reference: LicensesOrSubscriptionsNumber to reference_LicensesOrSubscriptionsNumber" xlink:to="res_1256" xlink:type="arc"/>
@@ -9815,7 +9815,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SI-000.Ab</ref:Section>
+      <ref:Section>TC-SI-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LicensesOrSubscriptionsPercentageCloudBased" xlink:label="loc_1012" xlink:title="LicensesOrSubscriptionsPercentageCloudBased" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1012" xlink:title="reference: LicensesOrSubscriptionsPercentageCloudBased to reference_LicensesOrSubscriptionsPercentageCloudBased" xlink:to="res_1257" xlink:type="arc"/>
@@ -10514,7 +10514,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-GU-000.Ba</ref:Section>
+      <ref:Section>IF-GU-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NaturalGasDeliveredAmount" xlink:label="loc_1039" xlink:title="NaturalGasDeliveredAmount" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1039" xlink:title="reference: NaturalGasDeliveredAmount to reference_NaturalGasDeliveredAmount" xlink:to="res_1353" xlink:type="arc"/>
@@ -11008,7 +11008,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-TL-000.Da</ref:Section>
+      <ref:Section>TC-TL-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NetworkTraffic" xlink:label="loc_1043" xlink:title="NetworkTraffic" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1043" xlink:title="reference: NetworkTraffic to reference_NetworkTraffic" xlink:to="res_1423" xlink:type="arc"/>
@@ -11071,7 +11071,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-HL-000.Ba</ref:Section>
+      <ref:Section>SV-HL-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OccupancyRateAverage" xlink:label="loc_1050" xlink:title="OccupancyRateAverage" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1050" xlink:title="reference: OccupancyRateAverage to reference_OccupancyRateAverage" xlink:to="res_1432" xlink:type="arc"/>
@@ -11200,7 +11200,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AP-000.Aa</ref:Section>
+      <ref:Section>TR-AP-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PartsProducedNumber" xlink:label="loc_1060" xlink:title="PartsProducedNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1060" xlink:title="reference: PartsProducedNumber to reference_PartsProducedNumber" xlink:to="res_1449" xlink:type="arc"/>
@@ -11208,7 +11208,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AP-000.Ba</ref:Section>
+      <ref:Section>TR-AP-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PartsProducedWeight" xlink:label="loc_1061" xlink:title="PartsProducedWeight" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1061" xlink:title="reference: PartsProducedWeight to reference_PartsProducedWeight" xlink:to="res_1450" xlink:type="arc"/>
@@ -11216,7 +11216,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AL-000.Ba</ref:Section>
+      <ref:Section>TR-AL-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PassengerLoadFactor" xlink:label="loc_1062" xlink:title="PassengerLoadFactor" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1062" xlink:title="reference: PassengerLoadFactor to reference_PassengerLoadFactor" xlink:to="res_1451" xlink:type="arc"/>
@@ -11248,7 +11248,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>HC-DR-000.Da</ref:Section>
+      <ref:Section>HC-DR-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PharmacistsNumber" xlink:label="loc_1066" xlink:title="PharmacistsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1066" xlink:title="reference: PharmacistsNumber to reference_PharmacistsNumber" xlink:to="res_1455" xlink:type="arc"/>
@@ -11256,7 +11256,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-ST-000.Aa</ref:Section>
+      <ref:Section>RR-ST-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PhotovoltaicSolarModulesProducedCapacity" xlink:label="loc_1067" xlink:title="PhotovoltaicSolarModulesProducedCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1067" xlink:title="reference: PhotovoltaicSolarModulesProducedCapacity to reference_PhotovoltaicSolarModulesProducedCapacity" xlink:to="res_1456" xlink:type="arc"/>
@@ -11272,7 +11272,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EU-000.Ca</ref:Section>
+      <ref:Section>IF-EU-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PipelinesLength" xlink:label="loc_1069" xlink:title="PipelinesLength" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1069" xlink:title="reference: PipelinesLength to reference_PipelinesLength" xlink:to="res_1458" xlink:type="arc"/>
@@ -11364,7 +11364,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>HC-DR-000.Ca</ref:Section>
+      <ref:Section>HC-DR-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PrescriptionsFilledNumber" xlink:label="loc_1077" xlink:title="PrescriptionsFilledNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1077" xlink:title="reference: PrescriptionsFilledNumber to reference_PrescriptionsFilledNumber" xlink:to="res_1470" xlink:type="arc"/>
@@ -11372,7 +11372,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>HC-DR-000.Ca</ref:Section>
+      <ref:Section>HC-DR-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PrescriptionsFilledPercentageForControlledSubstances" xlink:label="loc_1078" xlink:title="PrescriptionsFilledPercentageForControlledSubstances" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1078" xlink:title="reference: PrescriptionsFilledPercentageForControlledSubstances to reference_PrescriptionsFilledPercentageForControlledSubstances" xlink:to="res_1471" xlink:type="arc"/>
@@ -11573,7 +11573,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-HP-000.Aa</ref:Section>
+      <ref:Section>CG-HP-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesUnits" xlink:label="loc_1097" xlink:title="ProductSalesUnits" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1097" xlink:title="reference: ProductSalesUnits to reference_ProductSalesUnits" xlink:to="res_1497" xlink:type="arc"/>
@@ -11602,14 +11602,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-FC-000.Aa</ref:Section>
+      <ref:Section>RR-FC-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1097" xlink:title="reference: ProductSalesUnits to reference_ProductSalesUnits" xlink:to="res_1501" xlink:type="arc"/>
     <link:reference xlink:label="res_1502" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductSalesVolume" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-AB-000.Aa</ref:Section>
+      <ref:Section>FB-AB-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesVolume" xlink:label="loc_1098" xlink:title="ProductSalesVolume" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1098" xlink:title="reference: ProductSalesVolume to reference_ProductSalesVolume" xlink:to="res_1502" xlink:type="arc"/>
@@ -11617,14 +11617,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-NB-000.Aa</ref:Section>
+      <ref:Section>FB-NB-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1098" xlink:title="reference: ProductSalesVolume to reference_ProductSalesVolume" xlink:to="res_1503" xlink:type="arc"/>
     <link:reference xlink:label="res_1504" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductSalesWeight" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-HP-000.Ab</ref:Section>
+      <ref:Section>CG-HP-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesWeight" xlink:label="loc_1099" xlink:title="ProductSalesWeight" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1099" xlink:title="reference: ProductSalesWeight to reference_ProductSalesWeight" xlink:to="res_1504" xlink:type="arc"/>
@@ -11632,7 +11632,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-PF-000.Aa</ref:Section>
+      <ref:Section>FB-PF-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1099" xlink:title="reference: ProductSalesWeight to reference_ProductSalesWeight" xlink:to="res_1505" xlink:type="arc"/>
     <link:reference xlink:label="res_1506" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductSalesWeight" xlink:type="resource">
@@ -11653,7 +11653,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-AG-000.Ca</ref:Section>
+      <ref:Section>FB-AG-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductionLandAreaUsed" xlink:label="loc_1101" xlink:title="ProductionLandAreaUsed" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1101" xlink:title="reference: ProductionLandAreaUsed to reference_ProductionLandAreaUsed" xlink:to="res_1509" xlink:type="arc"/>
@@ -11669,7 +11669,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-HW-000.Ca</ref:Section>
+      <ref:Section>TC-HW-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductionPercentageFromOwnedFacilities" xlink:label="loc_1103" xlink:title="ProductionPercentageFromOwnedFacilities" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1103" xlink:title="reference: ProductionPercentageFromOwnedFacilities to reference_ProductionPercentageFromOwnedFacilities" xlink:to="res_1511" xlink:type="arc"/>
@@ -11677,7 +11677,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SC-000.Ba</ref:Section>
+      <ref:Section>TC-SC-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1103" xlink:title="reference: ProductionPercentageFromOwnedFacilities to reference_ProductionPercentageFromOwnedFacilities" xlink:to="res_1512" xlink:type="arc"/>
     <link:reference xlink:label="res_1513" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductionTransported" xlink:type="resource">
@@ -11700,14 +11700,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-BF-000.Aa</ref:Section>
+      <ref:Section>CG-BF-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1105" xlink:title="reference: ProductionUnits to reference_ProductionUnits" xlink:to="res_1515" xlink:type="arc"/>
     <link:reference xlink:label="res_1516" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductionUnits" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-TS-000.Aa</ref:Section>
+      <ref:Section>CG-TS-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1105" xlink:title="reference: ProductionUnits to reference_ProductionUnits" xlink:to="res_1516" xlink:type="arc"/>
     <link:reference xlink:label="res_1517" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductionUnits" xlink:type="resource">
@@ -11756,14 +11756,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-SC-000.Aa</ref:Section>
+      <ref:Section>TC-SC-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1105" xlink:title="reference: ProductionUnits to reference_ProductionUnits" xlink:to="res_1523" xlink:type="arc"/>
     <link:reference xlink:label="res_1524" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_ProductionVolume" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-BF-000.Aa</ref:Section>
+      <ref:Section>CG-BF-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductionVolume" xlink:label="loc_1106" xlink:title="ProductionVolume" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1106" xlink:title="reference: ProductionVolume to reference_ProductionVolume" xlink:to="res_1524" xlink:type="arc"/>
@@ -11785,7 +11785,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-BF-000.Aa</ref:Section>
+      <ref:Section>CG-BF-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductionWeight" xlink:label="loc_1107" xlink:title="ProductionWeight" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1107" xlink:title="reference: ProductionWeight to reference_ProductionWeight" xlink:to="res_1528" xlink:type="arc"/>
@@ -11960,7 +11960,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>IF-EN-000.Ca</ref:Section>
+      <ref:Section>IF-EN-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProjectBacklog" xlink:label="loc_1114" xlink:title="ProjectBacklog" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1114" xlink:title="reference: ProjectBacklog to reference_ProjectBacklog" xlink:to="res_1552" xlink:type="arc"/>
@@ -11968,7 +11968,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-ST-000.Ca</ref:Section>
+      <ref:Section>RR-ST-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProjectDevelopmentAssets" xlink:label="loc_1115" xlink:title="ProjectDevelopmentAssets" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1115" xlink:title="reference: ProjectDevelopmentAssets to reference_ProjectDevelopmentAssets" xlink:to="res_1553" xlink:type="arc"/>
@@ -12048,7 +12048,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RA-000.Ca</ref:Section>
+      <ref:Section>TR-RA-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RailTrackDistance" xlink:label="loc_1125" xlink:title="RailTrackDistance" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1125" xlink:title="reference: RailTrackDistance to reference_RailTrackDistance" xlink:to="res_1563" xlink:type="arc"/>
@@ -12128,7 +12128,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>EM-RM-000.Ba</ref:Section>
+      <ref:Section>EM-RM-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RefiningOperatingCapacity" xlink:label="loc_1135" xlink:title="RefiningOperatingCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1135" xlink:title="reference: RefiningOperatingCapacity to reference_RefiningOperatingCapacity" xlink:to="res_1573" xlink:type="arc"/>
@@ -12184,7 +12184,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-CR-000.Ba</ref:Section>
+      <ref:Section>TR-CR-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RentalDurationAvailable" xlink:label="loc_1142" xlink:title="RentalDurationAvailable" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1142" xlink:title="reference: RentalDurationAvailable to reference_RentalDurationAvailable" xlink:to="res_1580" xlink:type="arc"/>
@@ -12267,7 +12267,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AL-000.Ca</ref:Section>
+      <ref:Section>TR-AL-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RevenuePassengerDistance" xlink:label="loc_1148" xlink:title="RevenuePassengerDistance" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1148" xlink:title="reference: RevenuePassengerDistance to reference_RevenuePassengerDistance" xlink:to="res_1591" xlink:type="arc"/>
@@ -12275,7 +12275,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>FB-FR-000.Da</ref:Section>
+      <ref:Section>FB-FR-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RevenueTonDistance" xlink:label="loc_1149" xlink:title="RevenueTonDistance" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1149" xlink:title="reference: RevenueTonDistance to reference_RevenueTonDistance" xlink:to="res_1592" xlink:type="arc"/>
@@ -12297,14 +12297,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RA-000.Da</ref:Section>
+      <ref:Section>TR-RA-000.D</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1149" xlink:title="reference: RevenueTonDistance to reference_RevenueTonDistance" xlink:to="res_1595" xlink:type="arc"/>
     <link:reference xlink:label="res_1596" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_RevenueTonDistance" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RO-000.Aa</ref:Section>
+      <ref:Section>TR-RO-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1149" xlink:title="reference: RevenueTonDistance to reference_RevenueTonDistance" xlink:to="res_1596" xlink:type="arc"/>
     <link:reference xlink:label="res_1597" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_Revenues" xlink:type="resource">
@@ -12813,7 +12813,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-EC-000.Ca</ref:Section>
+      <ref:Section>CG-EC-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ShipmentsNumber" xlink:label="loc_1169" xlink:title="ShipmentsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1169" xlink:title="reference: ShipmentsNumber to reference_ShipmentsNumber" xlink:to="res_1666" xlink:type="arc"/>
@@ -12844,7 +12844,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>SV-CA-000.Ba</ref:Section>
+      <ref:Section>SV-CA-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SlotMachinesNumber" xlink:label="loc_1172" xlink:title="SlotMachinesNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1172" xlink:title="reference: SlotMachinesNumber to reference_SlotMachinesNumber" xlink:to="res_1670" xlink:type="arc"/>
@@ -13106,7 +13106,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-FM-000.Ca</ref:Section>
+      <ref:Section>RR-FM-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TimberHarvestVolume" xlink:label="loc_1196" xlink:title="TimberHarvestVolume" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1196" xlink:title="reference: TimberHarvestVolume to reference_TimberHarvestVolume" xlink:to="res_1704" xlink:type="arc"/>
@@ -13114,7 +13114,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-FM-000.Ba</ref:Section>
+      <ref:Section>RR-FM-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TimberInventoryStanding" xlink:label="loc_1197" xlink:title="TimberInventoryStanding" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1197" xlink:title="reference: TimberInventoryStanding to reference_TimberInventoryStanding" xlink:to="res_1705" xlink:type="arc"/>
@@ -13162,7 +13162,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-RO-000.Ba</ref:Section>
+      <ref:Section>TR-RO-000.B</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1202" xlink:title="reference: TransportationLoadFactor to reference_TransportationLoadFactor" xlink:to="res_1711" xlink:type="arc"/>
     <link:reference xlink:label="res_1712" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_UseOfAndChallengesAssociatedWithPlannedAndCorrectiveMaintenanceInDistributionSystemTextBlock" xlink:type="resource">
@@ -13177,7 +13177,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>CG-EC-000.Aa</ref:Section>
+      <ref:Section>CG-EC-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_UserActivityEntityDefinedMeasure" xlink:label="loc_1204" xlink:title="UserActivityEntityDefinedMeasure" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1204" xlink:title="reference: UserActivityEntityDefinedMeasure to reference_UserActivityEntityDefinedMeasure" xlink:to="res_1713" xlink:type="arc"/>
@@ -13185,7 +13185,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-IM-000.Aa</ref:Section>
+      <ref:Section>TC-IM-000.A</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1204" xlink:title="reference: UserActivityEntityDefinedMeasure to reference_UserActivityEntityDefinedMeasure" xlink:to="res_1714" xlink:type="arc"/>
     <link:reference xlink:label="res_1715" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_VehiclesInFleetPercentageRunningOnAlternativeFuel" xlink:type="resource">
@@ -13200,7 +13200,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AU-000.Aa</ref:Section>
+      <ref:Section>TR-AU-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VehiclesManufactured" xlink:label="loc_1206" xlink:title="VehiclesManufactured" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1206" xlink:title="reference: VehiclesManufactured to reference_VehiclesManufactured" xlink:to="res_1716" xlink:type="arc"/>
@@ -13208,7 +13208,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-AU-000.Ba</ref:Section>
+      <ref:Section>TR-AU-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VehiclesSold" xlink:label="loc_1207" xlink:title="VehiclesSold" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1207" xlink:title="reference: VehiclesSold to reference_VehiclesSold" xlink:to="res_1717" xlink:type="arc"/>
@@ -13223,7 +13223,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-MT-000.Ga</ref:Section>
+      <ref:Section>TR-MT-000.G</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VesselCapacity" xlink:label="loc_1208" xlink:title="VesselCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1208" xlink:title="reference: VesselCapacity to reference_VesselCapacity" xlink:to="res_1719" xlink:type="arc"/>
@@ -13231,7 +13231,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-CL-000.Ea</ref:Section>
+      <ref:Section>TR-CL-000.E</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VesselPortCallsNumber" xlink:label="loc_1209" xlink:title="VesselPortCallsNumber" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1209" xlink:title="reference: VesselPortCallsNumber to reference_VesselPortCallsNumber" xlink:to="res_1720" xlink:type="arc"/>
@@ -13239,14 +13239,14 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-MT-000.Fa</ref:Section>
+      <ref:Section>TR-MT-000.F</ref:Section>
     </link:reference>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1209" xlink:title="reference: VesselPortCallsNumber to reference_VesselPortCallsNumber" xlink:to="res_1721" xlink:type="arc"/>
     <link:reference xlink:label="res_1722" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_VesselsDeadweight" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-MT-000.Da</ref:Section>
+      <ref:Section>TR-MT-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VesselsDeadweight" xlink:label="loc_1210" xlink:title="VesselsDeadweight" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1210" xlink:title="reference: VesselsDeadweight to reference_VesselsDeadweight" xlink:to="res_1722" xlink:type="arc"/>
@@ -13254,7 +13254,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-MT-000.Ba</ref:Section>
+      <ref:Section>TR-MT-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VesselsDistanceTraveled" xlink:label="loc_1211" xlink:title="VesselsDistanceTraveled" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1211" xlink:title="reference: VesselsDistanceTraveled to reference_VesselsDistanceTraveled" xlink:to="res_1723" xlink:type="arc"/>
@@ -13262,7 +13262,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TR-MT-000.Ca</ref:Section>
+      <ref:Section>TR-MT-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_VesselsOperatingDuration" xlink:label="loc_1212" xlink:title="VesselsOperatingDuration" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1212" xlink:title="reference: VesselsOperatingDuration to reference_VesselsOperatingDuration" xlink:to="res_1724" xlink:type="arc"/>
@@ -14396,7 +14396,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-WT-000.Da</ref:Section>
+      <ref:Section>RR-WT-000.D</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WindTurbineBacklogAggregateCapacity" xlink:label="loc_1240" xlink:title="WindTurbineBacklogAggregateCapacity" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1240" xlink:title="reference: WindTurbineBacklogAggregateCapacity to reference_WindTurbineBacklogAggregateCapacity" xlink:to="res_1882" xlink:type="arc"/>
@@ -14404,7 +14404,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-WT-000.Ca</ref:Section>
+      <ref:Section>RR-WT-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WindTurbineBacklogAmount" xlink:label="loc_1241" xlink:title="WindTurbineBacklogAmount" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1241" xlink:title="reference: WindTurbineBacklogAmount to reference_WindTurbineBacklogAmount" xlink:to="res_1883" xlink:type="arc"/>
@@ -14428,7 +14428,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-TL-000.Aa</ref:Section>
+      <ref:Section>TC-TL-000.A</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WirelessSubscribers" xlink:label="loc_1244" xlink:title="WirelessSubscribers" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1244" xlink:title="reference: WirelessSubscribers to reference_WirelessSubscribers" xlink:to="res_1886" xlink:type="arc"/>
@@ -14436,7 +14436,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>TC-TL-000.Ba</ref:Section>
+      <ref:Section>TC-TL-000.B</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WirelineSubscribers" xlink:label="loc_1245" xlink:title="WirelineSubscribers" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1245" xlink:title="reference: WirelineSubscribers to reference_WirelineSubscribers" xlink:to="res_1887" xlink:type="arc"/>
@@ -14505,7 +14505,7 @@
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
-      <ref:Section>RR-PP-000.Ca</ref:Section>
+      <ref:Section>RR-PP-000.C</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WoodFiberSourced" xlink:label="loc_1251" xlink:title="WoodFiberSourced" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1251" xlink:title="reference: WoodFiberSourced to reference_WoodFiberSourced" xlink:to="res_1896" xlink:type="arc"/>
