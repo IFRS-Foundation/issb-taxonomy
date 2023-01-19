@@ -1859,7 +1859,6 @@
   <xsd:element abstract="true" id="ifrs-sds_OtherNonroadDieselEnginesMember" name="OtherNonroadDieselEnginesMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherPropertyMember" name="OtherPropertyMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherRenewableEnergyMember" name="OtherRenewableEnergyMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-sds_OtherStandardMember" name="OtherStandardMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherStandardsMember" name="OtherStandardsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OtherVentedEmissionsMember" name="OtherVentedEmissionsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_OutdoorIndustryAssociationsContentClaimStandardCCSMember" name="OutdoorIndustryAssociationsContentClaimStandardCCSMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>

@@ -4985,9 +4985,6 @@
     <link:label xlink:label="res_2498" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherRenewableEnergyMember" xlink:type="resource" xml:lang="en">Other Renewable Energy [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherRenewableEnergyMember" xlink:label="loc_1754" xlink:title="OtherRenewableEnergyMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1754" xlink:title="label: OtherRenewableEnergyMember to label_OtherRenewableEnergyMember" xlink:to="res_2498" xlink:type="arc"/>
-    <link:label xlink:label="res_2499" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherStandardMember" xlink:type="resource" xml:lang="en">Other Standard [Member]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherStandardMember" xlink:label="loc_1755" xlink:title="OtherStandardMember" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1755" xlink:title="label: OtherStandardMember to label_OtherStandardMember" xlink:to="res_2499" xlink:type="arc"/>
     <link:label xlink:label="res_2500" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherStandardsMember" xlink:type="resource" xml:lang="en">Other Standards [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherStandardsMember" xlink:label="loc_1756" xlink:title="OtherStandardsMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1756" xlink:title="label: OtherStandardsMember to label_OtherStandardsMember" xlink:to="res_2500" xlink:type="arc"/>
