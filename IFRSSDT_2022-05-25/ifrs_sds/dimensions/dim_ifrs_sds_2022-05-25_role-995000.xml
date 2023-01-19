@@ -341,6 +341,7 @@
     <link:definitionArc order="140.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_155" xlink:to="loc_169" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_InvestmentsMember" xlink:label="loc_170" xlink:type="locator"/>
     <link:definitionArc order="150.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_155" xlink:to="loc_170" xlink:type="arc"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FoodIngredientsDomain" xlink:label="loc_180" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExtensibleEnumerationDomainMembersAbstract" xlink:label="loc_200" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_130" xlink:type="arc"/>
     <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_133" xlink:type="arc"/>
@@ -348,8 +349,10 @@
     <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_139" xlink:type="arc"/>
     <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_149" xlink:type="arc"/>
     <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_152" xlink:type="arc"/>
-    <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_155" xlink:type="arc"/>
-    <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_1" xlink:type="arc"/>
-    <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_4" xlink:type="arc"/>
+    <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_180" xlink:type="arc"/>
+    <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_155" xlink:type="arc"/>
+    <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_1" xlink:type="arc"/>
+    <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_4" xlink:type="arc"/>
+
   </link:definitionLink>
 </link:linkbase>
