@@ -7009,8 +7009,8 @@
     <link:label xlink:label="res_3178" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_ZeroemissionVehiclesZEVMember" xlink:type="resource" xml:lang="en">Zero-emission Vehicles (ZEV) [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ZeroemissionVehiclesZEVMember" xlink:label="loc_2433" xlink:title="ZeroemissionVehiclesZEVMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2433" xlink:title="label: ZeroemissionVehiclesZEVMember to label_ZeroemissionVehiclesZEVMember" xlink:to="res_3178" xlink:type="arc"/>
-    <link:label id="ifrs-sds_ExtensibleEnumerationDomainMembersAbstract_label" xlink:label="res_3179" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extensible enumeration domain members [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExtensibleEnumerationDomainMembersAbstract" xlink:label="loc_2434" xlink:type="locator"/>
+    <link:label id="ifrs-sds_ExtensibleEnumerationDomainMembersDomain_label" xlink:label="res_3179" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extensible enumeration domain members [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExtensibleEnumerationDomainMembersDomain" xlink:label="loc_2434" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2434" xlink:to="res_3179" xlink:type="arc"/>
     <link:label id="ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain_label" xlink:label="res_3180" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability-related metric, absolute or expressed in relation to another [Domain]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain" xlink:label="loc_2435" xlink:type="locator"/>

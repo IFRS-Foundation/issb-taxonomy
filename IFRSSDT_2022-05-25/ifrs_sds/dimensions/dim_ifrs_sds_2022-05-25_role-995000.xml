@@ -342,7 +342,7 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_InvestmentsMember" xlink:label="loc_170" xlink:type="locator"/>
     <link:definitionArc order="150.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_155" xlink:to="loc_170" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FoodIngredientsDomain" xlink:label="loc_180" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExtensibleEnumerationDomainMembersAbstract" xlink:label="loc_200" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExtensibleEnumerationDomainMembersDomain" xlink:label="loc_200" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_130" xlink:type="arc"/>
     <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_133" xlink:type="arc"/>
     <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_200" xlink:to="loc_136" xlink:type="arc"/>

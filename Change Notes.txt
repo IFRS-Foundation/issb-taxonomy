@@ -13,3 +13,5 @@ Changes:
 * Changed all references to Appendix B to example not disclosure references
 * Remove "dual-layout" ELRs (700000,710000,720000,730000) that combined S1 and S2 elements (that are all also present in the main S1 and S2 ELRs 200000,210000)#
 * Change "RiskOrOpportunityAxis" to "RisksAndOpportunitiesAxis"
+* Remove balance attribute from Revenue element (balance attribute not used elsewhere in ISSB Taxonomy)
+* Change "Extensible enumeration domain members [Abstract]" to "Extensible enumeration domain members [Domain]"
