@@ -157,7 +157,7 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NatureBasedCarbonRemovalsMember" xlink:label="loc_142" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_142" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskMember" xlink:label="loc_144" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IsClimateRelatedRiskOrOpportunityDomain" xlink:label="loc_3" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IsClimateRelatedRisksAndOpportunitiesDomain" xlink:label="loc_3" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:to="loc_144" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PhysicalClimateRelatedRiskMember" xlink:label="loc_7" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskTypeDomain" xlink:label="loc_4" xlink:type="locator"/>

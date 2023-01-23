@@ -410,9 +410,9 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_150" xlink:to="res_15" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfSignificantSustainabilityRelatedRisksOrOpportunitiesTable" xlink:label="loc_151" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_151" xlink:to="res_15" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRiskOrOpportunityAxis" xlink:label="loc_152" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_152" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_152" xlink:to="res_15" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRiskOrOpportunityDomain" xlink:label="loc_153" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_153" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_153" xlink:to="res_15" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfSignificantSustainabilityRelatedRiskOrOpportunityExplanatory" xlink:label="loc_154" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_154" xlink:to="res_15" xlink:type="arc"/>

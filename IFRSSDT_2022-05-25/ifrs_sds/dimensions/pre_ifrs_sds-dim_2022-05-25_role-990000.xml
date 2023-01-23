@@ -237,8 +237,8 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TimeHorizonDomain" xlink:label="loc_152" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TimeHorizonAxis" xlink:label="loc_151" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_151" xlink:to="loc_152" xlink:type="arc"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRiskOrOpportunityDomain" xlink:label="loc_154" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRiskOrOpportunityAxis" xlink:label="loc_153" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_154" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_153" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_153" xlink:to="loc_154" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricsDomain" xlink:label="loc_156" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedMetricsAxis" xlink:label="loc_155" xlink:type="locator"/>
@@ -255,8 +255,8 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CurrentlyStatedMember" xlink:label="loc_164" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RetrospectiveApplicationAndRetrospectiveRestatementAxis" xlink:label="loc_163" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_163" xlink:to="loc_164" xlink:type="arc"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskOrOpportunityDomain" xlink:label="loc_166" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRiskOrOpportunityAxis" xlink:label="loc_165" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesDomain" xlink:label="loc_166" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesAxis" xlink:label="loc_165" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_165" xlink:to="loc_166" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetDomain" xlink:label="loc_168" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetAxis" xlink:label="loc_167" xlink:type="locator"/>
