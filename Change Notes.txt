@@ -16,3 +16,4 @@ Changes:
 * Remove balance attribute from Revenue element (balance attribute not used elsewhere in ISSB Taxonomy)
 * Change "Extensible enumeration domain members [Abstract]" to "Extensible enumeration domain members [Domain]"
 * Change type of BatteriesSoldStorageCapacity to energyItemType from powerItemType (XBRL Europe ESG WG)
+* Change type of DataProcessingCapacity from dtr-types:flowItemType to xbrli:decimalItemType

@@ -449,7 +449,7 @@
   <xsd:element abstract="true" id="ifrs-sds_CustomersNumberTable" name="CustomersNumberTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="false" id="ifrs-sds_CustomersServedInMarketsSubjectToRenewablePortfolioStandardsRPS" name="CustomersServedInMarketsSubjectToRenewablePortfolioStandardsRPS" nillable="true" substitutionGroup="xbrli:item" type="xbrli:nonNegativeIntegerItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-sds_DataCentersMember" name="DataCentersMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:domainItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-sds_DataProcessingCapacity" name="DataProcessingCapacity" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:flowItemType" xbrli:periodType="instant"/>
+  <xsd:element abstract="false" id="ifrs-sds_DataProcessingCapacity" name="DataProcessingCapacity" nillable="true" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="instant"/>
   <xsd:element abstract="false" id="ifrs-sds_DataProcessingCapacityPercentageOutsourced" name="DataProcessingCapacityPercentageOutsourced" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:percentItemType" xbrli:periodType="instant"/>
   <xsd:element abstract="false" id="ifrs-sds_DataStorage" name="DataStorage" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:memoryItemType" xbrli:periodType="instant"/>
   <xsd:element abstract="false" id="ifrs-sds_DataStoragePercentageOutsourced" name="DataStoragePercentageOutsourced" nillable="true" substitutionGroup="xbrli:item" type="dtr-types:percentItemType" xbrli:periodType="instant"/>
