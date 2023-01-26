@@ -17,3 +17,4 @@ Changes:
 * Change "Extensible enumeration domain members [Abstract]" to "Extensible enumeration domain members [Domain]"
 * Change type of BatteriesSoldStorageCapacity to energyItemType from powerItemType (XBRL Europe ESG WG)
 * Change type of DataProcessingCapacity from dtr-types:flowItemType to xbrli:decimalItemType
+* Change references of the abstract headers for metric groups from "Appendix B" to direct to the relevant section for the metric
