@@ -375,7 +375,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ChemicalsEnergyConsumedPercentageTable" xlink:label="loc_121" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_121" xlink:to="res_121" xlink:type="arc"/>
     <label:label xlink:label="res_122" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200d] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ChemicalsGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_122" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ChemicalsGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_122" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_122" xlink:to="res_122" xlink:type="arc"/>
     <label:label xlink:label="res_123" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200e] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Incidents Of Non-compliance [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ChemicalsIncidentsOfNonComplianceTable" xlink:label="loc_123" xlink:type="locator"/>
@@ -396,7 +396,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_CoalOperationsCoalReservesProvenTable" xlink:label="loc_128" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_128" xlink:to="res_128" xlink:type="arc"/>
     <label:label xlink:label="res_129" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100d] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_CoalOperationsGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_129" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_CoalOperationsGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_129" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_129" xlink:to="res_129" xlink:type="arc"/>
     <label:label xlink:label="res_130" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100e] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Incidents Of Non-compliance [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_CoalOperationsIncidentsOfNonComplianceTable" xlink:label="loc_130" xlink:type="locator"/>
@@ -426,7 +426,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ConstructionMaterialsEnergyConsumedPercentageTable" xlink:label="loc_138" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_138" xlink:to="res_138" xlink:type="arc"/>
     <label:label xlink:label="res_139" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810200c] Industry Metrics - Extractives &amp; Minerals Processing - Construction Materials (EM-CM) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ConstructionMaterialsGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_139" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ConstructionMaterialsGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_139" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_139" xlink:to="res_139" xlink:type="arc"/>
     <label:label xlink:label="res_140" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810200g] Industry Metrics - Extractives &amp; Minerals Processing - Construction Materials (EM-CM) - Production, Weight [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ConstructionMaterialsProductionWeightTable" xlink:label="loc_140" xlink:type="locator"/>
@@ -435,7 +435,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ContainersAndPackagingEnergyConsumedPercentageTable" xlink:label="loc_141" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_141" xlink:to="res_141" xlink:type="arc"/>
     <label:label xlink:label="res_142" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300c] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ContainersAndPackagingGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_142" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ContainersAndPackagingGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_142" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_142" xlink:to="res_142" xlink:type="arc"/>
     <label:label xlink:label="res_143" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300d] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Incidents Of Non-compliance [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ContainersAndPackagingIncidentsOfNonComplianceTable" xlink:label="loc_143" xlink:type="locator"/>
@@ -492,7 +492,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ElectricUtilitiesAndPowerGeneratorsElectricityGeneratedSourcePercentageTable" xlink:label="loc_160" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_160" xlink:to="res_160" xlink:type="arc"/>
     <label:label xlink:label="res_161" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100m] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ElectricUtilitiesAndPowerGeneratorsGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_161" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ElectricUtilitiesAndPowerGeneratorsGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_161" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_161" xlink:to="res_161" xlink:type="arc"/>
     <label:label xlink:label="res_162" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100n] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Incidents Of Non-compliance [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_ElectricUtilitiesAndPowerGeneratorsIncidentsOfNonComplianceTable" xlink:label="loc_162" xlink:type="locator"/>
@@ -564,7 +564,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_FoodRetailersAndDistributorsFuelConsumedTable" xlink:label="loc_184" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_184" xlink:to="res_184" xlink:type="arc"/>
     <label:label xlink:label="res_185" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[820300i] Industry Metrics - Food &amp; Beverage - Food Retailers &amp; Distributors (FB-FR) - Global Scope 1 Emissions [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_FoodRetailersAndDistributorsGlobalScope1EmissionsTable" xlink:label="loc_185" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_FoodRetailersAndDistributorsGrossScope1GreenhouseGasEmissionsTable" xlink:label="loc_185" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_185" xlink:to="res_185" xlink:type="arc"/>
     <label:label xlink:label="res_186" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[820300p] Industry Metrics - Food &amp; Beverage - Food Retailers &amp; Distributors (FB-FR) - Revenues [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_FoodRetailersAndDistributorsRevenuesTable" xlink:label="loc_186" xlink:type="locator"/>
@@ -771,7 +771,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_IronAndSteelProducersFuelConsumedPercentageTable" xlink:label="loc_253" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_253" xlink:to="res_253" xlink:type="arc"/>
     <label:label xlink:label="res_254" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810300d] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_IronAndSteelProducersGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_254" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_IronAndSteelProducersGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_254" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_254" xlink:to="res_254" xlink:type="arc"/>
     <label:label xlink:label="res_255" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810300f] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, Weight [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_IronAndSteelProducersProductionWeightTable" xlink:label="loc_255" xlink:type="locator"/>
@@ -834,7 +834,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_MetalsAndMiningEnergyConsumedPercentageTable" xlink:label="loc_274" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_274" xlink:to="res_274" xlink:type="arc"/>
     <label:label xlink:label="res_275" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810400f] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_MetalsAndMiningGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_275" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_MetalsAndMiningGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_275" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_275" xlink:to="res_275" xlink:type="arc"/>
     <label:label xlink:label="res_276" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810400h] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Incidents Of Non-compliance [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_MetalsAndMiningIncidentsOfNonComplianceTable" xlink:label="loc_276" xlink:type="locator"/>
@@ -906,13 +906,13 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGasReservesProvedTable" xlink:label="loc_298" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_298" xlink:to="res_298" xlink:type="arc"/>
     <label:label xlink:label="res_299" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500h] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_299" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_299" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_299" xlink:to="res_299" xlink:type="arc"/>
     <label:label xlink:label="res_300" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500i] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Global Scope 1 Emissions, Percentage [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGlobalScope1EmissionsPercentageTable" xlink:label="loc_300" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGrossScope1GreenhouseGasEmissionsPercentageTable" xlink:label="loc_300" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_300" xlink:to="res_300" xlink:type="arc"/>
     <label:label xlink:label="res_301" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500j] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Global Scope 1 Emissions [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGlobalScope1EmissionsTable" xlink:label="loc_301" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionGrossScope1GreenhouseGasEmissionsTable" xlink:label="loc_301" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_301" xlink:to="res_301" xlink:type="arc"/>
     <label:label xlink:label="res_302" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500o] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Oil Reserves, Probable [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionOilReservesProbableTable" xlink:label="loc_302" xlink:type="locator"/>
@@ -927,16 +927,16 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasExplorationAndProductionRevenuesTable" xlink:label="loc_305" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_305" xlink:to="res_305" xlink:type="arc"/>
     <label:label xlink:label="res_306" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810600b] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Midstream (EM-MD) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasMidstreamGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_306" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasMidstreamGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_306" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_306" xlink:to="res_306" xlink:type="arc"/>
     <label:label xlink:label="res_307" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810600c] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Midstream (EM-MD) - Global Scope 1 Emissions, Percentage [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasMidstreamGlobalScope1EmissionsPercentageTable" xlink:label="loc_307" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasMidstreamGrossScope1GreenhouseGasEmissionsPercentageTable" xlink:label="loc_307" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_307" xlink:to="res_307" xlink:type="arc"/>
     <label:label xlink:label="res_308" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810600j] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Midstream (EM-MD) - Production Transported [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasMidstreamProductionTransportedTable" xlink:label="loc_308" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_308" xlink:to="res_308" xlink:type="arc"/>
     <label:label xlink:label="res_309" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810700d] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Refining &amp; Marketing (EM-RM) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasRefiningAndMarketingGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_309" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasRefiningAndMarketingGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_309" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_309" xlink:to="res_309" xlink:type="arc"/>
     <label:label xlink:label="res_310" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810700e] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Refining &amp; Marketing (EM-RM) - Incidents Of Non-compliance [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_OilAndGasRefiningAndMarketingIncidentsOfNonComplianceTable" xlink:label="loc_310" xlink:type="locator"/>
@@ -1071,7 +1071,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_SemiconductorsEnergyConsumedPercentageTable" xlink:label="loc_353" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_353" xlink:to="res_353" xlink:type="arc"/>
     <label:label xlink:label="res_354" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400c] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Global Scope 1 Emissions [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_SemiconductorsGlobalScope1EmissionsTable" xlink:label="loc_354" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_SemiconductorsGrossScope1GreenhouseGasEmissionsTable" xlink:label="loc_354" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_354" xlink:to="res_354" xlink:type="arc"/>
     <label:label xlink:label="res_355" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400f] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Processor Energy Efficiency At System-level [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_SemiconductorsProcessorEnergyEfficiencyAtSystemLevelTable" xlink:label="loc_355" xlink:type="locator"/>
@@ -1101,7 +1101,7 @@
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_WasteManagementFuelConsumedTable" xlink:label="loc_363" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_363" xlink:to="res_363" xlink:type="arc"/>
     <label:label xlink:label="res_364" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700j] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Global Scope 1 Emissions, Percentage Covered By Regulation [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_WasteManagementGlobalScope1EmissionsPercentageCoveredByRegulationTable" xlink:label="loc_364" xlink:type="locator"/>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_WasteManagementGrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_364" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_364" xlink:to="res_364" xlink:type="arc"/>
     <label:label xlink:label="res_365" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700l] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Materials Managed, Weight [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#elr_WasteManagementMaterialsManagedWeightTable" xlink:label="loc_365" xlink:type="locator"/>

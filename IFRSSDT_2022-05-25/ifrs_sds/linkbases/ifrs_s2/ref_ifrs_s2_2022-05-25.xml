@@ -9154,168 +9154,168 @@
       <ref:Section>EM-CM-110a.1</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_978" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1167" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1167" xlink:type="arc"/>
     <link:reference xlink:label="res_1168" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-CO-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1168" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1168" xlink:type="arc"/>
     <link:reference xlink:label="res_1169" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-EP-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1169" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1169" xlink:type="arc"/>
     <link:reference xlink:label="res_1170" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-EP-110a.2</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1170" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1170" xlink:type="arc"/>
     <link:reference xlink:label="res_1171" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-IS-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1171" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1171" xlink:type="arc"/>
     <link:reference xlink:label="res_1172" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-MD-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1172" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1172" xlink:type="arc"/>
     <link:reference xlink:label="res_1173" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-MM-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1173" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1173" xlink:type="arc"/>
     <link:reference xlink:label="res_1174" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-RM-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1174" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1174" xlink:type="arc"/>
     <link:reference xlink:label="res_1175" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FB-AG-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1175" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1175" xlink:type="arc"/>
     <link:reference xlink:label="res_1176" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FB-FR-110b.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1176" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1176" xlink:type="arc"/>
     <link:reference xlink:label="res_1177" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FB-MP-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1177" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1177" xlink:type="arc"/>
     <link:reference xlink:label="res_1178" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>IF-EU-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1178" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1178" xlink:type="arc"/>
     <link:reference xlink:label="res_1179" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>IF-WM-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1179" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1179" xlink:type="arc"/>
     <link:reference xlink:label="res_1180" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>RR-PP-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1180" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1180" xlink:type="arc"/>
     <link:reference xlink:label="res_1181" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>RT-CH-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1181" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1181" xlink:type="arc"/>
     <link:reference xlink:label="res_1182" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>RT-CP-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1182" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1182" xlink:type="arc"/>
     <link:reference xlink:label="res_1183" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TC-SC-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1183" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1183" xlink:type="arc"/>
     <link:reference xlink:label="res_1184" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TC-SC-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1184" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1184" xlink:type="arc"/>
     <link:reference xlink:label="res_1185" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TR-AF-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1185" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1185" xlink:type="arc"/>
     <link:reference xlink:label="res_1186" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TR-AL-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1186" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1186" xlink:type="arc"/>
     <link:reference xlink:label="res_1187" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TR-CL-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1187" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1187" xlink:type="arc"/>
     <link:reference xlink:label="res_1188" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TR-MT-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1188" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1188" xlink:type="arc"/>
     <link:reference xlink:label="res_1189" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TR-RA-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1189" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1189" xlink:type="arc"/>
     <link:reference xlink:label="res_1190" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>TR-RO-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GlobalScope1Emissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1190" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1190" xlink:type="arc"/>
     <link:reference xlink:label="res_1191" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentage" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
@@ -9323,14 +9323,14 @@
       <ref:Section>EM-EP-110a.1</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissionsPercentage" xlink:label="loc_979" xlink:title="GrossScope1GreenhouseGasEmissionsPercentage" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_979" xlink:title="reference: GlobalScope1EmissionsPercentage to reference_GrossScope1GreenhouseGasEmissionsPercentage" xlink:to="res_1191" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_979" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentage to reference_GrossScope1GreenhouseGasEmissionsPercentage" xlink:to="res_1191" xlink:type="arc"/>
     <link:reference xlink:label="res_1192" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentage" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-MD-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_979" xlink:title="reference: GlobalScope1EmissionsPercentage to reference_GrossScope1GreenhouseGasEmissionsPercentage" xlink:to="res_1192" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_979" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentage to reference_GrossScope1GreenhouseGasEmissionsPercentage" xlink:to="res_1192" xlink:type="arc"/>
     <link:reference xlink:label="res_1193" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
@@ -9338,77 +9338,77 @@
       <ref:Section>EM-CM-110a.1</ref:Section>
     </link:reference>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:label="loc_980" xlink:title="GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1193" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1193" xlink:type="arc"/>
     <link:reference xlink:label="res_1194" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-CO-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1194" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1194" xlink:type="arc"/>
     <link:reference xlink:label="res_1195" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-EP-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1195" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1195" xlink:type="arc"/>
     <link:reference xlink:label="res_1196" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-IS-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1196" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1196" xlink:type="arc"/>
     <link:reference xlink:label="res_1197" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-MD-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1197" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1197" xlink:type="arc"/>
     <link:reference xlink:label="res_1198" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-MM-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1198" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1198" xlink:type="arc"/>
     <link:reference xlink:label="res_1199" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-RM-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1199" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1199" xlink:type="arc"/>
     <link:reference xlink:label="res_1200" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>IF-EU-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1200" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1200" xlink:type="arc"/>
     <link:reference xlink:label="res_1201" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>IF-WM-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1201" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1201" xlink:type="arc"/>
     <link:reference xlink:label="res_1202" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>RT-CH-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1202" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1202" xlink:type="arc"/>
     <link:reference xlink:label="res_1203" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>RT-CP-110a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GlobalScope1EmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1203" xlink:type="arc"/>
+    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_980" xlink:title="reference: GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation to reference_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:to="res_1203" xlink:type="arc"/>
     <link:reference xlink:label="res_1204" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GreenhouseGasFootprintAcrossTransportModes" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
