@@ -18,3 +18,4 @@ Changes:
 * Change type of BatteriesSoldStorageCapacity to energyItemType from powerItemType (XBRL Europe ESG WG)
 * Change type of DataProcessingCapacity from dtr-types:flowItemType to xbrli:decimalItemType
 * Change references of the abstract headers for metric groups from "Appendix B" to direct to the relevant section for the metric
+* change dtr-types prefix to dtr-2022 to clarify version used
