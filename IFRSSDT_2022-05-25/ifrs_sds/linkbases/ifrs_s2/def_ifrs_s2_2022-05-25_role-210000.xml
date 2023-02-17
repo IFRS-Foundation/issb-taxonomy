@@ -47,9 +47,9 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfSignificantClimateRelatedRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectBusinessModelStrategyAndCashFlowsAccessToFinanceAndCostOfCapitalTable" xlink:label="loc_2" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfSignificantClimateRelatedRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectBusinessModelStrategyAndCashFlowsAccessToFinanceAndCostOfCapitalAbstract" xlink:label="loc_1" xlink:type="locator"/>
     <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfSignificantClimateRelatedRiskOrOpportunityExplanatory" xlink:label="loc_6" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfSignificantClimateRelatedRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectBusinessModelStrategyAndCashFlowsAccessToFinanceAndCostOfCapitalLineItems" xlink:label="loc_5" xlink:type="locator"/>
@@ -66,9 +66,9 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSignificantClimateRelatedRisksAndOpportunitiesOnBusinessModelTable" xlink:label="loc_2" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSignificantClimateRelatedRisksAndOpportunitiesOnBusinessModelAbstract" xlink:label="loc_1" xlink:type="locator"/>
     <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfCurrentAndAnticipatedEffectsOfSignificantClimateRelatedRisksAndOpportunitiesOnEntitysValueChainExplanatory" xlink:label="loc_6" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSignificantClimateRelatedRisksAndOpportunitiesOnBusinessModelLineItems" xlink:label="loc_5" xlink:type="locator"/>
@@ -102,9 +102,9 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfFinancialEffectsForReportingPeriodOfSignificantClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_2" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfFinancialEffectsForReportingPeriodOfSignificantClimateRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_1" xlink:type="locator"/>
     <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfHowSignificantClimateRelatedRisksAndOpportunitiesHaveAffectedEntitysMostRecentlyReportedFinancialPositionFinancialPerformanceAndCashFlowsExplanatory" xlink:label="loc_6" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfFinancialEffectsForReportingPeriodOfSignificantClimateRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_5" xlink:type="locator"/>
@@ -117,9 +117,9 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfAnticipatedFinancialEffectsOfSignificantClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_2" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfAnticipatedFinancialEffectsOfSignificantClimateRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_1" xlink:type="locator"/>
     <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_3" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClimateRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TimeHorizonDomain" xlink:label="loc_6" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TimeHorizonAxis" xlink:label="loc_5" xlink:type="locator"/>

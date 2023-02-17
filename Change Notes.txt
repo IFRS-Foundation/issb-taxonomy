@@ -20,3 +20,4 @@ Changes:
 * Change references of the abstract headers for metric groups from "Appendix B" to direct to the relevant section for the metric
 * Add references to Domains, Members and Axes in the industry metrics section
 * change dtr-types prefix to dtr-2022 to clarify version used
+* Switch ClimateRelatedRisksAndOpportunitiesAxis/Domain to SustainabilityRelated... (merging them)
