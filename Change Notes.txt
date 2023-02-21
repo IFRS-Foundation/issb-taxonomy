@@ -5,7 +5,8 @@ Corrections to staff draft:
 * Added missing children of IECWindTurbineClassAxis (BR-AG)
 * Removed duplicative "OtherStandardMember", coalesce on "OtherStandardsMember"
 * Fixed missing ELR for PriorityFoodIngredientsListing enunm2:linkrole: Added FoodIngredientDomain to ELR 995000, set enum2:linkrole of PriorityFoodIngredientsListing to that ELR "https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2022-05-25_role-995000" (Corefiling)
-* Correct references in Appendix B that have extra letter at the end that does not correspond to content of Appendix B, eg IF-EU-540a.2a or IF-HB-000.Ca (DFIN)
+* Corrected references in Appendix B that have extra letter at the end that does not correspond to content of Appendix B, eg IF-EU-540a.2a or IF-HB-000.Ca (DFIN)
+* Removed double presentationLink in pre_im_1_2022-05-25.xml for https://xbrl.ifrs.org/role/ifrs_sds/industry/ApplianceManufacturing-2022-05-25_role-805200 (BR-AG)
 
 Changes:
 
@@ -18,6 +19,6 @@ Changes:
 * Change type of BatteriesSoldStorageCapacity to energyItemType from powerItemType (XBRL Europe ESG WG)
 * Change type of DataProcessingCapacity from dtr-types:flowItemType to xbrli:decimalItemType
 * Change references of the abstract headers for metric groups from "Appendix B" to direct to the relevant section for the metric
-* Add references to Domains, Members and Axes in the industry metrics section
-* change dtr-types prefix to dtr-2022 to clarify version used
-* Switch ClimateRelatedRisksAndOpportunitiesAxis/Domain to SustainabilityRelated... (merging them)
+* Added references to Domains, Members and Axes in the industry metrics section
+* Changed dtr-types prefix to dtr-2022 to clarify version used
+* Switched ClimateRelatedRisksAndOpportunitiesAxis/Domain to SustainabilityRelated... (merging them)
