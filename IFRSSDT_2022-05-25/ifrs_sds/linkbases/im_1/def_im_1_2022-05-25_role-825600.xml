@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+		Taxonomy: 2022-05-25 (Staff Draft)
+		********************** 
+        Copyright (c) 2022 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><link:linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:ifrs_sds="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs_sds" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-825600a" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-825600a" xlink:type="simple"/>
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-825600f" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-825600f" xlink:type="simple"/>
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-825600i" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-825600i" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-825600a" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentDomain" xlink:label="loc_5" xlink:title="DevicesAndEquipmentDomain" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:label="loc_2" xlink:title="DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_3" xlink:title="DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract8092" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract to DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentAxis" xlink:label="loc_4" xlink:title="DevicesAndEquipmentAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedTable to DevicesAndEquipmentAxis" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentDomain" xlink:label="loc_6" xlink:title="DevicesAndEquipmentDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_4" xlink:title="definition: DevicesAndEquipmentAxis to DevicesAndEquipmentDomain" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:label="loc_7" xlink:title="DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_1" xlink:title="DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems to DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:to="loc_7" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract to DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:to="loc_1" xlink:type="arc"/>
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-825600f" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductCategoryDomain" xlink:label="loc_2" xlink:title="ProductCategoryDomain" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesUnitsTable" xlink:label="loc_5" xlink:title="ProductSalesUnitsTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesUnitsAbstract" xlink:label="loc_6" xlink:title="ProductSalesUnitsAbstract8133" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_6" xlink:title="definition: ProductSalesUnitsAbstract to ProductSalesUnitsTable" xlink:to="loc_5" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductCategoryAxis" xlink:label="loc_1" xlink:title="ProductCategoryAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_5" xlink:title="definition: ProductSalesUnitsTable to ProductCategoryAxis" xlink:to="loc_1" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductCategoryDomain" xlink:label="loc_3" xlink:title="ProductCategoryDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_1" xlink:title="definition: ProductCategoryAxis to ProductCategoryDomain" xlink:to="loc_3" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesUnits" xlink:label="loc_7" xlink:title="ProductSalesUnits" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductSalesUnitsLineItems" xlink:label="loc_4" xlink:title="ProductSalesUnitsLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:title="definition: ProductSalesUnitsLineItems to ProductSalesUnits" xlink:to="loc_7" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:title="definition: ProductSalesUnitsAbstract to ProductSalesUnitsLineItems" xlink:to="loc_4" xlink:type="arc"/>
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-825600i" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesDomain" xlink:label="loc_5" xlink:title="SuppliesDomain" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:label="loc_2" xlink:title="SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_3" xlink:title="SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract8148" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract to SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesAxis" xlink:label="loc_4" xlink:title="SuppliesAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedTable to SuppliesAxis" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesDomain" xlink:label="loc_6" xlink:title="SuppliesDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_4" xlink:title="definition: SuppliesAxis to SuppliesDomain" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:label="loc_7" xlink:title="SuppliesAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_1" xlink:title="SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems to SuppliesAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:to="loc_7" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract to SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:to="loc_1" xlink:type="arc"/>
+  </link:definitionLink>
+</link:linkbase>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+		Taxonomy: 2022-05-25 (Staff Draft)
+		********************** 
+        Copyright (c) 2022 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><link:linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:ifrs_sds="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs_sds" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-815200" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-815200" xlink:type="simple"/>
+  <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-815200" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialBanksIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_2" xlink:title="CommercialBanksIndustrySustainabilityDisclosureMetricsAbstract" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialBanksIndustryAbstract" xlink:label="loc_1" xlink:title="CommercialBanksIndustryAbstract" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:title="presentation: CommercialBanksIndustryAbstract to CommercialBanksIndustrySustainabilityDisclosureMetricsAbstract" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureTextBlock" xlink:label="loc_4" xlink:title="IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureTextBlock" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureAbstract" xlink:label="loc_3" xlink:title="IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureAbstract" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:title="presentation: IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureAbstract to IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureTextBlock" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialAndIndustrialCreditExposureAbstract" xlink:label="loc_7" xlink:title="CommercialAndIndustrialCreditExposureAbstract3282" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB410a1Abstract" xlink:label="loc_5" xlink:title="FNCB410a1Abstract" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_5" xlink:title="presentation: FNCB410a1Abstract to CommercialAndIndustrialCreditExposureAbstract" xlink:to="loc_7" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialAndIndustrialCreditExposureTable" xlink:label="loc_6" xlink:title="CommercialAndIndustrialCreditExposureTable" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:title="presentation: CommercialAndIndustrialCreditExposureAbstract to CommercialAndIndustrialCreditExposureTable" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GICSClassifiedIndustriesDomain" xlink:label="loc_9" xlink:title="GICSClassifiedIndustriesDomain" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GICSClassifiedIndustriesAxis" xlink:label="loc_8" xlink:title="GICSClassifiedIndustriesAxis" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_8" xlink:title="presentation: GICSClassifiedIndustriesAxis to GICSClassifiedIndustriesDomain" xlink:to="loc_9" xlink:type="arc"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_6" xlink:title="presentation: CommercialAndIndustrialCreditExposureTable to GICSClassifiedIndustriesAxis" xlink:to="loc_8" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialAndIndustrialCreditExposure" xlink:label="loc_11" xlink:title="CommercialAndIndustrialCreditExposure" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialAndIndustrialCreditExposureLineItems" xlink:label="loc_10" xlink:title="CommercialAndIndustrialCreditExposureLineItems" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_10" xlink:title="presentation: CommercialAndIndustrialCreditExposureLineItems to CommercialAndIndustrialCreditExposure" xlink:to="loc_11" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IncorporationOfESGFactorsInCreditAnalysisTextBlock" xlink:label="loc_13" xlink:title="IncorporationOfESGFactorsInCreditAnalysisTextBlock" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB410a2Abstract" xlink:label="loc_12" xlink:title="FNCB410a2Abstract" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_12" xlink:title="presentation: FNCB410a2Abstract to IncorporationOfESGFactorsInCreditAnalysisTextBlock" xlink:to="loc_13" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB000AAbstract" xlink:label="loc_15" xlink:title="FNCB000AAbstract" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialBanksIndustryActivityMetricsAbstract" xlink:label="loc_14" xlink:title="CommercialBanksIndustryActivityMetricsAbstract" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_14" xlink:title="presentation: CommercialBanksIndustryActivityMetricsAbstract to FNCB000AAbstract" xlink:to="loc_15" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsNumberAbstract" xlink:label="loc_17" xlink:title="BankAccountsNumberAbstract3269" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:title="presentation: FNCB000AAbstract to BankAccountsNumberAbstract" xlink:to="loc_17" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsNumberTable" xlink:label="loc_16" xlink:title="BankAccountsNumberTable" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:title="presentation: BankAccountsNumberAbstract to BankAccountsNumberTable" xlink:to="loc_16" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankCardAccountAxis" xlink:label="loc_18" xlink:title="BankCardAccountAxis" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_16" xlink:title="presentation: BankAccountsNumberTable to BankCardAccountAxis" xlink:to="loc_18" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankCardAccountDomain" xlink:label="loc_19" xlink:title="BankCardAccountDomain" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_18" xlink:title="presentation: BankCardAccountAxis to BankCardAccountDomain" xlink:to="loc_19" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PersonalCheckingAndSavingsAccountsMember" xlink:label="loc_20" xlink:title="PersonalCheckingAndSavingsAccountsMember" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:title="presentation: BankCardAccountDomain to PersonalCheckingAndSavingsAccountsMember" xlink:to="loc_20" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsNumber" xlink:label="loc_23" xlink:title="BankAccountsNumber" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsNumberLineItems" xlink:label="loc_22" xlink:title="BankAccountsNumberLineItems" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:title="presentation: BankAccountsNumberLineItems to BankAccountsNumber" xlink:to="loc_23" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsValueTable" xlink:label="loc_24" xlink:title="BankAccountsValueTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsValueAbstract" xlink:label="loc_25" xlink:title="BankAccountsValueAbstract3272" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_25" xlink:title="presentation: BankAccountsValueAbstract to BankAccountsValueTable" xlink:to="loc_24" xlink:type="arc"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:title="presentation: BankAccountsValueTable to BankCardAccountAxis" xlink:to="loc_18" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsValue" xlink:label="loc_27" xlink:title="BankAccountsValue" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankAccountsValueLineItems" xlink:label="loc_26" xlink:title="BankAccountsValueLineItems" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_26" xlink:title="presentation: BankAccountsValueLineItems to BankAccountsValue" xlink:to="loc_27" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansNumberAbstract" xlink:label="loc_30" xlink:title="LoansNumberAbstract3286" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB000BAbstract" xlink:label="loc_28" xlink:title="FNCB000BAbstract" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_28" xlink:title="presentation: FNCB000BAbstract to LoansNumberAbstract" xlink:to="loc_30" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansNumberTable" xlink:label="loc_29" xlink:title="LoansNumberTable" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_30" xlink:title="presentation: LoansNumberAbstract to LoansNumberTable" xlink:to="loc_29" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankCustomerTypeAxis" xlink:label="loc_31" xlink:title="BankCustomerTypeAxis" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_29" xlink:title="presentation: LoansNumberTable to BankCustomerTypeAxis" xlink:to="loc_31" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BankCustomerTypeDomain" xlink:label="loc_32" xlink:title="BankCustomerTypeDomain" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_31" xlink:title="presentation: BankCustomerTypeAxis to BankCustomerTypeDomain" xlink:to="loc_32" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CorporateMember" xlink:label="loc_33" xlink:title="CorporateMember" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:title="presentation: BankCustomerTypeDomain to CorporateMember" xlink:to="loc_33" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansNumber" xlink:label="loc_37" xlink:title="LoansNumber" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansNumberLineItems" xlink:label="loc_36" xlink:title="LoansNumberLineItems" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_36" xlink:title="presentation: LoansNumberLineItems to LoansNumber" xlink:to="loc_37" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansValueTable" xlink:label="loc_38" xlink:title="LoansValueTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansValueAbstract" xlink:label="loc_39" xlink:title="LoansValueAbstract3326" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:title="presentation: LoansValueAbstract to LoansValueTable" xlink:to="loc_38" xlink:type="arc"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:title="presentation: LoansValueTable to BankCustomerTypeAxis" xlink:to="loc_31" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansValue" xlink:label="loc_41" xlink:title="LoansValue" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansValueLineItems" xlink:label="loc_40" xlink:title="LoansValueLineItems" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_40" xlink:title="presentation: LoansValueLineItems to LoansValue" xlink:to="loc_41" xlink:type="arc"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:title="presentation: CommercialBanksIndustrySustainabilityDisclosureMetricsAbstract to IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureAbstract" xlink:to="loc_3" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TransitionRiskExposureDisclosureTextBlock" xlink:label="loc_43" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TransitionRiskExposureDisclosureAbstract" xlink:label="loc_42" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_43" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureToCarbonRelatedIndustriesAbstract" xlink:label="loc_45" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB1Abstract" xlink:label="loc_44" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_44" xlink:to="loc_45" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureToCarbonRelatedIndustriesTable" xlink:label="loc_46" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:to="loc_46" xlink:type="arc"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_8" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AssetClassDomain" xlink:label="loc_48" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AssetClassAxis" xlink:label="loc_47" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_47" xlink:to="loc_48" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansMember" xlink:label="loc_49" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_49" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureToCarbonRelatedIndustries" xlink:label="loc_56" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureToCarbonRelatedIndustriesLineItems" xlink:label="loc_55" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_55" xlink:to="loc_56" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureIncludedInFinancedEmissionsCalculationPercentage" xlink:label="loc_62" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB2Abstract" xlink:label="loc_61" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_61" xlink:to="loc_62" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsForEachIndustryByAssetClassAbstract" xlink:label="loc_66" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB3Abstract" xlink:label="loc_65" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_65" xlink:to="loc_66" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsForEachIndustryByAssetClassTable" xlink:label="loc_67" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_67" xlink:type="arc"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_67" xlink:to="loc_8" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope1" xlink:label="loc_69" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsForEachIndustryByAssetClassLineItems" xlink:label="loc_68" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:to="loc_69" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassAbstract" xlink:label="loc_75" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB4Abstract" xlink:label="loc_74" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_74" xlink:to="loc_75" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassTable" xlink:label="loc_76" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_76" xlink:type="arc"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_8" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossEmissionsIntensityFinancedEmissionsScope1" xlink:label="loc_78" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassLineItems" xlink:label="loc_77" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_77" xlink:to="loc_78" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MethodologyUsedToCalculateFinancedEmissionsTextBlock" xlink:label="loc_82" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_FNCB5Abstract" xlink:label="loc_81" xlink:type="locator"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_81" xlink:to="loc_82" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:title="presentation: IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureAbstract to FNCB410a1Abstract" xlink:to="loc_5" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:title="presentation: presentation: CommercialAndIndustrialCreditExposureAbstract to CommercialAndIndustrialCreditExposureLineItems" xlink:to="loc_10" xlink:type="arc"/>
+    <link:presentationArc order="20.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:title="presentation: CommercialBanksIndustryAbstract to CommercialBanksIndustryActivityMetricsAbstract" xlink:to="loc_14" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SmallBusinessCheckingAndSavingsAccountsMember" xlink:label="loc_21" xlink:title="SmallBusinessCheckingAndSavingsAccountsMember" xlink:type="locator"/>
+    <link:presentationArc order="20.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:title="presentation: BankCardAccountDomain to SmallBusinessCheckingAndSavingsAccountsMember" xlink:to="loc_21" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:title="presentation: presentation: BankAccountsNumberAbstract to BankAccountsNumberLineItems" xlink:to="loc_22" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:title="presentation: FNCB000AAbstract to BankAccountsValueAbstract" xlink:to="loc_25" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_25" xlink:title="presentation: presentation: BankAccountsValueAbstract to BankAccountsValueLineItems" xlink:to="loc_26" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_14" xlink:title="presentation: CommercialBanksIndustryActivityMetricsAbstract to FNCB000BAbstract" xlink:to="loc_28" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PersonalMember" xlink:label="loc_34" xlink:title="PersonalMember" xlink:type="locator"/>
+    <link:presentationArc order="20.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:title="presentation: BankCustomerTypeDomain to PersonalMember" xlink:to="loc_34" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_30" xlink:title="presentation: presentation: LoansNumberAbstract to LoansNumberLineItems" xlink:to="loc_36" xlink:type="arc"/>
+    <link:presentationArc order="20.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_28" xlink:title="presentation: FNCB000BAbstract to LoansValueAbstract" xlink:to="loc_39" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:title="presentation: presentation: LoansValueAbstract to LoansValueLineItems" xlink:to="loc_40" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_42" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_44" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_47" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProjectFinanceMember" xlink:label="loc_50" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_50" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:to="loc_55" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PercentageOfTotalGrossExposureForEachCarbonRelatedIndustries" xlink:label="loc_57" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_55" xlink:to="loc_57" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ClassificationStandardUsedIfDifferentFromGICSTextBlock" xlink:label="loc_58" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_44" xlink:to="loc_58" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_UndrawnLoanCommitmentsIncludedInFinancedEmissionsCalculationPercentage" xlink:label="loc_63" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_61" xlink:to="loc_63" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_67" xlink:to="loc_47" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_68" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope2" xlink:label="loc_70" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:to="loc_70" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExplanationOfDisclosureOfFinancedEmissionsForAdditionalAssetClassesTextBlock" xlink:label="loc_73" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_65" xlink:to="loc_73" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_47" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_77" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossEmissionsIntensityFinancedEmissionsScope2" xlink:label="loc_79" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_77" xlink:to="loc_79" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_74" xlink:to="loc_73" xlink:type="arc"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:title="presentation: IncorporationOfEnvironmentalSocialAndGovernanceFactorsInCreditAnalysisDisclosureAbstract to FNCB410a2Abstract" xlink:to="loc_12" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SmallBusinessMember" xlink:label="loc_35" xlink:title="SmallBusinessMember" xlink:type="locator"/>
+    <link:presentationArc order="30.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:title="presentation: BankCustomerTypeDomain to SmallBusinessMember" xlink:to="loc_35" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BondsMember" xlink:label="loc_51" xlink:type="locator"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_51" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureToAllIndustries" xlink:label="loc_59" xlink:type="locator"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_44" xlink:to="loc_59" xlink:type="arc"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_61" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExplanationOfExclusionsOfIndustriesOrAssetClassesFromFinancedEmissionsCalculationTextBlock" xlink:label="loc_64" xlink:type="locator"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_61" xlink:to="loc_64" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope3" xlink:label="loc_71" xlink:type="locator"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:to="loc_71" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossEmissionsIntensityFinancedEmissionsScope3" xlink:label="loc_80" xlink:type="locator"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_77" xlink:to="loc_80" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EquityInvestmentsMember" xlink:label="loc_52" xlink:type="locator"/>
+    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_52" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExplanationOfDisclosureOfGrossExposureForAdditionalAssetClassesTextBlock" xlink:label="loc_60" xlink:type="locator"/>
+    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_44" xlink:to="loc_60" xlink:type="arc"/>
+    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_65" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposure" xlink:label="loc_72" xlink:type="locator"/>
+    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:to="loc_72" xlink:type="arc"/>
+    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_77" xlink:to="loc_72" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DerivativesMember" xlink:label="loc_53" xlink:type="locator"/>
+    <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_53" xlink:type="arc"/>
+    <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_74" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_UndrawnLoanCommitmentsMember" xlink:label="loc_54" xlink:type="locator"/>
+    <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_54" xlink:type="arc"/>
+    <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_81" xlink:type="arc"/>
+  </link:presentationLink>
+</link:linkbase>
