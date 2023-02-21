@@ -22,3 +22,4 @@ Changes:
 * Added references to Domains, Members and Axes in the industry metrics section
 * Changed dtr-types prefix to dtr-2022 to clarify version used
 * Switched ClimateRelatedRisksAndOpportunitiesAxis/Domain to SustainabilityRelated... (merging them)
+* Changed roleUri and ids in im_1 to match pattern in ifrs_s1/s2
