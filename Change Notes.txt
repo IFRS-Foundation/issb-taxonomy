@@ -24,3 +24,4 @@ Changes:
 * Switched ClimateRelatedRisksAndOpportunitiesAxis/Domain to SustainabilityRelated... (merging them)
 * Changed roleUri and ids in im_1 to match pattern in ifrs_s1/s2
 * Split def and pre file in im_1 by role number to match pattern in ifrs_s1/s2
+* Moved refs relating to industry metrics to im_1 (from ifrs_s2)
