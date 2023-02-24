@@ -1,0 +1,2 @@
+#ignoring zips just makes my life a bit easier when zipping the folder up to test as a taxonomy package
+*.zip
