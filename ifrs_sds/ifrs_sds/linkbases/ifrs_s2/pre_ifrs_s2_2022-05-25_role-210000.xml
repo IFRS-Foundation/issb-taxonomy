@@ -74,22 +74,22 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AmountOfEmissionTargetToBeAchievedThroughEmissionReductionsWithinValueChainExplanatory" xlink:label="loc_47" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfInformationRegardingClimateRelatedTargetsExplanatory" xlink:label="loc_46" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_47" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonOffsetsAbstract" xlink:label="loc_49" xlink:type="locator"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonOffsetsExplanatory" xlink:label="loc_48" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonCreditsAbstract" xlink:label="loc_49" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonCreditsExplanatory" xlink:label="loc_48" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_49" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonOffsetsTable" xlink:label="loc_50" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonCreditsTable" xlink:label="loc_50" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_49" xlink:to="loc_50" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetAxis" xlink:label="loc_51" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditAxis" xlink:label="loc_51" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_50" xlink:to="loc_51" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetDomain" xlink:label="loc_52" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditDomain" xlink:label="loc_52" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_52" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetWillBeSubjectToThirdPartyOffsetVerificationOrCertificationSchemeTrueFalse" xlink:label="loc_54" xlink:type="locator"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonOffsetsLineItems" xlink:label="loc_53" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditWillBeSubjectToThirdPartyVerificationOrCertificationSchemeTrueFalse" xlink:label="loc_54" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonCreditsLineItems" xlink:label="loc_53" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_53" xlink:to="loc_54" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfVerificationOrCertificationSchemeSToWhichCarbonOffsetWillBeSubject" xlink:label="loc_55" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfVerificationOrCertificationSchemeSToWhichCarbonCreditWillBeSubject" xlink:label="loc_55" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_54" xlink:to="loc_55" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetWillBeNatureBasedOrBasedOnTechnologicalCarbonRemovals" xlink:label="loc_57" xlink:type="locator"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfTypeOfCarbonOffset" xlink:label="loc_56" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditWillBeNatureBasedOrBasedOnTechnologicalCarbonRemovals" xlink:label="loc_57" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfTypeOfCarbonCredit" xlink:label="loc_56" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_56" xlink:to="loc_57" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfFinancialEffectsForReportingPeriodOfSignificantClimateRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_62" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfFinancialEffectsForReportingPeriodOfSignificantClimateRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_61" xlink:type="locator"/>

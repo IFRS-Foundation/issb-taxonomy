@@ -68,7 +68,7 @@
     <label:label xlink:label="res_19" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[710000d] Strategy - Disclosure of current and anticipated effects of significant climate-related risks and opportunities on business model</label:label>
     <link:loc xlink:href="rol_ifrs_s1_2022-05-25.xsd#ifrs_s1_2022-05-25_role-710000d" xlink:label="loc_19" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_19" xlink:to="res_19" xlink:type="arc"/>
-    <label:label xlink:label="res_20" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[710000e] Strategy - Disclosure of extent to which climate-related targets rely on use of carbon offsets</label:label>
+    <label:label xlink:label="res_20" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[710000e] Strategy - Disclosure of extent to which climate-related targets rely on use of carbon credits</label:label>
     <link:loc xlink:href="rol_ifrs_s1_2022-05-25.xsd#ifrs_s1_2022-05-25_role-710000e" xlink:label="loc_20" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_20" xlink:to="res_20" xlink:type="arc"/>
     <label:label xlink:label="res_21" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[710000f] Strategy - Disclosure of financial effects for reporting period of significant sustainability-related risks and opportunities</label:label>

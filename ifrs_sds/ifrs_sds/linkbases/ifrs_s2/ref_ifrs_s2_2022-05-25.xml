@@ -344,13 +344,13 @@
       <ref:Subparagraph>b</ref:Subparagraph>
       <ref:Clause>iii</ref:Clause>
     </link:reference>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonOffsetsExplanatory" xlink:label="loc_1473" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonCreditsExplanatory" xlink:label="loc_1473" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1473" xlink:to="res_2119" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonOffsetsTable" xlink:label="loc_1474" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfExtentToWhichClimateRelatedTargetsRelyOnUseOfCarbonCreditsTable" xlink:label="loc_1474" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1474" xlink:to="res_2119" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetAxis" xlink:label="loc_1475" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditAxis" xlink:label="loc_1475" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1475" xlink:to="res_2096" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetDomain" xlink:label="loc_1476" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditDomain" xlink:label="loc_1476" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1476" xlink:to="res_2096" xlink:type="arc"/>
     <link:reference xlink:label="res_2120" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
@@ -360,13 +360,13 @@
       <ref:Subparagraph>b</ref:Subparagraph>
       <ref:Clause>iii.2</ref:Clause>
     </link:reference>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetWillBeSubjectToThirdPartyOffsetVerificationOrCertificationSchemeTrueFalse" xlink:label="loc_1477" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditWillBeSubjectToThirdPartyVerificationOrCertificationSchemeTrueFalse" xlink:label="loc_1477" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1477" xlink:to="res_2120" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfVerificationOrCertificationSchemeSToWhichCarbonOffsetWillBeSubject" xlink:label="loc_1478" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfVerificationOrCertificationSchemeSToWhichCarbonCreditWillBeSubject" xlink:label="loc_1478" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1478" xlink:to="res_2120" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfTypeOfCarbonOffset" xlink:label="loc_1479" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DescriptionOfTypeOfCarbonCredit" xlink:label="loc_1479" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1479" xlink:to="res_2096" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetWillBeNatureBasedOrBasedOnTechnologicalCarbonRemovals" xlink:label="loc_1480" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditWillBeNatureBasedOrBasedOnTechnologicalCarbonRemovals" xlink:label="loc_1480" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1480" xlink:to="res_2096" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AmountIntendedToBeAchievedIsThroughCarbonRemovalOrEmissionAvoidance" xlink:label="loc_1481" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1481" xlink:to="res_2096" xlink:type="arc"/>

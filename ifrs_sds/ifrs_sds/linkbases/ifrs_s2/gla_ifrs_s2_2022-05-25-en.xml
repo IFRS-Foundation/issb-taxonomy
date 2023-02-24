@@ -23,7 +23,7 @@
     <label:label xlink:label="res_4" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000c] Climate-related disclosures - Disclosure of current and anticipated effects of significant climate-related risks and opportunities on business model</label:label>
     <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000c" xlink:label="loc_4" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_4" xlink:to="res_4" xlink:type="arc"/>
-    <label:label xlink:label="res_5" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000d] Climate-related disclosures - Disclosure of extent to which climate-related targets rely on use of carbon offsets</label:label>
+    <label:label xlink:label="res_5" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000d] Climate-related disclosures - Disclosure of extent to which climate-related targets rely on use of carbon credits</label:label>
     <link:loc xlink:href="rol_ifrs_s2_2022-05-25.xsd#ifrs_s2_2022-05-25_role-210000d" xlink:label="loc_5" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_5" xlink:to="res_5" xlink:type="arc"/>
     <label:label xlink:label="res_6" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000e] Climate-related disclosures - Disclosure of financial effects for reporting period of significant climate-related risks and opportunities</label:label>

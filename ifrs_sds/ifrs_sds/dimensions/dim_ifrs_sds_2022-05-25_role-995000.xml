@@ -149,7 +149,7 @@
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LandTransportationSubSectorMember" xlink:label="loc_127" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_127" xlink:to="loc_128" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalMember" xlink:label="loc_131" xlink:type="locator"/>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonOffsetBasisDomain" xlink:label="loc_130" xlink:type="locator"/>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonCreditBasisDomain" xlink:label="loc_130" xlink:type="locator"/>
     <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_130" xlink:to="loc_131" xlink:type="arc"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NatureBasedCarbonRemovalsMember" xlink:label="loc_134" xlink:type="locator"/>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CarbonRemovalBasisDomain" xlink:label="loc_133" xlink:type="locator"/>
