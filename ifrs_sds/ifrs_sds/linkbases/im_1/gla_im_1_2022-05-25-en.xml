@@ -1025,14 +1025,14 @@
     <label:label xlink:label="res_338" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500m] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real Estate Property And Building Assets [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830500m" xlink:label="loc_338" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_338" xlink:to="res_338" xlink:type="arc"/>
-    <label:label xlink:label="res_339" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500n] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Leases Transacted, Number [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830500n" xlink:label="loc_339" xlink:type="locator"/>
+    <label:label xlink:label="res_339" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600c] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Leases Transacted, Number [Table]</label:label>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830600c" xlink:label="loc_339" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_339" xlink:to="res_339" xlink:type="arc"/>
-    <label:label xlink:label="res_340" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500q] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Property Management Clients, Number [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830500q" xlink:label="loc_340" xlink:type="locator"/>
+    <label:label xlink:label="res_340" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600b] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Property Management Clients, Number [Table]</label:label>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830600b" xlink:label="loc_340" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_340" xlink:to="res_340" xlink:type="arc"/>
-    <label:label xlink:label="res_341" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500r] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Revenues [Table]</label:label>
-    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830500r" xlink:label="loc_341" xlink:type="locator"/>
+    <label:label xlink:label="res_341" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500a] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Revenues [Table]</label:label>
+    <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830500a" xlink:label="loc_341" xlink:type="locator"/>
     <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_341" xlink:to="res_341" xlink:type="arc"/>
     <label:label xlink:label="res_342" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500s] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Tenants, Percentage That Are Separately Metered Or Submetered For Grid Electricity Consumption [Table]</label:label>
     <link:loc xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-830500s" xlink:label="loc_342" xlink:type="locator"/>

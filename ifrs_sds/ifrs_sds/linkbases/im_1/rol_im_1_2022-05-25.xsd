@@ -1329,18 +1329,6 @@
         <link:definition>[830500m] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real Estate Property And Building Assets [Table]</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
       </link:roleType>
-      <link:roleType id="im_1-2022-05-25_role-830500n" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830500n">
-        <link:definition>[830500n] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Leases Transacted, Number [Table]</link:definition>
-        <link:usedOn>link:definitionLink</link:usedOn>
-      </link:roleType>
-      <link:roleType id="im_1-2022-05-25_role-830500q" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830500q">
-        <link:definition>[830500q] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Property Management Clients, Number [Table]</link:definition>
-        <link:usedOn>link:definitionLink</link:usedOn>
-      </link:roleType>
-      <link:roleType id="im_1-2022-05-25_role-830500r" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830500r">
-        <link:definition>[830500r] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Revenues [Table]</link:definition>
-        <link:usedOn>link:definitionLink</link:usedOn>
-      </link:roleType>
       <link:roleType id="im_1-2022-05-25_role-830500s" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830500s">
         <link:definition>[830500s] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Tenants, Percentage That Are Separately Metered Or Submetered For Grid Electricity Consumption [Table]</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
@@ -1365,7 +1353,19 @@
         <link:definition>[830500x] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water Withdrawn [Table]</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
       </link:roleType>
-      <link:roleType id="im_1-2022-05-25_role-820700c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-820700c">
+      <link:roleType id="im_1-2022-05-25_role-830600a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830600a">
+        <link:definition>[830600a] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Revenues [Table]</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="im_1-2022-05-25_role-830600b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830600b">
+        <link:definition>[830600b] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Property Management Clients, Number [Table]</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+      <link:roleType id="im_1-2022-05-25_role-830600c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-830600c">
+        <link:definition>[830600c] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Leases Transacted, Number [Table]</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
+	  <link:roleType id="im_1-2022-05-25_role-820700c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-820700c">
         <link:definition>[820700c] Industry Metrics - Food &amp; Beverage - Restaurants (FB-RN) - Employees, Number [Table]</link:definition>
         <link:usedOn>link:definitionLink</link:usedOn>
       </link:roleType>
