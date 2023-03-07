@@ -6241,7 +6241,7 @@
     <link:label xlink:label="res_2922" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_StationarySolidOxideFuelCellSOFCMember" xlink:type="resource" xml:lang="en">Stationary Solid Oxide Fuel Cell (SOFC) [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_StationarySolidOxideFuelCellSOFCMember" xlink:label="loc_2177" xlink:title="StationarySolidOxideFuelCellSOFCMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2177" xlink:title="label: StationarySolidOxideFuelCellSOFCMember to label_StationarySolidOxideFuelCellSOFCMember" xlink:to="res_2922" xlink:type="arc"/>
-    <link:label xlink:label="res_2923" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_StepByOEKOTEXMember" xlink:type="resource" xml:lang="en">Step By OEKO-TEX [Member]</link:label>
+    <link:label xlink:label="res_2923" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_StepByOEKOTEXMember" xlink:type="resource" xml:lang="en">STeP By OEKO-TEX [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_StepByOEKOTEXMember" xlink:label="loc_2178" xlink:title="StepByOEKOTEXMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2178" xlink:title="label: StepByOEKOTEXMember to label_StepByOEKOTEXMember" xlink:to="res_2923" xlink:type="arc"/>
     <link:label xlink:label="res_2924" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_StormwaterSewerMember" xlink:type="resource" xml:lang="en">Stormwater Sewer [Member]</link:label>

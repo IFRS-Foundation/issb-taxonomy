@@ -9,6 +9,7 @@ Corrections to staff draft:
 * Removed double presentationLink in pre_im_1_2022-05-25.xml for https://xbrl.ifrs.org/role/ifrs_sds/industry/ApplianceManufacturing-2022-05-25_role-805200 (BR-AG)
 * Fix def entries for IF-RS that were in 830500 but should have been in 830600
 * Correct pre and def linkbases for 820600
+* Correct casing of label "STeP By OEKO-TEX"
 
 Changes:
 
