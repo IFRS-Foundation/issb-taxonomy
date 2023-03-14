@@ -4586,9 +4586,9 @@
     <link:label xlink:label="res_2264" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_MedicalWasteMember" xlink:type="resource" xml:lang="en">Medical Waste [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MedicalWasteMember" xlink:label="loc_1520" xlink:title="MedicalWasteMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1520" xlink:title="label: MedicalWasteMember to label_MedicalWasteMember" xlink:to="res_2264" xlink:type="arc"/>
-    <link:label xlink:label="res_2265" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_MedicareAdvantagePlanTypeAxis" xlink:type="resource" xml:lang="en">Medicare Advantage Plan Type [Axis]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MedicareAdvantagePlanTypeAxis" xlink:label="loc_1521" xlink:title="MedicareAdvantagePlanTypeAxis" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1521" xlink:title="label: MedicareAdvantagePlanTypeAxis to label_MedicareAdvantagePlanTypeAxis" xlink:to="res_2265" xlink:type="arc"/>
+    <link:label xlink:label="res_2265" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_ManagedCarePlanTypeAxis" xlink:type="resource" xml:lang="en">Managed Care Plan Type [Axis]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ManagedCarePlanTypeAxis" xlink:label="loc_1521" xlink:title="ManagedCarePlanTypeAxis" xlink:type="locator"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1521" xlink:title="label: ManagedCarePlanTypeAxis to label_ManagedCarePlanTypeAxis" xlink:to="res_2265" xlink:type="arc"/>
     <link:label xlink:label="res_2266" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_MetalMember" xlink:type="resource" xml:lang="en">Metal [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MetalMember" xlink:label="loc_1522" xlink:title="MetalMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1522" xlink:title="label: MetalMember to label_MetalMember" xlink:to="res_2266" xlink:type="arc"/>
@@ -4742,6 +4742,9 @@
     <link:label xlink:label="res_2316" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_MotiveSolidOxideFuelCellSOFCMember" xlink:type="resource" xml:lang="en">Motive Solid Oxide Fuel Cell (SOFC) [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MotiveSolidOxideFuelCellSOFCMember" xlink:label="loc_1572" xlink:title="MotiveSolidOxideFuelCellSOFCMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1572" xlink:title="label: MotiveSolidOxideFuelCellSOFCMember to label_MotiveSolidOxideFuelCellSOFCMember" xlink:to="res_2316" xlink:type="arc"/>
+    <link:label xlink:label="res_2317" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_MunicipalCustomersMember" xlink:type="resource" xml:lang="en">Municipal Customers [Member]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MunicipalCustomersMember" xlink:label="loc_1573" xlink:title="MunicipalCustomersMember" xlink:type="locator"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1573" xlink:title="label: MunicipalCustomersMember to label_MunicipalCustomersMember" xlink:to="res_2317" xlink:type="arc"/>
     <link:label xlink:label="res_2416" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_NaturalGasDeliveredAmount" xlink:type="resource" xml:lang="en">Natural Gas Delivered, Amount</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NaturalGasDeliveredAmount" xlink:label="loc_1672" xlink:title="NaturalGasDeliveredAmount" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1672" xlink:title="label: NaturalGasDeliveredAmount to label_NaturalGasDeliveredAmount" xlink:to="res_2416" xlink:type="arc"/>
@@ -4970,8 +4973,8 @@
     <link:label xlink:label="res_2493" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherCombustionMember" xlink:type="resource" xml:lang="en">Other Combustion [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherCombustionMember" xlink:label="loc_1749" xlink:title="OtherCombustionMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1749" xlink:title="label: OtherCombustionMember to label_OtherCombustionMember" xlink:to="res_2493" xlink:type="arc"/>
-    <link:label xlink:label="res_2494" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherFiberSourcingStandardsMember" xlink:type="resource" xml:lang="en">Other Fiber Sourcing Standards [Member]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherFiberSourcingStandardsMember" xlink:label="loc_1750" xlink:title="OtherFiberSourcingStandardsMember" xlink:type="locator"/>
+    <link:label xlink:label="res_2494" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherFiberSourcingStandardsMember" xlink:type="resource" xml:lang="en">Other Fiber Sourcing Standards [Member]</link:label>  
+	<link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherFiberSourcingStandardsMember" xlink:label="loc_1750" xlink:title="OtherFiberSourcingStandardsMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1750" xlink:title="label: OtherFiberSourcingStandardsMember to label_OtherFiberSourcingStandardsMember" xlink:to="res_2494" xlink:type="arc"/>
     <link:label xlink:label="res_2495" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherHardwareMember" xlink:type="resource" xml:lang="en">Other Hardware [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherHardwareMember" xlink:label="loc_1751" xlink:title="OtherHardwareMember" xlink:type="locator"/>
@@ -8647,8 +8650,8 @@
     <link:label id="ifrs-sds_IndustryAndRegulatoryMarketingAndLabelingCodesMember_label" xlink:label="res_3742" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Industry And Regulatory Marketing And Labeling Codes [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IndustryAndRegulatoryMarketingAndLabelingCodesMember" xlink:label="loc_2981" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2981" xlink:to="res_3742" xlink:type="arc"/>
-    <link:label id="ifrs-sds_MedicareAdvantagePlanTypeDomain_label" xlink:label="res_3743" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Medicare Advantage Plan Type [Domain]</link:label>
-    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MedicareAdvantagePlanTypeDomain" xlink:label="loc_2982" xlink:type="locator"/>
+    <link:label id="ifrs-sds_ManagedCarePlanTypeDomain_label" xlink:label="res_3743" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Managed Care Plan Type [Domain]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ManagedCarePlanTypeDomain" xlink:label="loc_2982" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2982" xlink:to="res_3743" xlink:type="arc"/>
     <link:label id="ifrs-sds_HealthMaintenanceOrganizationHMOMember_label" xlink:label="res_3744" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Health Maintenance Organization (HMO) [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_HealthMaintenanceOrganizationHMOMember" xlink:label="loc_2983" xlink:type="locator"/>
@@ -8665,6 +8668,15 @@
     <link:label id="ifrs-sds_SpecialNeedsPlansSNPMember_label" xlink:label="res_3748" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Special Needs Plans (SNP) [Member]</link:label>
     <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_SpecialNeedsPlansSNPMember" xlink:label="loc_2987" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2987" xlink:to="res_3748" xlink:type="arc"/>
+	<link:label xlink:label="res_3749" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_OtherCustomersMember" xlink:type="resource" xml:lang="en">Other Customers [Member]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_OtherCustomersMember" xlink:label="loc_2988" xlink:title="OtherCustomersMember" xlink:type="locator"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2988" xlink:title="label: OtherCustomersMember to label_OtherCustomersMember" xlink:to="res_3749" xlink:type="arc"/>
+	<link:label xlink:label="res_3750" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:type="resource" xml:lang="en">Products Designed For Use-phase Resource Efficiency [Member]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:label="loc_2989" xlink:title="ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:type="locator"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2989" xlink:title="label: ProductsDesignedForUsephaseResourceEfficiencyMember to label_ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:to="res_3750" xlink:type="arc"/>
+	<link:label xlink:label="res_3751" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:type="resource" xml:lang="en">Products Designed To Increase Fuel Efficiency And/Or Reduce Emissions [Member]</link:label>
+    <link:loc xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:label="loc_2990" xlink:title="ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:type="locator"/>
+    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2990" xlink:title="label: ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember to label_ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:to="res_3750" xlink:type="arc"/>
     <link:label xlink:label="res_7" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:title="label_AerospaceAndDefenseIndustryAbstract" xlink:type="resource" xml:lang="en">RT-AE</link:label>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_7" xlink:title="label: AerospaceAndDefenseIndustryAbstract to label_AerospaceAndDefenseIndustryAbstract" xlink:to="res_7" xlink:type="arc"/>
     <link:label xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:title="label_AerospaceAndDefenseIndustrySustainabilityDisclosureMetricsAbstract" xlink:type="resource" xml:lang="en">RT-AE</link:label>

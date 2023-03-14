@@ -179,5 +179,7 @@
     <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:title="presentation: AnimalAndFeedSourcingDisclosureAbstract to FBMP440a3Abstract" xlink:to="loc_70" xlink:type="arc"/>
     <link:presentationArc order="40.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:title="presentation: FBMP000BAbstract to ProductionWeightAbstract" xlink:to="loc_82" xlink:type="arc"/>
     <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_63" xlink:title="presentation: MeatPoultryAndDairyIndustrySustainabilityDisclosureMetricsAbstract to AnimalAndFeedSourcingDisclosureAbstract" xlink:to="loc_64" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AnimalProteinDomain" xlink:label="loc_85" xlink:title="AnimalProteinDomain" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_16" xlink:title="presentation: AnimalProteinAxis to AnimalProteinDomain" xlink:to="loc_85" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

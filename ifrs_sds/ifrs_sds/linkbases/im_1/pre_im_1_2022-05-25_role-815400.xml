@@ -11,7 +11,7 @@
   <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/im_1-2022-05-25_role-815400" xlink:type="extended">
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_BondsMember" xlink:label="loc_101" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_AssetClassDomain" xlink:label="loc_99" xlink:type="locator"/>
-    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_101" xlink:type="arc"/>
+    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_101" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GICSClassifiedIndustriesDomain" xlink:label="loc_2" xlink:title="GICSClassifiedIndustriesDomain" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GICSClassifiedIndustriesAxis" xlink:label="loc_1" xlink:title="GICSClassifiedIndustriesAxis" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:title="presentation: GICSClassifiedIndustriesAxis to GICSClassifiedIndustriesDomain" xlink:to="loc_2" xlink:type="arc"/>
@@ -205,7 +205,7 @@
     <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_85" xlink:title="presentation: presentation: PoliciesInForceNumberAbstract to PoliciesInForceNumberLineItems" xlink:to="loc_91" xlink:type="arc"/>
     <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_4" xlink:title="presentation: InsuranceIndustrySustainabilityDisclosureMetricsAbstract to PoliciesDesignedToIncentivizeResponsibleBehaviorDisclosureAbstract" xlink:to="loc_23" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EquityInvestmentsMember" xlink:label="loc_102" xlink:type="locator"/>
-    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_102" xlink:type="arc"/>
+    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_102" xlink:type="arc"/>
     <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_93" xlink:to="loc_95" xlink:type="arc"/>
     <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_97" xlink:to="loc_98" xlink:type="arc"/>
     <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_96" xlink:to="loc_104" xlink:type="arc"/>
@@ -248,7 +248,7 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_PropertyCasualtyInsuranceSegmentMember" xlink:label="loc_90" xlink:title="PropertyCasualtyInsuranceSegmentMember" xlink:type="locator"/>
     <link:presentationArc order="30.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_87" xlink:title="presentation: InsuranceSegmentDomain to PropertyCasualtyInsuranceSegmentMember" xlink:to="loc_90" xlink:type="arc"/>
     <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_4" xlink:title="presentation: InsuranceIndustrySustainabilityDisclosureMetricsAbstract to PhysicalRiskExposureDisclosureAbstract" xlink:to="loc_37" xlink:type="arc"/>
-    <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_13" xlink:type="arc"/>
+    <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_13" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossExposureToAllIndustries" xlink:label="loc_108" xlink:type="locator"/>
     <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_108" xlink:type="arc"/>
     <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_93" xlink:to="loc_110" xlink:type="arc"/>
@@ -264,7 +264,7 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_HurricanesAndTyphoonsMember" xlink:label="loc_58" xlink:title="HurricanesAndTyphoonsMember" xlink:type="locator"/>
     <link:presentationArc order="40.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_54" xlink:title="presentation: NaturalPerilCatastropheDomain to HurricanesAndTyphoonsMember" xlink:to="loc_58" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_UndrawnLoanCommitmentsMember" xlink:label="loc_103" xlink:type="locator"/>
-    <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_103" xlink:type="arc"/>
+    <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_103" xlink:type="arc"/>
     <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_4" xlink:to="loc_93" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ExplanationOfDisclosureOfGrossExposureForAdditionalAssetClassesTextBlock" xlink:label="loc_109" xlink:type="locator"/>
     <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_109" xlink:type="arc"/>
@@ -277,12 +277,16 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TornadoesMember" xlink:label="loc_57" xlink:title="TornadoesMember" xlink:type="locator"/>
     <link:presentationArc order="50.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_54" xlink:title="presentation: NaturalPerilCatastropheDomain to TornadoesMember" xlink:to="loc_57" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_LoansMember" xlink:label="loc_100" xlink:type="locator"/>
-    <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_100" xlink:type="arc"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_100" xlink:type="arc"/>
+	<link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProjectFinanceMember" xlink:label="loc_132" xlink:type="locator"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_99" xlink:to="loc_132" xlink:type="arc"/>
     <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_93" xlink:to="loc_123" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_TsunamisMember" xlink:label="loc_56" xlink:title="TsunamisMember" xlink:type="locator"/>
     <link:presentationArc order="60.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_54" xlink:title="presentation: NaturalPerilCatastropheDomain to TsunamisMember" xlink:to="loc_56" xlink:type="arc"/>
     <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_93" xlink:to="loc_130" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WinterWeatherMember" xlink:label="loc_55" xlink:title="WinterWeatherMember" xlink:type="locator"/>
     <link:presentationArc order="70.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_54" xlink:title="presentation: NaturalPerilCatastropheDomain to WinterWeatherMember" xlink:to="loc_55" xlink:type="arc"/>
+    <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_125" xlink:to="loc_1" xlink:type="arc"/>
+    <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_125" xlink:to="loc_98" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

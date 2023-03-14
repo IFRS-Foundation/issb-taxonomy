@@ -25,13 +25,13 @@
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_8" xlink:title="presentation: HCMC000AAbstract to EnrolleesNumberAbstract" xlink:to="loc_10" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EnrolleesNumberTable" xlink:label="loc_9" xlink:title="EnrolleesNumberTable" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_10" xlink:title="presentation: EnrolleesNumberAbstract to EnrolleesNumberTable" xlink:to="loc_9" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MedicareAdvantagePlanTypeAxis" xlink:label="loc_11" xlink:title="MedicareAdvantagePlanTypeAxis" xlink:type="locator"/>
-    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_9" xlink:title="presentation: EnrolleesNumberTable to MedicareAdvantagePlanTypeAxis" xlink:to="loc_11" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ManagedCarePlanTypeAxis" xlink:label="loc_11" xlink:title="ManagedCarePlanTypeAxis" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_9" xlink:title="presentation: EnrolleesNumberTable to ManagedCarePlanTypeAxis" xlink:to="loc_11" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EnrolleesNumber" xlink:label="loc_13" xlink:title="EnrolleesNumber" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EnrolleesNumberLineItems" xlink:label="loc_12" xlink:title="EnrolleesNumberLineItems" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_12" xlink:title="presentation: EnrolleesNumberLineItems to EnrolleesNumber" xlink:to="loc_13" xlink:type="arc"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:title="presentation: ManagedCareIndustrySustainabilityDisclosureMetricsAbstract to ClimateChangeImpactsOnHumanHealthDisclosureAbstract" xlink:to="loc_3" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MedicareAdvantagePlanTypeDomain" xlink:label="loc_14" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ManagedCarePlanTypeDomain" xlink:label="loc_14" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_11" xlink:to="loc_14" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_HealthMaintenanceOrganizationHMOMember" xlink:label="loc_15" xlink:type="locator"/>
     <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_14" xlink:to="loc_15" xlink:type="arc"/>

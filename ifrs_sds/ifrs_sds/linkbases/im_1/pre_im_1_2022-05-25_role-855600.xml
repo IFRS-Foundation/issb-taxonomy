@@ -92,5 +92,9 @@
     <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:title="presentation: CruiseLinesIndustryActivityMetricsAbstract to TRCL000DAbstract" xlink:to="loc_39" xlink:type="arc"/>
     <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_14" xlink:title="presentation: GreenhouseGasEmissionsDisclosureAbstract to TRCL110a4Abstract" xlink:to="loc_24" xlink:type="arc"/>
     <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:title="presentation: CruiseLinesIndustryActivityMetricsAbstract to TRCL000EAbstract" xlink:to="loc_41" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_EmployeeByProfessionTypeDomain" xlink:label="loc_43" xlink:title="EmployeeByProfessionTypeDomain" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_27" xlink:title="presentation: EmployeeByProfessionTypeAxis to EmployeeByProfessionTypeDomain" xlink:to="loc_43" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ShipboardEmployeesMember" xlink:label="loc_44" xlink:title="ShipboardEmployeesMember" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:title="presentation: EmployeeByProfessionTypeDomain to ShipboardEmployeesMember" xlink:to="loc_44" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

@@ -164,6 +164,10 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NuclearPowerUnitsTable" xlink:label="loc_2" xlink:title="NuclearPowerUnitsTable" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NuclearPowerUnitsAbstract" xlink:label="loc_3" xlink:title="NuclearPowerUnitsAbstract2651" xlink:type="locator"/>
     <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: NuclearPowerUnitsAbstract to NuclearPowerUnitsTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IndependentNuclearSafetyReviewResultAxis" xlink:label="loc_5" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: NuclearPowerUnitsTable to IndependentNuclearSafetyReviewResultAxis" xlink:to="loc_5" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IndependentNuclearSafetyReviewResultDomain" xlink:label="loc_6" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_5" xlink:title="definition: IndependentNuclearSafetyReviewResultAxis to IndependentNuclearSafetyReviewResultDomain" xlink:to="loc_6" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NuclearPowerUnits" xlink:label="loc_4" xlink:title="NuclearPowerUnits" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_NuclearPowerUnitsLineItems" xlink:label="loc_1" xlink:title="NuclearPowerUnitsLineItems" xlink:type="locator"/>
     <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: NuclearPowerUnitsLineItems to NuclearPowerUnits" xlink:to="loc_4" xlink:type="arc"/>

@@ -62,5 +62,7 @@
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_RevenuesLineItems" xlink:label="loc_1" xlink:title="RevenuesLineItems" xlink:type="locator"/>
     <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: RevenuesLineItems to Revenues" xlink:to="loc_7" xlink:type="arc"/>
     <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: RevenuesAbstract to RevenuesLineItems" xlink:to="loc_1" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:label="loc_8" xlink:title="ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:title="definition: ProductTypeDomain to ProductsDesignedToIncreaseFuelEfficiencyAndOrReduceEmissionsMember" xlink:to="loc_8" xlink:type="arc"/>
   </link:definitionLink>
 </link:linkbase>

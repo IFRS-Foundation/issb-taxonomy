@@ -143,5 +143,9 @@
     <link:presentationArc order="40.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_28" xlink:title="presentation: RTCH140a1Abstract to WaterConsumedPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStress" xlink:to="loc_32" xlink:type="arc"/>
     <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_18" xlink:title="presentation: WaterManagementDisclosureAbstract to RTCH140a3Abstract" xlink:to="loc_35" xlink:type="arc"/>
     <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_59" xlink:title="presentation: ChemicalsIndustrySustainabilityDisclosureMetricsAbstract to ProductDesignForUsephaseEfficiencyDisclosureAbstract" xlink:to="loc_60" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductTypeDomain" xlink:label="loc_68" xlink:title="ProductTypeDomain" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:title="definition: ProductTypeAxis to ProductTypeDomain" xlink:to="loc_68" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:label="loc_69" xlink:title="ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:type="locator"/>
+    <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:title="definition: ProductTypeDomain to ProductsDesignedForUsephaseResourceEfficiencyMember" xlink:to="loc_69" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>

@@ -263,5 +263,13 @@
     <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:title="presentation: WaterUtilitiesAndServicesIndustrySustainabilityDisclosureMetricsAbstract to NetworkResiliencyAndImpactsOfClimateChangeDisclosureAbstract" xlink:to="loc_59" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_WaterThatIsFromOtherSourcesMember" xlink:label="loc_100" xlink:title="WaterThatIsFromOtherSourcesMember" xlink:type="locator"/>
     <link:presentationArc order="60.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_94" xlink:title="presentation: WaterSourceTypeDomain to WaterThatIsFromOtherSourcesMember" xlink:to="loc_100" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CustomerTypeDomain" xlink:label="loc_127" xlink:title="CustomerTypeDomain" xlink:type="locator"/>
+    <link:presentationArc  order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_16" xlink:title="presentation: CustomerTypeAxis to CustomerTypeDomain" xlink:to="loc_127" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_ResidentialCustomersMember" xlink:label="loc_128" xlink:title="ResidentialCustomersMember" xlink:type="locator"/>
+    <link:presentationArc  order="20.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_127" xlink:title="presentation: CustomerTypeDomain to ResidentialCustomersMember" xlink:to="loc_128" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_CommercialCustomersMember" xlink:label="loc_129" xlink:title="CommercialCustomersMember" xlink:type="locator"/>
+    <link:presentationArc order="30.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_127" xlink:title="presentation: CustomerTypeDomain to CommercialCustomersMember" xlink:to="loc_129" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_IndustrialCustomersMember" xlink:label="loc_130" xlink:title="IndustrialCustomersMember" xlink:type="locator"/>
+    <link:presentationArc  order="40.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_127" xlink:title="presentation: CustomerTypeDomain to IndustrialCustomersMember" xlink:to="loc_130" xlink:type="arc"/>
   </link:presentationLink>
 </link:linkbase>
