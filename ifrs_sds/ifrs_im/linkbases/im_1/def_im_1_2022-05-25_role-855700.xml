@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Dummy comment--><link:linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:ifrs_im="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs_im" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700c" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-855700c" xlink:type="simple"/>
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700d" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-855700d" xlink:type="simple"/>
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700e" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-855700e" xlink:type="simple"/>
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700f" xlink:href="rol_im_1_2022-05-25.xsd#im_1-2022-05-25_role-855700f" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700c" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeesNumberTable" xlink:label="loc_2" xlink:title="EmployeesNumberTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeesNumberAbstract" xlink:label="loc_3" xlink:title="EmployeesNumberAbstract6592" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: EmployeesNumberAbstract to EmployeesNumberTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeeByProfessionTypeAxis" xlink:label="loc_4" xlink:title="EmployeeByProfessionTypeAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: EmployeesNumberTable to EmployeeByProfessionTypeAxis" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ShipboardEmployeesMember" xlink:label="loc_7" xlink:title="ShipboardEmployeesMember" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeeByProfessionTypeDomain" xlink:label="loc_5" xlink:title="EmployeeByProfessionTypeDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:title="definition: EmployeeByProfessionTypeDomain to ShipboardEmployeesMember" xlink:to="loc_7" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeeByProfessionTypeDomain" xlink:label="loc_6" xlink:title="EmployeeByProfessionTypeDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_4" xlink:title="definition: EmployeeByProfessionTypeAxis to EmployeeByProfessionTypeDomain" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeesNumber" xlink:label="loc_8" xlink:title="EmployeesNumber" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmployeesNumberLineItems" xlink:label="loc_1" xlink:title="EmployeesNumberLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: EmployeesNumberLineItems to EmployeesNumber" xlink:to="loc_8" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: EmployeesNumberAbstract to EmployeesNumberLineItems" xlink:to="loc_1" xlink:type="arc"/>
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700d" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergyConsumedPercentageTable" xlink:label="loc_2" xlink:title="EnergyConsumedPercentageTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergyConsumedPercentageAbstract" xlink:label="loc_3" xlink:title="EnergyConsumedPercentageAbstract6595" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: EnergyConsumedPercentageAbstract to EnergyConsumedPercentageTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergySourceAxis" xlink:label="loc_4" xlink:title="EnergySourceAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: EnergyConsumedPercentageTable to EnergySourceAxis" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RenewableEnergyMember" xlink:label="loc_7" xlink:title="RenewableEnergyMember" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergySourceDomain" xlink:label="loc_5" xlink:title="EnergySourceDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:title="definition: EnergySourceDomain to RenewableEnergyMember" xlink:to="loc_7" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergySourceDomain" xlink:label="loc_6" xlink:title="EnergySourceDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_4" xlink:title="definition: EnergySourceAxis to EnergySourceDomain" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergyConsumedPercentage" xlink:label="loc_8" xlink:title="EnergyConsumedPercentage" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EnergyConsumedPercentageLineItems" xlink:label="loc_1" xlink:title="EnergyConsumedPercentageLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: EnergyConsumedPercentageLineItems to EnergyConsumedPercentage" xlink:to="loc_8" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: EnergyConsumedPercentageAbstract to EnergyConsumedPercentageLineItems" xlink:to="loc_1" xlink:type="arc"/>
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700e" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetNumberOfVehiclesTable" xlink:label="loc_2" xlink:title="FleetNumberOfVehiclesTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetNumberOfVehiclesAbstract" xlink:label="loc_3" xlink:title="FleetNumberOfVehiclesAbstract6601" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: FleetNumberOfVehiclesAbstract to FleetNumberOfVehiclesTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetTypeAxis" xlink:label="loc_4" xlink:title="FleetTypeAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: FleetNumberOfVehiclesTable to FleetTypeAxis" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ShippingFleetMember" xlink:label="loc_7" xlink:title="ShippingFleetMember" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetTypeDomain" xlink:label="loc_5" xlink:title="FleetTypeDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:title="definition: FleetTypeDomain to ShippingFleetMember" xlink:to="loc_7" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetTypeDomain" xlink:label="loc_6" xlink:title="FleetTypeDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_4" xlink:title="definition: FleetTypeAxis to FleetTypeDomain" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetNumberOfVehicles" xlink:label="loc_8" xlink:title="FleetNumberOfVehicles" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FleetNumberOfVehiclesLineItems" xlink:label="loc_1" xlink:title="FleetNumberOfVehiclesLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: FleetNumberOfVehiclesLineItems to FleetNumberOfVehicles" xlink:to="loc_8" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: FleetNumberOfVehiclesAbstract to FleetNumberOfVehiclesLineItems" xlink:to="loc_1" xlink:type="arc"/>
+  </link:definitionLink>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/im_1-2022-05-25_role-855700f" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelConsumedPercentageTable" xlink:label="loc_2" xlink:title="FuelConsumedPercentageTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelConsumedPercentageAbstract" xlink:label="loc_3" xlink:title="FuelConsumedPercentageAbstract6607" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_3" xlink:title="definition: FuelConsumedPercentageAbstract to FuelConsumedPercentageTable" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelSourceAxis" xlink:label="loc_4" xlink:title="FuelSourceAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:title="definition: FuelConsumedPercentageTable to FuelSourceAxis" xlink:to="loc_4" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HeavyFuelOilMember" xlink:label="loc_7" xlink:title="HeavyFuelOilMember" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelSourceDomain" xlink:label="loc_5" xlink:title="FuelSourceDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:title="definition: FuelSourceDomain to HeavyFuelOilMember" xlink:to="loc_7" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelSourceDomain" xlink:label="loc_6" xlink:title="FuelSourceDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_4" xlink:title="definition: FuelSourceAxis to FuelSourceDomain" xlink:to="loc_6" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelConsumedPercentage" xlink:label="loc_8" xlink:title="FuelConsumedPercentage" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelConsumedPercentageLineItems" xlink:label="loc_1" xlink:title="FuelConsumedPercentageLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:title="definition: FuelConsumedPercentageLineItems to FuelConsumedPercentage" xlink:to="loc_8" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_3" xlink:title="definition: FuelConsumedPercentageAbstract to FuelConsumedPercentageLineItems" xlink:to="loc_1" xlink:type="arc"/>
+  </link:definitionLink>
+</link:linkbase>
