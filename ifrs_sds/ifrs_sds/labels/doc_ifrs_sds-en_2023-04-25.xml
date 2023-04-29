@@ -1198,7 +1198,7 @@
             id="ifrs-sds_DisclosureOfSourcesOfMeasurementUncertaintyAndAssumptionsApproximationsAndJudgementsEntityHasMadeInMeasuringAmountsThatAreSubjectToHighLevelOfMeasurementUncertaintyExplanatory_documentation"
             xlink:label="res_109"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">The disclosure, in relation to disclosed amounts that are subject to a high level of measurement uncertainty, of the sources of: measurement uncertainty—for example, the dependence of the amount on the outcome of a future event, on a measurement technique or on the availability and quality of data from the entity's value chain; and assumptions, approximations and judgements the entity has made in measuring the amount.</link:label>
+            xlink:type="resource" xml:lang="en">The disclosure, in relation to disclosed amounts that are subject to a high level of measurement uncertainty, of the sources of: measurement uncertainty-for example, the dependence of the amount on the outcome of a future event, on a measurement technique or on the availability and quality of data from the entity's value chain; and assumptions, approximations and judgements the entity has made in measuring the amount.</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfMeasurementUncertaintyAndAssumptionsApproximationsAndJudgementsEntityHasMadeInMeasuringAmountsThatAreSubjectToHighLevelOfMeasurementUncertaintyExplanatory"
             xlink:label="loc_109" xlink:type="locator"/>
@@ -2214,7 +2214,7 @@ A carbon credit is an emissions unit that is issued by a carbon crediting progra
             id="ifrs-sds_AbsoluteGrossFinancedEmissionsScope1_documentation"
             xlink:label="res_202"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Absolute gross financed scope 1 greenhouse gas emissions. ‘Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
+            xlink:type="resource" xml:lang="en">Absolute gross financed scope 1 greenhouse gas emissions. 'Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope1"
             xlink:label="loc_202" xlink:type="locator"/>
@@ -2225,7 +2225,7 @@ A carbon credit is an emissions unit that is issued by a carbon crediting progra
             id="ifrs-sds_AbsoluteGrossFinancedEmissionsScope2_documentation"
             xlink:label="res_203"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Absolute gross financed scope 2 greenhouse gas emissions. ‘Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
+            xlink:type="resource" xml:lang="en">Absolute gross financed scope 2 greenhouse gas emissions. 'Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope2"
             xlink:label="loc_203" xlink:type="locator"/>
@@ -2236,7 +2236,7 @@ A carbon credit is an emissions unit that is issued by a carbon crediting progra
             id="ifrs-sds_AbsoluteGrossFinancedEmissionsScope3_documentation"
             xlink:label="res_204"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Absolute gross financed scope 3 greenhouse gas emissions. ‘Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
+            xlink:type="resource" xml:lang="en">Absolute gross financed scope 3 greenhouse gas emissions. 'Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope3"
             xlink:label="loc_204" xlink:type="locator"/>
@@ -2247,7 +2247,7 @@ A carbon credit is an emissions unit that is issued by a carbon crediting progra
             id="ifrs-sds_AbsoluteGrossFinancedEmissions_documentation"
             xlink:label="res_205"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Absolute gross financed scope 1,2 and 3 greenhouse gas emissions. ‘Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
+            xlink:type="resource" xml:lang="en">Absolute gross financed scope 1,2 and 3 greenhouse gas emissions. 'Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissions"
             xlink:label="loc_205" xlink:type="locator"/>
@@ -2856,7 +2856,7 @@ A carbon credit is an emissions unit that is issued by a carbon crediting progra
             id="ifrs-sds_AbsoluteGrossFinancedEmissionsScope1And2_documentation"
             xlink:label="res_261"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Absolute gross financed scope 1 and 2 greenhouse gas emissions. ‘Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
+            xlink:type="resource" xml:lang="en">Absolute gross financed scope 1 and 2 greenhouse gas emissions. 'Financed emissions' refers to the portion of gross greenhouse gas emissions of an investee or counterparty attributed to the loans and investments made by an entity to the investee or counterparty. These emissions are part of scope 3 Category 15 (investments) as defined in the Greenhouse Gas Protocol Corporate Value Chain (scope 3) Accounting and Reporting Standard (2011).</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope1And2"
             xlink:label="loc_261" xlink:type="locator"/>
