@@ -6967,18 +6967,6 @@
     <link:label xlink:label="res_3178" xlink:role="http://www.xbrl.org/2003/role/label" xlink:title="label_ZeroemissionVehiclesZEVMember" xlink:type="resource" xml:lang="en">Zero-emission Vehicles (ZEV) [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ZeroemissionVehiclesZEVMember" xlink:label="loc_2433" xlink:title="ZeroemissionVehiclesZEVMember" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2433" xlink:title="label: ZeroemissionVehiclesZEVMember to label_ZeroemissionVehiclesZEVMember" xlink:to="res_3178" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConsumerGoodsSectorMember_label" xlink:label="res_3184" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Consumer Goods Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConsumerGoodsSectorMember" xlink:label="loc_2439" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2439" xlink:to="res_3184" xlink:type="arc"/>
-    <link:label id="ifrs-im_ApparelAndTextilesSubSectorMember_label" xlink:label="res_3185" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Apparel and Textiles Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ApparelAndTextilesSubSectorMember" xlink:label="loc_2440" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2440" xlink:to="res_3185" xlink:type="arc"/>
-    <link:label id="ifrs-im_ApparelAccessoriesAndFootwearMember_label" xlink:label="res_3186" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Apparel, Accessories and Footwear [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ApparelAccessoriesAndFootwearMember" xlink:label="loc_2441" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2441" xlink:to="res_3186" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConsumerDiscretionaryProductsSubSectorMember_label" xlink:label="res_3187" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Consumer Discretionary Products Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConsumerDiscretionaryProductsSubSectorMember" xlink:label="loc_2442" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2442" xlink:to="res_3187" xlink:type="arc"/>
     <link:label id="ifrs-im_ApplianceManufacturingMember_label" xlink:label="res_3188" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Appliance Manufacturing [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ApplianceManufacturingMember" xlink:label="loc_2443" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2443" xlink:to="res_3188" xlink:type="arc"/>
@@ -6991,42 +6979,18 @@
     <link:label id="ifrs-im_ToysAndSportingGoodsMember_label" xlink:label="res_3191" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Toys and Sporting Goods [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ToysAndSportingGoodsMember" xlink:label="loc_2446" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2446" xlink:to="res_3191" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConsumerGoodsRetailSubSectorMember_label" xlink:label="res_3192" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Consumer Goods Retail Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConsumerGoodsRetailSubSectorMember" xlink:label="loc_2447" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2447" xlink:to="res_3192" xlink:type="arc"/>
     <link:label id="ifrs-im_MultilineAndSpecialtyRetailersAndDistributorsMember_label" xlink:label="res_3193" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Multiline and Specialty Retailers and Distributors [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MultilineAndSpecialtyRetailersAndDistributorsMember" xlink:label="loc_2448" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2448" xlink:to="res_3193" xlink:type="arc"/>
     <link:label id="ifrs-im_ECommerceMember_label" xlink:label="res_3194" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">E-commerce [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ECommerceMember" xlink:label="loc_2449" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2449" xlink:to="res_3194" xlink:type="arc"/>
-    <link:label id="ifrs-im_ExtractivesAndMineralsProcessingSectorMember_label" xlink:label="res_3195" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extractives and Minerals Processing Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ExtractivesAndMineralsProcessingSectorMember" xlink:label="loc_2450" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2450" xlink:to="res_3195" xlink:type="arc"/>
-    <link:label id="ifrs-im_CoalSubSectorMember_label" xlink:label="res_3196" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Coal Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CoalSubSectorMember" xlink:label="loc_2451" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2451" xlink:to="res_3196" xlink:type="arc"/>
     <link:label id="ifrs-im_CoalOperationsMember_label" xlink:label="res_3197" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Coal Operations [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CoalOperationsMember" xlink:label="loc_2452" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2452" xlink:to="res_3197" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConstructionMaterialsSubSectorMember_label" xlink:label="res_3198" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Construction Materials Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConstructionMaterialsSubSectorMember" xlink:label="loc_2453" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2453" xlink:to="res_3198" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConstructionMaterialsMember_label" xlink:label="res_3199" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Construction Materials [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConstructionMaterialsMember" xlink:label="loc_2454" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2454" xlink:to="res_3199" xlink:type="arc"/>
-    <link:label id="ifrs-im_MetalsAndMiningSubSectorMember_label" xlink:label="res_3200" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metals and Mining Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MetalsAndMiningSubSectorMember" xlink:label="loc_2455" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2455" xlink:to="res_3200" xlink:type="arc"/>
     <link:label id="ifrs-im_IronAndSteelProducersMember_label" xlink:label="res_3201" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Iron and Steel Producers [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_IronAndSteelProducersMember" xlink:label="loc_2456" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2456" xlink:to="res_3201" xlink:type="arc"/>
-    <link:label id="ifrs-im_MetalsAndMiningMember_label" xlink:label="res_3202" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metals and Mining [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MetalsAndMiningMember" xlink:label="loc_2457" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2457" xlink:to="res_3202" xlink:type="arc"/>
-    <link:label id="ifrs-im_OilAndGasSubSectorMember_label" xlink:label="res_3203" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Oil and Gas Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_OilAndGasSubSectorMember" xlink:label="loc_2458" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2458" xlink:to="res_3203" xlink:type="arc"/>
     <link:label id="ifrs-im_OilAndGasExplorationAndProductionMember_label" xlink:label="res_3204" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Oil and Gas, Exploration and Production [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_OilAndGasExplorationAndProductionMember" xlink:label="loc_2459" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2459" xlink:to="res_3204" xlink:type="arc"/>
@@ -7036,15 +7000,6 @@
     <link:label id="ifrs-im_OilAndGasRefiningAndMarketingMember_label" xlink:label="res_3206" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Oil and Gas, Refining and Marketing [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_OilAndGasRefiningAndMarketingMember" xlink:label="loc_2461" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2461" xlink:to="res_3206" xlink:type="arc"/>
-    <link:label id="ifrs-im_OilAndGasServicesMember_label" xlink:label="res_3207" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Oil and Gas, Services [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_OilAndGasServicesMember" xlink:label="loc_2462" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2462" xlink:to="res_3207" xlink:type="arc"/>
-    <link:label id="ifrs-im_FinancialsSectorMember_label" xlink:label="res_3208" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Financials Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FinancialsSectorMember" xlink:label="loc_2463" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2463" xlink:to="res_3208" xlink:type="arc"/>
-    <link:label id="ifrs-im_CapitalMarketsSubSectorMember_label" xlink:label="res_3209" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Capital Markets Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CapitalMarketsSubSectorMember" xlink:label="loc_2464" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2464" xlink:to="res_3209" xlink:type="arc"/>
     <link:label id="ifrs-im_AssetManagementAndCustodyActivitiesMember_label" xlink:label="res_3210" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Asset Management and Custody Activities [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AssetManagementAndCustodyActivitiesMember" xlink:label="loc_2465" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2465" xlink:to="res_3210" xlink:type="arc"/>
@@ -7054,27 +7009,15 @@
     <link:label id="ifrs-im_SecurityAndCommodityExchangesMember_label" xlink:label="res_3212" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Security and Commodity Exchanges [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_SecurityAndCommodityExchangesMember" xlink:label="loc_2467" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2467" xlink:to="res_3212" xlink:type="arc"/>
-    <link:label id="ifrs-im_CorporateAndRetailBankingSubSectorMember_label" xlink:label="res_3213" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Corporate and Retail Banking Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CorporateAndRetailBankingSubSectorMember" xlink:label="loc_2468" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2468" xlink:to="res_3213" xlink:type="arc"/>
     <link:label id="ifrs-im_CommercialBanksMember_label" xlink:label="res_3214" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Commercial Banks [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CommercialBanksMember" xlink:label="loc_2469" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2469" xlink:to="res_3214" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConsumerFinanceMember_label" xlink:label="res_3215" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Consumer Finance [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConsumerFinanceMember" xlink:label="loc_2470" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2470" xlink:to="res_3215" xlink:type="arc"/>
     <link:label id="ifrs-im_MortgageFinanceMember_label" xlink:label="res_3216" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Mortgage Finance [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MortgageFinanceMember" xlink:label="loc_2471" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2471" xlink:to="res_3216" xlink:type="arc"/>
     <link:label id="ifrs-im_InsuranceMember_label" xlink:label="res_3217" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Insurance [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InsuranceMember" xlink:label="loc_2472" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2472" xlink:to="res_3217" xlink:type="arc"/>
-    <link:label id="ifrs-im_FoodAndBeverageSectorMember_label" xlink:label="res_3218" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Food and Beverage Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodAndBeverageSectorMember" xlink:label="loc_2473" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2473" xlink:to="res_3218" xlink:type="arc"/>
-    <link:label id="ifrs-im_FoodSubSectorMember_label" xlink:label="res_3219" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Food Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodSubSectorMember" xlink:label="loc_2474" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2474" xlink:to="res_3219" xlink:type="arc"/>
     <link:label id="ifrs-im_AgriculturalProductsMember_label" xlink:label="res_3220" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Agricultural Products [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AgriculturalProductsMember" xlink:label="loc_2475" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2475" xlink:to="res_3220" xlink:type="arc"/>
@@ -7084,51 +7027,18 @@
     <link:label id="ifrs-im_ProcessedFoodsMember_label" xlink:label="res_3222" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Processed Foods [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ProcessedFoodsMember" xlink:label="loc_2477" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2477" xlink:to="res_3222" xlink:type="arc"/>
-    <link:label id="ifrs-im_BeveragesSubSectorMember_label" xlink:label="res_3223" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Beverages Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_BeveragesSubSectorMember" xlink:label="loc_2478" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2478" xlink:to="res_3223" xlink:type="arc"/>
     <link:label id="ifrs-im_AlcoholicBeveragesMember_label" xlink:label="res_3224" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Alcoholic Beverages [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AlcoholicBeveragesMember" xlink:label="loc_2479" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2479" xlink:to="res_3224" xlink:type="arc"/>
     <link:label id="ifrs-im_NonAlcoholicBeveragesMember_label" xlink:label="res_3225" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Non-Alcoholic Beverages [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_NonAlcoholicBeveragesMember" xlink:label="loc_2480" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2480" xlink:to="res_3225" xlink:type="arc"/>
-    <link:label id="ifrs-im_FoodAndBeverageRetailSubSectorMember_label" xlink:label="res_3226" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Food and Beverage Retail Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodAndBeverageRetailSubSectorMember" xlink:label="loc_2481" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2481" xlink:to="res_3226" xlink:type="arc"/>
     <link:label id="ifrs-im_FoodRetailersAndDistributorsMember_label" xlink:label="res_3227" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Food Retailers and Distributors [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodRetailersAndDistributorsMember" xlink:label="loc_2482" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2482" xlink:to="res_3227" xlink:type="arc"/>
-    <link:label id="ifrs-im_RestaurantsSubSectorMember_label" xlink:label="res_3228" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Restaurants Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RestaurantsSubSectorMember" xlink:label="loc_2483" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2483" xlink:to="res_3228" xlink:type="arc"/>
-    <link:label id="ifrs-im_RestaurantsMember_label" xlink:label="res_3229" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Restaurants [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RestaurantsMember" xlink:label="loc_2484" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2484" xlink:to="res_3229" xlink:type="arc"/>
-    <link:label id="ifrs-im_TobaccoSubSectorMember_label" xlink:label="res_3230" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tobacco Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TobaccoSubSectorMember" xlink:label="loc_2485" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2485" xlink:to="res_3230" xlink:type="arc"/>
-    <link:label id="ifrs-im_TobaccoMember_label" xlink:label="res_3231" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tobacco [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TobaccoMember" xlink:label="loc_2486" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2486" xlink:to="res_3231" xlink:type="arc"/>
-    <link:label id="ifrs-im_HealthCareSectorMember_label" xlink:label="res_3232" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Health Care Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HealthCareSectorMember" xlink:label="loc_2487" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2487" xlink:to="res_3232" xlink:type="arc"/>
-    <link:label id="ifrs-im_BiotechnologyAndPharmaceuticalsSubSectorMember_label" xlink:label="res_3233" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Biotechnology and Pharmaceuticals Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_BiotechnologyAndPharmaceuticalsSubSectorMember" xlink:label="loc_2488" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2488" xlink:to="res_3233" xlink:type="arc"/>
-    <link:label id="ifrs-im_BiotechnologyAndPharmaceuticalsMember_label" xlink:label="res_3234" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Biotechnology and Pharmaceuticals [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_BiotechnologyAndPharmaceuticalsMember" xlink:label="loc_2489" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2489" xlink:to="res_3234" xlink:type="arc"/>
-    <link:label id="ifrs-im_HealthCareRetailSubSectorMember_label" xlink:label="res_3235" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Health Care Retail Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HealthCareRetailSubSectorMember" xlink:label="loc_2490" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2490" xlink:to="res_3235" xlink:type="arc"/>
     <link:label id="ifrs-im_DrugRetailersMember_label" xlink:label="res_3236" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Drug Retailers [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_DrugRetailersMember" xlink:label="loc_2491" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2491" xlink:to="res_3236" xlink:type="arc"/>
-    <link:label id="ifrs-im_HealthCareProvidersSubSectorMember_label" xlink:label="res_3237" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Health Care Providers Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HealthCareProvidersSubSectorMember" xlink:label="loc_2492" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2492" xlink:to="res_3237" xlink:type="arc"/>
     <link:label id="ifrs-im_HealthCareDeliveryMember_label" xlink:label="res_3238" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Health Care Delivery [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HealthCareDeliveryMember" xlink:label="loc_2493" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2493" xlink:to="res_3238" xlink:type="arc"/>
@@ -7144,12 +7054,6 @@
     <link:label id="ifrs-im_MedicalEquipmentAndSuppliesMember_label" xlink:label="res_3242" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Medical Equipment and Supplies [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MedicalEquipmentAndSuppliesMember" xlink:label="loc_2497" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2497" xlink:to="res_3242" xlink:type="arc"/>
-    <link:label id="ifrs-im_InfrastructureSectorMember_label" xlink:label="res_3243" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Infrastructure Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InfrastructureSectorMember" xlink:label="loc_2498" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2498" xlink:to="res_3243" xlink:type="arc"/>
-    <link:label id="ifrs-im_UtilitiesSubSectorMember_label" xlink:label="res_3244" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Utilities Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_UtilitiesSubSectorMember" xlink:label="loc_2499" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2499" xlink:to="res_3244" xlink:type="arc"/>
     <link:label id="ifrs-im_ElectricUtilitiesAndPowerGeneratorsMember_label" xlink:label="res_3245" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Electric Utilities and Power Generators [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ElectricUtilitiesAndPowerGeneratorsMember" xlink:label="loc_2500" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2500" xlink:to="res_3245" xlink:type="arc"/>
@@ -7159,36 +7063,15 @@
     <link:label id="ifrs-im_WaterUtilitiesAndServicesMember_label" xlink:label="res_3247" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Water Utilities and Services [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WaterUtilitiesAndServicesMember" xlink:label="loc_2502" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2502" xlink:to="res_3247" xlink:type="arc"/>
-    <link:label id="ifrs-im_InfrastructureSubSectorMember_label" xlink:label="res_3248" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Infrastructure Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InfrastructureSubSectorMember" xlink:label="loc_2503" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2503" xlink:to="res_3248" xlink:type="arc"/>
     <link:label id="ifrs-im_EngineeringAndConstructionServicesMember_label" xlink:label="res_3249" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Engineering and Construction Services [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EngineeringAndConstructionServicesMember" xlink:label="loc_2504" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2504" xlink:to="res_3249" xlink:type="arc"/>
-    <link:label id="ifrs-im_RealEstateSubSectorMember_label" xlink:label="res_3250" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Real Estate Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RealEstateSubSectorMember" xlink:label="loc_2505" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2505" xlink:to="res_3250" xlink:type="arc"/>
     <link:label id="ifrs-im_HomeBuildersMember_label" xlink:label="res_3251" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Home Builders [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HomeBuildersMember" xlink:label="loc_2506" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2506" xlink:to="res_3251" xlink:type="arc"/>
     <link:label id="ifrs-im_RealEstateMember_label" xlink:label="res_3252" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Real Estate [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RealEstateMember" xlink:label="loc_2507" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2507" xlink:to="res_3252" xlink:type="arc"/>
-    <link:label id="ifrs-im_RealEstateServicesMember_label" xlink:label="res_3253" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Real Estate Services [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RealEstateServicesMember" xlink:label="loc_2508" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2508" xlink:to="res_3253" xlink:type="arc"/>
-    <link:label id="ifrs-im_WasteManagementSubSectorMember_label" xlink:label="res_3254" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Waste Management Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WasteManagementSubSectorMember" xlink:label="loc_2509" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2509" xlink:to="res_3254" xlink:type="arc"/>
-    <link:label id="ifrs-im_WasteManagementMember_label" xlink:label="res_3255" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Waste Management [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WasteManagementMember" xlink:label="loc_2510" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2510" xlink:to="res_3255" xlink:type="arc"/>
-    <link:label id="ifrs-im_RenewableResourcesAndAlternativeEnergySectorMember_label" xlink:label="res_3256" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Renewable Resources and Alternative Energy Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RenewableResourcesAndAlternativeEnergySectorMember" xlink:label="loc_2511" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2511" xlink:to="res_3256" xlink:type="arc"/>
-    <link:label id="ifrs-im_AlternativeEnergySubSectorMember_label" xlink:label="res_3257" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Alternative Energy Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AlternativeEnergySubSectorMember" xlink:label="loc_2512" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2512" xlink:to="res_3257" xlink:type="arc"/>
     <link:label id="ifrs-im_BiofuelsMember_label" xlink:label="res_3258" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Biofuels [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_BiofuelsMember" xlink:label="loc_2513" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2513" xlink:to="res_3258" xlink:type="arc"/>
@@ -7201,21 +7084,9 @@
     <link:label id="ifrs-im_WindTechnologyAndProjectDevelopersMember_label" xlink:label="res_3261" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Wind Technology and Project Developers [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WindTechnologyAndProjectDevelopersMember" xlink:label="loc_2516" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2516" xlink:to="res_3261" xlink:type="arc"/>
-    <link:label id="ifrs-im_ForestryAndPaperSubSectorMember_label" xlink:label="res_3262" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Forestry and Paper Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ForestryAndPaperSubSectorMember" xlink:label="loc_2517" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2517" xlink:to="res_3262" xlink:type="arc"/>
-    <link:label id="ifrs-im_ForestryManagementMember_label" xlink:label="res_3263" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Forestry Management [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ForestryManagementMember" xlink:label="loc_2518" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2518" xlink:to="res_3263" xlink:type="arc"/>
     <link:label id="ifrs-im_PulpAndPaperProductsMember_label" xlink:label="res_3264" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Pulp and Paper Products [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_PulpAndPaperProductsMember" xlink:label="loc_2519" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2519" xlink:to="res_3264" xlink:type="arc"/>
-    <link:label id="ifrs-im_ResourceTransformationSectorMember_label" xlink:label="res_3265" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Resource Transformation Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ResourceTransformationSectorMember" xlink:label="loc_2520" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2520" xlink:to="res_3265" xlink:type="arc"/>
-    <link:label id="ifrs-im_IndustrialsSubSectorMember_label" xlink:label="res_3266" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Industrials Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_IndustrialsSubSectorMember" xlink:label="loc_2521" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2521" xlink:to="res_3266" xlink:type="arc"/>
     <link:label id="ifrs-im_AerospaceAndDefenseMember_label" xlink:label="res_3267" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Aerospace and Defense [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AerospaceAndDefenseMember" xlink:label="loc_2522" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2522" xlink:to="res_3267" xlink:type="arc"/>
@@ -7225,30 +7096,9 @@
     <link:label id="ifrs-im_ElectricalAndElectronicEquipmentMember_label" xlink:label="res_3269" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Electrical and Electronic Equipment [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ElectricalAndElectronicEquipmentMember" xlink:label="loc_2524" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2524" xlink:to="res_3269" xlink:type="arc"/>
-    <link:label id="ifrs-im_IndustrialMachineryAndGoodsMember_label" xlink:label="res_3270" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Industrial Machinery and Goods [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_IndustrialMachineryAndGoodsMember" xlink:label="loc_2525" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2525" xlink:to="res_3270" xlink:type="arc"/>
-    <link:label id="ifrs-im_ChemicalsSubSectorMember_label" xlink:label="res_3271" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Chemicals Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ChemicalsSubSectorMember" xlink:label="loc_2526" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2526" xlink:to="res_3271" xlink:type="arc"/>
-    <link:label id="ifrs-im_ChemicalsMember_label" xlink:label="res_3272" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Chemicals [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ChemicalsMember" xlink:label="loc_2527" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2527" xlink:to="res_3272" xlink:type="arc"/>
-    <link:label id="ifrs-im_ServicesSectorMember_label" xlink:label="res_3273" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Services Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ServicesSectorMember" xlink:label="loc_2528" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2528" xlink:to="res_3273" xlink:type="arc"/>
-    <link:label id="ifrs-im_MediaSubSectorMember_label" xlink:label="res_3274" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Media Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MediaSubSectorMember" xlink:label="loc_2529" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2529" xlink:to="res_3274" xlink:type="arc"/>
     <link:label id="ifrs-im_AdvertisingAndMarketingMember_label" xlink:label="res_3275" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Advertising and Marketing [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AdvertisingAndMarketingMember" xlink:label="loc_2530" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2530" xlink:to="res_3275" xlink:type="arc"/>
-    <link:label id="ifrs-im_MediaAndEntertainmentMember_label" xlink:label="res_3276" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Media and Entertainment [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MediaAndEntertainmentMember" xlink:label="loc_2531" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2531" xlink:to="res_3276" xlink:type="arc"/>
-    <link:label id="ifrs-im_HospitalityAndRecreationSubSectorMember_label" xlink:label="res_3277" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Hospitality and Recreation Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HospitalityAndRecreationSubSectorMember" xlink:label="loc_2532" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2532" xlink:to="res_3277" xlink:type="arc"/>
     <link:label id="ifrs-im_CasinosAndGamingMember_label" xlink:label="res_3278" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Casinos and Gaming [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CasinosAndGamingMember" xlink:label="loc_2533" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2533" xlink:to="res_3278" xlink:type="arc"/>
@@ -7258,9 +7108,6 @@
     <link:label id="ifrs-im_LeisureFacilitiesMember_label" xlink:label="res_3280" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Leisure Facilities [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_LeisureFacilitiesMember" xlink:label="loc_2535" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2535" xlink:to="res_3280" xlink:type="arc"/>
-    <link:label id="ifrs-im_ConsumerServicesSubSectorMember_label" xlink:label="res_3281" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Consumer Services Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConsumerServicesSubSectorMember" xlink:label="loc_2536" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2536" xlink:to="res_3281" xlink:type="arc"/>
     <link:label id="ifrs-im_EducationMember_label" xlink:label="res_3282" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Education [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EducationMember" xlink:label="loc_2537" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2537" xlink:to="res_3282" xlink:type="arc"/>
@@ -7282,60 +7129,21 @@
     <link:label id="ifrs-im_SoftwareAndItServicesMember_label" xlink:label="res_3288" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Software and IT Services [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_SoftwareAndItServicesMember" xlink:label="loc_2543" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2543" xlink:to="res_3288" xlink:type="arc"/>
-    <link:label id="ifrs-im_InternetMediaAndServicesSubSectorMember_label" xlink:label="res_3289" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Internet Media and Services Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InternetMediaAndServicesSubSectorMember" xlink:label="loc_2544" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2544" xlink:to="res_3289" xlink:type="arc"/>
-    <link:label id="ifrs-im_InternetMediaAndServicesMember_label" xlink:label="res_3290" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Internet Media and Services [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InternetMediaAndServicesMember" xlink:label="loc_2545" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2545" xlink:to="res_3290" xlink:type="arc"/>
-    <link:label id="ifrs-im_SemiconductorsSubSectorMember_label" xlink:label="res_3291" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Semiconductors Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_SemiconductorsSubSectorMember" xlink:label="loc_2546" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2546" xlink:to="res_3291" xlink:type="arc"/>
-    <link:label id="ifrs-im_SemiconductorsMember_label" xlink:label="res_3292" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Semiconductors [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_SemiconductorsMember" xlink:label="loc_2547" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2547" xlink:to="res_3292" xlink:type="arc"/>
-    <link:label id="ifrs-im_TelecommunicationsSubSectorMember_label" xlink:label="res_3293" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Telecommunications Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TelecommunicationsSubSectorMember" xlink:label="loc_2548" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2548" xlink:to="res_3293" xlink:type="arc"/>
-    <link:label id="ifrs-im_TelecommunicationServicesMember_label" xlink:label="res_3294" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Telecommunication Services [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TelecommunicationServicesMember" xlink:label="loc_2549" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2549" xlink:to="res_3294" xlink:type="arc"/>
-    <link:label id="ifrs-im_TransportationSectorMember_label" xlink:label="res_3295" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transportation Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TransportationSectorMember" xlink:label="loc_2550" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2550" xlink:to="res_3295" xlink:type="arc"/>
-    <link:label id="ifrs-im_AirTransportationSubSectorMember_label" xlink:label="res_3296" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air Transportation Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AirTransportationSubSectorMember" xlink:label="loc_2551" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2551" xlink:to="res_3296" xlink:type="arc"/>
     <link:label id="ifrs-im_AirlinesMember_label" xlink:label="res_3297" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Airlines [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AirlinesMember" xlink:label="loc_2552" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2552" xlink:to="res_3297" xlink:type="arc"/>
     <link:label id="ifrs-im_AirFreightAndLogisticsMember_label" xlink:label="res_3298" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air Freight and Logistics [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AirFreightAndLogisticsMember" xlink:label="loc_2553" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2553" xlink:to="res_3298" xlink:type="arc"/>
-    <link:label id="ifrs-im_AutomobilesSubSectorMember_label" xlink:label="res_3299" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Automobiles Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AutomobilesSubSectorMember" xlink:label="loc_2554" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2554" xlink:to="res_3299" xlink:type="arc"/>
-    <link:label id="ifrs-im_AutomobilesMember_label" xlink:label="res_3300" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Automobiles [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AutomobilesMember" xlink:label="loc_2555" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2555" xlink:to="res_3300" xlink:type="arc"/>
     <link:label id="ifrs-im_AutoPartsMember_label" xlink:label="res_3301" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Auto Parts [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AutoPartsMember" xlink:label="loc_2556" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2556" xlink:to="res_3301" xlink:type="arc"/>
     <link:label id="ifrs-im_CarRentalAndLeasingMember_label" xlink:label="res_3302" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Car Rental and Leasing [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CarRentalAndLeasingMember" xlink:label="loc_2557" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2557" xlink:to="res_3302" xlink:type="arc"/>
-    <link:label id="ifrs-im_MarineTransportationSubSectorMember_label" xlink:label="res_3303" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Marine Transportation Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MarineTransportationSubSectorMember" xlink:label="loc_2558" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2558" xlink:to="res_3303" xlink:type="arc"/>
     <link:label id="ifrs-im_CruiseLinesMember_label" xlink:label="res_3304" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Cruise Lines [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CruiseLinesMember" xlink:label="loc_2559" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2559" xlink:to="res_3304" xlink:type="arc"/>
-    <link:label id="ifrs-im_MarineTransportationMember_label" xlink:label="res_3305" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Marine Transportation [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MarineTransportationMember" xlink:label="loc_2560" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2560" xlink:to="res_3305" xlink:type="arc"/>
-    <link:label id="ifrs-im_LandTransportationSubSectorMember_label" xlink:label="res_3306" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Land Transportation Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_LandTransportationSubSectorMember" xlink:label="loc_2561" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2561" xlink:to="res_3306" xlink:type="arc"/>
     <link:label id="ifrs-im_RailTransportationMember_label" xlink:label="res_3307" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Rail Transportation [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RailTransportationMember" xlink:label="loc_2562" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2562" xlink:to="res_3307" xlink:type="arc"/>
