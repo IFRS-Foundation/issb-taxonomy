@@ -1,11 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?><!--Dummy comment--><xsd:schema elementFormDefault="qualified" targetNamespace="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-im" xmlns:dtr-2022="http://www.xbrl.org/dtr/type/2022-03-31" xmlns:enum2="http://xbrl.org/2020/extensible-enumerations-2.0" xmlns:ifrs-im="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-im" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Dummy comment-->
+<xsd:schema elementFormDefault="qualified" targetNamespace="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-im" xmlns:dtr-2022="http://www.xbrl.org/dtr/type/2022-03-31" xmlns:enum2="http://xbrl.org/2020/extensible-enumerations-2.0" xmlns:ifrs-im="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-im" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xsd:import namespace="http://www.xbrl.org/dtr/type/2022-03-31" schemaLocation="https://www.xbrl.org/dtr/type/2022-03-31/types.xsd"/>
   <xsd:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd"/>
   <xsd:import namespace="http://xbrl.org/2020/extensible-enumerations-2.0" schemaLocation="https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd"/>
-
-   <xsd:element abstract="false" id="ifrs-im_GrossScope1GreenhouseGasEmissions" name="GrossScope1GreenhouseGasEmissions" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>
-
   <xsd:element abstract="true" id="ifrs-im_ActiveOnlineGamingCustomersMember" name="ActiveOnlineGamingCustomersMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="false" id="ifrs-im_ActiveProjectsNumber" name="ActiveProjectsNumber" nillable="true" substitutionGroup="xbrli:item" type="xbrli:nonNegativeIntegerItemType" xbrli:periodType="instant"/>
   <xsd:element abstract="true" id="ifrs-im_ActiveRigSiteMember" name="ActiveRigSiteMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
@@ -703,34 +702,20 @@
   <xsd:element abstract="true" id="ifrs-im_FICOScoresBelowOrEqualTo660Member" name="FICOScoresBelowOrEqualTo660Member" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNAC000AAbstract" name="FNAC000AAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNAC000BAbstract" name="FNAC000BAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNAC1Abstract" name="FNAC1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNAC2Abstract" name="FNAC2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNAC3Abstract" name="FNAC3Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNAC410a1Abstract" name="FNAC410a1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNAC410a2Abstract" name="FNAC410a2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNAC410a3Abstract" name="FNAC410a3Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNAC4Abstract" name="FNAC4Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNCB000AAbstract" name="FNCB000AAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNCB000BAbstract" name="FNCB000BAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNCB1Abstract" name="FNCB1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNCB2Abstract" name="FNCB2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNCB3Abstract" name="FNCB3Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNCB410a1Abstract" name="FNCB410a1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNCB410a2Abstract" name="FNCB410a2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNCB4Abstract" name="FNCB4Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNCB5Abstract" name="FNCB5Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIB000AAbstract" name="FNIB000AAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIB000BAbstract" name="FNIB000BAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIB000CAbstract" name="FNIB000CAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIB1Abstract" name="FNIB1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIB2Abstract" name="FNIB2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIB410a1Abstract" name="FNIB410a1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIB410a2Abstract" name="FNIB410a2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIB410a3Abstract" name="FNIB410a3Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIN000AAbstract" name="FNIN000AAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIN1Abstract" name="FNIN1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIN2Abstract" name="FNIN2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIN3Abstract" name="FNIN3Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIN410a1Abstract" name="FNIN410a1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIN410a2Abstract" name="FNIN410a2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIN410b1Abstract" name="FNIN410b1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
@@ -738,8 +723,6 @@
   <xsd:element abstract="true" id="ifrs-im_FNIN450a1Abstract" name="FNIN450a1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIN450a2Abstract" name="FNIN450a2Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNIN450a3Abstract" name="FNIN450a3Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIN4Abstract" name="FNIN4Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_FNIN5Abstract" name="FNIN5Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNMF000AAbstract" name="FNMF000AAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNMF000BAbstract" name="FNMF000BAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_FNMF450a1Abstract" name="FNMF450a1Abstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
@@ -915,16 +898,6 @@
   <xsd:element abstract="true" id="ifrs-im_GridElectricityMember" name="GridElectricityMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_GridResiliencyDisclosureAbstract" name="GridResiliencyDisclosureAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="false" id="ifrs-im_GridResiliencyDisclosureTextBlock" name="GridResiliencyDisclosureTextBlock" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope1" name="GrossEmissionsIntensityFinancedEmissionsScope1" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope2" name="GrossEmissionsIntensityFinancedEmissionsScope2" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope3" name="GrossEmissionsIntensityFinancedEmissionsScope3" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossExposure" name="GrossExposure" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossExposureIncludedInFinancedEmissionsCalculationPercentage" name="GrossExposureIncludedInFinancedEmissionsCalculationPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossExposureToAllIndustries" name="GrossExposureToAllIndustries" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="false" id="ifrs-im_GrossExposureToCarbonRelatedIndustries" name="GrossExposureToCarbonRelatedIndustries" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_GrossExposureToCarbonRelatedIndustriesAbstract" name="GrossExposureToCarbonRelatedIndustriesAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_GrossExposureToCarbonRelatedIndustriesLineItems" name="GrossExposureToCarbonRelatedIndustriesLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-  <xsd:element abstract="true" id="ifrs-im_GrossExposureToCarbonRelatedIndustriesTable" name="GrossExposureToCarbonRelatedIndustriesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_GrossScope1GreenhouseGasEmissionsAbstract" name="GrossScope1GreenhouseGasEmissionsAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="false" id="ifrs-im_GrossScope1GreenhouseGasEmissionsIntensity" name="GrossScope1GreenhouseGasEmissionsIntensity" nillable="true" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="duration"/>
   <xsd:element abstract="true" id="ifrs-im_GrossScope1GreenhouseGasEmissionsLineItems" name="GrossScope1GreenhouseGasEmissionsLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>

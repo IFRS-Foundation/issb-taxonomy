@@ -103,7 +103,7 @@
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_Scope1EmissionsLongTermAndShortTermStrategyTargetsAndPerformanceAnalysisTextBlock" xlink:label="loc_65" xlink:title="Scope1EmissionsLongTermAndShortTermStrategyTargetsAndPerformanceAnalysisTextBlock" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FBAG110a2Abstract" xlink:label="loc_64" xlink:title="FBAG110a2Abstract" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:title="presentation: FBAG110a2Abstract to Scope1EmissionsLongTermAndShortTermStrategyTargetsAndPerformanceAnalysisTextBlock" xlink:to="loc_65" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossScope1GreenhouseGasEmissions" xlink:label="loc_67" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
+    <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_67" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FBAG110a1Abstract" xlink:label="loc_66" xlink:title="FBAG110a1Abstract" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:title="presentation: FBAG110a1Abstract to GrossScope1GreenhouseGasEmissions" xlink:to="loc_67" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FBAG000AAbstract" xlink:label="loc_69" xlink:title="FBAG000AAbstract" xlink:type="locator"/>

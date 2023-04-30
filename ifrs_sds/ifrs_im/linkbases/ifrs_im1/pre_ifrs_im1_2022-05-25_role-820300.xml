@@ -67,7 +67,7 @@
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:title="presentation: EmissionSourceAxis to EmissionSourceDomain" xlink:to="loc_43" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RefrigerantsMember" xlink:label="loc_44" xlink:title="RefrigerantsMember" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:title="presentation: EmissionSourceDomain to RefrigerantsMember" xlink:to="loc_44" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossScope1GreenhouseGasEmissions" xlink:label="loc_46" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
+    <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_46" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsLineItems" xlink:label="loc_45" xlink:title="GrossScope1GreenhouseGasEmissionsLineItems" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:title="presentation: GrossScope1GreenhouseGasEmissionsLineItems to GrossScope1GreenhouseGasEmissions" xlink:to="loc_46" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FacilityTypeAxis" xlink:label="loc_48" xlink:title="FacilityTypeAxis" xlink:type="locator"/>

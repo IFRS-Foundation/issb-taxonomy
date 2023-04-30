@@ -7239,8 +7239,6 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FN-IN-450a.1</ref:Section>
     </link:reference>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ClimateRelatedScenariosUsedIncludingInputParametersAssumptionsAndConsiderationsAnalyticalChoicesAndTimeFramesInCalculationOfPMLTextBlock" xlink:label="loc_885" xlink:title="ClimateRelatedScenariosUsedIncludingInputParametersAssumptionsAndConsiderationsAnalyticalChoicesAndTimeFramesInCalculationOfPMLTextBlock" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_885" xlink:title="reference: ClimateRelatedScenariosUsedIncludingInputParametersAssumptionsAndConsiderationsAnalyticalChoicesAndTimeFramesInCalculationOfPMLTextBlock to reference_ClimateRelatedScenariosUsedIncludingInputParametersAssumptionsAndConsiderationsAnalyticalChoicesAndTimeFramesInCalculationOfPMLTextBlock" xlink:to="res_908" xlink:type="arc"/>
     <link:reference xlink:label="res_909" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_CoalReservesProbable" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
       <ref:Number>S2</ref:Number>
@@ -9124,7 +9122,7 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>EM-CM-110a.1</ref:Section>
     </link:reference>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossScope1GreenhouseGasEmissions" xlink:label="loc_978" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
+    <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_978" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_978" xlink:title="reference: GrossScope1GreenhouseGasEmissions to reference_GrossScope1GreenhouseGasEmissions" xlink:to="res_1167" xlink:type="arc"/>
     <link:reference xlink:label="res_1168" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_GrossScope1GreenhouseGasEmissions" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
@@ -15904,10 +15902,6 @@
     </link:reference>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WoodSupplyChainManagementDisclosureTextBlock" xlink:label="loc_1324" xlink:title="WoodSupplyChainManagementDisclosureTextBlock" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1324" xlink:title="reference: WoodSupplyChainManagementDisclosureTextBlock to reference_WoodSupplyChainManagementDisclosureTextBlock" xlink:to="res_2092" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConsumerGoodsSectorMember" xlink:label="loc_1325" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1325" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ApparelAccessoriesAndFootwearMember" xlink:label="loc_1326" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1326" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ApplianceManufacturingMember" xlink:label="loc_1327" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1327" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_BuildingProductsAndFurnishingsMember" xlink:label="loc_1328" xlink:type="locator"/>
@@ -15918,18 +15912,10 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1330" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ECommerceMember" xlink:label="loc_1331" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1331" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ExtractivesAndMineralsProcessingSectorMember" xlink:label="loc_1332" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1332" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CoalOperationsMember" xlink:label="loc_1333" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1333" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ConstructionMaterialsMember" xlink:label="loc_1334" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1334" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_IronAndSteelProducersMember" xlink:label="loc_1335" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1335" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MetalsAndMiningMember" xlink:label="loc_1336" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1336" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FinancialsSectorMember" xlink:label="loc_1337" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1337" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AssetManagementAndCustodyActivitiesMember" xlink:label="loc_1338" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1338" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InvestmentBankingAndBrokerageMember" xlink:label="loc_1339" xlink:type="locator"/>
@@ -15940,8 +15926,6 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1341" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InsuranceMember" xlink:label="loc_1342" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1342" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodAndBeverageSectorMember" xlink:label="loc_1343" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1343" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AgriculturalProductsMember" xlink:label="loc_1344" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1344" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MeatPoultryAndDairyMember" xlink:label="loc_1345" xlink:type="locator"/>
@@ -15954,10 +15938,6 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1348" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodRetailersAndDistributorsMember" xlink:label="loc_1349" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1349" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RestaurantsMember" xlink:label="loc_1350" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1350" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HealthCareSectorMember" xlink:label="loc_1351" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1351" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_DrugRetailersMember" xlink:label="loc_1352" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1352" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HealthCareDeliveryMember" xlink:label="loc_1353" xlink:type="locator"/>
@@ -15968,8 +15948,6 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1355" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MedicalEquipmentAndSuppliesMember" xlink:label="loc_1356" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1356" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InfrastructureSectorMember" xlink:label="loc_1357" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1357" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ElectricUtilitiesAndPowerGeneratorsMember" xlink:label="loc_1358" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1358" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GasUtilitiesAndDistributorsMember" xlink:label="loc_1359" xlink:type="locator"/>
@@ -15982,12 +15960,6 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1362" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RealEstateMember" xlink:label="loc_1363" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1363" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RealEstateServicesMember" xlink:label="loc_1364" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1364" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WasteManagementMember" xlink:label="loc_1365" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1365" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RenewableResourcesAndAlternativeEnergySectorMember" xlink:label="loc_1366" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1366" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_BiofuelsMember" xlink:label="loc_1367" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1367" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelCellsAndIndustrialBatteriesMember" xlink:label="loc_1368" xlink:type="locator"/>
@@ -15996,24 +15968,14 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1369" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WindTechnologyAndProjectDevelopersMember" xlink:label="loc_1370" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1370" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ForestryManagementMember" xlink:label="loc_1371" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1371" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_PulpAndPaperProductsMember" xlink:label="loc_1372" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1372" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ResourceTransformationSectorMember" xlink:label="loc_1373" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1373" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AerospaceAndDefenseMember" xlink:label="loc_1374" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1374" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ContainersAndPackagingMember" xlink:label="loc_1375" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1375" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ElectricalAndElectronicEquipmentMember" xlink:label="loc_1376" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1376" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_IndustrialMachineryAndGoodsMember" xlink:label="loc_1377" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1377" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ChemicalsMember" xlink:label="loc_1378" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1378" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ServicesSectorMember" xlink:label="loc_1379" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1379" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CasinosAndGamingMember" xlink:label="loc_1380" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1380" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_HotelsAndLodgingMember" xlink:label="loc_1381" xlink:type="locator"/>
@@ -16028,28 +15990,16 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1385" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_SoftwareAndItServicesMember" xlink:label="loc_1386" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1386" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_InternetMediaAndServicesMember" xlink:label="loc_1387" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1387" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_SemiconductorsMember" xlink:label="loc_1388" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1388" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TelecommunicationServicesMember" xlink:label="loc_1389" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1389" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TransportationSectorMember" xlink:label="loc_1390" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1390" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AirlinesMember" xlink:label="loc_1391" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1391" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AirFreightAndLogisticsMember" xlink:label="loc_1392" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1392" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AutomobilesMember" xlink:label="loc_1393" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1393" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AutoPartsMember" xlink:label="loc_1394" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1394" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CarRentalAndLeasingMember" xlink:label="loc_1395" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1395" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_CruiseLinesMember" xlink:label="loc_1396" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1396" xlink:to="res_1" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MarineTransportationMember" xlink:label="loc_1397" xlink:type="locator"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1397" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RailTransportationMember" xlink:label="loc_1398" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1398" xlink:to="res_1" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RoadTransportationMember" xlink:label="loc_1399" xlink:type="locator"/>
@@ -16827,7 +16777,6 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FN-CB-410a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1589" xlink:title="reference: GICSClassifiedIndustriesAxis to reference_FN-CB-410a.1" xlink:to="res_2447" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GICSClassifiedIndustriesDomain" xlink:label="loc_2448" xlink:title="AerospaceAndDefenseIndustryAbstract" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2448" xlink:title="reference: GICSClassifiedIndustriesDomain to reference_FN-CB-410a.1" xlink:to="res_2447" xlink:type="arc"/>
     <link:reference xlink:label="res_2449" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FN-CB-000.A" xlink:type="resource">
@@ -18134,7 +18083,6 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FN-IN-410a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1589" xlink:title="reference: GICSClassifiedIndustriesAxis to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2448" xlink:title="reference: GICSClassifiedIndustriesDomain to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ExternalCreditGradesAxis" xlink:label="loc_3100" xlink:title="AerospaceAndDefenseIndustryAbstract" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3100" xlink:title="reference: ExternalCreditGradesAxis to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
@@ -18150,7 +18098,6 @@
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3105" xlink:title="reference: RealEstateInvestmentMember to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MortgagesMember" xlink:label="loc_3106" xlink:title="AerospaceAndDefenseIndustryAbstract" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3106" xlink:title="reference: MortgagesMember to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1590" xlink:title="reference: DerivativesMember to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EquitySecuritiesMember" xlink:label="loc_3108" xlink:title="AerospaceAndDefenseIndustryAbstract" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3108" xlink:title="reference: EquitySecuritiesMember to reference_FN-IN-410a.1" xlink:to="res_3098" xlink:type="arc"/>
     <link:reference xlink:label="res_3109" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FN-IN-410b.1" xlink:type="resource">
@@ -18306,7 +18253,6 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FN-IB-410a.2</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1589" xlink:title="reference: GICSClassifiedIndustriesAxis to reference_FN-IB-410a.2" xlink:to="res_3217" xlink:type="arc"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2448" xlink:title="reference: GICSClassifiedIndustriesDomain to reference_FN-IB-410a.2" xlink:to="res_3217" xlink:type="arc"/>
     <link:reference xlink:label="res_3221" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FN-IB-410a.1" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>
@@ -18314,7 +18260,6 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FN-IB-410a.1</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1589" xlink:title="reference: GICSClassifiedIndustriesAxis to reference_FN-IB-410a.1" xlink:to="res_3221" xlink:type="arc"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2448" xlink:title="reference: GICSClassifiedIndustriesDomain to reference_FN-IB-410a.1" xlink:to="res_3221" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TransactionTypeAxis" xlink:label="loc_3223" xlink:title="AerospaceAndDefenseIndustryAbstract" xlink:type="locator"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3223" xlink:title="reference: TransactionTypeAxis to reference_FN-IB-410a.1" xlink:to="res_3221" xlink:type="arc"/>
@@ -18343,7 +18288,6 @@
       <ref:IssueDate>2022-03-31</ref:IssueDate>
       <ref:Section>FN-IB-000.B</ref:Section>
     </link:reference>
-    <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1589" xlink:title="reference: GICSClassifiedIndustriesAxis to reference_FN-IB-000.B" xlink:to="res_3238" xlink:type="arc"/>
     <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2448" xlink:title="reference: GICSClassifiedIndustriesDomain to reference_FN-IB-000.B" xlink:to="res_3238" xlink:type="arc"/>
     <link:reference xlink:label="res_3242" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:title="reference_FN-IB-000.C" xlink:type="resource">
       <ref:Name>IFRS</ref:Name>

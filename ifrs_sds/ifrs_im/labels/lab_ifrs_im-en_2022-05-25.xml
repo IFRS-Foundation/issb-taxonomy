@@ -7048,9 +7048,6 @@
     <link:label id="ifrs-im_ManagedCareMember_label" xlink:label="res_3240" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Managed Care [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ManagedCareMember" xlink:label="loc_2495" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2495" xlink:to="res_3240" xlink:type="arc"/>
-    <link:label id="ifrs-im_MedicalTechnologySubSectorMember_label" xlink:label="res_3241" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Medical Technology Sub-Sector [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MedicalTechnologySubSectorMember" xlink:label="loc_2496" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2496" xlink:to="res_3241" xlink:type="arc"/>
     <link:label id="ifrs-im_MedicalEquipmentAndSuppliesMember_label" xlink:label="res_3242" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Medical Equipment and Supplies [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MedicalEquipmentAndSuppliesMember" xlink:label="loc_2497" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2497" xlink:to="res_3242" xlink:type="arc"/>
@@ -7150,57 +7147,21 @@
     <link:label id="ifrs-im_RoadTransportationMember_label" xlink:label="res_3308" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Road Transportation [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_RoadTransportationMember" xlink:label="loc_2563" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2563" xlink:to="res_3308" xlink:type="arc"/>
-    <link:label id="ifrs-im_WasteGeneratedInOperationsMember_label" xlink:label="res_3485" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Waste generated in operations [Member]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_WasteGeneratedInOperationsMember" xlink:label="loc_2740" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2740" xlink:to="res_3485" xlink:type="arc"/>
     <link:label id="ifrs-im_TransitionRiskExposureDisclosureAbstract_label" xlink:label="res_3621" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transition Risk Exposure Disclosure [Abstract]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TransitionRiskExposureDisclosureAbstract" xlink:label="loc_2876" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2876" xlink:to="res_3621" xlink:type="arc"/>
     <link:label id="ifrs-im_TransitionRiskExposureDisclosureTextBlock_label" xlink:label="res_3622" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transition Risk Exposure Disclosure [Text Block]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TransitionRiskExposureDisclosureTextBlock" xlink:label="loc_2877" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2877" xlink:to="res_3622" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC1Abstract_label" xlink:label="res_3623" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-AC-1 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNAC1Abstract" xlink:label="loc_2878" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2878" xlink:to="res_3623" xlink:type="arc"/>
     <link:label id="ifrs-im_AssetsUnderManagementIncludedInFinancedEmissionsCalculationPercentage_label" xlink:label="res_3625" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets Under Management Included In Financed Emissions Calculation, Percentage</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AssetsUnderManagementIncludedInFinancedEmissionsCalculationPercentage" xlink:label="loc_2879" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2879" xlink:to="res_3625" xlink:type="arc"/>
-    <link:label id="ifrs-im_ExplanationOfExclusionsOfAssetsUnderManagementFromFinancedEmissionsCalculationTextBlock_label" xlink:label="res_3626" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Explanation Of Exclusions Of Assets Under Management From Financed Emissions Calculation [Text Block]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ExplanationOfExclusionsOfAssetsUnderManagementFromFinancedEmissionsCalculationTextBlock" xlink:label="loc_2880" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2880" xlink:to="res_3626" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC2Abstract_label" xlink:label="res_3627" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-AC-2 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNAC2Abstract" xlink:label="loc_2881" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2881" xlink:to="res_3627" xlink:type="arc"/>
     <link:label id="ifrs-im_AssetsUnderManagementIncludedInFinancedEmissionsCalculation_label" xlink:label="res_3632" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets Under Management Included In Financed Emissions Calculation</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_AssetsUnderManagementIncludedInFinancedEmissionsCalculation" xlink:label="loc_2885" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2885" xlink:to="res_3632" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC3Abstract_label" xlink:label="res_3633" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-AC-3 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNAC3Abstract" xlink:label="loc_2886" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2886" xlink:to="res_3633" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope1_label" xlink:label="res_3635" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Emissions Intensity Financed Emissions, Scope 1</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope1" xlink:label="loc_2887" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2887" xlink:to="res_3635" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope2_label" xlink:label="res_3636" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Emissions Intensity Financed Emissions, Scope 2</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope2" xlink:label="loc_2888" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2888" xlink:to="res_3636" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope3_label" xlink:label="res_3637" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Emissions Intensity Financed Emissions, Scope 3</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossEmissionsIntensityFinancedEmissionsScope3" xlink:label="loc_2889" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2889" xlink:to="res_3637" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC4Abstract_label" xlink:label="res_3638" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-AC-4 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNAC4Abstract" xlink:label="loc_2890" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2890" xlink:to="res_3638" xlink:type="arc"/>
     <link:label id="ifrs-im_MethodologyUsedToCalculateFinancedEmissionsTextBlock_label" xlink:label="res_3640" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Methodology Used To Calculate Financed Emissions [Text Block]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MethodologyUsedToCalculateFinancedEmissionsTextBlock" xlink:label="loc_2891" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2891" xlink:to="res_3640" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB1Abstract_label" xlink:label="res_3641" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-CB-1 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNCB1Abstract" xlink:label="loc_2892" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2892" xlink:to="res_3641" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposureToCarbonRelatedIndustriesAbstract_label" xlink:label="res_3643" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of gross exposure to carbon-related industries, by industry [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposureToCarbonRelatedIndustriesAbstract" xlink:label="loc_2893" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2893" xlink:to="res_3643" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposureToCarbonRelatedIndustriesTable_label" xlink:label="res_3644" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of gross exposure to carbon-related industries, by industry [Table]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposureToCarbonRelatedIndustriesTable" xlink:label="loc_2894" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2894" xlink:to="res_3644" xlink:type="arc"/>
     <link:label id="ifrs-im_LoansMember_label" xlink:label="res_3647" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Loans [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_LoansMember" xlink:label="loc_2897" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2897" xlink:to="res_3647" xlink:type="arc"/>
@@ -7216,42 +7177,15 @@
     <link:label id="ifrs-im_UndrawnLoanCommitmentsMember_label" xlink:label="res_3651" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Undrawn Loan Commitments [Member]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_UndrawnLoanCommitmentsMember" xlink:label="loc_2901" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2901" xlink:to="res_3651" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposureToCarbonRelatedIndustriesLineItems_label" xlink:label="res_3652" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Exposure To Carbon Related Industries [Line Items]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposureToCarbonRelatedIndustriesLineItems" xlink:label="loc_2902" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2902" xlink:to="res_3652" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposureToCarbonRelatedIndustries_label" xlink:label="res_3653" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Exposure To Carbon-Related Industries</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposureToCarbonRelatedIndustries" xlink:label="loc_2903" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2903" xlink:to="res_3653" xlink:type="arc"/>
     <link:label id="ifrs-im_PercentageOfTotalGrossExposureForEachCarbonRelatedIndustries_label" xlink:label="res_3654" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Percentage Of Total Gross Exposure For Each Carbon Related Industries</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_PercentageOfTotalGrossExposureForEachCarbonRelatedIndustries" xlink:label="loc_2904" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2904" xlink:to="res_3654" xlink:type="arc"/>
     <link:label id="ifrs-im_ClassificationStandardUsedIfDifferentFromGICSTextBlock_label" xlink:label="res_3655" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of Classification Standard Used If Different From GICS [Text Block]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ClassificationStandardUsedIfDifferentFromGICSTextBlock" xlink:label="loc_2905" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2905" xlink:to="res_3655" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposureToAllIndustries_label" xlink:label="res_3656" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Exposure to All Industries</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposureToAllIndustries" xlink:label="loc_2906" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2906" xlink:to="res_3656" xlink:type="arc"/>
-    <link:label id="ifrs-im_ExplanationOfDisclosureOfGrossExposureForAdditionalAssetClassesTextBlock_label" xlink:label="res_3657" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Explanation Of Disclosure Of Gross Exposure For Additional Asset Classes [Text Block]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_ExplanationOfDisclosureOfGrossExposureForAdditionalAssetClassesTextBlock" xlink:label="loc_2907" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2907" xlink:to="res_3657" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB2Abstract_label" xlink:label="res_3658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-CB-2 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNCB2Abstract" xlink:label="loc_2908" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2908" xlink:to="res_3658" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposureIncludedInFinancedEmissionsCalculationPercentage_label" xlink:label="res_3660" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Exposure Included In Financed Emissions Calculation, Percentage</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposureIncludedInFinancedEmissionsCalculationPercentage" xlink:label="loc_2909" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2909" xlink:to="res_3660" xlink:type="arc"/>
     <link:label id="ifrs-im_UndrawnLoanCommitmentsIncludedInFinancedEmissionsCalculationPercentage_label" xlink:label="res_3661" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Undrawn Loan Commitments Included In Financed Emissions Calculation, Percentage</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_UndrawnLoanCommitmentsIncludedInFinancedEmissionsCalculationPercentage" xlink:label="loc_2910" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2910" xlink:to="res_3661" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB3Abstract_label" xlink:label="res_3663" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-CB-3 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNCB3Abstract" xlink:label="loc_2912" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2912" xlink:to="res_3663" xlink:type="arc"/>
-    <link:label id="ifrs-im_GrossExposure_label" xlink:label="res_3668" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Exposure</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossExposure" xlink:label="loc_2916" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2916" xlink:to="res_3668" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB4Abstract_label" xlink:label="res_3670" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-CB-4 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNCB4Abstract" xlink:label="loc_2918" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2918" xlink:to="res_3670" xlink:type="arc"/>
     <link:label id="ifrs-im_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassAbstract_label" xlink:label="res_3672" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of emissions intensity of financed emissions, disaggregated by Scope 1, Scope 2, and Scope 3 emissions for each industry by asset class [Abstract]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassAbstract" xlink:label="loc_2919" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2919" xlink:to="res_3672" xlink:type="arc"/>
@@ -7261,27 +7195,6 @@
     <link:label id="ifrs-im_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassLineItems_label" xlink:label="res_3674" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emissions Intensity Of Financed Emissions For Each Industry By Asset Class [Line Items]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_EmissionsIntensityOfFinancedEmissionsForEachIndustryByAssetClassLineItems" xlink:label="loc_2921" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2921" xlink:to="res_3674" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB5Abstract_label" xlink:label="res_3675" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-CB-5 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNCB5Abstract" xlink:label="loc_2922" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2922" xlink:to="res_3675" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN1Abstract_label" xlink:label="res_3677" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IN-1 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIN1Abstract" xlink:label="loc_2923" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2923" xlink:to="res_3677" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN2Abstract_label" xlink:label="res_3679" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IN-2 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIN2Abstract" xlink:label="loc_2924" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2924" xlink:to="res_3679" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN3Abstract_label" xlink:label="res_3681" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IN-3 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIN3Abstract" xlink:label="loc_2925" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2925" xlink:to="res_3681" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN4Abstract_label" xlink:label="res_3683" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IN-4 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIN4Abstract" xlink:label="loc_2926" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2926" xlink:to="res_3683" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN5Abstract_label" xlink:label="res_3685" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IN-5 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIN5Abstract" xlink:label="loc_2927" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2927" xlink:to="res_3685" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIB1Abstract_label" xlink:label="res_3687" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IB-1 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIB1Abstract" xlink:label="loc_2928" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2928" xlink:to="res_3687" xlink:type="arc"/>
     <link:label id="ifrs-im_KeyBusinessLineAxis_label" xlink:label="res_3691" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Key Business Line [Axis]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_KeyBusinessLineAxis" xlink:label="loc_2931" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2931" xlink:to="res_3691" xlink:type="arc"/>
@@ -7309,9 +7222,6 @@
     <link:label id="ifrs-im_Revenue_label" xlink:label="res_3703" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Revenue</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_Revenue" xlink:label="loc_2943" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2943" xlink:to="res_3703" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIB2Abstract_label" xlink:label="res_3704" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IB-2 [Abstract]</link:label>
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FNIB2Abstract" xlink:label="loc_2944" xlink:type="locator"/>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2944" xlink:to="res_3704" xlink:type="arc"/>
     <link:label id="ifrs-im_MethodologyUsedToCalculateFacilitatedEmissionsTextBlock_label" xlink:label="res_3706" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Methodology Used To Calculate Facilitated Emissions [Text Block]</link:label>
     <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_MethodologyUsedToCalculateFacilitatedEmissionsTextBlock" xlink:label="loc_2945" xlink:type="locator"/>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2945" xlink:to="res_3706" xlink:type="arc"/>
@@ -8911,37 +8821,5 @@
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_749" xlink:title="label: WindTechnologyAndProjectDevelopersIndustrySustainabilityDisclosureMetricsAbstract to label_WindTechnologyAndProjectDevelopersIndustrySustainabilityDisclosureMetricsAbstract" xlink:to="res_1491" xlink:type="arc"/>
     <link:label xlink:label="res_1493" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:title="label_WindTechnologyAndProjectDevelopersIndustryActivityMetricsAbstract" xlink:type="resource" xml:lang="en">RR-WT</link:label>
     <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_750" xlink:title="label: WindTechnologyAndProjectDevelopersIndustryActivityMetricsAbstract to label_WindTechnologyAndProjectDevelopersIndustryActivityMetricsAbstract" xlink:to="res_1493" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC1Abstract_terseLabel" xlink:label="res_3624" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-AC-1</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2878" xlink:to="res_3624" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC2Abstract_terseLabel" xlink:label="res_3628" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-AC-2</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2881" xlink:to="res_3628" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC3Abstract_terseLabel" xlink:label="res_3634" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-AC-3</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2886" xlink:to="res_3634" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNAC4Abstract_terseLabel" xlink:label="res_3639" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-AC-4</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2890" xlink:to="res_3639" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB1Abstract_terseLabel" xlink:label="res_3642" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-CB-1</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2892" xlink:to="res_3642" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB2Abstract_terseLabel" xlink:label="res_3659" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-CB-2</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2908" xlink:to="res_3659" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB3Abstract_terseLabel" xlink:label="res_3664" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-CB-3</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2912" xlink:to="res_3664" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB4Abstract_terseLabel" xlink:label="res_3671" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-CB-4</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2918" xlink:to="res_3671" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNCB5Abstract_terseLabel" xlink:label="res_3676" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-CB-5</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2922" xlink:to="res_3676" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN1Abstract_terseLabel" xlink:label="res_3678" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IN-1</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2923" xlink:to="res_3678" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN2Abstract_terseLabel" xlink:label="res_3680" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IN-2</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2924" xlink:to="res_3680" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN3Abstract_terseLabel" xlink:label="res_3682" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IN-3</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2925" xlink:to="res_3682" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN4Abstract_terseLabel" xlink:label="res_3684" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IN-4</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2926" xlink:to="res_3684" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIN5Abstract_terseLabel" xlink:label="res_3686" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IN-5</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2927" xlink:to="res_3686" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIB1Abstract_terseLabel" xlink:label="res_3688" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IB-1</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2928" xlink:to="res_3688" xlink:type="arc"/>
-    <link:label id="ifrs-im_FNIB2Abstract_terseLabel" xlink:label="res_3705" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">FN-IB-2</link:label>
-    <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2944" xlink:to="res_3705" xlink:type="arc"/>
   </link:labelLink>
 </link:linkbase>

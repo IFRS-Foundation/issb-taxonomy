@@ -24,7 +24,7 @@
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelConsumed" xlink:label="loc_18" xlink:title="FuelConsumed" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FuelConsumedLineItems" xlink:label="loc_17" xlink:title="FuelConsumedLineItems" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:title="presentation: FuelConsumedLineItems to FuelConsumed" xlink:to="loc_18" xlink:type="arc"/>
-    <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_GrossScope1GreenhouseGasEmissions" xlink:label="loc_20" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
+    <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_20" xlink:title="GrossScope1GreenhouseGasEmissions" xlink:type="locator"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_TRAF110a1Abstract" xlink:label="loc_19" xlink:title="TRAF110a1Abstract" xlink:type="locator"/>
     <link:presentationArc order="10.0" priority="0" use="optional" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:title="presentation: TRAF110a1Abstract to GrossScope1GreenhouseGasEmissions" xlink:to="loc_20" xlink:type="arc"/>
     <link:loc xlink:href="../../ifrs_im-cor_2022-05-25.xsd#ifrs-im_Scope1EmissionsLongTermAndShortTermStrategyTargetsAndPerformanceAnalysisTextBlock" xlink:label="loc_22" xlink:title="Scope1EmissionsLongTermAndShortTermStrategyTargetsAndPerformanceAnalysisTextBlock" xlink:type="locator"/>

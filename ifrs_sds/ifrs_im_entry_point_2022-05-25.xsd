@@ -6,14 +6,17 @@
 		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
 		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
         **********************
---><xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+-->
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns:link="http://www.xbrl.org/2003/linkbase"
             xmlns:ifrs-im="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-im"
+            xmlns:ifrs-sds="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-sds"
             xmlns:ifrs_im_entry_point="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2022-05-25/ifrs_sds/ifrs_im_entry_point"
             xmlns:xlink="http://www.w3.org/1999/xlink"
             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
             elementFormDefault="qualified"
-            targetNamespace="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2022-05-25/ifrs_sds/ifrs_im_entry_point">  <xsd:annotation>
+            targetNamespace="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2022-05-25/ifrs_sds/ifrs_im_entry_point">
+  <xsd:annotation>
     <xsd:appinfo>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/dim_ifrs_im-dim_2022-05-25_role-990000.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple"/>
       <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/dim_ifrs_im_2022-05-25_role-995000.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple"/>
@@ -180,6 +183,8 @@
                schemaLocation="ifrs_im/linkbases/ifrs_im1/rol_ifrs_im1_2022-05-25.xsd"/>
    <xsd:import namespace="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-im"
                schemaLocation="ifrs_im/ifrs_im-cor_2022-05-25.xsd"/>
+   <xsd:import namespace="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs-sds"
+               schemaLocation="ifrs_sds/ifrs_sds-cor_2022-05-25.xsd"/>
   
 
 </xsd:schema>
