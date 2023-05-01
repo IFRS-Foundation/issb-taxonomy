@@ -5,14 +5,8 @@
     xmlns:rol_ifrs_s2_2022-05-25="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s2_2022-05-25" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <xsd:annotation>
         <xsd:appinfo>
-            <link:roleType id="ifrs_s2_2022-05-25_role-210000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000">
-                <link:definition>[210000] Climate-related disclosures</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
             <link:roleType id="ifrs_s2_2022-05-25_role-210000a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000a">
-                <link:definition>[210000a] Climate-related disclosures - </link:definition>
+                <link:definition>[210000a] Climate-related disclosures - Disclosure of governance processes, controls and procedures used to monitor and manage sustainability-related risks and opportunities [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -24,7 +18,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2022-05-25_role-210000c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000c">
-                <link:definition>[210000c] Climate-related disclosures - </link:definition>
+                <link:definition>[210000c] Climate-related disclosures - Disclosure of definition of time horizons [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -66,19 +60,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2022-05-25_role-210000j" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000j">
-                <link:definition>[210000j] Climate-related disclosures - </link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2_2022-05-25_role-211100" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211100">
-                <link:definition>[211100] Climate-related disclosures: Financed Emissions - Asset management</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2_2022-05-25_role-211200" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211200">
-                <link:definition>[211200] Climate-related disclosures: Financed Emissions - Commercial banks</link:definition>
+                <link:definition>[210000j] Climate-related disclosures - Disclosure of early application of new or amended IFRS Sustainability Standard [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -95,20 +77,8 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2_2022-05-25_role-211300" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211300">
-                <link:definition>[211300] Climate-related disclosures: Financed Emissions - Insurance</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
             <link:roleType id="ifrs_s2_2022-05-25_role-211300a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211300a">
                 <link:definition>[211300a] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions for each industry by asset class [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2_2022-05-25_role-219000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-219000">
-                <link:definition>[219000] Climate-related disclosures: Illustrative Examples</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -133,6 +103,24 @@
             </link:roleType>
             <link:roleType id="ifrs_s2_2022-05-25_role-219000d" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-219000d">
                 <link:definition>[219000d] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by asset class [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s2_2022-05-25_role-210000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-210000">
+                <link:definition>[210000] Climate-related disclosures</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s2_2022-05-25_role-211100" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211100">
+                <link:definition>[211100] Climate-related disclosures: Financed Emissions - Asset management</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s2_2022-05-25_role-211200" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211200">
+                <link:definition>[211200] Climate-related disclosures: Financed Emissions - Commercial banks</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

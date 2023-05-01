@@ -2285,23 +2285,23 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
             xlink:from="loc_210" xlink:to="res_210" xlink:type="arc"/>
         <link:label
-            id="ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissions_label"
+            id="ifrs-sds_MeasurementApproachUsedInCalculatingGreenhouseGasEmissions_label"
             xlink:label="res_211"
             xlink:role="http://www.xbrl.org/2003/role/label"
-            xlink:type="resource" xml:lang="en">Method and measurement approach used in calculating greenhouse gas emissions</link:label>
+            xlink:type="resource" xml:lang="en">Measurement approach used in calculating greenhouse gas emissions</link:label>
         <link:loc
-            xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissions"
+            xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MeasurementApproachUsedInCalculatingGreenhouseGasEmissions"
             xlink:label="loc_211" xlink:type="locator"/>
         <link:labelArc
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
             xlink:from="loc_211" xlink:to="res_211" xlink:type="arc"/>
         <link:label
-            id="ifrs-sds_DisclosureOfAnyContractualArrangementsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory_label"
+            id="ifrs-sds_DisclosureOfAnyContractualInstrumentsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory_label"
             xlink:label="res_212"
             xlink:role="http://www.xbrl.org/2003/role/label"
-            xlink:type="resource" xml:lang="en">Disclosure of any contractual arrangements that inform understanding of scope 2 greenhouse gas emissions [text block]</link:label>
+            xlink:type="resource" xml:lang="en">Disclosure of any contractual instruments that inform understanding of scope 2 greenhouse gas emissions [text block]</link:label>
         <link:loc
-            xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfAnyContractualArrangementsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory"
+            xlink:href="../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfAnyContractualInstrumentsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory"
             xlink:label="loc_212" xlink:type="locator"/>
         <link:labelArc
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"

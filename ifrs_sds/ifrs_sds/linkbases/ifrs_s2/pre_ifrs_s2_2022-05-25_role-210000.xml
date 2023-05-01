@@ -406,7 +406,7 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_99" xlink:to="loc_100" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissions"
+            xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_MeasurementApproachUsedInCalculatingGreenhouseGasEmissions"
             xlink:label="loc_106" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfApproachTheEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory"
@@ -913,7 +913,7 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_7" xlink:to="loc_12" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfAnyContractualArrangementsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory"
+            xlink:href="../../ifrs_sds-cor_2022-05-25.xsd#ifrs-sds_DisclosureOfAnyContractualInstrumentsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory"
             xlink:label="loc_107" xlink:type="locator"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
