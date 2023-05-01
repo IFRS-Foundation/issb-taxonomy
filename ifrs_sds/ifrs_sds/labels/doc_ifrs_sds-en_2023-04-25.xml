@@ -51,7 +51,7 @@
             id="ifrs-sds_DisclosureOfHowResponsibilitiesForSustainabilityRelatedRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodyOrIndividualExplanatory_documentation"
             xlink:label="res_5"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">The disclosure of how the responsibilities for sustainability-related risks and opportunities (including climate-related risks and opportunities) are reflected in the terms of reference, mandates, role descriptions and other related policies applicables to the responsible body(s) or individual(s). [Refer: Disclosure of identity of governance body(s) or individual(s) responsible for oversight of sustainability-related risks and opportunities [text block]]</link:label>
+            xlink:type="resource" xml:lang="en">The disclosure of how the responsibilities for sustainability-related risks and opportunities (including climate-related risks and opportunities) are reflected in the terms of reference, mandates, role descriptions and other related policies applicable to the responsible body(s) or individual(s). [Refer: Disclosure of identity of governance body(s) or individual(s) responsible for oversight of sustainability-related risks and opportunities [text block]]</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibilitiesForSustainabilityRelatedRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodyOrIndividualExplanatory"
             xlink:label="loc_5" xlink:type="locator"/>
@@ -95,7 +95,7 @@
             id="ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithSustainabilityRelatedRisksAndOpportunitiesTrueFalse_documentation"
             xlink:label="res_9"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Indicates (true false) whether the the governance body(s) or individual(s) responsible for oversight of sustainability-related risks and opportunities considered trade-offs associated with sustainability-related risks and opportunities.</link:label>
+            xlink:type="resource" xml:lang="en">Indicates (true false) whether the governance body(s) or individual(s) responsible for oversight of sustainability-related risks and opportunities considered trade-offs associated with sustainability-related risks and opportunities.</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithSustainabilityRelatedRisksAndOpportunitiesTrueFalse"
             xlink:label="loc_9" xlink:type="locator"/>
@@ -761,7 +761,7 @@
             id="ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory_documentation"
             xlink:label="res_70"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Other disclosure(s) (that are not included in other elements) about the entity's processes to identify, assess, prioritise and monitor sustainability-related risks and opportunities (including climate-related risks and opportunities), or about the the entity's overall risk profile and risk management process.</link:label>
+            xlink:type="resource" xml:lang="en">Other disclosure(s) (that are not included in other elements) about the entity's processes to identify, assess, prioritise and monitor sustainability-related risks and opportunities (including climate-related risks and opportunities), or about the entity's overall risk profile and risk management process.</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory"
             xlink:label="loc_70" xlink:type="locator"/>
@@ -1492,7 +1492,7 @@
             id="ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithClimateRelatedRisksAndOpportunitiesTrueFalse_documentation"
             xlink:label="res_137"
             xlink:role="http://www.xbrl.org/2003/role/documentation"
-            xlink:type="resource" xml:lang="en">Indicates (true false) whether the the governance body(s) or individual(s) responsible for oversight of climate-related risks and opportunities considered trade-offs associated with climate-related risks and opportunities.</link:label>
+            xlink:type="resource" xml:lang="en">Indicates (true false) whether the governance body(s) or individual(s) responsible for oversight of climate-related risks and opportunities considered trade-offs associated with climate-related risks and opportunities.</link:label>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithClimateRelatedRisksAndOpportunitiesTrueFalse"
             xlink:label="loc_137" xlink:type="locator"/>
