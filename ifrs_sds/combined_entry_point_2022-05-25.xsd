@@ -94,10 +94,6 @@
                            xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
                            xlink:type="simple"/>
          <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
-                           xlink:href="ifrs_sds/linkbases/ifrs_s2/def_ifrs_s2_2022-05-25_role-211100.xml"
-                           xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
-                           xlink:type="simple"/>
-         <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
                            xlink:href="ifrs_sds/linkbases/ifrs_s2/def_ifrs_s2_2022-05-25_role-211200.xml"
                            xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef"
                            xlink:type="simple"/>
