@@ -1,0 +1,76 @@
+<!--Dummy comment--><xsd:schema attributeFormDefault="unqualified"
+    elementFormDefault="qualified"
+    targetNamespace="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s1_2023-04-25"
+    xmlns:link="http://www.xbrl.org/2003/linkbase"
+    xmlns:rol_ifrs_s1_2023-04-25="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s1_2023-04-25" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:annotation>
+        <xsd:appinfo>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000">
+                <link:definition>[200000] General Requirements for Disclosure of Sustainability-related Financial Information</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000a">
+                <link:definition>[200000a] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of governance processes, controls and procedures used to monitor and manage sustainability-related risks and opportunities [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000b">
+                <link:definition>[200000b] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of sustainability-related risks or opportunities [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000c">
+                <link:definition>[200000c] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of definition of time horizons [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000d" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000d">
+                <link:definition>[200000d] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of current and anticipated effects of sustainability-related risks and opportunities on business model and value chain [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000e" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000e">
+                <link:definition>[200000e] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of current financial effects of sustainability-related risks and opportunities [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000f" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000f">
+                <link:definition>[200000f] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of anticipated financial effects of sustainability-related risks and opportunities [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000g" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000g">
+                <link:definition>[200000g] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of sustainability-related metrics developed by entity [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000h" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000h">
+                <link:definition>[200000h] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of sustainability-related targets [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000i" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000i">
+                <link:definition>[200000i] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of redefinition or replacement of metrics, including metrics used to set and monitor progress towards reaching entity's targets [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-04-25_role-200000j" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-04-25_role-200000j">
+                <link:definition>[200000j] General Requirements for Disclosure of Sustainability-related Financial Information - Disclosure of early application of new or amended IFRS Sustainability Standard [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+        </xsd:appinfo>
+    </xsd:annotation>
+</xsd:schema>

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><!--Dummy comment--><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_im-dim_2022-05-25_role-995000" xlink:href="rol_ifrs_im-dim_2022-05-25.xsd#ifrs_im-dim_2022-05-25_role-995000" xlink:type="simple"/>
-  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
-  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_im-dim_2022-05-25_role-995000" xlink:type="extended">
-    <link:loc xlink:href="../ifrs_im-cor_2022-05-25.xsd#ifrs-im_FoodIngredientsDomain" xlink:label="loc_1" xlink:type="locator"/>
-  </link:definitionLink>
-</link:linkbase>

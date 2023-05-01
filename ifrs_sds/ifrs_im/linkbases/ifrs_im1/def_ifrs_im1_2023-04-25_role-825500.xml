@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!--Dummy comment--><link:linkbase xmlns="http://www.xbrl.org/2003/linkbase" xmlns:ifrs_im="https://xbrl.ifrs.org/taxonomy/2023-04-25/ifrs_im" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/im_1-2023-04-25_role-825500c" xlink:href="rol_ifrs_im1_2023-04-25.xsd#im_1-2023-04-25_role-825500c" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
+  <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
+  <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/im_1-2023-04-25_role-825500c" xlink:type="extended">
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnrolleesNumberTable" xlink:label="loc_3" xlink:title="EnrolleesNumberTable" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnrolleesNumberAbstract" xlink:label="loc_4" xlink:title="EnrolleesNumberAbstract6535" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_4" xlink:title="definition: EnrolleesNumberAbstract to EnrolleesNumberTable" xlink:to="loc_3" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ManagedCarePlanTypeAxis" xlink:label="loc_1" xlink:title="ManagedCarePlanTypeAxis" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_3" xlink:title="definition: EnrolleesNumberTable to ManagedCarePlanTypeAxis" xlink:to="loc_1" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnrolleesNumber" xlink:label="loc_5" xlink:title="EnrolleesNumber" xlink:type="locator"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnrolleesNumberLineItems" xlink:label="loc_2" xlink:title="EnrolleesNumberLineItems" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_2" xlink:title="definition: EnrolleesNumberLineItems to EnrolleesNumber" xlink:to="loc_5" xlink:type="arc"/>
+    <link:definitionArc order="20.0" priority="0" use="optional" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:title="definition: EnrolleesNumberAbstract to EnrolleesNumberLineItems" xlink:to="loc_2" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ManagedCarePlanTypeDomain" xlink:label="loc_6" xlink:title="ManagedCarePlanTypeDomain" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_1" xlink:title="definition: ManagedCarePlanTypeAxis to ManagedCarePlanTypeDomain" xlink:to="loc_6" xlink:type="arc"/>
+	<link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_HealthMaintenanceOrganizationHMOMember" xlink:label="loc_15" xlink:type="locator"/>
+    <link:definitionArc order="10.0" priority="0" use="optional"  xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_15" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_LocalPreferredProviderOrganizationPPOMember" xlink:label="loc_16" xlink:type="locator"/>
+    <link:definitionArc order="20.0" priority="0" use="optional"  xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_16" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PrivateFeeforservicePFFSMember" xlink:label="loc_17" xlink:type="locator"/>
+    <link:definitionArc order="30.0" priority="0" use="optional"  xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_17" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RegionalPreferredProviderOrganizationPPOMember" xlink:label="loc_18" xlink:type="locator"/>
+    <link:definitionArc order="40.0" priority="0" use="optional"  xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_18" xlink:type="arc"/>
+    <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SpecialNeedsPlansSNPMember" xlink:label="loc_19" xlink:type="locator"/>
+    <link:definitionArc order="50.0" priority="0" use="optional"  xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_19" xlink:type="arc"/>
+  </link:definitionLink>
+</link:linkbase>

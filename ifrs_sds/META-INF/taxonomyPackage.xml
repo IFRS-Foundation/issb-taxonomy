@@ -1,14 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!--
-		Taxonomy: 2022-05-25 (Staff Draft)
-		********************** 
-        Copyright (c) 2022 IFRS Foundation
-        All rights reserved. Reproduction and use rights are strictly limited.
-		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
-		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
-        **********************
--->
+<?xml version="1.0" encoding="UTF-8"?><!--Dummy comment-->
 <tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
-  <tp:identifier>https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs_sds</tp:identifier>
+  <tp:identifier>https://xbrl.ifrs.org/taxonomy/2023-04-25/ifrs_sds</tp:identifier>
   <tp:name>The IFRS Sustainability Disclosure Taxonomy</tp:name>
   <tp:description>Staff draft of the IFRS Sustainability Disclosure Taxonomy for public comment</tp:description>
   <tp:version>Staff Draft</tp:version>
@@ -16,12 +8,12 @@
   <tp:publisher>IFRS Foundation</tp:publisher>
   <tp:publisherURL>http://www.ifrs.org/</tp:publisherURL>
   <tp:publisherCountry>GB</tp:publisherCountry>
-  <tp:publicationDate>2022-05-25</tp:publicationDate>
+  <tp:publicationDate>2023-04-25</tp:publicationDate>
   <tp:entryPoints>
     <tp:entryPoint>
       <tp:name>Main entry-point IFRS Sustainable Disclosure Standards</tp:name>
       <tp:description>This is the Entry Point for viewing the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures. Documentation labels are included.</tp:description>
-      <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/2022-05-25/ifrs_sds/ifrs_sds_entry_point_2022-05-25.xsd"/>
+      <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/2023-04-25/ifrs_sds/ifrs_sds_entry_point_2023-04-25.xsd"/>
     </tp:entryPoint>
   </tp:entryPoints>
   <tp:versioningReports/>
