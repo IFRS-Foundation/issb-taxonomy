@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Dummy comment-->
+<!--
+		Taxonomy: 2023-04-25 (Proposed)
+		********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+-->
 <xsd:schema elementFormDefault="qualified" targetNamespace="https://xbrl.ifrs.org/taxonomy/2023-04-25/ifrs-im" xmlns:dtr-2022="http://www.xbrl.org/dtr/type/2022-03-31" xmlns:enum2="http://xbrl.org/2020/extensible-enumerations-2.0" xmlns:ifrs-im="https://xbrl.ifrs.org/taxonomy/2023-04-25/ifrs-im" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
   <xsd:import namespace="http://www.xbrl.org/dtr/type/2022-03-31" schemaLocation="https://www.xbrl.org/dtr/type/2022-03-31/types.xsd"/>
