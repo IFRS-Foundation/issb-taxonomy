@@ -125,6 +125,18 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
+            <link:roleType id="ifrs_s2_2022-05-25_role-211300" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-211300">
+                <link:definition>[211300] Climate-related disclosures: Financed Emissions - Insurance</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s2_2022-05-25_role-219000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2022-05-25_role-219000">
+                <link:definition>[219000] Climate-related disclosures: Illustrative Examples</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
         </xsd:appinfo>
     </xsd:annotation>
 </xsd:schema>
