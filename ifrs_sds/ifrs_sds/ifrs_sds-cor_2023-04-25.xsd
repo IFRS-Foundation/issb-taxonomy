@@ -725,6 +725,21 @@
         nillable="true" substitutionGroup="xbrldt:hypercubeItem"
         type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true"
+        id="ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesAbstract"
+        name="DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesAbstract"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true"
+        id="ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesLineItems"
+        name="DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesLineItems"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true"
+        id="ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesTable"
+        name="DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesTable"
+        nillable="true" substitutionGroup="xbrldt:hypercubeItem"
+        type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true"
         id="ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageSustainabilityRelatedRisksAndOpportunitiesAbstract"
         name="DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageSustainabilityRelatedRisksAndOpportunitiesAbstract"
         nillable="true" substitutionGroup="xbrli:item"
