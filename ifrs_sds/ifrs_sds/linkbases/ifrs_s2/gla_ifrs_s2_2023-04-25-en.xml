@@ -21,7 +21,7 @@
     <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
         <label:label xlink:label="res_1"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[210000a] Climate-related disclosures - Disclosure of governance processes, controls and procedures used to monitor and manage sustainability-related risks and opportunities [table]</label:label>
+            xlink:type="resource" xml:lang="en">[210000a] Climate-related disclosures - Disclosure of governance processes, controls and procedures used to monitor and manage climate-related risks and opportunities [table]</label:label>
         <link:loc
             xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-210000a"
             xlink:label="loc_1" xlink:type="locator"/>

@@ -14,7 +14,7 @@
     <xsd:annotation>
         <xsd:appinfo>
             <link:roleType id="ifrs_s2_2023-04-25_role-210000a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-210000a">
-                <link:definition>[210000a] Climate-related disclosures - Disclosure of governance processes, controls and procedures used to monitor and manage sustainability-related risks and opportunities [table]</link:definition>
+                <link:definition>[210000a] Climate-related disclosures - Disclosure of governance processes, controls and procedures used to monitor and manage climate-related risks and opportunities [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

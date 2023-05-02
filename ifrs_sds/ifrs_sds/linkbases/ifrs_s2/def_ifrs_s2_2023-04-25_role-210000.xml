@@ -54,10 +54,10 @@
     <link:definitionLink
         xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-210000a" xlink:type="extended">
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageSustainabilityRelatedRisksAndOpportunitiesTable"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesTable"
             xlink:label="loc_2" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageSustainabilityRelatedRisksAndOpportunitiesAbstract"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesAbstract"
             xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true"
             xbrldt:contextElement="scenario"
@@ -79,7 +79,7 @@
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfIdentityOfGovernanceBodyOrIndividualResponsibleForOversightOfSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_6" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageSustainabilityRelatedRisksAndOpportunitiesLineItems"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesLineItems"
             xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
