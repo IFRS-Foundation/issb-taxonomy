@@ -15,15 +15,6 @@
     <link:presentationLink
         xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-210000" xlink:type="extended">
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RiskManagementAbstract"
-            xlink:label="loc_80" xlink:type="locator"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_StrategyAbstract"
-            xlink:label="loc_23" xlink:type="locator"/>
-        <link:presentationArc order="10.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_23" xlink:to="loc_80" xlink:type="arc"/>
-        <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GovernanceAbstract"
             xlink:label="loc_2" xlink:type="locator"/>
         <link:loc
@@ -114,11 +105,17 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_20" xlink:to="loc_21" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfClimateRelatedRisksOrOpportunitiesExplanatory"
-            xlink:label="loc_25" xlink:type="locator"/>
-        <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RisksAndOpportunitiesAbstract"
             xlink:label="loc_24" xlink:type="locator"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_StrategyAbstract"
+            xlink:label="loc_23" xlink:type="locator"/>
+        <link:presentationArc order="10.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_23" xlink:to="loc_24" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfClimateRelatedRisksOrOpportunitiesExplanatory"
+            xlink:label="loc_25" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_24" xlink:to="loc_25" xlink:type="arc"/>
@@ -329,6 +326,9 @@
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProcessesAndRelatedPoliciesEntityUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksExplanatory"
             xlink:label="loc_81" xlink:type="locator"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RiskManagementAbstract"
+            xlink:label="loc_80" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_80" xlink:to="loc_81" xlink:type="arc"/>
@@ -598,9 +598,6 @@
             xlink:from="loc_165" xlink:to="loc_166" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_23" xlink:to="loc_24" xlink:type="arc"/>
-        <link:presentationArc order="20.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_3" xlink:to="loc_7" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibilitiesForSustainabilityRelatedRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodyOrIndividualExplanatory"
@@ -641,6 +638,9 @@
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_42" xlink:to="loc_44" xlink:type="arc"/>
+        <link:presentationArc order="20.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_23" xlink:to="loc_46" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_48" xlink:to="loc_50" xlink:type="arc"/>
@@ -770,9 +770,6 @@
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_160" xlink:to="loc_165" xlink:type="arc"/>
-        <link:presentationArc order="30.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_23" xlink:to="loc_46" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualEnsuresThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_10" xlink:type="locator"/>
@@ -811,6 +808,9 @@
             xlink:from="loc_48" xlink:to="loc_52" xlink:type="arc"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_23" xlink:to="loc_54" xlink:type="arc"/>
+        <link:presentationArc order="30.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_54" xlink:to="loc_57" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfWhyEntityHasNotProvidedQuantitativeInformationAboutCurrentOrAnticipatedFinancialEffectsOfParticularSustainabilityRelatedRiskOrOpportunityExplanatory"
@@ -830,15 +830,15 @@
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_76" xlink:to="loc_79" xlink:type="arc"/>
+        <link:presentationArc order="30.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_1" xlink:to="loc_80" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfExtentToWhichAndHowProcessesForIdentifyingAssessingPrioritisingAndMonitoringSustainabilityRelatedRisksAndOpportunitiesAreIntegratedIntoOrInformEntitysOverallRiskManagementProcessExplanatory"
             xlink:label="loc_87" xlink:type="locator"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_80" xlink:to="loc_87" xlink:type="arc"/>
-        <link:presentationArc order="30.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_1" xlink:to="loc_89" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GrossScope1And2GreenhouseGasEmissions"
             xlink:label="loc_102" xlink:type="locator"/>
@@ -872,9 +872,6 @@
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_89" xlink:to="loc_148" xlink:type="arc"/>
-        <link:presentationArc order="40.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_23" xlink:to="loc_54" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowAndHowOftenResponsibleBodyOrIndividualIsInformedAboutSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_11" xlink:type="locator"/>
@@ -884,12 +881,18 @@
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_28" xlink:to="loc_32" xlink:type="arc"/>
+        <link:presentationArc order="40.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_23" xlink:to="loc_59" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory"
             xlink:label="loc_88" xlink:type="locator"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_80" xlink:to="loc_88" xlink:type="arc"/>
+        <link:presentationArc order="40.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_1" xlink:to="loc_89" xlink:type="arc"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_91" xlink:to="loc_105" xlink:type="arc"/>
@@ -911,15 +914,12 @@
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_142" xlink:to="loc_146" xlink:type="arc"/>
-        <link:presentationArc order="40.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_1" xlink:to="loc_158" xlink:type="arc"/>
-        <link:presentationArc order="50.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_23" xlink:to="loc_59" xlink:type="arc"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_7" xlink:to="loc_12" xlink:type="arc"/>
+        <link:presentationArc order="50.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_23" xlink:to="loc_74" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfAnyContractualInstrumentsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory"
             xlink:label="loc_107" xlink:type="locator"/>
@@ -944,9 +944,9 @@
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_142" xlink:to="loc_147" xlink:type="arc"/>
-        <link:presentationArc order="60.0"
+        <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_23" xlink:to="loc_74" xlink:type="arc"/>
+            xlink:from="loc_1" xlink:to="loc_158" xlink:type="arc"/>
         <link:presentationArc order="60.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_7" xlink:to="loc_14" xlink:type="arc"/>
