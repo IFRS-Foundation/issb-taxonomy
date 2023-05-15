@@ -1690,14 +1690,5 @@
         <link:referenceArc
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference"
             xlink:from="loc_29" xlink:to="res_14" xlink:type="arc"/>
-        <link:referenceArc
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference"
-            xlink:from="loc_30" xlink:to="res_15" xlink:type="arc"/>
-        <link:referenceArc
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference"
-            xlink:from="loc_31" xlink:to="res_15" xlink:type="arc"/>
-        <link:referenceArc
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference"
-            xlink:from="loc_32" xlink:to="res_15" xlink:type="arc"/>
     </link:referenceLink>
 </link:linkbase>
