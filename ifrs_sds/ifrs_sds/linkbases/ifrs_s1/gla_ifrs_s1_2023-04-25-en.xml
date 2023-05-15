@@ -109,5 +109,14 @@
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_10" xlink:to="res_10" xlink:type="arc"/>
+        <label:label xlink:label="res_11"
+            xlink:role="http://www.xbrl.org/2008/role/label"
+            xlink:type="resource" xml:lang="en">[200000] General Requirements for Disclosure of Sustainability-related Financial Information</label:label>
+        <link:loc
+            xlink:href="rol_ifrs_s1_2023-04-25.xsd#ifrs_s1_2023-04-25_role-200000"
+            xlink:label="loc_11" xlink:type="locator"/>
+        <gen:arc
+            xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
+            xlink:from="loc_11" xlink:to="res_11" xlink:type="arc"/>
     </gen:link>
 </link:linkbase>
