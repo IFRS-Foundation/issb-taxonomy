@@ -91,6 +91,12 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
+            <link:roleType id="ifrs_s2_2023-04-25_role-211300b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211300b">
+                <link:definition>[211300b] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions by asset class [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-219000a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000a">
                 <link:definition>[219000a] Climate-related disclosures: Illustrative Examples - Disaggregation of scope 3 greenhouse gas emissions by categories [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
