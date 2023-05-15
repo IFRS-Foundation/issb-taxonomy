@@ -110,20 +110,20 @@
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteMeasureMember"
             xlink:label="loc_52" xlink:type="locator"/>
         <link:loc
-            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain"
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricMeasureTypeDomain"
             xlink:label="loc_51" xlink:type="locator"/>
         <link:definitionArc order="10.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
             xlink:from="loc_51" xlink:to="loc_52" xlink:type="arc"/>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ShortTermMember"
-            xlink:label="loc_55" xlink:type="locator"/>
+            xlink:label="loc_56" xlink:type="locator"/>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonDomain"
-            xlink:label="loc_54" xlink:type="locator"/>
+            xlink:label="loc_55" xlink:type="locator"/>
         <link:definitionArc order="10.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
-            xlink:from="loc_54" xlink:to="loc_55" xlink:type="arc"/>
+            xlink:from="loc_55" xlink:to="loc_56" xlink:type="arc"/>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CarbonRemovalMember"
             xlink:label="loc_3" xlink:type="locator"/>
@@ -192,10 +192,10 @@
             xlink:from="loc_51" xlink:to="loc_53" xlink:type="arc"/>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MediumTermMember"
-            xlink:label="loc_56" xlink:type="locator"/>
+            xlink:label="loc_57" xlink:type="locator"/>
         <link:definitionArc order="20.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
-            xlink:from="loc_54" xlink:to="loc_56" xlink:type="arc"/>
+            xlink:from="loc_55" xlink:to="loc_57" xlink:type="arc"/>
         <link:definitionArc order="30.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
             xlink:from="loc_7" xlink:to="loc_10" xlink:type="arc"/>
@@ -224,11 +224,17 @@
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
             xlink:from="loc_35" xlink:to="loc_38" xlink:type="arc"/>
         <link:loc
-            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_LongTermMember"
-            xlink:label="loc_57" xlink:type="locator"/>
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_QualitativeMeasureMember"
+            xlink:label="loc_54" xlink:type="locator"/>
         <link:definitionArc order="30.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
-            xlink:from="loc_54" xlink:to="loc_57" xlink:type="arc"/>
+            xlink:from="loc_51" xlink:to="loc_54" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_LongTermMember"
+            xlink:label="loc_58" xlink:type="locator"/>
+        <link:definitionArc order="30.0"
+            xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
+            xlink:from="loc_55" xlink:to="loc_58" xlink:type="arc"/>
         <link:loc
             xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_HydrofluorocarbonsHfcsMember"
             xlink:label="loc_14" xlink:type="locator"/>

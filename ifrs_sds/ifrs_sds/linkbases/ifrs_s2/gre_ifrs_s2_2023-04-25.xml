@@ -130,34 +130,40 @@
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
             xlink:from="loc_17" xlink:to="res_1" xlink:type="arc"/>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211300b"
             xlink:label="loc_18" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
             xlink:from="loc_18" xlink:to="res_1" xlink:type="arc"/>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000a"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000"
             xlink:label="loc_19" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
             xlink:from="loc_19" xlink:to="res_1" xlink:type="arc"/>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000b"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000a"
             xlink:label="loc_20" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
             xlink:from="loc_20" xlink:to="res_1" xlink:type="arc"/>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000c"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000b"
             xlink:label="loc_21" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
             xlink:from="loc_21" xlink:to="res_1" xlink:type="arc"/>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000d"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000c"
             xlink:label="loc_22" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
             xlink:from="loc_22" xlink:to="res_1" xlink:type="arc"/>
+        <link:loc
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000d"
+            xlink:label="loc_23" xlink:type="locator"/>
+        <gen:arc
+            xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference"
+            xlink:from="loc_23" xlink:to="res_1" xlink:type="arc"/>
     </gen:link>
 </link:linkbase>

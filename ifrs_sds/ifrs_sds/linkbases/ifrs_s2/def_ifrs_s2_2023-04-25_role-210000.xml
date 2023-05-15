@@ -145,7 +145,7 @@
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
             xlink:from="loc_15" xlink:to="loc_18" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualEnsuresThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_8" xlink:type="locator"/>
         <link:definitionArc order="30.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
@@ -331,7 +331,7 @@
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
             xlink:from="loc_1" xlink:to="loc_5" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysValueChainExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory"
             xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="30.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
@@ -527,7 +527,7 @@
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ClimateRelatedTargetHasBeenValidatedByThirdPartyTrueFalse"
             xlink:label="loc_16" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntitySetsAndReviewsTargetAndMonitorsProgressExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEntitysApproachToSettingAndReviewingTargetAndMonitoringProgressExplanatory"
             xlink:label="loc_15" xlink:type="locator"/>
         <link:definitionArc order="10.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
@@ -599,7 +599,7 @@
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"
             xlink:from="loc_5" xlink:to="loc_11" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMilestonesOrInterimTargetsForSustainabilityRelatedMetricExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMilestonesAndInterimTargetsForSustainabilityRelatedMetricExplanatory"
             xlink:label="loc_12" xlink:type="locator"/>
         <link:definitionArc order="70.0"
             xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member"

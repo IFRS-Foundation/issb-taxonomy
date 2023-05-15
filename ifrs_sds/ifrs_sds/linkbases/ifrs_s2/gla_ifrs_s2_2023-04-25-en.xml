@@ -138,70 +138,70 @@
             xlink:from="loc_13" xlink:to="res_13" xlink:type="arc"/>
         <label:label xlink:label="res_14"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[219000a] Climate-related disclosures: Illustrative Examples - Disaggregation of scope 3 greenhouse gas emissions by categories [table]</label:label>
+            xlink:type="resource" xml:lang="en">[211300b] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions by asset class [table]</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000a"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211300b"
             xlink:label="loc_14" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_14" xlink:to="res_14" xlink:type="arc"/>
         <label:label xlink:label="res_15"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[219000b] Climate-related disclosures: Illustrative Examples - Disaggregation of greenhouse gas emissions by constituent greenhouse gases [table]</label:label>
+            xlink:type="resource" xml:lang="en">[219000a] Climate-related disclosures: Illustrative Examples - Disaggregation of scope 3 greenhouse gas emissions by categories [table]</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000b"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000a"
             xlink:label="loc_15" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_15" xlink:to="res_15" xlink:type="arc"/>
         <label:label xlink:label="res_16"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[219000c] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by investment strategy [table]</label:label>
+            xlink:type="resource" xml:lang="en">[219000b] Climate-related disclosures: Illustrative Examples - Disaggregation of greenhouse gas emissions by constituent greenhouse gases [table]</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000c"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000b"
             xlink:label="loc_16" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_16" xlink:to="res_16" xlink:type="arc"/>
         <label:label xlink:label="res_17"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[219000d] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by asset class [table]</label:label>
+            xlink:type="resource" xml:lang="en">[219000c] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by investment strategy [table]</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000d"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000c"
             xlink:label="loc_17" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_17" xlink:to="res_17" xlink:type="arc"/>
         <label:label xlink:label="res_18"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[210000] Climate-related disclosures</label:label>
+            xlink:type="resource" xml:lang="en">[219000d] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by asset class [table]</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-210000"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000d"
             xlink:label="loc_18" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_18" xlink:to="res_18" xlink:type="arc"/>
         <label:label xlink:label="res_19"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[211100] Climate-related disclosures: Financed Emissions - Asset management</label:label>
+            xlink:type="resource" xml:lang="en">[210000] Climate-related disclosures</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211100"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-210000"
             xlink:label="loc_19" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_19" xlink:to="res_19" xlink:type="arc"/>
         <label:label xlink:label="res_20"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[211200] Climate-related disclosures: Financed Emissions - Commercial banks</label:label>
+            xlink:type="resource" xml:lang="en">[211100] Climate-related disclosures: Financed Emissions - Asset management</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211200"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211100"
             xlink:label="loc_20" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_20" xlink:to="res_20" xlink:type="arc"/>
         <label:label xlink:label="res_21"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[211300] Climate-related disclosures: Financed Emissions - Insurance</label:label>
+            xlink:type="resource" xml:lang="en">[211200] Climate-related disclosures: Financed Emissions - Commercial banks</label:label>
         <link:loc
             xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211200"
             xlink:label="loc_21" xlink:type="locator"/>
@@ -210,12 +210,21 @@
             xlink:from="loc_21" xlink:to="res_21" xlink:type="arc"/>
         <label:label xlink:label="res_22"
             xlink:role="http://www.xbrl.org/2008/role/label"
-            xlink:type="resource" xml:lang="en">[219000] Climate-related disclosures: Illustrative Examples</label:label>
+            xlink:type="resource" xml:lang="en">[211300] Climate-related disclosures: Financed Emissions - Insurance</label:label>
         <link:loc
-            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000"
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211200"
             xlink:label="loc_22" xlink:type="locator"/>
         <gen:arc
             xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
             xlink:from="loc_22" xlink:to="res_22" xlink:type="arc"/>
+        <label:label xlink:label="res_23"
+            xlink:role="http://www.xbrl.org/2008/role/label"
+            xlink:type="resource" xml:lang="en">[219000] Climate-related disclosures: Illustrative Examples</label:label>
+        <link:loc
+            xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-219000"
+            xlink:label="loc_23" xlink:type="locator"/>
+        <gen:arc
+            xlink:arcrole="http://xbrl.org/arcrole/2008/element-label"
+            xlink:from="loc_23" xlink:to="res_23" xlink:type="arc"/>
 </gen:link>
 </link:linkbase>

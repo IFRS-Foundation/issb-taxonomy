@@ -55,11 +55,6 @@
         name="ActiveStrategyMember" nillable="true"
         substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_AmountReportedForSustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse"
-        name="AmountReportedForSustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse"
-        nillable="true" substitutionGroup="xbrli:item"
-        type="xbrli:booleanItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="false"
         id="ifrs-sds_AmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriodTrueFalse"
         name="AmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriodTrueFalse"
         nillable="true" substitutionGroup="xbrli:item"
@@ -316,6 +311,11 @@
         name="DateOfStartOfReportingPeriod" nillable="true"
         substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
+        id="ifrs-sds_DerivedByAdjustingMetricTakenFromSourceOtherThanIfrsSustainabilityDisclosureStandardsTrueFalse"
+        name="DerivedByAdjustingMetricTakenFromSourceOtherThanIfrsSustainabilityDisclosureStandardsTrueFalse"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false"
         id="ifrs-sds_DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory"
         name="DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
@@ -446,8 +446,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfApproachTheEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory"
-        name="DisclosureOfApproachTheEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory"
+        id="ifrs-sds_DisclosureOfApproachEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory"
+        name="DisclosureOfApproachEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -456,8 +456,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreNotPracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory"
-        name="DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreNotPracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory"
+        id="ifrs-sds_DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreImpracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory"
+        name="DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreImpracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true"
@@ -500,8 +500,8 @@
         substitutionGroup="xbrldt:hypercubeItem"
         type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysValueChainExplanatory"
-        name="DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysValueChainExplanatory"
+        id="ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory"
+        name="DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true"
@@ -640,6 +640,11 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
+        id="ifrs-sds_DisclosureOfEntitysApproachToSettingAndReviewingTargetAndMonitoringProgressExplanatory"
+        name="DisclosureOfEntitysApproachToSettingAndReviewingTargetAndMonitoringProgressExplanatory"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false"
         id="ifrs-sds_DisclosureOfEntitysAssessmentOfItsClimateResilienceAsAtTheReportingDateExplanatory"
         name="DisclosureOfEntitysAssessmentOfItsClimateResilienceAsAtTheReportingDateExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
@@ -765,8 +770,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfHowAndWhenTheClimateRelatedScenarioAnalysisHasBeenCarriedOutExplanatory"
-        name="DisclosureOfHowAndWhenTheClimateRelatedScenarioAnalysisHasBeenCarriedOutExplanatory"
+        id="ifrs-sds_DisclosureOfHowAndWhenTheClimateRelatedScenarioAnalysisWasCarriedOutExplanatory"
+        name="DisclosureOfHowAndWhenTheClimateRelatedScenarioAnalysisWasCarriedOutExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -800,8 +805,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfHowEntityHasRespondedToOrAnticipatesHavingToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
-        name="DisclosureOfHowEntityHasRespondedToOrAnticipatesHavingToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+        id="ifrs-sds_DisclosureOfHowEntityHasRespondedToAndPlansToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+        name="DisclosureOfHowEntityHasRespondedToAndPlansToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -810,8 +815,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfHowEntitySetsAndReviewsTargetAndMonitorsProgressExplanatory"
-        name="DisclosureOfHowEntitySetsAndReviewsTargetAndMonitorsProgressExplanatory"
+        id="ifrs-sds_DisclosureOfHowEntityIsResourcingAndPlansToResourceActivitiesDisclosedInRelationToEntitysResponseToClimateRelatedRisksAndOpportunitiesInStrategyAndDecisionMakingExplanatory"
+        name="DisclosureOfHowEntityIsResourcingAndPlansToResourceActivitiesDisclosedInRelationToEntitysResponseToClimateRelatedRisksAndOpportunitiesInStrategyAndDecisionMakingExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -820,8 +825,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualEnsuresThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
-        name="DisclosureOfHowResponsibleBodyOrIndividualEnsuresThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+        id="ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+        name="DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -837,11 +842,6 @@
     <xsd:element abstract="false"
         id="ifrs-sds_DisclosureOfHowSustainabilityRelatedRisksAndOpportunitiesHaveAffectedEntitysFinancialPositionFinancialPerformanceAndCashFlowsForReportingPeriodExplanatory"
         name="DisclosureOfHowSustainabilityRelatedRisksAndOpportunitiesHaveAffectedEntitysFinancialPositionFinancialPerformanceAndCashFlowsForReportingPeriodExplanatory"
-        nillable="true" substitutionGroup="xbrli:item"
-        type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfHowTheEntityIsCurrentlyResourcingOrPlansToResourceActivitiesDisclosedInRelationToEntitysResponseToClimateRelatedRisksAndOpportunitiesInStrategyAndDecisionMakingExplanatory"
-        name="DisclosureOfHowTheEntityIsCurrentlyResourcingOrPlansToResourceActivitiesDisclosedInRelationToEntitysResponseToClimateRelatedRisksAndOpportunitiesInStrategyAndDecisionMakingExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -865,8 +865,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfInformationAboutTransationsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodAndBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory"
-        name="DisclosureOfInformationAboutTransationsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodAndBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory"
+        id="ifrs-sds_DisclosureOfInformationAboutTransationsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory"
+        name="DisclosureOfInformationAboutTransationsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -885,8 +885,8 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfMilestonesOrInterimTargetsForSustainabilityRelatedMetricExplanatory"
-        name="DisclosureOfMilestonesOrInterimTargetsForSustainabilityRelatedMetricExplanatory"
+        id="ifrs-sds_DisclosureOfMilestonesAndInterimTargetsForSustainabilityRelatedMetricExplanatory"
+        name="DisclosureOfMilestonesAndInterimTargetsForSustainabilityRelatedMetricExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -1084,18 +1084,13 @@
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfWhetherAmountReportedForSustainabilityRelatedMetricIsValidatedByThirdPartyAndIfSoWhichPartyExplanatory"
-        name="DisclosureOfWhetherAmountReportedForSustainabilityRelatedMetricIsValidatedByThirdPartyAndIfSoWhichPartyExplanatory"
-        nillable="true" substitutionGroup="xbrli:item"
-        type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="false"
         id="ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory"
         name="DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        id="ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedToPriorReportingPeriodExplanatory"
-        name="DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedToPriorReportingPeriodExplanatory"
+        id="ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedWithPriorReportingPeriodExplanatory"
+        name="DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedWithPriorReportingPeriodExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -1121,6 +1116,11 @@
     <xsd:element abstract="false"
         id="ifrs-sds_DisclosureOfWhetherManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeSustainabilityRelatedRisksAndOpportunitiesIsDelegatedToASpecificManagementLevelPositionOrManagementLevelCommitteeAndHowOversightIsExercisedOverThatPositionOrCommitteeExplanatory"
         name="DisclosureOfWhetherManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeSustainabilityRelatedRisksAndOpportunitiesIsDelegatedToASpecificManagementLevelPositionOrManagementLevelCommitteeAndHowOversightIsExercisedOverThatPositionOrCommitteeExplanatory"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false"
+        id="ifrs-sds_DisclosureOfWhetherSustainabilityRelatedMetricIsValidatedByThirdPartyExplanatory"
+        name="DisclosureOfWhetherSustainabilityRelatedMetricIsValidatedByThirdPartyExplanatory"
         nillable="true" substitutionGroup="xbrli:item"
         type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -1152,6 +1152,11 @@
     <xsd:element abstract="false"
         id="ifrs-sds_EntityHasMadeExplicitAndUnreservedStatementOfComplianceTrueFalse"
         name="EntityHasMadeExplicitAndUnreservedStatementOfComplianceTrueFalse"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false"
+        id="ifrs-sds_EntityPrioritisesClimateRelatedRisksRelativeToOtherTypesOfRiskTrueFalse"
+        name="EntityPrioritisesClimateRelatedRisksRelativeToOtherTypesOfRiskTrueFalse"
         nillable="true" substitutionGroup="xbrli:item"
         type="xbrli:booleanItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
@@ -1438,8 +1443,8 @@
         enum2:domain="ifrs-sds:MeasurementApproachUsedInCalculatingGreenhouseGasEmissionsDomain"
         enum2:headUsable="false"
         enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2022-05-12_role-995000"
-        id="ifrs-sds_MeasurementApproachUsedInCalculatingGreenhouseGasEmissions"
-        name="MeasurementApproachUsedInCalculatingGreenhouseGasEmissions"
+        id="ifrs-sds_MeasurementApproachEntityUsesInCalculatingGreenhouseGasEmissions"
+        name="MeasurementApproachEntityUsesInCalculatingGreenhouseGasEmissions"
         nillable="true" substitutionGroup="xbrli:item"
         type="enum2:enumerationItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true"
@@ -1587,6 +1592,9 @@
     <xsd:element abstract="true" id="ifrs-sds_ProjectFinanceMember"
         name="ProjectFinanceMember" nillable="true"
         substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_QualitativeMeasureMember"
+        name="QualitativeMeasureMember" nillable="true"
+        substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-sds_RangeAxis"
         name="RangeAxis" nillable="true"
         substitutionGroup="xbrldt:dimensionItem"
@@ -1686,19 +1694,23 @@
         id="ifrs-sds_SulphurHexaflourideSf6Member"
         name="SulphurHexaflourideSf6Member" nillable="true"
         substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="true"
-        id="ifrs-sds_SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain"
-        name="SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain"
-        nillable="true" substitutionGroup="xbrli:item"
-        type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false"
-        enum2:domain="ifrs-sds:SustainabilityRelatedMetricAbsoluteOrExpressedInRelationToAnotherDomain"
+        id="ifrs-sds_SustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse"
+        name="SustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse"
+        nillable="true" substitutionGroup="xbrli:item"
+        type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false"
+        enum2:domain="ifrs-sds:SustainabilityRelatedMetricMeasureTypeDomain"
         enum2:headUsable="false"
         enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2022-05-12_role-995000"
-        id="ifrs-sds_SustainabilityRelatedMetricIsAbsoluteMeasureOrMeasureExpressedInRelationToAnotherMetric"
-        name="SustainabilityRelatedMetricIsAbsoluteMeasureOrMeasureExpressedInRelationToAnotherMetric"
+        id="ifrs-sds_SustainabilityRelatedMetricMeasureType"
+        name="SustainabilityRelatedMetricMeasureType" nillable="true"
+        substitutionGroup="xbrli:item" type="enum2:enumerationItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true"
+        id="ifrs-sds_SustainabilityRelatedMetricMeasureTypeDomain"
+        name="SustainabilityRelatedMetricMeasureTypeDomain"
         nillable="true" substitutionGroup="xbrli:item"
-        type="enum2:enumerationItemType" xbrli:periodType="duration"/>
+        type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true"
         id="ifrs-sds_SustainabilityRelatedMetricsAxis"
         name="SustainabilityRelatedMetricsAxis" nillable="true"

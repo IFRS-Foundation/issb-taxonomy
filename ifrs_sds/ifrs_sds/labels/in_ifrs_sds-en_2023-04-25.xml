@@ -1,0 +1,95 @@
+<!--
+		Taxonomy: 2023-04-25 (Proposed)
+		********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase"
+    xmlns:xbrldt="http://xbrl.org/2005/xbrldt"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd http://www.w3.org/1999/xlink http://www.xbrl.org/2003/xlink-2003-12-31.xsd">
+    <link:labelLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+        <link:label
+            id="ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis_commentaryGuidance"
+            xlink:label="res_1"
+            xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance"
+            xlink:type="resource" xml:lang="en">The taxonomy provides no members for this axis below the default 'Domain' member, as the items in this axis will be entity-specific. Entities are expected to create specific members for their needs and include them under this 'Domain' member. The 'Domain' member is provided as a default member to facilitate aggregation of entity-specific members, and to represent the 'overall' value where this axis breakdown is not-applicable.</link:label>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis"
+            xlink:label="loc_1" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain"
+            xlink:label="loc_2" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_2" xlink:to="res_1" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricsAxis"
+            xlink:label="loc_3" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_3" xlink:to="res_1" xlink:type="arc"/>
+        <link:label
+            id="ifrs-sds_SustainabilityRelatedMetricsDomain_commentaryGuidance"
+            xlink:label="res_2"
+            xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance"
+            xlink:type="resource" xml:lang="en">Entities are expected to include the (entity-specific) concept elements (line items) used to report their metrics (or in cases where no suitable concept element exists, a domain member) under this 'Domain' member, tying the metric to the descriptive disclosures about that metric. The 'Domain' member is provided as a default member to facilitate aggregation of entity-specific members, and to represent the 'overall' value where this axis breakdown is not-applicable.</link:label>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricsDomain"
+            xlink:label="loc_4" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_4" xlink:to="res_2" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsAxis"
+            xlink:label="loc_5" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_5" xlink:to="res_1" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsDomain"
+            xlink:label="loc_6" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_6" xlink:to="res_1" xlink:type="arc"/>
+        <link:label
+            id="ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesTable_commentaryGuidance"
+            xlink:label="res_3"
+            xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance"
+            xlink:type="resource" xml:lang="en">As stated in paragraph 7 of IFRS S2, in preparing these disclosures, an entity shall avoid unnecessary duplication in accordance with IFRS S1 (see paragraph B42(b) of IFRS S1). For example, if oversight of sustainability-related risks and opportunities is managed on an integrated basis, the entity would avoid duplication by providing integrated governance disclosures instead of separate disclosures for each sustainability-related risk and opportunity.</link:label>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesTable"
+            xlink:label="loc_7" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_7" xlink:to="res_3" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CarbonCreditAxis"
+            xlink:label="loc_8" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_8" xlink:to="res_1" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CarbonCreditDomain"
+            xlink:label="loc_9" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_9" xlink:to="res_1" xlink:type="arc"/>
+        <link:label
+            id="ifrs-sds_GicsClassifiedIndustriesAxis_commentaryGuidance"
+            xlink:label="res_4"
+            xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance"
+            xlink:type="resource" xml:lang="en">The Global Industry Classification Standard (GICS) 6-digit industry-level code should be used for classifying counterparties</link:label>
+        <link:loc
+            xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GicsClassifiedIndustriesAxis"
+            xlink:label="loc_10" xlink:type="locator"/>
+        <link:labelArc
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label"
+            xlink:from="loc_10" xlink:to="res_4" xlink:type="arc"/>
+    </link:labelLink>
+</link:linkbase>

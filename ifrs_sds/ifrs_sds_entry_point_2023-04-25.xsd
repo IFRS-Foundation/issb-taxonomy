@@ -48,6 +48,10 @@
                            xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef"
                            xlink:type="simple"/>
          <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
+                           xlink:href="ifrs_sds/labels/in_ifrs_sds-en_2023-04-25.xml"
+                           xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
+                           xlink:type="simple"/>
+         <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase"
                            xlink:href="ifrs_sds/labels/lab_ifrs_sds-en_2023-04-25.xml"
                            xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef"
                            xlink:type="simple"/>

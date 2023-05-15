@@ -237,7 +237,7 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_50" xlink:to="loc_51" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityHasRespondedToOrAnticipatesHavingToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityHasRespondedToAndPlansToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_55" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_StrategyAndDecisionMakingAbstract"
@@ -348,7 +348,7 @@
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksComparedToPriorReportingPeriodTrueFalse"
             xlink:label="loc_83" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedToPriorReportingPeriodExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedWithPriorReportingPeriodExplanatory"
             xlink:label="loc_82" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
@@ -396,194 +396,194 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_93" xlink:to="loc_94" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricIsAbsoluteMeasureOrMeasureExpressedInRelationToAnotherMetric"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DerivedByAdjustingMetricTakenFromSourceOtherThanIfrsSustainabilityDisclosureStandardsTrueFalse"
             xlink:label="loc_95" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_94" xlink:to="loc_95" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AmountReportedForSustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse"
-            xlink:label="loc_97" xlink:type="locator"/>
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse"
+            xlink:label="loc_98" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAmountReportedForSustainabilityRelatedMetricIsValidatedByThirdPartyAndIfSoWhichPartyExplanatory"
-            xlink:label="loc_96" xlink:type="locator"/>
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherSustainabilityRelatedMetricIsValidatedByThirdPartyExplanatory"
+            xlink:label="loc_97" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_96" xlink:to="loc_97" xlink:type="arc"/>
+            xlink:from="loc_97" xlink:to="loc_98" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsAbstract"
-            xlink:label="loc_101" xlink:type="locator"/>
+            xlink:label="loc_102" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsExplanatory"
-            xlink:label="loc_100" xlink:type="locator"/>
-        <link:presentationArc order="10.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_100" xlink:to="loc_101" xlink:type="arc"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsTable"
-            xlink:label="loc_102" xlink:type="locator"/>
+            xlink:label="loc_101" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_101" xlink:to="loc_102" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsAxis"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsTable"
             xlink:label="loc_103" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_102" xlink:to="loc_103" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsDomain"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsAxis"
             xlink:label="loc_104" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_103" xlink:to="loc_104" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedMetricUsedToSetTargetAndToMonitorProgressExplanatory"
-            xlink:label="loc_106" xlink:type="locator"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsLineItems"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsDomain"
             xlink:label="loc_105" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_106" xlink:type="arc"/>
+            xlink:from="loc_104" xlink:to="loc_105" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsAbstract"
-            xlink:label="loc_114" xlink:type="locator"/>
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedMetricUsedToSetTargetAndToMonitorProgressExplanatory"
+            xlink:label="loc_107" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsExplanatory"
-            xlink:label="loc_113" xlink:type="locator"/>
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsLineItems"
+            xlink:label="loc_106" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_113" xlink:to="loc_114" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_107" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsTable"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsAbstract"
             xlink:label="loc_115" xlink:type="locator"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsExplanatory"
+            xlink:label="loc_114" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_114" xlink:to="loc_115" xlink:type="arc"/>
-        <link:presentationArc order="10.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_115" xlink:to="loc_91" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfAndReasonsForChangesInSustainabilityRelatedMetricExplanatory"
-            xlink:label="loc_117" xlink:type="locator"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsLineItems"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsTable"
             xlink:label="loc_116" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_116" xlink:to="loc_117" xlink:type="arc"/>
+            xlink:from="loc_115" xlink:to="loc_116" xlink:type="arc"/>
+        <link:presentationArc order="10.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_116" xlink:to="loc_91" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfAndReasonsForChangesInSustainabilityRelatedMetricExplanatory"
+            xlink:label="loc_118" xlink:type="locator"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsLineItems"
+            xlink:label="loc_117" xlink:type="locator"/>
+        <link:presentationArc order="10.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_117" xlink:to="loc_118" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfGuidanceEntityHasAppliedInPreparingSustainabilityRelatedFinancialDisclosuresExplanatory"
-            xlink:label="loc_120" xlink:type="locator"/>
+            xlink:label="loc_121" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GeneralRequirementsAbstract"
-            xlink:label="loc_119" xlink:type="locator"/>
+            xlink:label="loc_120" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_120" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_121" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutJudgementsApartFromThoseInvolvingEstimationsOfAmountsExplanatory"
-            xlink:label="loc_130" xlink:type="locator"/>
+            xlink:label="loc_131" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_JudgementsUncertaintiesAndErrorsAbstract"
-            xlink:label="loc_129" xlink:type="locator"/>
+            xlink:label="loc_130" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_129" xlink:to="loc_130" xlink:type="arc"/>
+            xlink:from="loc_130" xlink:to="loc_131" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTypeOfMaterialInformationNotDisclosedDueToProhibitionOfDisclosureAndExplanationOfSourceOfRestrictionExplanatory"
-            xlink:label="loc_133" xlink:type="locator"/>
+            xlink:label="loc_134" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ApplicationGuidanceAbstract"
-            xlink:label="loc_132" xlink:type="locator"/>
+            xlink:label="loc_133" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_132" xlink:to="loc_133" xlink:type="arc"/>
+            xlink:from="loc_133" xlink:to="loc_134" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfReasonsEntityHasDisclosedRevisedComparativeAmountThatReflectsNewInformationInRelationToEstimatedAmountDisclosedInPrecedingPeriodExplanatory"
-            xlink:label="loc_136" xlink:type="locator"/>
+            xlink:label="loc_137" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricsAbstract"
-            xlink:label="loc_135" xlink:type="locator"/>
+            xlink:label="loc_136" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_135" xlink:to="loc_136" xlink:type="arc"/>
+            xlink:from="loc_136" xlink:to="loc_137" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RevisionOfAComparativeAmountForPrecedingPeriodIsImpracticableTrueFalse"
-            xlink:label="loc_138" xlink:type="locator"/>
+            xlink:label="loc_139" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatItIsImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory"
-            xlink:label="loc_137" xlink:type="locator"/>
+            xlink:label="loc_138" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_137" xlink:to="loc_138" xlink:type="arc"/>
+            xlink:from="loc_138" xlink:to="loc_139" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory"
-            xlink:label="loc_140" xlink:type="locator"/>
+            xlink:label="loc_141" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ErrorsAbstract"
-            xlink:label="loc_139" xlink:type="locator"/>
+            xlink:label="loc_140" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_139" xlink:to="loc_140" xlink:type="arc"/>
+            xlink:from="loc_140" xlink:to="loc_141" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardExplanatory"
-            xlink:label="loc_143" xlink:type="locator"/>
+            xlink:label="loc_144" xlink:type="locator"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EffectiveDateAndTransitionAbstract"
-            xlink:label="loc_142" xlink:type="locator"/>
-        <link:presentationArc order="10.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_142" xlink:to="loc_143" xlink:type="arc"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardAbstract"
-            xlink:label="loc_144" xlink:type="locator"/>
+            xlink:label="loc_143" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_143" xlink:to="loc_144" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardTable"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardAbstract"
             xlink:label="loc_145" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_144" xlink:to="loc_145" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsAxis"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardTable"
             xlink:label="loc_146" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_145" xlink:to="loc_146" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsDomain"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsAxis"
             xlink:label="loc_147" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_146" xlink:to="loc_147" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GeneralRequirementsForDisclosureOfSustainabilityRelatedFinancialInformationMember"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsDomain"
             xlink:label="loc_148" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_147" xlink:to="loc_148" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NewOrAmendedIfrsSustainabilityDisclosureStandardIsAppliedEarlyTrueFalse"
-            xlink:label="loc_150" xlink:type="locator"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardLineItems"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GeneralRequirementsForDisclosureOfSustainabilityRelatedFinancialInformationMember"
             xlink:label="loc_149" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_149" xlink:to="loc_150" xlink:type="arc"/>
+            xlink:from="loc_148" xlink:to="loc_149" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TransitionReliefTakenPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesTrueFalse"
-            xlink:label="loc_152" xlink:type="locator"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatTransitionReliefPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesHasBeenTakenExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NewOrAmendedIfrsSustainabilityDisclosureStandardIsAppliedEarlyTrueFalse"
             xlink:label="loc_151" xlink:type="locator"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardLineItems"
+            xlink:label="loc_150" xlink:type="locator"/>
         <link:presentationArc order="10.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_151" xlink:to="loc_152" xlink:type="arc"/>
+            xlink:from="loc_150" xlink:to="loc_151" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TransitionReliefTakenPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesTrueFalse"
+            xlink:label="loc_153" xlink:type="locator"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatTransitionReliefPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesHasBeenTakenExplanatory"
+            xlink:label="loc_152" xlink:type="locator"/>
+        <link:presentationArc order="10.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_152" xlink:to="loc_153" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_3" xlink:to="loc_7" xlink:type="arc"/>
@@ -636,7 +636,7 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_48" xlink:to="loc_50" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysValueChainExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory"
             xlink:label="loc_52" xlink:type="locator"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
@@ -686,56 +686,59 @@
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_89" xlink:to="loc_93" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricMeasureType"
+            xlink:label="loc_96" xlink:type="locator"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_93" xlink:to="loc_96" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_87" xlink:to="loc_100" xlink:type="arc"/>
+            xlink:from="loc_87" xlink:to="loc_101" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_101" xlink:to="loc_105" xlink:type="arc"/>
+            xlink:from="loc_102" xlink:to="loc_106" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SpecificQuantitativeOrQualitativeSustainabilityRelatedTargetEntityHasSetOrIsRequiredToMeet"
-            xlink:label="loc_107" xlink:type="locator"/>
+            xlink:label="loc_108" xlink:type="locator"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_107" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_108" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_114" xlink:to="loc_116" xlink:type="arc"/>
+            xlink:from="loc_115" xlink:to="loc_117" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfIndustryAppliedInPreparingSustainabilityRelatedFinancialDisclosuresExplanatory"
-            xlink:label="loc_121" xlink:type="locator"/>
+            xlink:label="loc_122" xlink:type="locator"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_121" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_122" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfMeasurementUncertaintyAndAssumptionsApproximationsAndJudgementsEntityHasMadeInMeasuringAmountsThatAreSubjectToHighLevelOfMeasurementUncertaintyExplanatory"
-            xlink:label="loc_131" xlink:type="locator"/>
+            xlink:label="loc_132" xlink:type="locator"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_129" xlink:to="loc_131" xlink:type="arc"/>
+            xlink:from="loc_130" xlink:to="loc_132" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_132" xlink:to="loc_30" xlink:type="arc"/>
+            xlink:from="loc_133" xlink:to="loc_30" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_135" xlink:to="loc_137" xlink:type="arc"/>
+            xlink:from="loc_136" xlink:to="loc_138" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreNotPracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory"
-            xlink:label="loc_141" xlink:type="locator"/>
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreImpracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory"
+            xlink:label="loc_142" xlink:type="locator"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_139" xlink:to="loc_141" xlink:type="arc"/>
+            xlink:from="loc_140" xlink:to="loc_142" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_144" xlink:to="loc_149" xlink:type="arc"/>
+            xlink:from="loc_145" xlink:to="loc_150" xlink:type="arc"/>
         <link:presentationArc order="20.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_142" xlink:to="loc_151" xlink:type="arc"/>
+            xlink:from="loc_143" xlink:to="loc_152" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualEnsuresThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_10" xlink:type="locator"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
@@ -788,33 +791,30 @@
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_76" xlink:to="loc_85" xlink:type="arc"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMethodUsedToCalculateMetricAndInputsToCalculationExplanatory"
-            xlink:label="loc_98" xlink:type="locator"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_93" xlink:to="loc_98" xlink:type="arc"/>
+            xlink:from="loc_93" xlink:to="loc_97" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PeriodOverWhichSustainabilityRelatedTargetApplies"
-            xlink:label="loc_108" xlink:type="locator"/>
+            xlink:label="loc_109" xlink:type="locator"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_108" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_109" xlink:type="arc"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_87" xlink:to="loc_113" xlink:type="arc"/>
+            xlink:from="loc_87" xlink:to="loc_114" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_FinancialStatementsToWhichSustainabilityRelatedFinancialDisclosuresRelate"
-            xlink:label="loc_122" xlink:type="locator"/>
+            xlink:label="loc_123" xlink:type="locator"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_122" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_123" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutSignificantDifferencesBetweenFinancialDataAndAssumptionsUsedPreparingEntitysSustainabilityRelatedFinancialDisclosuresAndRelatedFinancialStatementsExplanatory"
-            xlink:label="loc_134" xlink:type="locator"/>
+            xlink:label="loc_135" xlink:type="locator"/>
         <link:presentationArc order="30.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_132" xlink:to="loc_134" xlink:type="arc"/>
+            xlink:from="loc_133" xlink:to="loc_135" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowAndHowOftenResponsibleBodyOrIndividualIsInformedAboutSustainabilityRelatedRisksAndOpportunitiesExplanatory"
             xlink:label="loc_11" xlink:type="locator"/>
@@ -840,32 +840,32 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_1" xlink:to="loc_87" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesFromWhichMetricWasDrawnExplanatory"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMethodUsedToCalculateMetricAndInputsToCalculationExplanatory"
             xlink:label="loc_99" xlink:type="locator"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_93" xlink:to="loc_99" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_BasePeriodFromWhichProgressForSustainabilityRelatedTargetIsMeasured"
-            xlink:label="loc_109" xlink:type="locator"/>
+            xlink:label="loc_110" xlink:type="locator"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_109" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_110" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutEntitysPerformanceInRelationToSustainabilityRelatedRisksAndOpportunitiesExplanatory"
-            xlink:label="loc_118" xlink:type="locator"/>
+            xlink:label="loc_119" xlink:type="locator"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_87" xlink:to="loc_118" xlink:type="arc"/>
+            xlink:from="loc_87" xlink:to="loc_119" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DateOfStartOfReportingPeriod"
-            xlink:label="loc_123" xlink:type="locator"/>
+            xlink:label="loc_124" xlink:type="locator"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_123" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_124" xlink:type="arc"/>
         <link:presentationArc order="40.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_132" xlink:to="loc_135" xlink:type="arc"/>
+            xlink:from="loc_133" xlink:to="loc_136" xlink:type="arc"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_7" xlink:to="loc_12" xlink:type="arc"/>
@@ -873,73 +873,79 @@
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_23" xlink:to="loc_74" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMilestonesOrInterimTargetsForSustainabilityRelatedMetricExplanatory"
-            xlink:label="loc_110" xlink:type="locator"/>
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesFromWhichMetricWasDrawnExplanatory"
+            xlink:label="loc_100" xlink:type="locator"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_110" xlink:type="arc"/>
+            xlink:from="loc_93" xlink:to="loc_100" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMilestonesAndInterimTargetsForSustainabilityRelatedMetricExplanatory"
+            xlink:label="loc_111" xlink:type="locator"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_1" xlink:to="loc_119" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_111" xlink:type="arc"/>
+        <link:presentationArc order="50.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_1" xlink:to="loc_120" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DateOfEndOfReportingPeriod"
-            xlink:label="loc_124" xlink:type="locator"/>
+            xlink:label="loc_125" xlink:type="locator"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_124" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_125" xlink:type="arc"/>
         <link:presentationArc order="50.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_132" xlink:to="loc_139" xlink:type="arc"/>
+            xlink:from="loc_133" xlink:to="loc_140" xlink:type="arc"/>
         <link:presentationArc order="60.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_7" xlink:to="loc_14" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfPerformanceAgainstSustainabilityRelatedTargetAndAnalysisOfTrendsOrChangesInEntitysPerformanceExplanatory"
-            xlink:label="loc_111" xlink:type="locator"/>
+            xlink:label="loc_112" xlink:type="locator"/>
         <link:presentationArc order="60.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_111" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_112" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfReasonForUsingReportingPeriodLongerOrShorterThan12MonthsExplanatory"
-            xlink:label="loc_125" xlink:type="locator"/>
+            xlink:label="loc_126" xlink:type="locator"/>
         <link:presentationArc order="60.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_125" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_126" xlink:type="arc"/>
         <link:presentationArc order="60.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_1" xlink:to="loc_129" xlink:type="arc"/>
+            xlink:from="loc_1" xlink:to="loc_130" xlink:type="arc"/>
         <link:presentationArc order="70.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
             xlink:from="loc_7" xlink:to="loc_17" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRevisionsToSustainabilityRelatedTargetExplanatory"
-            xlink:label="loc_112" xlink:type="locator"/>
+            xlink:label="loc_113" xlink:type="locator"/>
         <link:presentationArc order="70.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_105" xlink:to="loc_112" xlink:type="arc"/>
+            xlink:from="loc_106" xlink:to="loc_113" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriodTrueFalse"
-            xlink:label="loc_126" xlink:type="locator"/>
-        <link:presentationArc order="70.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_126" xlink:type="arc"/>
-        <link:presentationArc order="70.0"
-            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_1" xlink:to="loc_132" xlink:type="arc"/>
-        <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutTransationsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodAndBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory"
             xlink:label="loc_127" xlink:type="locator"/>
+        <link:presentationArc order="70.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_120" xlink:to="loc_127" xlink:type="arc"/>
+        <link:presentationArc order="70.0"
+            xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
+            xlink:from="loc_1" xlink:to="loc_133" xlink:type="arc"/>
+        <link:loc
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutTransationsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory"
+            xlink:label="loc_128" xlink:type="locator"/>
         <link:presentationArc order="80.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_127" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_128" xlink:type="arc"/>
         <link:presentationArc order="80.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_1" xlink:to="loc_142" xlink:type="arc"/>
+            xlink:from="loc_1" xlink:to="loc_143" xlink:type="arc"/>
         <link:loc
             xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityHasMadeExplicitAndUnreservedStatementOfComplianceTrueFalse"
-            xlink:label="loc_128" xlink:type="locator"/>
+            xlink:label="loc_129" xlink:type="locator"/>
         <link:presentationArc order="90.0"
             xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child"
-            xlink:from="loc_119" xlink:to="loc_128" xlink:type="arc"/>
+            xlink:from="loc_120" xlink:to="loc_129" xlink:type="arc"/>
     </link:presentationLink>
 </link:linkbase>
