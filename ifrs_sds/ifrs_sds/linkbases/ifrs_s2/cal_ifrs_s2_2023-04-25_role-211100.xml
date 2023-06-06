@@ -18,22 +18,22 @@
     <link:calculationLink
         xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211100" xlink:type="extended">
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope1"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope1"
             xlink:label="loc_2" xlink:type="locator"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissions"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAum"
             xlink:label="loc_1" xlink:type="locator"/>
         <link:calculationArc order="10.0" weight="1"
             xlink:arcrole="https://xbrl.org/2023/arcrole/summation-item"
             xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope2"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope2"
             xlink:label="loc_3" xlink:type="locator"/>
         <link:calculationArc order="20.0" weight="1"
             xlink:arcrole="https://xbrl.org/2023/arcrole/summation-item"
             xlink:from="loc_1" xlink:to="loc_3" xlink:type="arc"/>
         <link:loc
-            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope3"
+            xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope3"
             xlink:label="loc_4" xlink:type="locator"/>
         <link:calculationArc order="30.0" weight="1"
             xlink:arcrole="https://xbrl.org/2023/arcrole/summation-item"
