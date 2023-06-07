@@ -7,9 +7,9 @@
 		The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
         **********************
 --><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
-    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_im-dim_2023-04-25_role-990000" xlink:href="rol_ifrs_im-dim_2023-04-25.xsd#ifrs_im-dim_2023-04-25_role-990000" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-04-25_role-990000" xlink:href="../../ifrs_sds/dimensions/rol_ifrs_sds-dim_2023-04-25.xsd#ifrs_sds-dim_2023-04-25_role-990000" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" xlink:type="simple"/>
-    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_im-dim_2023-04-25_role-990000" xlink:type="extended">
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-04-25_role-990000" xlink:type="extended">
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PriorityRawMaterialsDomain" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
