@@ -11,7 +11,6 @@
         <xsd:appinfo>
             <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/dim_ifrs_im-dim_2023-04-25_role-990000.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple"/>
             <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/dim_ifrs_im_2023-04-25_role-995000.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple"/>
-            <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/gla_ifrs_im-dim_2023-04-25-en.xml" xlink:type="simple"/>
             <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/gre_ifrs_im-dim_2023-04-25.xml" xlink:type="simple"/>
             <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/pre_ifrs_im-dim_2023-04-25_role-990000.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:type="simple"/>
             <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="ifrs_im/dimensions/pre_ifrs_im_2023-04-25_role-995000.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:type="simple"/>
@@ -204,7 +203,6 @@
     <xsd:import namespace="http://xbrl.org/2008/label" schemaLocation="http://www.xbrl.org/2008/generic-label.xsd"/>
     <xsd:import namespace="http://xbrl.org/2008/reference" schemaLocation="http://www.xbrl.org/2008/generic-reference.xsd"/>
     <xsd:import namespace="http://xbrl.org/2020/extensible-enumerations-2.0" schemaLocation="https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd"/>
-    <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_im/dimensions_2023-04-25" schemaLocation="ifrs_im/dimensions/rol_ifrs_im-dim_2023-04-25.xsd"/>
     <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_im/rol_ifrs_s2ib_2023-04-25" schemaLocation="ifrs_im/linkbases/ifrs_s2ib/rol_ifrs_s2ib_2023-04-25.xsd"/>
     <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_sds/dimensions_2023-04-25" schemaLocation="ifrs_sds/dimensions/rol_ifrs_sds-dim_2023-04-25.xsd"/>
     <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s1_2023-04-25" schemaLocation="ifrs_sds/linkbases/ifrs_s1/rol_ifrs_s1_2023-04-25.xsd"/>
