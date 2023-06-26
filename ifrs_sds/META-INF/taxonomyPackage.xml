@@ -25,13 +25,8 @@
       </tp:entryPoint>
       <tp:entryPoint>
          <tp:name>IFRS Sustainable Disclosure Standards entry-point</tp:name>
-         <tp:description>This is the entry point for viewing the IFRS Sustainability Disclosure Taxonomy for all IFRS Sustainability Disclosures.</tp:description>
+         <tp:description>This is the entry point for viewing the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
          <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2023-04-25/ifrs_sds_entry_point_2023-04-25.xsd"/>
-      </tp:entryPoint>
-      <tp:entryPoint>
-         <tp:name>IFRS S2 industry metrics entry-point</tp:name>
-         <tp:description>This is the entry point for viewing the IFRS Sustainability Disclosure Taxonomy for IFRS Industry Metrics Disclosures in IFRS S2 Climate Disclosures.</tp:description>
-         <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2023-04-25/ifrs_im_entry_point_2023-04-25.xsd"/>
       </tp:entryPoint>
    </tp:entryPoints>
   <tp:versioningReports/>
