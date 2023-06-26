@@ -11,8 +11,5 @@
         <link:label id="ifrs-im_PriorityRawMaterialsListing_commentaryGuidance" xlink:label="res_1" xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance" xlink:type="resource" xml:lang="en">Values reported using this element should be elements available in the taxonomies used, including the extension taxonomy. An example of how the pattern for the reported value would appear is: "ifrs-im#CottonMember company_namespace#MaterialB". The intended values are domain-members in the company's extension taxonomy within the definition linkbase.</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PriorityRawMaterialsListing" xlink:label="loc_1" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
-        <link:label id="ifrs-sds_GicsClassifiedIndustriesAxis_commentaryGuidance" xlink:label="res_2" xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance" xlink:type="resource" xml:lang="en">The Global Industry Classification Standard (GICS) 6-digit industry-level code should be used for classifying counterparties</link:label>
-        <link:loc xlink:href="../../ifrs_sds/ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GicsClassifiedIndustriesAxis" xlink:label="loc_2" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2" xlink:to="res_2" xlink:type="arc"/>
     </link:labelLink>
 </link:linkbase>

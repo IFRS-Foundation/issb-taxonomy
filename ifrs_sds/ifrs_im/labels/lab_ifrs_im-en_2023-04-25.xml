@@ -836,9 +836,6 @@
         <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation_label" xlink:label="res_319" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage covered by regulation</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:label="loc_234" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_234" xlink:to="res_319" xlink:type="arc"/>
-        <link:label id="ifrs-sds_GrossScope1GreenhouseGasEmissions_label" xlink:label="res_320" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions</link:label>
-        <link:loc xlink:href="../../ifrs_sds/ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_235" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_235" xlink:to="res_320" xlink:type="arc"/>
         <link:label id="ifrs-im_EMCO110a2Abstract_label" xlink:label="res_321" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-CO-110a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EMCO110a2Abstract" xlink:label="loc_236" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_236" xlink:to="res_321" xlink:type="arc"/>
@@ -2164,9 +2161,6 @@
         <link:label id="ifrs-im_TransactionsIncorporatingEsgFactorsRevenueTable_label" xlink:label="res_876" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transactions incorporating ESG factors, revenue [table]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransactionsIncorporatingEsgFactorsRevenueTable" xlink:label="loc_678" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_678" xlink:to="res_876" xlink:type="arc"/>
-        <link:label id="ifrs-sds_GicsClassifiedIndustriesAxis_label" xlink:label="res_877" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GICS classified industries [axis]</link:label>
-        <link:loc xlink:href="../../ifrs_sds/ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GicsClassifiedIndustriesAxis" xlink:label="loc_679" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_679" xlink:to="res_877" xlink:type="arc"/>
         <link:label id="ifrs-im_TransactionTypeAxis_label" xlink:label="res_878" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transaction type [axis]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransactionTypeAxis" xlink:label="loc_680" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_680" xlink:to="res_878" xlink:type="arc"/>
