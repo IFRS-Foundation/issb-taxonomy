@@ -70,13 +70,13 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WoodFibreMaterialsPurchasedPercentageCertifiedToOtherFibreSourcingStandards" xlink:label="loc_47" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WoodFibreMaterialsPurchasedPercentageCertifiedToOtherFibreSourcingStandardsLineItems" xlink:label="loc_46" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_47" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGBF000aAbstract" xlink:label="loc_50" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGBF000AAbstract" xlink:label="loc_50" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BuildingProductsAndFurnishingsIndustryActivityMetricsAbstract" xlink:label="loc_49" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_49" xlink:to="loc_50" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProductionUnits" xlink:label="loc_51" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_50" xlink:to="loc_51" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FacilitiesAreaAbstract" xlink:label="loc_55" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGBF000bAbstract" xlink:label="loc_54" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGBF000BAbstract" xlink:label="loc_54" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_54" xlink:to="loc_55" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FacilitiesAreaTable" xlink:label="loc_56" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_55" xlink:to="loc_56" xlink:type="arc"/>
@@ -116,7 +116,7 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:to="loc_27" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ForestStewardshipCouncilFscForestManagementAndChainOfCustodyCertificationsMember" xlink:label="loc_33" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_30" xlink:to="loc_33" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RecycledWoodFibreStandardsThatIncludePostAndPreConsumerReclaimedMaterialEgPefcRecycledLabelFscRecycledLabelMember" xlink:label="loc_44" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RecycledWoodFibreStandardsThatIncludePostAndPreConsumerReclaimedMaterialEGPefcRecycledLabelFscRecycledLabelMember" xlink:label="loc_44" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_41" xlink:to="loc_44" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProductionWeight" xlink:label="loc_53" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_50" xlink:to="loc_53" xlink:type="arc"/>

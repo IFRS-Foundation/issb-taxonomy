@@ -73,7 +73,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PefcControlledWoodStandardMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_10" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RecycledWoodFibreStandardsThatIncludePostAndPreConsumerReclaimedMaterialEgPefcRecycledLabelFscRecycledLabelMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RecycledWoodFibreStandardsThatIncludePostAndPreConsumerReclaimedMaterialEGPefcRecycledLabelFscRecycledLabelMember" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SfiCertifiedFibreSourcingStandardMember" xlink:label="loc_8" xlink:type="locator"/>
         <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>

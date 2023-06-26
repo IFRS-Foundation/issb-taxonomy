@@ -14,11 +14,11 @@
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>27</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageSustainabilityRelatedRisksAndOpportunitiesTable" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesTable" xlink:label="loc_1" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RisksAndOpportunitiesAxis" xlink:label="loc_2" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RisksAndOpportunitiesDomain" xlink:label="loc_3" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_1" xlink:type="arc"/>
         <link:reference xlink:label="res_2" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -27,7 +27,7 @@
             <ref:Paragraph>27</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfIdentityOfGovernanceBodyOrIndividualResponsibleForOversightOfSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfIdentityOfGovernanceBodyOrIndividualResponsibleForOversightOfRisksAndOpportunitiesExplanatory" xlink:label="loc_4" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_4" xlink:to="res_2" xlink:type="arc"/>
         <link:reference xlink:label="res_3" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -37,7 +37,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibilitiesForSustainabilityRelatedRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodyOrIndividualExplanatory" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibilitiesForRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodyOrIndividualExplanatory" xlink:label="loc_5" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_5" xlink:to="res_3" xlink:type="arc"/>
         <link:reference xlink:label="res_4" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -47,7 +47,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_6" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_6" xlink:to="res_4" xlink:type="arc"/>
         <link:reference xlink:label="res_5" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -57,7 +57,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iii</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowAndHowOftenResponsibleBodyOrIndividualIsInformedAboutSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowAndHowOftenResponsibleBodyOrIndividualIsInformedAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_7" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_7" xlink:to="res_5" xlink:type="arc"/>
         <link:reference xlink:label="res_6" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -67,9 +67,9 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualTakesIntoAccountSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualTakesIntoAccountRisksAndOpportunitiesExplanatory" xlink:label="loc_8" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_8" xlink:to="res_6" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithSustainabilityRelatedRisksAndOpportunitiesTrueFalse" xlink:label="loc_9" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithRisksAndOpportunitiesTrueFalse" xlink:label="loc_9" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_9" xlink:to="res_6" xlink:type="arc"/>
         <link:reference xlink:label="res_7" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -79,11 +79,11 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>v</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowBodyOrIndividualOverseesSettingOfTargetsRelatedToSustainabilityRelatedRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_10" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowBodyOrIndividualOverseesSettingOfTargetsRelatedToRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_10" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_10" xlink:to="res_7" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowSustainabilityRelatedPerformanceMetricsAreIncludedInRemunerationPoliciesExplanatory" xlink:label="loc_11" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowPerformanceMetricsAreIncludedInRemunerationPoliciesExplanatory" xlink:label="loc_11" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_11" xlink:to="res_7" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedPerformanceMetricsAreIncludedInRemunerationPoliciesTrueFalse" xlink:label="loc_12" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PerformanceMetricsAreIncludedInRemunerationPoliciesTrueFalse" xlink:label="loc_12" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_12" xlink:to="res_7" xlink:type="arc"/>
         <link:reference xlink:label="res_8" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -92,7 +92,7 @@
             <ref:Paragraph>27</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_13" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory" xlink:label="loc_13" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_13" xlink:to="res_8" xlink:type="arc"/>
         <link:reference xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -102,9 +102,9 @@
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeSustainabilityRelatedRisksAndOpportunitiesIsDelegatedToSpecificManagementLevelPositionOrManagementLevelCommitteeAndHowOversightIsExercisedOverThatPositionOrCommitteeExplanatory" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesIsDelegatedToSpecificManagementLevelPositionOrManagementLevelCommitteeAndHowOversightIsExercisedOverThatPositionOrCommitteeExplanatory" xlink:label="loc_14" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_14" xlink:to="res_9" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeSustainabilityRelatedRisksAndOpportunitiesIsDelegatedToSpecificManagementLevelPositionOrManagementLevelCommitteeTrueFalse" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesIsDelegatedToSpecificManagementLevelPositionOrManagementLevelCommitteeTrueFalse" xlink:label="loc_15" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_15" xlink:to="res_9" xlink:type="arc"/>
         <link:reference xlink:label="res_10" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -114,9 +114,9 @@
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherManagementUsesControlsAndProceduresToSupportOversightOfSustainabilityRelatedRisksAndOpportunitiesAndHowThoseAreIntegratedWithOtherInternalFunctionsExplanatory" xlink:label="loc_16" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherManagementUsesControlsAndProceduresToSupportOversightOfRisksAndOpportunitiesAndHowThoseAreIntegratedWithOtherInternalFunctionsExplanatory" xlink:label="loc_16" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_16" xlink:to="res_10" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ManagementUsesControlsAndProceduresToSupportOversightOfSustainabilityRelatedRisksAndOpportunitiesTrueFalse" xlink:label="loc_17" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ManagementUsesControlsAndProceduresToSupportOversightOfRisksAndOpportunitiesTrueFalse" xlink:label="loc_17" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_17" xlink:to="res_10" xlink:type="arc"/>
         <link:reference xlink:label="res_11" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -124,7 +124,7 @@
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>26</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory" xlink:label="loc_18" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_18" xlink:to="res_11" xlink:type="arc"/>
         <link:reference xlink:label="res_12" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -133,234 +133,213 @@
             <ref:Paragraph>30</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedRisksOrOpportunitiesExplanatory" xlink:label="loc_19" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRisksOrOpportunitiesTable" xlink:label="loc_19" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_19" xlink:to="res_12" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedRisksOrOpportunitiesTable" xlink:label="loc_20" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_20" xlink:to="res_12" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_12" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_12" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedRiskOrOpportunityExplanatory" xlink:label="loc_21" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_21" xlink:to="res_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRiskOrOpportunityExplanatory" xlink:label="loc_20" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_20" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_13" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>B36</ref:Paragraph>
-            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Paragraph>30</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatExemptionTakenPermittingEntitiesToOmitInformationAboutSustainabilityRelatedOpportunityWhenInformationIsCommerciallySensitiveExplanatory" xlink:label="loc_22" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTimeHorizonOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_21" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_21" xlink:to="res_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_22" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_22" xlink:to="res_13" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExemptionUsedPermittingEntitiesToOmitInformationAboutSustainabilityRelatedOpportunityWhenInformationIsCommerciallySensitiveTrueFalse" xlink:label="loc_23" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_23" xlink:to="res_13" xlink:type="arc"/>
         <link:reference xlink:label="res_14" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>30</ref:Paragraph>
-            <ref:Subparagraph>b</ref:Subparagraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTimeHorizonOverWhichEffectsOfSustainabilityRelatedRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_24" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfDefinitionOfTimeHorizonsTable" xlink:label="loc_23" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_23" xlink:to="res_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonAxis" xlink:label="loc_24" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_24" xlink:to="res_14" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonOverWhichEffectsOfSustainabilityRelatedRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_25" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonDomain" xlink:label="loc_25" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_25" xlink:to="res_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ShortTermMember" xlink:label="loc_26" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_26" xlink:to="res_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MediumTermMember" xlink:label="loc_27" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_27" xlink:to="res_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_LongTermMember" xlink:label="loc_28" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_28" xlink:to="res_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityDefinesTimeHorizonExplanatory" xlink:label="loc_29" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_29" xlink:to="res_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowDefinitionOfTimeHorizonIsLinkedToPlanningHorizonsUsedByEntityForStrategicDecisionMakingExplanatory" xlink:label="loc_30" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_30" xlink:to="res_14" xlink:type="arc"/>
         <link:reference xlink:label="res_15" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>30</ref:Paragraph>
-            <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfDefinitionOfTimeHorizonsExplanatory" xlink:label="loc_26" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_26" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfDefinitionOfTimeHorizonsTable" xlink:label="loc_27" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_27" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonAxis" xlink:label="loc_28" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_28" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonDomain" xlink:label="loc_29" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_29" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ShortTermMember" xlink:label="loc_30" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_30" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MediumTermMember" xlink:label="loc_31" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectEntitysProspectsExplanatory" xlink:label="loc_31" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_31" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_LongTermMember" xlink:label="loc_32" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_32" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityDefinesTimeHorizonExplanatory" xlink:label="loc_33" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_33" xlink:to="res_15" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowDefinitionOfTimeHorizonIsLinkedToPlanningHorizonsUsedByEntityForStrategicDecisionMakingExplanatory" xlink:label="loc_34" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_34" xlink:to="res_15" xlink:type="arc"/>
         <link:reference xlink:label="res_16" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>30</ref:Paragraph>
+            <ref:Paragraph>32</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutSustainabilityRelatedRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectEntitysProspectsExplanatory" xlink:label="loc_35" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_35" xlink:to="res_16" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnBusinessModelAndValueChainTable" xlink:label="loc_32" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_32" xlink:to="res_16" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_16" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_16" xlink:type="arc"/>
         <link:reference xlink:label="res_17" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>32</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSustainabilityRelatedRisksAndOpportunitiesOnBusinessModelAndValueChainExplanatory" xlink:label="loc_36" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_36" xlink:to="res_17" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSustainabilityRelatedRisksAndOpportunitiesOnBusinessModelAndValueChainTable" xlink:label="loc_37" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_37" xlink:to="res_17" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_17" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnEntitysBusinessModelAndItsValueChainExplanatory" xlink:label="loc_33" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_33" xlink:to="res_17" xlink:type="arc"/>
         <link:reference xlink:label="res_18" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>32</ref:Paragraph>
-            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfSustainabilityRelatedRisksAndOpportunitiesOnEntitysBusinessModelAndItsValueChainExplanatory" xlink:label="loc_38" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_38" xlink:to="res_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfConcentrationOfRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory" xlink:label="loc_34" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_34" xlink:to="res_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnBusinessModelAndValueChainExplanatory" xlink:label="loc_35" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_35" xlink:to="res_16" xlink:type="arc"/>
         <link:reference xlink:label="res_19" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>32</ref:Paragraph>
-            <ref:Subparagraph>b</ref:Subparagraph>
+            <ref:Paragraph>33</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfConcentrationOfSustainabilityRelatedRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory" xlink:label="loc_39" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_39" xlink:to="res_19" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedEffectsOfSustainabilityRelatedRisksAndOpportunitiesOnBusinessModelAndValueChainExplanatory" xlink:label="loc_40" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_40" xlink:to="res_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityHasRespondedToAndPlansToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_36" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_36" xlink:to="res_19" xlink:type="arc"/>
         <link:reference xlink:label="res_20" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
-            <ref:Subparagraph>a</ref:Subparagraph>
-        </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityHasRespondedToAndPlansToRespondToSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_41" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_41" xlink:to="res_20" xlink:type="arc"/>
-        <link:reference xlink:label="res_21" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S1</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProgressAgainstPlansEntityHasDisclosedInPreviousReportingPeriodsExplanatory" xlink:label="loc_42" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_42" xlink:to="res_21" xlink:type="arc"/>
-        <link:reference xlink:label="res_22" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProgressAgainstPlansEntityHasDisclosedInPreviousReportingPeriodsExplanatory" xlink:label="loc_37" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_37" xlink:to="res_20" xlink:type="arc"/>
+        <link:reference xlink:label="res_21" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTradeOffsBetweenSustainabilityRelatedRisksAndOpportunitiesThatEntityConsideredExplanatory" xlink:label="loc_43" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_43" xlink:to="res_22" xlink:type="arc"/>
-        <link:reference xlink:label="res_23" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTradeOffsBetweenRisksAndOpportunitiesThatEntityConsideredExplanatory" xlink:label="loc_38" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_38" xlink:to="res_21" xlink:type="arc"/>
+        <link:reference xlink:label="res_22" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutEffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingExplanatory" xlink:label="loc_44" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_44" xlink:to="res_23" xlink:type="arc"/>
-        <link:reference xlink:label="res_24" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutEffectsOfRisksAndOpportunitiesOnStrategyAndDecisionMakingExplanatory" xlink:label="loc_39" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_39" xlink:to="res_22" xlink:type="arc"/>
+        <link:reference xlink:label="res_23" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>35</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentFinancialEffectsOfSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_45" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_45" xlink:to="res_24" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentFinancialEffectsOfSustainabilityRelatedRisksAndOpportunitiesTable" xlink:label="loc_46" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_46" xlink:to="res_24" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_24" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_24" xlink:type="arc"/>
-        <link:reference xlink:label="res_25" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCurrentFinancialEffectsOfRisksAndOpportunitiesTable" xlink:label="loc_40" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_40" xlink:to="res_23" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_23" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_23" xlink:type="arc"/>
+        <link:reference xlink:label="res_24" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>35</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowSustainabilityRelatedRisksAndOpportunitiesHaveAffectedEntitysFinancialPositionFinancialPerformanceAndCashFlowsForReportingPeriodExplanatory" xlink:label="loc_47" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_47" xlink:to="res_25" xlink:type="arc"/>
-        <link:reference xlink:label="res_26" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowRisksAndOpportunitiesHaveAffectedEntitysFinancialPositionFinancialPerformanceAndCashFlowsForReportingPeriodExplanatory" xlink:label="loc_41" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_41" xlink:to="res_24" xlink:type="arc"/>
+        <link:reference xlink:label="res_25" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>40</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_47" xlink:to="res_26" xlink:type="arc"/>
-        <link:reference xlink:label="res_27" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_41" xlink:to="res_25" xlink:type="arc"/>
+        <link:reference xlink:label="res_26" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>35</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedRisksAndOpportunitiesForWhichThereIsSignificantRiskOfMaterialAdjustmentWithinNextAnnualReportingPeriodToCarryingAmountsOfAssetsAndLiabilitiesReportedInRelatedFinancialStatementsExplanatory" xlink:label="loc_48" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_48" xlink:to="res_27" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_48" xlink:to="res_26" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfAnticipatedFinancialEffectsOfSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_49" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_49" xlink:to="res_24" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfAnticipatedFinancialEffectsOfSustainabilityRelatedRisksAndOpportunitiesTable" xlink:label="loc_50" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_50" xlink:to="res_24" xlink:type="arc"/>
-        <link:reference xlink:label="res_28" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRisksAndOpportunitiesForWhichThereIsSignificantRiskOfMaterialAdjustmentWithinNextAnnualReportingPeriodToCarryingAmountsOfAssetsAndLiabilitiesReportedInRelatedFinancialStatementsExplanatory" xlink:label="loc_42" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_42" xlink:to="res_26" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_42" xlink:to="res_25" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfAnticipatedFinancialEffectsOfRisksAndOpportunitiesTable" xlink:label="loc_43" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_43" xlink:to="res_23" xlink:type="arc"/>
+        <link:reference xlink:label="res_27" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>35</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityExpectsItsFinancialPositionToChangeOverShortMediumAndLongTermGivenItsStrategyToManageSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_51" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_51" xlink:to="res_28" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_51" xlink:to="res_26" xlink:type="arc"/>
-        <link:reference xlink:label="res_29" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityExpectsItsFinancialPositionToChangeOverShortMediumAndLongTermGivenItsStrategyToManageRisksAndOpportunitiesExplanatory" xlink:label="loc_44" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_44" xlink:to="res_27" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_44" xlink:to="res_25" xlink:type="arc"/>
+        <link:reference xlink:label="res_28" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>35</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityExpectsItsFinancialPerformanceAndCashFlowsToChangeOverShortMediumAndLongTermGivenItsStrategyToManageSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_52" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_52" xlink:to="res_29" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_52" xlink:to="res_26" xlink:type="arc"/>
-        <link:reference xlink:label="res_30" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowEntityExpectsItsFinancialPerformanceAndCashFlowsToChangeOverShortMediumAndLongTermGivenItsStrategyToManageRisksAndOpportunitiesExplanatory" xlink:label="loc_45" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_45" xlink:to="res_28" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_45" xlink:to="res_25" xlink:type="arc"/>
+        <link:reference xlink:label="res_29" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>40</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfWhyEntityHasNotProvidedQuantitativeInformationAboutCurrentOrAnticipatedFinancialEffectsOfParticularSustainabilityRelatedRiskOrOpportunityExplanatory" xlink:label="loc_53" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_53" xlink:to="res_30" xlink:type="arc"/>
-        <link:reference xlink:label="res_31" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfWhyEntityHasNotProvidedQuantitativeInformationAboutCurrentOrAnticipatedFinancialEffectsOfParticularRiskOrOpportunityExplanatory" xlink:label="loc_46" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_46" xlink:to="res_29" xlink:type="arc"/>
+        <link:reference xlink:label="res_30" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>34</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedFinancialEffectsOfSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_54" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_54" xlink:to="res_31" xlink:type="arc"/>
-        <link:reference xlink:label="res_32" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedFinancialEffectsOfRisksAndOpportunitiesExplanatory" xlink:label="loc_47" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_47" xlink:to="res_30" xlink:type="arc"/>
+        <link:reference xlink:label="res_31" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>41</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfAssessmentOfResilienceOfStrategyAndBusinessModelInRelationToSustainabilityRelatedRisksExplanatory" xlink:label="loc_55" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_55" xlink:to="res_32" xlink:type="arc"/>
-        <link:reference xlink:label="res_33" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfAssessmentOfResilienceOfStrategyAndBusinessModelInRelationToRisksExplanatory" xlink:label="loc_48" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_48" xlink:to="res_31" xlink:type="arc"/>
+        <link:reference xlink:label="res_32" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>44</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProcessesAndRelatedPoliciesEntityUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksExplanatory" xlink:label="loc_56" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_56" xlink:to="res_33" xlink:type="arc"/>
-        <link:reference xlink:label="res_34" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProcessesAndRelatedPoliciesEntityUsesToIdentifyAssessPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_49" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_49" xlink:to="res_32" xlink:type="arc"/>
+        <link:reference xlink:label="res_33" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
@@ -368,23 +347,11 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityPrioritisesSustainabilityRelatedRisksRelativeToOtherTypesOfRiskExplanatory" xlink:label="loc_57" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_57" xlink:to="res_34" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityPrioritisesSustainabilityRelatedRisksRelativeToOtherTypesOfRiskTrueFalse" xlink:label="loc_58" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_58" xlink:to="res_34" xlink:type="arc"/>
-        <link:reference xlink:label="res_35" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S1</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>44</ref:Paragraph>
-            <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>iv</ref:Clause>
-        </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityUsesScenarioAnalysisToInformItsIdentificationOfSustainabilityRelatedRisksExplanatory" xlink:label="loc_59" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_59" xlink:to="res_35" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityUsesScenarioAnalysisToInformItsIdentificationOfSustainabilityRelatedRisksTrueFalse" xlink:label="loc_60" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_60" xlink:to="res_35" xlink:type="arc"/>
-        <link:reference xlink:label="res_36" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityUsesScenarioAnalysisToInformItsIdentificationOfRisksExplanatory" xlink:label="loc_50" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_50" xlink:to="res_33" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityUsesScenarioAnalysisToInformItsIdentificationOfRisksTrueFalse" xlink:label="loc_51" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_51" xlink:to="res_33" xlink:type="arc"/>
+        <link:reference xlink:label="res_34" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
@@ -392,525 +359,527 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>vi</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksForRiskManagementPurposesComparedWithPriorReportingPeriodExplanatory" xlink:label="loc_61" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_61" xlink:to="res_36" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedRisksComparedWithPreviousReportingPeriodTrueFalse" xlink:label="loc_62" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_62" xlink:to="res_36" xlink:type="arc"/>
-        <link:reference xlink:label="res_37" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorRisksForRiskManagementPurposesComparedWithPriorReportingPeriodExplanatory" xlink:label="loc_52" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_52" xlink:to="res_34" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorRisksComparedWithPreviousReportingPeriodTrueFalse" xlink:label="loc_53" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_53" xlink:to="res_34" xlink:type="arc"/>
+        <link:reference xlink:label="res_35" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>44</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProcessesEntityUsesToIdentifyAssessPrioritiseAndMonitorSustainabilityRelatedOpportunitiesExplanatory" xlink:label="loc_63" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_63" xlink:to="res_37" xlink:type="arc"/>
-        <link:reference xlink:label="res_38" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfProcessesEntityUsesToIdentifyAssessPrioritiseAndMonitorOpportunitiesExplanatory" xlink:label="loc_54" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_54" xlink:to="res_35" xlink:type="arc"/>
+        <link:reference xlink:label="res_36" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>44</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfExtentToWhichAndHowProcessesForIdentifyingAssessingPrioritisingAndMonitoringSustainabilityRelatedRisksAndOpportunitiesAreIntegratedIntoOrInformEntitysOverallRiskManagementProcessExplanatory" xlink:label="loc_64" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_64" xlink:to="res_38" xlink:type="arc"/>
-        <link:reference xlink:label="res_39" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfExtentToWhichAndHowProcessesForIdentifyingAssessingPrioritisingAndMonitoringRisksAndOpportunitiesAreIntegratedIntoOrInformEntitysOverallRiskManagementProcessExplanatory" xlink:label="loc_55" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_55" xlink:to="res_36" xlink:type="arc"/>
+        <link:reference xlink:label="res_37" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>43</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory" xlink:label="loc_65" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_65" xlink:to="res_39" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory" xlink:label="loc_56" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_56" xlink:to="res_37" xlink:type="arc"/>
+        <link:reference xlink:label="res_38" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:Paragraph>50</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMetricsDevelopedByEntityTable" xlink:label="loc_57" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_57" xlink:to="res_38" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricsAxis" xlink:label="loc_58" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_58" xlink:to="res_38" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricsDomain" xlink:label="loc_59" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_59" xlink:to="res_38" xlink:type="arc"/>
+        <link:reference xlink:label="res_39" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:Paragraph>50</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowMetricIsDefinedExplanatory" xlink:label="loc_60" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_60" xlink:to="res_39" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DerivedByAdjustingMetricTakenFromSourceOtherThanIfrsSustainabilityDisclosureStandardsTrueFalse" xlink:label="loc_61" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_61" xlink:to="res_39" xlink:type="arc"/>
         <link:reference xlink:label="res_40" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>50</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedMetricsDevelopedByEntityExplanatory" xlink:label="loc_66" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_66" xlink:to="res_40" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedMetricsDevelopedByEntityTable" xlink:label="loc_67" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_67" xlink:to="res_40" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricsAxis" xlink:label="loc_68" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_68" xlink:to="res_40" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricsDomain" xlink:label="loc_69" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_40" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricMeasureType" xlink:label="loc_62" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_62" xlink:to="res_40" xlink:type="arc"/>
         <link:reference xlink:label="res_41" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>50</ref:Paragraph>
-            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfHowSustainabilityRelatedMetricIsDefinedExplanatory" xlink:label="loc_70" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_41" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DerivedByAdjustingMetricTakenFromSourceOtherThanIfrsSustainabilityDisclosureStandardsTrueFalse" xlink:label="loc_71" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_41" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherMetricIsValidatedByThirdPartyExplanatory" xlink:label="loc_63" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_63" xlink:to="res_41" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricIsValidatedByThirdPartyTrueFalse" xlink:label="loc_64" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_64" xlink:to="res_41" xlink:type="arc"/>
         <link:reference xlink:label="res_42" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>50</ref:Paragraph>
-            <ref:Subparagraph>b</ref:Subparagraph>
-        </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricMeasureType" xlink:label="loc_72" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_72" xlink:to="res_42" xlink:type="arc"/>
-        <link:reference xlink:label="res_43" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S1</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>50</ref:Paragraph>
-            <ref:Subparagraph>c</ref:Subparagraph>
-        </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfWhetherSustainabilityRelatedMetricIsValidatedByThirdPartyExplanatory" xlink:label="loc_73" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_73" xlink:to="res_43" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricIsValidatedByThirdPartyTrueFalse" xlink:label="loc_74" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_74" xlink:to="res_43" xlink:type="arc"/>
-        <link:reference xlink:label="res_44" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S1</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>50</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMethodUsedToCalculateMetricAndInputsToCalculationExplanatory" xlink:label="loc_75" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_75" xlink:to="res_44" xlink:type="arc"/>
-        <link:reference xlink:label="res_45" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMethodUsedToCalculateMetricAndInputsToCalculationExplanatory" xlink:label="loc_65" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_65" xlink:to="res_42" xlink:type="arc"/>
+        <link:reference xlink:label="res_43" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>49</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesFromWhichMetricWasDrawnExplanatory" xlink:label="loc_76" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_76" xlink:to="res_45" xlink:type="arc"/>
-        <link:reference xlink:label="res_46" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesFromWhichMetricWasDrawnExplanatory" xlink:label="loc_66" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_66" xlink:to="res_43" xlink:type="arc"/>
+        <link:reference xlink:label="res_44" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsExplanatory" xlink:label="loc_77" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_77" xlink:to="res_46" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedTargetsTable" xlink:label="loc_78" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_78" xlink:to="res_46" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsAxis" xlink:label="loc_79" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_79" xlink:to="res_46" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsDomain" xlink:label="loc_80" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_80" xlink:to="res_46" xlink:type="arc"/>
-        <link:reference xlink:label="res_47" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTargetsTable" xlink:label="loc_67" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_67" xlink:to="res_44" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TargetsAxis" xlink:label="loc_68" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_68" xlink:to="res_44" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TargetsDomain" xlink:label="loc_69" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_44" xlink:type="arc"/>
+        <link:reference xlink:label="res_45" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSustainabilityRelatedMetricUsedToSetTargetAndToMonitorProgressExplanatory" xlink:label="loc_81" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_81" xlink:to="res_47" xlink:type="arc"/>
-        <link:reference xlink:label="res_48" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMetricUsedToSetTargetAndToMonitorProgressExplanatory" xlink:label="loc_70" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_45" xlink:type="arc"/>
+        <link:reference xlink:label="res_46" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SpecificQuantitativeOrQualitativeSustainabilityRelatedTargetEntityHasSetOrIsRequiredToMeet" xlink:label="loc_82" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_82" xlink:to="res_48" xlink:type="arc"/>
-        <link:reference xlink:label="res_49" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SpecificQuantitativeOrQualitativeTargetEntityHasSetOrIsRequiredToMeet" xlink:label="loc_71" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_46" xlink:type="arc"/>
+        <link:reference xlink:label="res_47" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PeriodOverWhichSustainabilityRelatedTargetApplies" xlink:label="loc_83" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_83" xlink:to="res_49" xlink:type="arc"/>
-        <link:reference xlink:label="res_50" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PeriodOverWhichTargetApplies" xlink:label="loc_72" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_72" xlink:to="res_47" xlink:type="arc"/>
+        <link:reference xlink:label="res_48" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_BasePeriodFromWhichProgressForSustainabilityRelatedTargetIsMeasured" xlink:label="loc_84" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_84" xlink:to="res_50" xlink:type="arc"/>
-        <link:reference xlink:label="res_51" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_BasePeriodFromWhichProgressForTargetIsMeasured" xlink:label="loc_73" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_73" xlink:to="res_48" xlink:type="arc"/>
+        <link:reference xlink:label="res_49" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMilestonesAndInterimTargetsForSustainabilityRelatedMetricExplanatory" xlink:label="loc_85" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_85" xlink:to="res_51" xlink:type="arc"/>
-        <link:reference xlink:label="res_52" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfMilestonesAndInterimTargetsForMetricExplanatory" xlink:label="loc_74" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_74" xlink:to="res_49" xlink:type="arc"/>
+        <link:reference xlink:label="res_50" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>f</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfPerformanceAgainstSustainabilityRelatedTargetAndAnalysisOfTrendsOrChangesInEntitysPerformanceExplanatory" xlink:label="loc_86" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_86" xlink:to="res_52" xlink:type="arc"/>
-        <link:reference xlink:label="res_53" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfPerformanceAgainstTargetAndAnalysisOfTrendsOrChangesInEntitysPerformanceExplanatory" xlink:label="loc_75" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_75" xlink:to="res_50" xlink:type="arc"/>
+        <link:reference xlink:label="res_51" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>51</ref:Paragraph>
             <ref:Subparagraph>g</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRevisionsToSustainabilityRelatedTargetExplanatory" xlink:label="loc_87" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_87" xlink:to="res_53" xlink:type="arc"/>
-        <link:reference xlink:label="res_54" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRevisionsToTargetExplanatory" xlink:label="loc_76" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_76" xlink:to="res_51" xlink:type="arc"/>
+        <link:reference xlink:label="res_52" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>52</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsExplanatory" xlink:label="loc_88" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_88" xlink:to="res_54" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsTable" xlink:label="loc_77" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_77" xlink:to="res_52" xlink:type="arc"/>
+        <link:reference xlink:label="res_53" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:Paragraph>B52</ref:Paragraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_77" xlink:to="res_53" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_58" xlink:to="res_52" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_58" xlink:to="res_53" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_59" xlink:to="res_52" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_59" xlink:to="res_53" xlink:type="arc"/>
+        <link:reference xlink:label="res_54" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:Paragraph>B52</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfAndReasonsForChangesInMetricExplanatory" xlink:label="loc_78" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_78" xlink:to="res_54" xlink:type="arc"/>
         <link:reference xlink:label="res_55" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B52</ref:Paragraph>
-        </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_88" xlink:to="res_55" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsTable" xlink:label="loc_89" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_89" xlink:to="res_54" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_89" xlink:to="res_55" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_68" xlink:to="res_54" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_68" xlink:to="res_55" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_54" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_55" xlink:type="arc"/>
-        <link:reference xlink:label="res_56" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S1</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>B52</ref:Paragraph>
-            <ref:Subparagraph>b</ref:Subparagraph>
-        </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExplanationOfAndReasonsForChangesInSustainabilityRelatedMetricExplanatory" xlink:label="loc_90" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_90" xlink:to="res_56" xlink:type="arc"/>
-        <link:reference xlink:label="res_57" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S1</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
-            <ref:Paragraph>B52</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_90" xlink:to="res_57" xlink:type="arc"/>
-        <link:reference xlink:label="res_58" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_78" xlink:to="res_55" xlink:type="arc"/>
+        <link:reference xlink:label="res_56" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>45</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutEntitysPerformanceInRelationToSustainabilityRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_91" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_91" xlink:to="res_58" xlink:type="arc"/>
-        <link:reference xlink:label="res_59" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_OtherDisclosuresAboutEntitysPerformanceInRelationToRisksAndOpportunitiesExplanatory" xlink:label="loc_79" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_79" xlink:to="res_56" xlink:type="arc"/>
+        <link:reference xlink:label="res_57" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>59</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfGuidanceEntityHasAppliedInPreparingSustainabilityRelatedFinancialDisclosuresExplanatory" xlink:label="loc_92" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_92" xlink:to="res_59" xlink:type="arc"/>
-        <link:reference xlink:label="res_60" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfGuidanceEntityHasAppliedInPreparingSustainabilityRelatedFinancialDisclosuresExplanatory" xlink:label="loc_80" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_80" xlink:to="res_57" xlink:type="arc"/>
+        <link:reference xlink:label="res_58" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>59</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfIndustryAppliedInPreparingSustainabilityRelatedFinancialDisclosuresExplanatory" xlink:label="loc_93" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_93" xlink:to="res_60" xlink:type="arc"/>
-        <link:reference xlink:label="res_61" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfIndustryAppliedInPreparingSustainabilityRelatedFinancialDisclosuresExplanatory" xlink:label="loc_81" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_81" xlink:to="res_58" xlink:type="arc"/>
+        <link:reference xlink:label="res_59" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_FinancialStatementsToWhichSustainabilityRelatedFinancialDisclosuresRelate" xlink:label="loc_94" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_94" xlink:to="res_61" xlink:type="arc"/>
-        <link:reference xlink:label="res_62" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_FinancialStatementsToWhichSustainabilityRelatedFinancialDisclosuresRelate" xlink:label="loc_82" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_82" xlink:to="res_59" xlink:type="arc"/>
+        <link:reference xlink:label="res_60" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>66</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DateOfStartOfReportingPeriod" xlink:label="loc_95" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_95" xlink:to="res_62" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DateOfEndOfReportingPeriod" xlink:label="loc_96" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_96" xlink:to="res_62" xlink:type="arc"/>
-        <link:reference xlink:label="res_63" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DateOfStartOfReportingPeriod" xlink:label="loc_83" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_83" xlink:to="res_60" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DateOfEndOfReportingPeriod" xlink:label="loc_84" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_84" xlink:to="res_60" xlink:type="arc"/>
+        <link:reference xlink:label="res_61" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>66</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfReasonForUsingReportingPeriodLongerOrShorterThan12MonthsExplanatory" xlink:label="loc_97" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_97" xlink:to="res_63" xlink:type="arc"/>
-        <link:reference xlink:label="res_64" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfReasonForUsingReportingPeriodLongerOrShorterThan12MonthsExplanatory" xlink:label="loc_85" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_85" xlink:to="res_61" xlink:type="arc"/>
+        <link:reference xlink:label="res_62" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>66</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriodTrueFalse" xlink:label="loc_98" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_98" xlink:to="res_64" xlink:type="arc"/>
-        <link:reference xlink:label="res_65" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriodTrueFalse" xlink:label="loc_86" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_86" xlink:to="res_62" xlink:type="arc"/>
+        <link:reference xlink:label="res_63" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>68</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutTransactionsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory" xlink:label="loc_99" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_99" xlink:to="res_65" xlink:type="arc"/>
-        <link:reference xlink:label="res_66" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutTransactionsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory" xlink:label="loc_87" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_87" xlink:to="res_63" xlink:type="arc"/>
+        <link:reference xlink:label="res_64" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>72</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityHasMadeExplicitAndUnreservedStatementOfComplianceTrueFalse" xlink:label="loc_100" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_100" xlink:to="res_66" xlink:type="arc"/>
-        <link:reference xlink:label="res_67" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_EntityHasMadeExplicitAndUnreservedStatementOfComplianceTrueFalse" xlink:label="loc_88" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_88" xlink:to="res_64" xlink:type="arc"/>
+        <link:reference xlink:label="res_65" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>74</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutJudgementsApartFromThoseInvolvingEstimationsOfAmountsExplanatory" xlink:label="loc_101" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_101" xlink:to="res_67" xlink:type="arc"/>
-        <link:reference xlink:label="res_68" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutJudgementsApartFromThoseInvolvingEstimationsOfAmountsExplanatory" xlink:label="loc_89" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_89" xlink:to="res_65" xlink:type="arc"/>
+        <link:reference xlink:label="res_66" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>78</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfMeasurementUncertaintyAndAssumptionsApproximationsAndJudgementsEntityHasMadeInMeasuringAmountsThatAreSubjectToHighLevelOfMeasurementUncertaintyExplanatory" xlink:label="loc_102" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_102" xlink:to="res_68" xlink:type="arc"/>
-        <link:reference xlink:label="res_69" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfSourcesOfMeasurementUncertaintyAndAssumptionsApproximationsAndJudgementsEntityHasMadeInMeasuringAmountsThatAreSubjectToHighLevelOfMeasurementUncertaintyExplanatory" xlink:label="loc_90" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_90" xlink:to="res_66" xlink:type="arc"/>
+        <link:reference xlink:label="res_67" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B33</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTypeOfMaterialInformationNotDisclosedDueToProhibitionOfDisclosureAndExplanationOfSourceOfRestrictionExplanatory" xlink:label="loc_103" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_103" xlink:to="res_69" xlink:type="arc"/>
-        <link:reference xlink:label="res_70" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfTypeOfMaterialInformationNotDisclosedDueToProhibitionOfDisclosureAndExplanationOfSourceOfRestrictionExplanatory" xlink:label="loc_91" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_91" xlink:to="res_67" xlink:type="arc"/>
+        <link:reference xlink:label="res_68" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:Paragraph>B36</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatExemptionTakenPermittingEntitiesToOmitInformationAboutOpportunityWhenInformationIsCommerciallySensitiveExplanatory" xlink:label="loc_92" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_92" xlink:to="res_68" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ExemptionUsedPermittingEntitiesToOmitInformationAboutOpportunityWhenInformationIsCommerciallySensitiveTrueFalse" xlink:label="loc_93" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_93" xlink:to="res_68" xlink:type="arc"/>
+        <link:reference xlink:label="res_69" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B42</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutSignificantDifferencesBetweenFinancialDataAndAssumptionsUsedPreparingEntitysSustainabilityRelatedFinancialDisclosuresAndRelatedFinancialStatementsExplanatory" xlink:label="loc_104" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_104" xlink:to="res_70" xlink:type="arc"/>
-        <link:reference xlink:label="res_71" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfInformationAboutSignificantDifferencesBetweenDataAndAssumptionsUsedPreparingEntitysSustainabilityRelatedFinancialDisclosuresAndRelatedFinancialStatementsExplanatory" xlink:label="loc_94" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_94" xlink:to="res_69" xlink:type="arc"/>
+        <link:reference xlink:label="res_70" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B50</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfReasonsEntityHasDisclosedRevisedComparativeAmountThatReflectsNewInformationInRelationToEstimatedAmountDisclosedInPrecedingPeriodExplanatory" xlink:label="loc_105" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_105" xlink:to="res_71" xlink:type="arc"/>
-        <link:reference xlink:label="res_72" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfReasonsEntityHasDisclosedRevisedComparativeAmountThatReflectsNewInformationInRelationToEstimatedAmountDisclosedInPrecedingPeriodExplanatory" xlink:label="loc_95" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_95" xlink:to="res_70" xlink:type="arc"/>
+        <link:reference xlink:label="res_71" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B54</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatItIsImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory" xlink:label="loc_106" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_106" xlink:to="res_72" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RevisionOfAComparativeAmountOfMetricForPrecedingPeriodIsImpracticableTrueFalse" xlink:label="loc_107" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_72" xlink:type="arc"/>
-        <link:reference xlink:label="res_73" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatItIsImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory" xlink:label="loc_96" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_96" xlink:to="res_71" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RevisionOfComparativeAmountOfAtLeastOneMetricForPrecedingPeriodIsImpracticableTrueFalse" xlink:label="loc_97" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_97" xlink:to="res_71" xlink:type="arc"/>
+        <link:reference xlink:label="res_72" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B58</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory" xlink:label="loc_108" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_73" xlink:type="arc"/>
-        <link:reference xlink:label="res_74" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory" xlink:label="loc_98" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_98" xlink:to="res_72" xlink:type="arc"/>
+        <link:reference xlink:label="res_73" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B58</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreImpracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory" xlink:label="loc_109" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_109" xlink:to="res_74" xlink:type="arc"/>
-        <link:reference xlink:label="res_75" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfCircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreImpracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory" xlink:label="loc_99" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_99" xlink:to="res_73" xlink:type="arc"/>
+        <link:reference xlink:label="res_74" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>E1</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardExplanatory" xlink:label="loc_110" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_75" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardTable" xlink:label="loc_111" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_111" xlink:to="res_75" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsAxis" xlink:label="loc_112" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_112" xlink:to="res_75" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsDomain" xlink:label="loc_113" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_113" xlink:to="res_75" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GeneralRequirementsForDisclosureOfSustainabilityRelatedFinancialInformationMember" xlink:label="loc_114" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_114" xlink:to="res_75" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NewOrAmendedIfrsSustainabilityDisclosureStandardIsAppliedEarlyTrueFalse" xlink:label="loc_115" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_115" xlink:to="res_75" xlink:type="arc"/>
-        <link:reference xlink:label="res_76" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardTable" xlink:label="loc_100" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_100" xlink:to="res_74" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsAxis" xlink:label="loc_101" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_101" xlink:to="res_74" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsDomain" xlink:label="loc_102" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_102" xlink:to="res_74" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GeneralRequirementsForDisclosureOfSustainabilityRelatedFinancialInformationMember" xlink:label="loc_103" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_103" xlink:to="res_74" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NewOrAmendedIfrsSustainabilityDisclosureStandardIsAppliedEarlyTrueFalse" xlink:label="loc_104" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_104" xlink:to="res_74" xlink:type="arc"/>
+        <link:reference xlink:label="res_75" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>E5</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatTransitionReliefPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesHasBeenTakenExplanatory" xlink:label="loc_116" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_116" xlink:to="res_76" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TransitionReliefUsedPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesTrueFalse" xlink:label="loc_117" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_117" xlink:to="res_76" xlink:type="arc"/>
-        <link:reference xlink:label="res_77" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFactThatTransitionReliefPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesHasBeenTakenExplanatory" xlink:label="loc_105" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_105" xlink:to="res_75" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TransitionReliefUsedPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunitiesTrueFalse" xlink:label="loc_106" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_106" xlink:to="res_75" xlink:type="arc"/>
+        <link:reference xlink:label="res_76" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B52</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RetrospectiveApplicationAndRetrospectiveRestatementAxis" xlink:label="loc_118" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_118" xlink:to="res_77" xlink:type="arc"/>
-        <link:reference xlink:label="res_78" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RetrospectiveApplicationAndRetrospectiveRestatementAxis" xlink:label="loc_107" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_76" xlink:type="arc"/>
+        <link:reference xlink:label="res_77" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B50</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_118" xlink:to="res_78" xlink:type="arc"/>
-        <link:reference xlink:label="res_79" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_77" xlink:type="arc"/>
+        <link:reference xlink:label="res_78" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>B58</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_118" xlink:to="res_79" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CurrentlyStatedMember" xlink:label="loc_119" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_119" xlink:to="res_77" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_119" xlink:to="res_78" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PreviouslyStatedMember" xlink:label="loc_120" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_120" xlink:to="res_77" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_120" xlink:to="res_78" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToRetrospectiveApplicationOrRetrospectiveRestatementMember" xlink:label="loc_121" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_121" xlink:to="res_77" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_121" xlink:to="res_78" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_121" xlink:to="res_79" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToRedefinitionOrReplacementOfMetricMember" xlink:label="loc_122" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_122" xlink:to="res_77" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToChangesInEstimatesMember" xlink:label="loc_123" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_123" xlink:to="res_78" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToCorrectionsOfPriorPeriodErrorsMember" xlink:label="loc_124" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_124" xlink:to="res_79" xlink:type="arc"/>
-        <link:reference xlink:label="res_80" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_78" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CurrentlyStatedMember" xlink:label="loc_108" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_76" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_77" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PreviouslyStatedMember" xlink:label="loc_109" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_109" xlink:to="res_76" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_109" xlink:to="res_77" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToRetrospectiveApplicationOrRetrospectiveRestatementMember" xlink:label="loc_110" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_76" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_77" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_78" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToRedefinitionOrReplacementOfMetricMember" xlink:label="loc_111" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_111" xlink:to="res_76" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToChangesInEstimatesMember" xlink:label="loc_112" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_112" xlink:to="res_77" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IncreaseDecreaseDueToCorrectionsOfPriorPeriodErrorsMember" xlink:label="loc_113" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_113" xlink:to="res_78" xlink:type="arc"/>
+        <link:reference xlink:label="res_79" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RangeAxis" xlink:label="loc_125" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_125" xlink:to="res_80" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_125" xlink:to="res_32" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RangesDomain" xlink:label="loc_126" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_126" xlink:to="res_80" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_126" xlink:to="res_32" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_BottomOfRangeMember" xlink:label="loc_127" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_127" xlink:to="res_80" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_127" xlink:to="res_32" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TopOfRangeMember" xlink:label="loc_128" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_128" xlink:to="res_80" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_128" xlink:to="res_32" xlink:type="arc"/>
-        <link:reference xlink:label="res_81" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RangeAxis" xlink:label="loc_114" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_114" xlink:to="res_79" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_114" xlink:to="res_31" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RangesDomain" xlink:label="loc_115" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_115" xlink:to="res_79" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_115" xlink:to="res_31" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_BottomOfRangeMember" xlink:label="loc_116" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_116" xlink:to="res_79" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_116" xlink:to="res_31" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TopOfRangeMember" xlink:label="loc_117" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_117" xlink:to="res_79" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_117" xlink:to="res_31" xlink:type="arc"/>
+        <link:reference xlink:label="res_80" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
             <ref:Name>GHG Protocol</ref:Name>
             <ref:Number>S2</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category1PurchasedGoodsAndServicesMember" xlink:label="loc_129" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_129" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category2CapitalGoodsMember" xlink:label="loc_130" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_130" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category3FuelAndEnergyRelatedActivitiesNotIncludedInScope1OrScope2Member" xlink:label="loc_131" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_131" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category4UpstreamTransportationAndDistributionMember" xlink:label="loc_132" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_132" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category5WasteGeneratedInOperationsMember" xlink:label="loc_133" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_133" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category6BusinessTravelMember" xlink:label="loc_134" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_134" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category7EmployeeCommutingMember" xlink:label="loc_135" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_135" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category8UpstreamLeasedAssetsMember" xlink:label="loc_136" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_136" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category9DownstreamTransportationAndDistributionMember" xlink:label="loc_137" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_137" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category10ProcessingOfSoldProductsMember" xlink:label="loc_138" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_138" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category11UseOfSoldProductsMember" xlink:label="loc_139" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_139" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category12EndOfLifeTreatmentOfSoldProductsMember" xlink:label="loc_140" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_140" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category13DownstreamLeasedAssetsMember" xlink:label="loc_141" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_141" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category14FranchisesMember" xlink:label="loc_142" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_142" xlink:to="res_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category15InvestmentsMember" xlink:label="loc_143" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_143" xlink:to="res_81" xlink:type="arc"/>
-        <link:reference xlink:label="res_82" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category1PurchasedGoodsAndServicesMember" xlink:label="loc_118" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_118" xlink:to="res_80" xlink:type="arc"/>
+        <link:reference xlink:label="res_81" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
             <ref:Name>UNFCCC</ref:Name>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CarbonDioxideCo2Member" xlink:label="loc_144" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_144" xlink:to="res_82" xlink:type="arc"/>
-        <link:reference xlink:label="res_83" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ConstituentGreenhouseGasDomain" xlink:label="loc_119" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_119" xlink:to="res_81" xlink:type="arc"/>
+        <link:reference xlink:label="res_82" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
             <ref:Name>Kyoto Protocol</ref:Name>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_144" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MethaneCh4Member" xlink:label="loc_145" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_145" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_145" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NitrousOxideN2OMember" xlink:label="loc_146" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_146" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_146" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_HydrofluorocarbonsHfcsMember" xlink:label="loc_147" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_147" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_147" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PerfluorocarbonsPfcsMember" xlink:label="loc_148" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_148" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_148" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SulphurHexafluorideSf6Member" xlink:label="loc_149" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_149" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_149" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NitrogenTrifluorideNf3Member" xlink:label="loc_150" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_150" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_150" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ConstituentGreenhouseGasDomain" xlink:label="loc_151" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_151" xlink:to="res_82" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_151" xlink:to="res_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricMeasureTypeDomain" xlink:label="loc_152" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_152" xlink:to="res_42" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteMeasureMember" xlink:label="loc_153" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_153" xlink:to="res_42" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MeasureExpressedInRelationToAnotherMetricMember" xlink:label="loc_154" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_154" xlink:to="res_42" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_QualitativeMeasureMember" xlink:label="loc_155" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_155" xlink:to="res_42" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_29" xlink:to="res_14" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_119" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CarbonDioxideCo2Member" xlink:label="loc_120" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_120" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_120" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MethaneCh4Member" xlink:label="loc_121" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_121" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_121" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NitrousOxideN2OMember" xlink:label="loc_122" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_122" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_122" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_HydrofluorocarbonsHfcsMember" xlink:label="loc_123" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_123" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_123" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PerfluorocarbonsPfcsMember" xlink:label="loc_124" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_124" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_124" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SulphurHexafluorideSf6Member" xlink:label="loc_125" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_125" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_125" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_NitrogenTrifluorideNf3Member" xlink:label="loc_126" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_126" xlink:to="res_81" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_126" xlink:to="res_82" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category2CapitalGoodsMember" xlink:label="loc_127" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_127" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category3FuelAndEnergyRelatedActivitiesNotIncludedInScope1OrScope2Member" xlink:label="loc_128" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_128" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category4UpstreamTransportationAndDistributionMember" xlink:label="loc_129" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_129" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category5WasteGeneratedInOperationsMember" xlink:label="loc_130" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_130" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category6BusinessTravelMember" xlink:label="loc_131" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_131" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category7EmployeeCommutingMember" xlink:label="loc_132" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_132" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category8UpstreamLeasedAssetsMember" xlink:label="loc_133" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_133" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category9DownstreamTransportationAndDistributionMember" xlink:label="loc_134" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_134" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category10ProcessingOfSoldProductsMember" xlink:label="loc_135" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_135" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category11UseOfSoldProductsMember" xlink:label="loc_136" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_136" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category12EndOfLifeTreatmentOfSoldProductsMember" xlink:label="loc_137" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_137" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category13DownstreamLeasedAssetsMember" xlink:label="loc_138" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_138" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category14FranchisesMember" xlink:label="loc_139" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_139" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category15InvestmentsMember" xlink:label="loc_140" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_140" xlink:to="res_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricMeasureTypeDomain" xlink:label="loc_141" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_141" xlink:to="res_40" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteMeasureMember" xlink:label="loc_142" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_142" xlink:to="res_40" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MeasureExpressedInRelationToAnotherMetricMember" xlink:label="loc_143" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_143" xlink:to="res_40" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_QualitativeMeasureMember" xlink:label="loc_144" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_144" xlink:to="res_40" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_25" xlink:to="res_13" xlink:type="arc"/>
     </link:referenceLink>
 </link:linkbase>

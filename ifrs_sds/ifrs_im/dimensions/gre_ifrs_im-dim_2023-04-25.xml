@@ -15,8 +15,6 @@
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
             <ref:IssueDate>2023-01-21</ref:IssueDate>
-        </reference:reference>
-        <link:loc xlink:href="../../ifrs_sds/dimensions/rol_ifrs_sds-dim_2023-04-25.xsd#ifrs_sds-dim_2023-04-25_role-995000" xlink:label="loc_1" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
+        </reference:reference>        
     </gen:link>
 </link:linkbase>

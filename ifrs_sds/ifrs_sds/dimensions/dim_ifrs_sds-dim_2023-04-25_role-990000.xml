@@ -10,17 +10,17 @@
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-04-25_role-990000" xlink:href="rol_ifrs_sds-dim_2023-04-25.xsd#ifrs_sds-dim_2023-04-25_role-990000" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-default" xlink:type="simple"/>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-04-25_role-990000" xlink:type="extended">
-        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesDomain" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedRisksAndOpportunitiesAxis" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RisksAndOpportunitiesDomain" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_RisksAndOpportunitiesAxis" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TimeHorizonAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricsDomain" xlink:label="loc_6" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedMetricsAxis" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricsDomain" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MetricsAxis" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsDomain" xlink:label="loc_8" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_SustainabilityRelatedTargetsAxis" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TargetsDomain" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_TargetsAxis" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsDomain" xlink:label="loc_10" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_IfrsSustainabilityDisclosureStandardsAxis" xlink:label="loc_9" xlink:type="locator"/>

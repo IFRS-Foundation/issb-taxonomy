@@ -166,92 +166,80 @@
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_LegalProceedingAssociationDomain" xlink:label="loc_104" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_LegalProceedingAssociationAxis" xlink:label="loc_103" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_103" xlink:to="loc_104" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProjectTypeDomain" xlink:label="loc_106" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProjectTypeAxis" xlink:label="loc_105" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_MaterialDomain" xlink:label="loc_106" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_MaterialAxis" xlink:label="loc_105" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_105" xlink:to="loc_106" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_GasUsageCategoryDomain" xlink:label="loc_108" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_GasUsageCategoryAxis" xlink:label="loc_107" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipelineDomain" xlink:label="loc_108" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipelineAxis" xlink:label="loc_107" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_107" xlink:to="loc_108" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_MaterialDomain" xlink:label="loc_110" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_MaterialAxis" xlink:label="loc_109" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_JurisdictionDomain" xlink:label="loc_110" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_JurisdictionAxis" xlink:label="loc_109" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_109" xlink:to="loc_110" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipelineDomain" xlink:label="loc_112" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipelineAxis" xlink:label="loc_111" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_112" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_111" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_111" xlink:to="loc_112" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SiteTypeDomain" xlink:label="loc_114" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SiteTypeAxis" xlink:label="loc_113" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PortfolioAreaWithDataCoverageDomain" xlink:label="loc_114" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PortfolioAreaWithDataCoverageAxis" xlink:label="loc_113" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_113" xlink:to="loc_114" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_JurisdictionDomain" xlink:label="loc_116" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_JurisdictionAxis" xlink:label="loc_115" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RealEstateEnergyRatingStandardDomain" xlink:label="loc_116" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RealEstateEnergyRatingStandardAxis" xlink:label="loc_115" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_115" xlink:to="loc_116" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_118" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_117" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceTypeDomain" xlink:label="loc_118" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceTypeAxis" xlink:label="loc_117" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_117" xlink:to="loc_118" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PortfolioAreaWithDataCoverageDomain" xlink:label="loc_120" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PortfolioAreaWithDataCoverageAxis" xlink:label="loc_119" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertyManagementClientTypeDomain" xlink:label="loc_120" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertyManagementClientTypeAxis" xlink:label="loc_119" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_119" xlink:to="loc_120" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RealEstateEnergyRatingStandardDomain" xlink:label="loc_122" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RealEstateEnergyRatingStandardAxis" xlink:label="loc_121" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RateStructureDomain" xlink:label="loc_122" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RateStructureAxis" xlink:label="loc_121" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_121" xlink:to="loc_122" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceTypeDomain" xlink:label="loc_124" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceTypeAxis" xlink:label="loc_123" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceDisruptionsLengthOfDurationDomain" xlink:label="loc_124" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceDisruptionsLengthOfDurationAxis" xlink:label="loc_123" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_123" xlink:to="loc_124" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertyManagementClientTypeDomain" xlink:label="loc_126" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PropertyManagementClientTypeAxis" xlink:label="loc_125" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterSourceTypeDomain" xlink:label="loc_126" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterSourceTypeAxis" xlink:label="loc_125" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_125" xlink:to="loc_126" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RateStructureDomain" xlink:label="loc_128" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RateStructureAxis" xlink:label="loc_127" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SewerTypeDomain" xlink:label="loc_128" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SewerTypeAxis" xlink:label="loc_127" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_127" xlink:to="loc_128" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceDisruptionsLengthOfDurationDomain" xlink:label="loc_130" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ServiceDisruptionsLengthOfDurationAxis" xlink:label="loc_129" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipeDomain" xlink:label="loc_130" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipeAxis" xlink:label="loc_129" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_129" xlink:to="loc_130" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterSourceTypeDomain" xlink:label="loc_132" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterSourceTypeAxis" xlink:label="loc_131" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BiofuelTypeDomain" xlink:label="loc_132" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BiofuelTypeAxis" xlink:label="loc_131" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_131" xlink:to="loc_132" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SewerTypeDomain" xlink:label="loc_134" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SewerTypeAxis" xlink:label="loc_133" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BatteryDomain" xlink:label="loc_134" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BatteryAxis" xlink:label="loc_133" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_133" xlink:to="loc_134" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipeDomain" xlink:label="loc_136" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PipeAxis" xlink:label="loc_135" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FuelCellDomain" xlink:label="loc_136" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FuelCellAxis" xlink:label="loc_135" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_135" xlink:to="loc_136" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BiofuelTypeDomain" xlink:label="loc_138" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BiofuelTypeAxis" xlink:label="loc_137" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WoodFibreSourceDomain" xlink:label="loc_138" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WoodFibreSourceAxis" xlink:label="loc_137" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_137" xlink:to="loc_138" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BatteryDomain" xlink:label="loc_140" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_BatteryAxis" xlink:label="loc_139" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassDomain" xlink:label="loc_140" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassAxis" xlink:label="loc_139" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_139" xlink:to="loc_140" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FuelCellDomain" xlink:label="loc_142" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FuelCellAxis" xlink:label="loc_141" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SegmentDomain" xlink:label="loc_142" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_StatementBusinessSegmentsAxis" xlink:label="loc_141" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_141" xlink:to="loc_142" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WoodFibreSourceDomain" xlink:label="loc_144" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WoodFibreSourceAxis" xlink:label="loc_143" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WasteDomain" xlink:label="loc_144" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WasteAxis" xlink:label="loc_143" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_143" xlink:to="loc_144" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassDomain" xlink:label="loc_146" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassAxis" xlink:label="loc_145" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SubstrateDomain" xlink:label="loc_146" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SubstrateAxis" xlink:label="loc_145" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_145" xlink:to="loc_146" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CountryCorruptionPerceptionRankingDomain" xlink:label="loc_148" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CountryCorruptionPerceptionRankingAxis" xlink:label="loc_147" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EngineTypeDomain" xlink:label="loc_148" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EngineTypeAxis" xlink:label="loc_147" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_147" xlink:to="loc_148" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SegmentDomain" xlink:label="loc_150" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_StatementBusinessSegmentsAxis" xlink:label="loc_149" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransportTypeDomain" xlink:label="loc_150" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransportTypeAxis" xlink:label="loc_149" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_149" xlink:to="loc_150" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WasteDomain" xlink:label="loc_152" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WasteAxis" xlink:label="loc_151" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EmployeeByProfessionTypeDomain" xlink:label="loc_152" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EmployeeByProfessionTypeAxis" xlink:label="loc_151" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_151" xlink:to="loc_152" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SubstrateDomain" xlink:label="loc_154" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SubstrateAxis" xlink:label="loc_153" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_VehicleTypeDomain" xlink:label="loc_154" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_VehicleTypeAxis" xlink:label="loc_153" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_153" xlink:to="loc_154" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EngineTypeDomain" xlink:label="loc_156" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EngineTypeAxis" xlink:label="loc_155" xlink:type="locator"/>
-        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_155" xlink:to="loc_156" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransportTypeDomain" xlink:label="loc_158" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransportTypeAxis" xlink:label="loc_157" xlink:type="locator"/>
-        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_157" xlink:to="loc_158" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EmployeeByProfessionTypeDomain" xlink:label="loc_160" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EmployeeByProfessionTypeAxis" xlink:label="loc_159" xlink:type="locator"/>
-        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_159" xlink:to="loc_160" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_VehicleTypeDomain" xlink:label="loc_162" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_VehicleTypeAxis" xlink:label="loc_161" xlink:type="locator"/>
-        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_161" xlink:to="loc_162" xlink:type="arc"/>
     </link:definitionLink>
 </link:linkbase>

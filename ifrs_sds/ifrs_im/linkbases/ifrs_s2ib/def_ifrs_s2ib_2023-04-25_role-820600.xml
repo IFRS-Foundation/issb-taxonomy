@@ -81,7 +81,7 @@
         <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_Sa8000Member" xlink:label="loc_11" xlink:type="locator"/>
         <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_UsDepartmentOfAgricultureUsdaOrganicMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_USDepartmentOfAgricultureUsdaOrganicMember" xlink:label="loc_12" xlink:type="locator"/>
         <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_UtzCertifiedMember" xlink:label="loc_13" xlink:type="locator"/>
         <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>

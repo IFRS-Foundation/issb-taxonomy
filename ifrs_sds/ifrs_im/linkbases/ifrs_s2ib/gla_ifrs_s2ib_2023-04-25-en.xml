@@ -98,10 +98,10 @@
         <label:label xlink:label="res_29" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100b] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Incidents of non-compliance [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810100b" xlink:label="loc_29" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_29" xlink:to="res_29" xlink:type="arc"/>
-        <label:label xlink:label="res_30" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100c] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, probable [table]</label:label>
+        <label:label xlink:label="res_30" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100c] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, proven [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810100c" xlink:label="loc_30" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_30" xlink:to="res_30" xlink:type="arc"/>
-        <label:label xlink:label="res_31" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100d] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, proven [table]</label:label>
+        <label:label xlink:label="res_31" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100d] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, probable [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810100d" xlink:label="loc_31" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_31" xlink:to="res_31" xlink:type="arc"/>
         <label:label xlink:label="res_32" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810100e] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Production, weight [table]</label:label>
@@ -161,7 +161,7 @@
         <label:label xlink:label="res_50" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810400d] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Production, weight [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810400d" xlink:label="loc_50" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_50" xlink:to="res_50" xlink:type="arc"/>
-        <label:label xlink:label="res_51" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810400e] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Employees, number [table]</label:label>
+        <label:label xlink:label="res_51" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810400e] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Employees, percentage [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810400e" xlink:label="loc_51" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_51" xlink:to="res_51" xlink:type="arc"/>
         <label:label xlink:label="res_52" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP)</label:label>
@@ -176,7 +176,7 @@
         <label:label xlink:label="res_55" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500c] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gross scope 1 greenhouse gas emissions [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810500c" xlink:label="loc_55" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_55" xlink:to="res_55" xlink:type="arc"/>
-        <label:label xlink:label="res_56" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500d] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gas reserves, probable [table]</label:label>
+        <label:label xlink:label="res_56" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500d] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Oil reserves, proved [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810500d" xlink:label="loc_56" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_56" xlink:to="res_56" xlink:type="arc"/>
         <label:label xlink:label="res_57" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500e] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gas reserves, proved [table]</label:label>
@@ -185,7 +185,7 @@
         <label:label xlink:label="res_58" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500f] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Oil reserves, probable [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810500f" xlink:label="loc_58" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_58" xlink:to="res_58" xlink:type="arc"/>
-        <label:label xlink:label="res_59" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500g] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Oil reserves, proved [table]</label:label>
+        <label:label xlink:label="res_59" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500g] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gas reserves, probable [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-810500g" xlink:label="loc_59" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_59" xlink:to="res_59" xlink:type="arc"/>
         <label:label xlink:label="res_60" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[810500h] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Revenues [table]</label:label>
@@ -506,10 +506,10 @@
         <label:label xlink:label="res_165" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[825300a] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Energy consumed, percentage [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-825300a" xlink:label="loc_165" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_165" xlink:to="res_165" xlink:type="arc"/>
-        <label:label xlink:label="res_166" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[825300b] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Beds, number [table]</label:label>
+        <label:label xlink:label="res_166" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[825300b] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Facilities, number [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-825300b" xlink:label="loc_166" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_166" xlink:to="res_166" xlink:type="arc"/>
-        <label:label xlink:label="res_167" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[825300c] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Facilities, number [table]</label:label>
+        <label:label xlink:label="res_167" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[825300c] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Beds, number [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-825300c" xlink:label="loc_167" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_167" xlink:to="res_167" xlink:type="arc"/>
         <label:label xlink:label="res_168" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[825300d] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Patients, number [table]</label:label>
@@ -557,617 +557,563 @@
         <label:label xlink:label="res_182" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100d] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Nuclear power units [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830100d" xlink:label="loc_182" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_182" xlink:to="res_182" xlink:type="arc"/>
-        <label:label xlink:label="res_183" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100e] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Incidents of non-compliance [table]</label:label>
+        <label:label xlink:label="res_183" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100e] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Customers, number [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830100e" xlink:label="loc_183" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_183" xlink:to="res_183" xlink:type="arc"/>
-        <label:label xlink:label="res_184" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100f] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Customers, number [table]</label:label>
+        <label:label xlink:label="res_184" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100f] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity delivered [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830100f" xlink:label="loc_184" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_184" xlink:to="res_184" xlink:type="arc"/>
-        <label:label xlink:label="res_185" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100g] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity delivered [table]</label:label>
+        <label:label xlink:label="res_185" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100g] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity generated, source percentage [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830100g" xlink:label="loc_185" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_185" xlink:to="res_185" xlink:type="arc"/>
-        <label:label xlink:label="res_186" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830100h] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity generated, source percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830100h" xlink:label="loc_186" xlink:type="locator"/>
+        <label:label xlink:label="res_186" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200" xlink:label="loc_186" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_186" xlink:to="res_186" xlink:type="arc"/>
-        <label:label xlink:label="res_187" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200" xlink:label="loc_187" xlink:type="locator"/>
+        <label:label xlink:label="res_187" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200a] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Incidents of non-compliance [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200a" xlink:label="loc_187" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_187" xlink:to="res_187" xlink:type="arc"/>
-        <label:label xlink:label="res_188" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200a] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Incidents of non-compliance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200a" xlink:label="loc_188" xlink:type="locator"/>
+        <label:label xlink:label="res_188" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200b] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Rework expenses [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200b" xlink:label="loc_188" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_188" xlink:to="res_188" xlink:type="arc"/>
-        <label:label xlink:label="res_189" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200b] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Rework expenses [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200b" xlink:label="loc_189" xlink:type="locator"/>
+        <label:label xlink:label="res_189" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200c] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Losses as result of legal proceedings [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200c" xlink:label="loc_189" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_189" xlink:to="res_189" xlink:type="arc"/>
-        <label:label xlink:label="res_190" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200c] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Losses as result of legal proceedings [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200c" xlink:label="loc_190" xlink:type="locator"/>
+        <label:label xlink:label="res_190" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200d] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Nature, context, and corrective actions taken as result of monetary losses from legal proceedings [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200d" xlink:label="loc_190" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_190" xlink:to="res_190" xlink:type="arc"/>
-        <label:label xlink:label="res_191" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200d] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Nature, context, and corrective actions taken as result of monetary losses from legal proceedings [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200d" xlink:label="loc_191" xlink:type="locator"/>
+        <label:label xlink:label="res_191" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300" xlink:label="loc_191" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_191" xlink:to="res_191" xlink:type="arc"/>
-        <label:label xlink:label="res_192" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200e] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Backlog, projects [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200e" xlink:label="loc_192" xlink:type="locator"/>
+        <label:label xlink:label="res_192" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300a] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customer savings from efficiency measures, gas [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300a" xlink:label="loc_192" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_192" xlink:to="res_192" xlink:type="arc"/>
-        <label:label xlink:label="res_193" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200f] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Backlog cancellations, projects [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200f" xlink:label="loc_193" xlink:type="locator"/>
+        <label:label xlink:label="res_193" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300b] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Efficiency measures required by regulations [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300b" xlink:label="loc_193" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_193" xlink:to="res_193" xlink:type="arc"/>
-        <label:label xlink:label="res_194" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830200g] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Backlog, projects [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830200g" xlink:label="loc_194" xlink:type="locator"/>
+        <label:label xlink:label="res_194" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300c] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Distribution pipeline, material percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300c" xlink:label="loc_194" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_194" xlink:to="res_194" xlink:type="arc"/>
-        <label:label xlink:label="res_195" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300" xlink:label="loc_195" xlink:type="locator"/>
+        <label:label xlink:label="res_195" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300d] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, percentage inspected [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300d" xlink:label="loc_195" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_195" xlink:to="res_195" xlink:type="arc"/>
-        <label:label xlink:label="res_196" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300a] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas rate, average retail price [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300a" xlink:label="loc_196" xlink:type="locator"/>
+        <label:label xlink:label="res_196" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300e" xlink:label="loc_196" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_196" xlink:to="res_196" xlink:type="arc"/>
-        <label:label xlink:label="res_197" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300b] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas rate, monthly average bill [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300b" xlink:label="loc_197" xlink:type="locator"/>
+        <label:label xlink:label="res_197" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Natural gas delivered, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300f" xlink:label="loc_197" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_197" xlink:to="res_197" xlink:type="arc"/>
-        <label:label xlink:label="res_198" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300c] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas disconnections for non payment, percentage reconnected within thirty days [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300c" xlink:label="loc_198" xlink:type="locator"/>
+        <label:label xlink:label="res_198" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, length [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300g" xlink:label="loc_198" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_198" xlink:to="res_198" xlink:type="arc"/>
-        <label:label xlink:label="res_199" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300d] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas disconnections for non payment [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300d" xlink:label="loc_199" xlink:type="locator"/>
+        <label:label xlink:label="res_199" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400] Industry Metrics - Infrastructure - Home Builders (IF-HB)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400" xlink:label="loc_199" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_199" xlink:to="res_199" xlink:type="arc"/>
-        <label:label xlink:label="res_200" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customer savings from efficiency measures, gas [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300e" xlink:label="loc_200" xlink:type="locator"/>
+        <label:label xlink:label="res_200" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400a] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Losses as result of legal proceedings [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400a" xlink:label="loc_200" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_200" xlink:to="res_200" xlink:type="arc"/>
-        <label:label xlink:label="res_201" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Efficiency measures required by regulations [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300f" xlink:label="loc_201" xlink:type="locator"/>
+        <label:label xlink:label="res_201" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400b] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Nature, context, and corrective actions taken as result of monetary losses from legal proceedings [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400b" xlink:label="loc_201" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_201" xlink:to="res_201" xlink:type="arc"/>
-        <label:label xlink:label="res_202" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Distribution pipeline, material percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300g" xlink:label="loc_202" xlink:type="locator"/>
+        <label:label xlink:label="res_202" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400c] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes, certified residential energy efficiency rating [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400c" xlink:label="loc_202" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_202" xlink:to="res_202" xlink:type="arc"/>
-        <label:label xlink:label="res_203" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300h] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, percentage inspected [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300h" xlink:label="loc_203" xlink:type="locator"/>
+        <label:label xlink:label="res_203" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400d] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Lots [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400d" xlink:label="loc_203" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_203" xlink:to="res_203" xlink:type="arc"/>
-        <label:label xlink:label="res_204" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300i] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300i" xlink:label="loc_204" xlink:type="locator"/>
+        <label:label xlink:label="res_204" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500] Industry Metrics - Infrastructure - Real Estate (IF-RE)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500" xlink:label="loc_204" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_204" xlink:to="res_204" xlink:type="arc"/>
-        <label:label xlink:label="res_205" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300j] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Natural gas delivered, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300j" xlink:label="loc_205" xlink:type="locator"/>
+        <label:label xlink:label="res_205" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500a] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumption data coverage, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500a" xlink:label="loc_205" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_205" xlink:to="res_205" xlink:type="arc"/>
-        <label:label xlink:label="res_206" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300k] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, length [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830300k" xlink:label="loc_206" xlink:type="locator"/>
+        <label:label xlink:label="res_206" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500b] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500b" xlink:label="loc_206" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_206" xlink:to="res_206" xlink:type="arc"/>
-        <label:label xlink:label="res_207" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400] Industry Metrics - Infrastructure - Home Builders (IF-HB)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400" xlink:label="loc_207" xlink:type="locator"/>
+        <label:label xlink:label="res_207" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500c] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500c" xlink:label="loc_207" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_207" xlink:to="res_207" xlink:type="arc"/>
-        <label:label xlink:label="res_208" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400a] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes delivered [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400a" xlink:label="loc_208" xlink:type="locator"/>
+        <label:label xlink:label="res_208" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500d] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumption, like-for-like percentage change [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500d" xlink:label="loc_208" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_208" xlink:to="res_208" xlink:type="arc"/>
-        <label:label xlink:label="res_209" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400b] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Lots delivered [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400b" xlink:label="loc_209" xlink:type="locator"/>
+        <label:label xlink:label="res_209" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500e] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Portfolio, percentage that has an energy rating [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500e" xlink:label="loc_209" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_209" xlink:to="res_209" xlink:type="arc"/>
-        <label:label xlink:label="res_210" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400c] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Losses as result of legal proceedings [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400c" xlink:label="loc_210" xlink:type="locator"/>
+        <label:label xlink:label="res_210" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500f] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Products, eligible to standard, percentage certified [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500f" xlink:label="loc_210" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_210" xlink:to="res_210" xlink:type="arc"/>
-        <label:label xlink:label="res_211" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400d] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Nature, context, and corrective actions taken as result of monetary losses from legal proceedings [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400d" xlink:label="loc_211" xlink:type="locator"/>
+        <label:label xlink:label="res_211" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500g] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawal, percentage with data coverage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500g" xlink:label="loc_211" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_211" xlink:to="res_211" xlink:type="arc"/>
-        <label:label xlink:label="res_212" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400e] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes, certified residential energy efficiency rating [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400e" xlink:label="loc_212" xlink:type="locator"/>
+        <label:label xlink:label="res_212" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500h] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage with data coverage in regions with high or extremely high baseline water stress [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500h" xlink:label="loc_212" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_212" xlink:to="res_212" xlink:type="arc"/>
-        <label:label xlink:label="res_213" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400f] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes delivered [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400f" xlink:label="loc_213" xlink:type="locator"/>
+        <label:label xlink:label="res_213" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500i] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500i" xlink:label="loc_213" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_213" xlink:to="res_213" xlink:type="arc"/>
-        <label:label xlink:label="res_214" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400g] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Lots [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830400g" xlink:label="loc_214" xlink:type="locator"/>
+        <label:label xlink:label="res_214" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500j] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage in regions with high or extremely high baseline water stress [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500j" xlink:label="loc_214" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_214" xlink:to="res_214" xlink:type="arc"/>
-        <label:label xlink:label="res_215" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500] Industry Metrics - Infrastructure - Real Estate (IF-RE)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500" xlink:label="loc_215" xlink:type="locator"/>
+        <label:label xlink:label="res_215" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500k] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, like-for-like percentage change [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500k" xlink:label="loc_215" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_215" xlink:to="res_215" xlink:type="arc"/>
-        <label:label xlink:label="res_216" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500a] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumption data coverage, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500a" xlink:label="loc_216" xlink:type="locator"/>
+        <label:label xlink:label="res_216" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500l] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, percentage that contain cost recovery clause for resource efficiency-related capital improvements [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500l" xlink:label="loc_216" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_216" xlink:to="res_216" xlink:type="arc"/>
-        <label:label xlink:label="res_217" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500b] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500b" xlink:label="loc_217" xlink:type="locator"/>
+        <label:label xlink:label="res_217" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500m] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, floor area that contain cost recovery clause for resource efficiency [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500m" xlink:label="loc_217" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_217" xlink:to="res_217" xlink:type="arc"/>
-        <label:label xlink:label="res_218" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500c] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500c" xlink:label="loc_218" xlink:type="locator"/>
+        <label:label xlink:label="res_218" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500n] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Tenants, percentage that are separately metered or submetered for grid electricity consumption [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500n" xlink:label="loc_218" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_218" xlink:to="res_218" xlink:type="arc"/>
-        <label:label xlink:label="res_219" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500d] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Energy consumption, like-for-like percentage change [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500d" xlink:label="loc_219" xlink:type="locator"/>
+        <label:label xlink:label="res_219" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500o] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Tenants, percentage that are separately metered or submetered for water withdrawals [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500o" xlink:label="loc_219" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_219" xlink:to="res_219" xlink:type="arc"/>
-        <label:label xlink:label="res_220" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500e] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Portfolio, percentage that has an energy rating [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500e" xlink:label="loc_220" xlink:type="locator"/>
+        <label:label xlink:label="res_220" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500p] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Properties, area [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500p" xlink:label="loc_220" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_220" xlink:to="res_220" xlink:type="arc"/>
-        <label:label xlink:label="res_221" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500f] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Products, eligible to standard, percentage certified [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500f" xlink:label="loc_221" xlink:type="locator"/>
+        <label:label xlink:label="res_221" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500q] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500q" xlink:label="loc_221" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_221" xlink:to="res_221" xlink:type="arc"/>
-        <label:label xlink:label="res_222" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500g] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawal, percentage with data coverage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500g" xlink:label="loc_222" xlink:type="locator"/>
+        <label:label xlink:label="res_222" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500r] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets, leasable floor area [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500r" xlink:label="loc_222" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_222" xlink:to="res_222" xlink:type="arc"/>
-        <label:label xlink:label="res_223" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500h] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage in regions with high or extremely high baseline water stress [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500h" xlink:label="loc_223" xlink:type="locator"/>
+        <label:label xlink:label="res_223" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500s] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets, percentage managed indirectly [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500s" xlink:label="loc_223" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_223" xlink:to="res_223" xlink:type="arc"/>
-        <label:label xlink:label="res_224" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500i] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage in regions with high or extremely high baseline water stress [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500i" xlink:label="loc_224" xlink:type="locator"/>
+        <label:label xlink:label="res_224" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500t] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets, average occupancy rate [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500t" xlink:label="loc_224" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_224" xlink:to="res_224" xlink:type="arc"/>
-        <label:label xlink:label="res_225" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500j] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500j" xlink:label="loc_225" xlink:type="locator"/>
+        <label:label xlink:label="res_225" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600] Industry Metrics - Infrastructure - Real Estate Services (IF-RS)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600" xlink:label="loc_225" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_225" xlink:to="res_225" xlink:type="arc"/>
-        <label:label xlink:label="res_226" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500k] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, like-for-like percentage change [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500k" xlink:label="loc_226" xlink:type="locator"/>
+        <label:label xlink:label="res_226" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600a] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Revenues [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600a" xlink:label="loc_226" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_226" xlink:to="res_226" xlink:type="arc"/>
-        <label:label xlink:label="res_227" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500l] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, floor area that contain cost recovery clause for resource efficiency [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500l" xlink:label="loc_227" xlink:type="locator"/>
+        <label:label xlink:label="res_227" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600b] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Property management clients, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600b" xlink:label="loc_227" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_227" xlink:to="res_227" xlink:type="arc"/>
-        <label:label xlink:label="res_228" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500m] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, percentage that contain cost recovery clause for resource efficiency-related capital improvements [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500m" xlink:label="loc_228" xlink:type="locator"/>
+        <label:label xlink:label="res_228" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600c] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Leases transacted, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600c" xlink:label="loc_228" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_228" xlink:to="res_228" xlink:type="arc"/>
-        <label:label xlink:label="res_229" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500n] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Tenants, percentage that are separately metered or submetered for grid electricity consumption [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500n" xlink:label="loc_229" xlink:type="locator"/>
+        <label:label xlink:label="res_229" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700] Industry Metrics - Infrastructure - Waste Management (IF-WM)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700" xlink:label="loc_229" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_229" xlink:to="res_229" xlink:type="arc"/>
-        <label:label xlink:label="res_230" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500o] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Tenants, percentage that are separately metered or submetered for water withdrawals [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500o" xlink:label="loc_230" xlink:type="locator"/>
+        <label:label xlink:label="res_230" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700a] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700a" xlink:label="loc_230" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_230" xlink:to="res_230" xlink:type="arc"/>
-        <label:label xlink:label="res_231" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500p] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Properties, area [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500p" xlink:label="loc_231" xlink:type="locator"/>
+        <label:label xlink:label="res_231" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700b] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700b" xlink:label="loc_231" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_231" xlink:to="res_231" xlink:type="arc"/>
-        <label:label xlink:label="res_232" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500q] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500q" xlink:label="loc_232" xlink:type="locator"/>
+        <label:label xlink:label="res_232" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700c] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Fleet fuel consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700c" xlink:label="loc_232" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_232" xlink:to="res_232" xlink:type="arc"/>
-        <label:label xlink:label="res_233" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500r] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets, leasable floor area [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500r" xlink:label="loc_233" xlink:type="locator"/>
+        <label:label xlink:label="res_233" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700d] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Customers, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700d" xlink:label="loc_233" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_233" xlink:to="res_233" xlink:type="arc"/>
-        <label:label xlink:label="res_234" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500s] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets, percentage managed indirectly [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500s" xlink:label="loc_234" xlink:type="locator"/>
+        <label:label xlink:label="res_234" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700e] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Facilities, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700e" xlink:label="loc_234" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_234" xlink:to="res_234" xlink:type="arc"/>
-        <label:label xlink:label="res_235" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830500t] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Real estate property and building assets, average occupancy rate [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830500t" xlink:label="loc_235" xlink:type="locator"/>
+        <label:label xlink:label="res_235" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700f] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Materials managed, weight [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700f" xlink:label="loc_235" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_235" xlink:to="res_235" xlink:type="arc"/>
-        <label:label xlink:label="res_236" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600] Industry Metrics - Infrastructure - Real Estate Services (IF-RS)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600" xlink:label="loc_236" xlink:type="locator"/>
+        <label:label xlink:label="res_236" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800" xlink:label="loc_236" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_236" xlink:to="res_236" xlink:type="arc"/>
-        <label:label xlink:label="res_237" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600a] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Revenues [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600a" xlink:label="loc_237" xlink:type="locator"/>
+        <label:label xlink:label="res_237" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800a] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800a" xlink:label="loc_237" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_237" xlink:to="res_237" xlink:type="arc"/>
-        <label:label xlink:label="res_238" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600b] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Property management clients, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600b" xlink:label="loc_238" xlink:type="locator"/>
+        <label:label xlink:label="res_238" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800b] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water utility revenues, percentage in rate structure [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800b" xlink:label="loc_238" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_238" xlink:to="res_238" xlink:type="arc"/>
-        <label:label xlink:label="res_239" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830600c] Industry Metrics - Infrastructure - Real Estate Services (IF-RS) - Leases transacted, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830600c" xlink:label="loc_239" xlink:type="locator"/>
+        <label:label xlink:label="res_239" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800c] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water savings from efficiency measures [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800c" xlink:label="loc_239" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_239" xlink:to="res_239" xlink:type="arc"/>
-        <label:label xlink:label="res_240" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700] Industry Metrics - Infrastructure - Waste Management (IF-WM)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700" xlink:label="loc_240" xlink:type="locator"/>
+        <label:label xlink:label="res_240" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800d] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Efficiency measures required by regulations [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800d" xlink:label="loc_240" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_240" xlink:to="res_240" xlink:type="arc"/>
-        <label:label xlink:label="res_241" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700a] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700a" xlink:label="loc_241" xlink:type="locator"/>
+        <label:label xlink:label="res_241" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800e] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Wastewater treatment capacity [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800e" xlink:label="loc_241" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_241" xlink:to="res_241" xlink:type="arc"/>
-        <label:label xlink:label="res_242" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700b] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700b" xlink:label="loc_242" xlink:type="locator"/>
+        <label:label xlink:label="res_242" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800f] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Service disruptions, customers affected [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800f" xlink:label="loc_242" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_242" xlink:to="res_242" xlink:type="arc"/>
-        <label:label xlink:label="res_243" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700c] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Fuel consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700c" xlink:label="loc_243" xlink:type="locator"/>
+        <label:label xlink:label="res_243" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800g] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Service disruptions [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800g" xlink:label="loc_243" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_243" xlink:to="res_243" xlink:type="arc"/>
-        <label:label xlink:label="res_244" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700d] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Customers, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700d" xlink:label="loc_244" xlink:type="locator"/>
+        <label:label xlink:label="res_244" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800h] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Customers, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800h" xlink:label="loc_244" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_244" xlink:to="res_244" xlink:type="arc"/>
-        <label:label xlink:label="res_245" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700e] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Facilities, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700e" xlink:label="loc_245" xlink:type="locator"/>
+        <label:label xlink:label="res_245" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800i] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water sourced, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800i" xlink:label="loc_245" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_245" xlink:to="res_245" xlink:type="arc"/>
-        <label:label xlink:label="res_246" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830700f] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Materials managed, weight [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830700f" xlink:label="loc_246" xlink:type="locator"/>
+        <label:label xlink:label="res_246" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800j] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water delivered, volume [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800j" xlink:label="loc_246" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_246" xlink:to="res_246" xlink:type="arc"/>
-        <label:label xlink:label="res_247" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800" xlink:label="loc_247" xlink:type="locator"/>
+        <label:label xlink:label="res_247" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800k] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Sewer treated, average volume [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800k" xlink:label="loc_247" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_247" xlink:to="res_247" xlink:type="arc"/>
-        <label:label xlink:label="res_248" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800a] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800a" xlink:label="loc_248" xlink:type="locator"/>
+        <label:label xlink:label="res_248" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800l] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Pipe length [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800l" xlink:label="loc_248" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_248" xlink:to="res_248" xlink:type="arc"/>
-        <label:label xlink:label="res_249" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800b] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water utility revenues, percentage in rate structure [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800b" xlink:label="loc_249" xlink:type="locator"/>
+        <label:label xlink:label="res_249" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100" xlink:label="loc_249" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_249" xlink:to="res_249" xlink:type="arc"/>
-        <label:label xlink:label="res_250" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800c] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Efficiency measures required by regulations [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800c" xlink:label="loc_250" xlink:type="locator"/>
+        <label:label xlink:label="res_250" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI) - Incidents of non-compliance [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100a" xlink:label="loc_250" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_250" xlink:to="res_250" xlink:type="arc"/>
-        <label:label xlink:label="res_251" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800d] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water savings from efficiency measures [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800d" xlink:label="loc_251" xlink:type="locator"/>
+        <label:label xlink:label="res_251" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI) - Lifecycle greenhouse gas (GHG) emissions [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100b" xlink:label="loc_251" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_251" xlink:to="res_251" xlink:type="arc"/>
-        <label:label xlink:label="res_252" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800e] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Wastewater treatment capacity [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800e" xlink:label="loc_252" xlink:type="locator"/>
+        <label:label xlink:label="res_252" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI) - Biofuel production [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100c" xlink:label="loc_252" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_252" xlink:to="res_252" xlink:type="arc"/>
-        <label:label xlink:label="res_253" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800f] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Service disruptions, customers affected [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800f" xlink:label="loc_253" xlink:type="locator"/>
+        <label:label xlink:label="res_253" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200" xlink:label="loc_253" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_253" xlink:to="res_253" xlink:type="arc"/>
-        <label:label xlink:label="res_254" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800g] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Service disruptions [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800g" xlink:label="loc_254" xlink:type="locator"/>
+        <label:label xlink:label="res_254" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland, percentage certified to third-party forest management standard [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200a" xlink:label="loc_254" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_254" xlink:to="res_254" xlink:type="arc"/>
-        <label:label xlink:label="res_255" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800h] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Customers, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800h" xlink:label="loc_255" xlink:type="locator"/>
+        <label:label xlink:label="res_255" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300" xlink:label="loc_255" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_255" xlink:to="res_255" xlink:type="arc"/>
-        <label:label xlink:label="res_256" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800i] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water sourced, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800i" xlink:label="loc_256" xlink:type="locator"/>
+        <label:label xlink:label="res_256" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300a" xlink:label="loc_256" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_256" xlink:to="res_256" xlink:type="arc"/>
-        <label:label xlink:label="res_257" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800j] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water delivered, volume [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800j" xlink:label="loc_257" xlink:type="locator"/>
+        <label:label xlink:label="res_257" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Battery, storage capacity [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300b" xlink:label="loc_257" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_257" xlink:to="res_257" xlink:type="arc"/>
-        <label:label xlink:label="res_258" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800k] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Sewer treated, average volume [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800k" xlink:label="loc_258" xlink:type="locator"/>
+        <label:label xlink:label="res_258" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Fuel cell, electrical efficiency [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300c" xlink:label="loc_258" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_258" xlink:to="res_258" xlink:type="arc"/>
-        <label:label xlink:label="res_259" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800l] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Pipe length [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-830800l" xlink:label="loc_259" xlink:type="locator"/>
+        <label:label xlink:label="res_259" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Fuel cell, thermal efficiency [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300d" xlink:label="loc_259" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_259" xlink:to="res_259" xlink:type="arc"/>
-        <label:label xlink:label="res_260" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100" xlink:label="loc_260" xlink:type="locator"/>
+        <label:label xlink:label="res_260" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300e] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Battery, coulombic efficiency [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300e" xlink:label="loc_260" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_260" xlink:to="res_260" xlink:type="arc"/>
-        <label:label xlink:label="res_261" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI) - Incidents of non-compliance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100a" xlink:label="loc_261" xlink:type="locator"/>
+        <label:label xlink:label="res_261" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300f] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Fuel cell, average operating lifetime [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300f" xlink:label="loc_261" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_261" xlink:to="res_261" xlink:type="arc"/>
-        <label:label xlink:label="res_262" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI) - Lifecycle greenhouse gas (GHG) emissions [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100b" xlink:label="loc_262" xlink:type="locator"/>
+        <label:label xlink:label="res_262" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300g] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Battery, operating lifetime [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300g" xlink:label="loc_262" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_262" xlink:to="res_262" xlink:type="arc"/>
-        <label:label xlink:label="res_263" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI) - Biofuel production [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835100c" xlink:label="loc_263" xlink:type="locator"/>
+        <label:label xlink:label="res_263" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400" xlink:label="loc_263" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_263" xlink:to="res_263" xlink:type="arc"/>
-        <label:label xlink:label="res_264" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200" xlink:label="loc_264" xlink:type="locator"/>
+        <label:label xlink:label="res_264" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400a" xlink:label="loc_264" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_264" xlink:to="res_264" xlink:type="arc"/>
-        <label:label xlink:label="res_265" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland, percentage certified to third-party forest management standard [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200a" xlink:label="loc_265" xlink:type="locator"/>
+        <label:label xlink:label="res_265" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Wood fibre, source percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400b" xlink:label="loc_265" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_265" xlink:to="res_265" xlink:type="arc"/>
-        <label:label xlink:label="res_266" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200b" xlink:label="loc_266" xlink:type="locator"/>
+        <label:label xlink:label="res_266" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Production, weight [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400c" xlink:label="loc_266" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_266" xlink:to="res_266" xlink:type="arc"/>
-        <label:label xlink:label="res_267" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200c" xlink:label="loc_267" xlink:type="locator"/>
+        <label:label xlink:label="res_267" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Production, weight [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400d" xlink:label="loc_267" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_267" xlink:to="res_267" xlink:type="arc"/>
-        <label:label xlink:label="res_268" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835200d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835200d" xlink:label="loc_268" xlink:type="locator"/>
+        <label:label xlink:label="res_268" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835500] Industry Metrics - Renewable Resources &amp; Alternative Energy - Solar Technology &amp; Project Developers (RR-ST)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835500" xlink:label="loc_268" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_268" xlink:to="res_268" xlink:type="arc"/>
-        <label:label xlink:label="res_269" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300" xlink:label="loc_269" xlink:type="locator"/>
+        <label:label xlink:label="res_269" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835500a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Solar Technology &amp; Project Developers (RR-ST) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835500a" xlink:label="loc_269" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_269" xlink:to="res_269" xlink:type="arc"/>
-        <label:label xlink:label="res_270" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300a" xlink:label="loc_270" xlink:type="locator"/>
+        <label:label xlink:label="res_270" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600" xlink:label="loc_270" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_270" xlink:to="res_270" xlink:type="arc"/>
-        <label:label xlink:label="res_271" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Battery, storage capacity [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300b" xlink:label="loc_271" xlink:type="locator"/>
+        <label:label xlink:label="res_271" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, most consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600a" xlink:label="loc_271" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_271" xlink:to="res_271" xlink:type="arc"/>
-        <label:label xlink:label="res_272" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Fuel cell, electrical efficiency [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300c" xlink:label="loc_272" xlink:type="locator"/>
+        <label:label xlink:label="res_272" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, second most-consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600b" xlink:label="loc_272" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_272" xlink:to="res_272" xlink:type="arc"/>
-        <label:label xlink:label="res_273" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Fuel cell, thermal efficiency [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300d" xlink:label="loc_273" xlink:type="locator"/>
+        <label:label xlink:label="res_273" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, third most-consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600c" xlink:label="loc_273" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_273" xlink:to="res_273" xlink:type="arc"/>
-        <label:label xlink:label="res_274" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300e] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Battery, coulombic efficiency [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300e" xlink:label="loc_274" xlink:type="locator"/>
+        <label:label xlink:label="res_274" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fourth most-consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600d" xlink:label="loc_274" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_274" xlink:to="res_274" xlink:type="arc"/>
-        <label:label xlink:label="res_275" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300f] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Fuel cell, average operating lifetime [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300f" xlink:label="loc_275" xlink:type="locator"/>
+        <label:label xlink:label="res_275" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600e] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fifth most-consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600e" xlink:label="loc_275" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_275" xlink:to="res_275" xlink:type="arc"/>
-        <label:label xlink:label="res_276" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835300g] Industry Metrics - Renewable Resources &amp; Alternative Energy - Fuel Cells &amp; Industrial Batteries (RR-FC) - Battery, operating lifetime [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835300g" xlink:label="loc_276" xlink:type="locator"/>
+        <label:label xlink:label="res_276" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600f] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Top head mass, average per turbine capacity [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600f" xlink:label="loc_276" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_276" xlink:to="res_276" xlink:type="arc"/>
-        <label:label xlink:label="res_277" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400" xlink:label="loc_277" xlink:type="locator"/>
+        <label:label xlink:label="res_277" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600g] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Wind turbines delivered, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600g" xlink:label="loc_277" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_277" xlink:to="res_277" xlink:type="arc"/>
-        <label:label xlink:label="res_278" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400a" xlink:label="loc_278" xlink:type="locator"/>
+        <label:label xlink:label="res_278" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600h] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Wind turbines delivered, aggregate capacity [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600h" xlink:label="loc_278" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_278" xlink:to="res_278" xlink:type="arc"/>
-        <label:label xlink:label="res_279" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Wood fibre, source percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400b" xlink:label="loc_279" xlink:type="locator"/>
+        <label:label xlink:label="res_279" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100" xlink:label="loc_279" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_279" xlink:to="res_279" xlink:type="arc"/>
-        <label:label xlink:label="res_280" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Production, weight [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400c" xlink:label="loc_280" xlink:type="locator"/>
+        <label:label xlink:label="res_280" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100a] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100a" xlink:label="loc_280" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_280" xlink:to="res_280" xlink:type="arc"/>
-        <label:label xlink:label="res_281" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835400d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Pulp &amp; Paper Products (RR-PP) - Production, weight [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835400d" xlink:label="loc_281" xlink:type="locator"/>
+        <label:label xlink:label="res_281" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100b] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE) - Revenues [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100b" xlink:label="loc_281" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_281" xlink:to="res_281" xlink:type="arc"/>
-        <label:label xlink:label="res_282" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835500] Industry Metrics - Renewable Resources &amp; Alternative Energy - Solar Technology &amp; Project Developers (RR-ST)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835500" xlink:label="loc_282" xlink:type="locator"/>
+        <label:label xlink:label="res_282" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100c] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE) - Production, units [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100c" xlink:label="loc_282" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_282" xlink:to="res_282" xlink:type="arc"/>
-        <label:label xlink:label="res_283" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835500a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Solar Technology &amp; Project Developers (RR-ST) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835500a" xlink:label="loc_283" xlink:type="locator"/>
+        <label:label xlink:label="res_283" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200] Industry Metrics - Resource Transformation - Chemicals (RT-CH)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200" xlink:label="loc_283" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_283" xlink:to="res_283" xlink:type="arc"/>
-        <label:label xlink:label="res_284" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600" xlink:label="loc_284" xlink:type="locator"/>
+        <label:label xlink:label="res_284" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200a] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200a" xlink:label="loc_284" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_284" xlink:to="res_284" xlink:type="arc"/>
-        <label:label xlink:label="res_285" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fifth most-consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600a" xlink:label="loc_285" xlink:type="locator"/>
+        <label:label xlink:label="res_285" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200b] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200b" xlink:label="loc_285" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_285" xlink:to="res_285" xlink:type="arc"/>
-        <label:label xlink:label="res_286" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fourth most-consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600b" xlink:label="loc_286" xlink:type="locator"/>
+        <label:label xlink:label="res_286" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200c] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Incidents of non-compliance [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200c" xlink:label="loc_286" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_286" xlink:to="res_286" xlink:type="arc"/>
-        <label:label xlink:label="res_287" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, most consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600c" xlink:label="loc_287" xlink:type="locator"/>
+        <label:label xlink:label="res_287" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200d] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Revenues [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200d" xlink:label="loc_287" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_287" xlink:to="res_287" xlink:type="arc"/>
-        <label:label xlink:label="res_288" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, second most-consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600d" xlink:label="loc_288" xlink:type="locator"/>
+        <label:label xlink:label="res_288" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200e] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Production, volume [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200e" xlink:label="loc_288" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_288" xlink:to="res_288" xlink:type="arc"/>
-        <label:label xlink:label="res_289" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600e] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, third most-consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600e" xlink:label="loc_289" xlink:type="locator"/>
+        <label:label xlink:label="res_289" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200f] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Production, weight [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200f" xlink:label="loc_289" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_289" xlink:to="res_289" xlink:type="arc"/>
-        <label:label xlink:label="res_290" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600f] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Top head mass, average per turbine capacity [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600f" xlink:label="loc_290" xlink:type="locator"/>
+        <label:label xlink:label="res_290" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300" xlink:label="loc_290" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_290" xlink:to="res_290" xlink:type="arc"/>
-        <label:label xlink:label="res_291" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600g] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Wind turbines delivered, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600g" xlink:label="loc_291" xlink:type="locator"/>
+        <label:label xlink:label="res_291" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300a] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300a" xlink:label="loc_291" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_291" xlink:to="res_291" xlink:type="arc"/>
-        <label:label xlink:label="res_292" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835600h] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Wind turbines delivered, aggregate capacity [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-835600h" xlink:label="loc_292" xlink:type="locator"/>
+        <label:label xlink:label="res_292" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300b] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300b" xlink:label="loc_292" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_292" xlink:to="res_292" xlink:type="arc"/>
-        <label:label xlink:label="res_293" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100" xlink:label="loc_293" xlink:type="locator"/>
+        <label:label xlink:label="res_293" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300c] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Incidents of non-compliance [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300c" xlink:label="loc_293" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_293" xlink:to="res_293" xlink:type="arc"/>
-        <label:label xlink:label="res_294" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100a] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100a" xlink:label="loc_294" xlink:type="locator"/>
+        <label:label xlink:label="res_294" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300d] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Waste, quantity generated [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300d" xlink:label="loc_294" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_294" xlink:to="res_294" xlink:type="arc"/>
-        <label:label xlink:label="res_295" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100b] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE) - Revenues [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100b" xlink:label="loc_295" xlink:type="locator"/>
+        <label:label xlink:label="res_295" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300e] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Waste, percentage recycled [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300e" xlink:label="loc_295" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_295" xlink:to="res_295" xlink:type="arc"/>
-        <label:label xlink:label="res_296" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840100c] Industry Metrics - Resource Transformation - Aerospace &amp; Defense (RT-AE) - Production, units [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840100c" xlink:label="loc_296" xlink:type="locator"/>
+        <label:label xlink:label="res_296" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300f] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Wood fibre, source percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300f" xlink:label="loc_296" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_296" xlink:to="res_296" xlink:type="arc"/>
-        <label:label xlink:label="res_297" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200] Industry Metrics - Resource Transformation - Chemicals (RT-CH)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200" xlink:label="loc_297" xlink:type="locator"/>
+        <label:label xlink:label="res_297" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300g] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, weight [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300g" xlink:label="loc_297" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_297" xlink:to="res_297" xlink:type="arc"/>
-        <label:label xlink:label="res_298" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200a] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200a" xlink:label="loc_298" xlink:type="locator"/>
+        <label:label xlink:label="res_298" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300h] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300h" xlink:label="loc_298" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_298" xlink:to="res_298" xlink:type="arc"/>
-        <label:label xlink:label="res_299" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200b] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200b" xlink:label="loc_299" xlink:type="locator"/>
+        <label:label xlink:label="res_299" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400" xlink:label="loc_299" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_299" xlink:to="res_299" xlink:type="arc"/>
-        <label:label xlink:label="res_300" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200c] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Incidents of non-compliance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200c" xlink:label="loc_300" xlink:type="locator"/>
+        <label:label xlink:label="res_300" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400a] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400a" xlink:label="loc_300" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_300" xlink:to="res_300" xlink:type="arc"/>
-        <label:label xlink:label="res_301" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200d] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Revenues [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200d" xlink:label="loc_301" xlink:type="locator"/>
+        <label:label xlink:label="res_301" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400b] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Products, eligible to standard, percentage certified [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400b" xlink:label="loc_301" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_301" xlink:to="res_301" xlink:type="arc"/>
-        <label:label xlink:label="res_302" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200e] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Production, volume [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200e" xlink:label="loc_302" xlink:type="locator"/>
+        <label:label xlink:label="res_302" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400c] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Revenues [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400c" xlink:label="loc_302" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_302" xlink:to="res_302" xlink:type="arc"/>
-        <label:label xlink:label="res_303" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840200f] Industry Metrics - Resource Transformation - Chemicals (RT-CH) - Production, weight [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840200f" xlink:label="loc_303" xlink:type="locator"/>
+        <label:label xlink:label="res_303" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400d] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Production, units [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400d" xlink:label="loc_303" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_303" xlink:to="res_303" xlink:type="arc"/>
-        <label:label xlink:label="res_304" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300" xlink:label="loc_304" xlink:type="locator"/>
+        <label:label xlink:label="res_304" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500" xlink:label="loc_304" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_304" xlink:to="res_304" xlink:type="arc"/>
-        <label:label xlink:label="res_305" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300a] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300a" xlink:label="loc_305" xlink:type="locator"/>
+        <label:label xlink:label="res_305" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500a] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500a" xlink:label="loc_305" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_305" xlink:to="res_305" xlink:type="arc"/>
-        <label:label xlink:label="res_306" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300b] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300b" xlink:label="loc_306" xlink:type="locator"/>
+        <label:label xlink:label="res_306" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500b] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG) - Sales-weighted emissions [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500b" xlink:label="loc_306" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_306" xlink:to="res_306" xlink:type="arc"/>
-        <label:label xlink:label="res_307" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300c] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Incidents of non-compliance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300c" xlink:label="loc_307" xlink:type="locator"/>
+        <label:label xlink:label="res_307" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500c] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG) - Production, units [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500c" xlink:label="loc_307" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_307" xlink:to="res_307" xlink:type="arc"/>
-        <label:label xlink:label="res_308" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300d] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Incidents of non-compliance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300d" xlink:label="loc_308" xlink:type="locator"/>
+        <label:label xlink:label="res_308" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845200] Industry Metrics - Services - Casinos &amp; Gaming (SV-CA)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845200" xlink:label="loc_308" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_308" xlink:to="res_308" xlink:type="arc"/>
-        <label:label xlink:label="res_309" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300e] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Waste, percentage recycled [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300e" xlink:label="loc_309" xlink:type="locator"/>
+        <label:label xlink:label="res_309" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845200a] Industry Metrics - Services - Casinos &amp; Gaming (SV-CA) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845200a" xlink:label="loc_309" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_309" xlink:to="res_309" xlink:type="arc"/>
-        <label:label xlink:label="res_310" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300f] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Waste, quantity generated [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300f" xlink:label="loc_310" xlink:type="locator"/>
+        <label:label xlink:label="res_310" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845200b] Industry Metrics - Services - Casinos &amp; Gaming (SV-CA) - Customers, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845200b" xlink:label="loc_310" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_310" xlink:to="res_310" xlink:type="arc"/>
-        <label:label xlink:label="res_311" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300g] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Wood fibre, source percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300g" xlink:label="loc_311" xlink:type="locator"/>
+        <label:label xlink:label="res_311" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400" xlink:label="loc_311" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_311" xlink:to="res_311" xlink:type="arc"/>
-        <label:label xlink:label="res_312" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300h] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, weight [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300h" xlink:label="loc_312" xlink:type="locator"/>
+        <label:label xlink:label="res_312" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400a] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400a" xlink:label="loc_312" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_312" xlink:to="res_312" xlink:type="arc"/>
-        <label:label xlink:label="res_313" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840300i] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840300i" xlink:label="loc_313" xlink:type="locator"/>
+        <label:label xlink:label="res_313" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400b] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Lodging facilities [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400b" xlink:label="loc_313" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_313" xlink:to="res_313" xlink:type="arc"/>
-        <label:label xlink:label="res_314" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400" xlink:label="loc_314" xlink:type="locator"/>
+        <label:label xlink:label="res_314" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400c] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Facilities, area [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400c" xlink:label="loc_314" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_314" xlink:to="res_314" xlink:type="arc"/>
-        <label:label xlink:label="res_315" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400a] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400a" xlink:label="loc_315" xlink:type="locator"/>
+        <label:label xlink:label="res_315" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400d] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Facilities, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400d" xlink:label="loc_315" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_315" xlink:to="res_315" xlink:type="arc"/>
-        <label:label xlink:label="res_316" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400b] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Product revenue, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400b" xlink:label="loc_316" xlink:type="locator"/>
+        <label:label xlink:label="res_316" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400e] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Facilities, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400e" xlink:label="loc_316" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_316" xlink:to="res_316" xlink:type="arc"/>
-        <label:label xlink:label="res_317" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400c] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Products, eligible to standard, percentage certified [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400c" xlink:label="loc_317" xlink:type="locator"/>
+        <label:label xlink:label="res_317" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845500] Industry Metrics - Services - Leisure Facilities (SV-LF)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845500" xlink:label="loc_317" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_317" xlink:to="res_317" xlink:type="arc"/>
-        <label:label xlink:label="res_318" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400d] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Revenues [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400d" xlink:label="loc_318" xlink:type="locator"/>
+        <label:label xlink:label="res_318" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845500a] Industry Metrics - Services - Leisure Facilities (SV-LF) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845500a" xlink:label="loc_318" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_318" xlink:to="res_318" xlink:type="arc"/>
-        <label:label xlink:label="res_319" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840400e] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Production, units [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840400e" xlink:label="loc_319" xlink:type="locator"/>
+        <label:label xlink:label="res_319" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850100] Industry Metrics - Technology &amp; Communications - Electronic Manufacturing Services &amp; Original Design Manufacturing (TC-ES)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850100" xlink:label="loc_319" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_319" xlink:to="res_319" xlink:type="arc"/>
-        <label:label xlink:label="res_320" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500" xlink:label="loc_320" xlink:type="locator"/>
+        <label:label xlink:label="res_320" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850100a] Industry Metrics - Technology &amp; Communications - Electronic Manufacturing Services &amp; Original Design Manufacturing (TC-ES) - Facilities, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850100a" xlink:label="loc_320" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_320" xlink:to="res_320" xlink:type="arc"/>
-        <label:label xlink:label="res_321" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500a] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500a" xlink:label="loc_321" xlink:type="locator"/>
+        <label:label xlink:label="res_321" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850100b] Industry Metrics - Technology &amp; Communications - Electronic Manufacturing Services &amp; Original Design Manufacturing (TC-ES) - Facilities, area [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850100b" xlink:label="loc_321" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_321" xlink:to="res_321" xlink:type="arc"/>
-        <label:label xlink:label="res_322" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500b] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG) - Sales-weighted emissions [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500b" xlink:label="loc_322" xlink:type="locator"/>
+        <label:label xlink:label="res_322" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200" xlink:label="loc_322" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_322" xlink:to="res_322" xlink:type="arc"/>
-        <label:label xlink:label="res_323" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[840500c] Industry Metrics - Resource Transformation - Industrial Machinery &amp; Goods (RT-IG) - Production, units [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-840500c" xlink:label="loc_323" xlink:type="locator"/>
+        <label:label xlink:label="res_323" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200a] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Products, eligible to standard, percentage certified [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200a" xlink:label="loc_323" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_323" xlink:to="res_323" xlink:type="arc"/>
-        <label:label xlink:label="res_324" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845200] Industry Metrics - Services - Casinos &amp; Gaming (SV-CA)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845200" xlink:label="loc_324" xlink:type="locator"/>
+        <label:label xlink:label="res_324" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200b] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Production, units [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200b" xlink:label="loc_324" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_324" xlink:to="res_324" xlink:type="arc"/>
-        <label:label xlink:label="res_325" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845200a] Industry Metrics - Services - Casinos &amp; Gaming (SV-CA) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845200a" xlink:label="loc_325" xlink:type="locator"/>
+        <label:label xlink:label="res_325" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200c] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Facilities, area [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200c" xlink:label="loc_325" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_325" xlink:to="res_325" xlink:type="arc"/>
-        <label:label xlink:label="res_326" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845200b] Industry Metrics - Services - Casinos &amp; Gaming (SV-CA) - Customers, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845200b" xlink:label="loc_326" xlink:type="locator"/>
+        <label:label xlink:label="res_326" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850300] Industry Metrics - Technology &amp; Communications - Internet Media &amp; Services (TC-IM)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850300" xlink:label="loc_326" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_326" xlink:to="res_326" xlink:type="arc"/>
-        <label:label xlink:label="res_327" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400" xlink:label="loc_327" xlink:type="locator"/>
+        <label:label xlink:label="res_327" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850300a] Industry Metrics - Technology &amp; Communications - Internet Media &amp; Services (TC-IM) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850300a" xlink:label="loc_327" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_327" xlink:to="res_327" xlink:type="arc"/>
-        <label:label xlink:label="res_328" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400a] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400a" xlink:label="loc_328" xlink:type="locator"/>
+        <label:label xlink:label="res_328" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400" xlink:label="loc_328" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_328" xlink:to="res_328" xlink:type="arc"/>
-        <label:label xlink:label="res_329" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400b] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Lodging facilities [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400b" xlink:label="loc_329" xlink:type="locator"/>
+        <label:label xlink:label="res_329" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400a] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Gross scope 1 greenhouse gas emissions [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400a" xlink:label="loc_329" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_329" xlink:to="res_329" xlink:type="arc"/>
-        <label:label xlink:label="res_330" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400c] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Facilities, area [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400c" xlink:label="loc_330" xlink:type="locator"/>
+        <label:label xlink:label="res_330" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400b] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400b" xlink:label="loc_330" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_330" xlink:to="res_330" xlink:type="arc"/>
-        <label:label xlink:label="res_331" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400d] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Facilities, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400d" xlink:label="loc_331" xlink:type="locator"/>
+        <label:label xlink:label="res_331" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400c] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Processor energy efficiency at system-level [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400c" xlink:label="loc_331" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_331" xlink:to="res_331" xlink:type="arc"/>
-        <label:label xlink:label="res_332" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845400e] Industry Metrics - Services - Hotels &amp; Lodging (SV-HL) - Facilities, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845400e" xlink:label="loc_332" xlink:type="locator"/>
+        <label:label xlink:label="res_332" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850500] Industry Metrics - Technology &amp; Communications - Software &amp; IT Services (TC-SI)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850500" xlink:label="loc_332" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_332" xlink:to="res_332" xlink:type="arc"/>
-        <label:label xlink:label="res_333" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845500] Industry Metrics - Services - Leisure Facilities (SV-LF)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845500" xlink:label="loc_333" xlink:type="locator"/>
+        <label:label xlink:label="res_333" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850500a] Industry Metrics - Technology &amp; Communications - Software &amp; IT Services (TC-SI) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850500a" xlink:label="loc_333" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_333" xlink:to="res_333" xlink:type="arc"/>
-        <label:label xlink:label="res_334" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[845500a] Industry Metrics - Services - Leisure Facilities (SV-LF) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-845500a" xlink:label="loc_334" xlink:type="locator"/>
+        <label:label xlink:label="res_334" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850600] Industry Metrics - Technology &amp; Communications - Telecommunication Services (TC-TL)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850600" xlink:label="loc_334" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_334" xlink:to="res_334" xlink:type="arc"/>
-        <label:label xlink:label="res_335" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850100] Industry Metrics - Technology &amp; Communications - Electronic Manufacturing Services &amp; Original Design Manufacturing (TC-ES)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850100" xlink:label="loc_335" xlink:type="locator"/>
+        <label:label xlink:label="res_335" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850600a] Industry Metrics - Technology &amp; Communications - Telecommunication Services (TC-TL) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850600a" xlink:label="loc_335" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_335" xlink:to="res_335" xlink:type="arc"/>
-        <label:label xlink:label="res_336" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850100a] Industry Metrics - Technology &amp; Communications - Electronic Manufacturing Services &amp; Original Design Manufacturing (TC-ES) - Facilities, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850100a" xlink:label="loc_336" xlink:type="locator"/>
+        <label:label xlink:label="res_336" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100" xlink:label="loc_336" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_336" xlink:to="res_336" xlink:type="arc"/>
-        <label:label xlink:label="res_337" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850100b] Industry Metrics - Technology &amp; Communications - Electronic Manufacturing Services &amp; Original Design Manufacturing (TC-ES) - Facilities, area [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850100b" xlink:label="loc_337" xlink:type="locator"/>
+        <label:label xlink:label="res_337" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100a] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100a" xlink:label="loc_337" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_337" xlink:to="res_337" xlink:type="arc"/>
-        <label:label xlink:label="res_338" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200" xlink:label="loc_338" xlink:type="locator"/>
+        <label:label xlink:label="res_338" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100b] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Fuel consumed [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100b" xlink:label="loc_338" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_338" xlink:to="res_338" xlink:type="arc"/>
-        <label:label xlink:label="res_339" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200a] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Product revenue, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200a" xlink:label="loc_339" xlink:type="locator"/>
+        <label:label xlink:label="res_339" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100c] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Revenue ton distance [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100c" xlink:label="loc_339" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_339" xlink:to="res_339" xlink:type="arc"/>
-        <label:label xlink:label="res_340" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200b] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Products, eligible to standard, percentage certified [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200b" xlink:label="loc_340" xlink:type="locator"/>
+        <label:label xlink:label="res_340" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100d] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Transportation load factor [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100d" xlink:label="loc_340" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_340" xlink:to="res_340" xlink:type="arc"/>
-        <label:label xlink:label="res_341" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200c] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Production, units [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200c" xlink:label="loc_341" xlink:type="locator"/>
+        <label:label xlink:label="res_341" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100e] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Employees, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100e" xlink:label="loc_341" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_341" xlink:to="res_341" xlink:type="arc"/>
-        <label:label xlink:label="res_342" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850200d] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Facilities, area [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850200d" xlink:label="loc_342" xlink:type="locator"/>
+        <label:label xlink:label="res_342" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855200] Industry Metrics - Transportation - Airlines (TR-AL)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855200" xlink:label="loc_342" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_342" xlink:to="res_342" xlink:type="arc"/>
-        <label:label xlink:label="res_343" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850300] Industry Metrics - Technology &amp; Communications - Internet Media &amp; Services (TC-IM)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850300" xlink:label="loc_343" xlink:type="locator"/>
+        <label:label xlink:label="res_343" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855200a] Industry Metrics - Transportation - Airlines (TR-AL) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855200a" xlink:label="loc_343" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_343" xlink:to="res_343" xlink:type="arc"/>
-        <label:label xlink:label="res_344" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850300a] Industry Metrics - Technology &amp; Communications - Internet Media &amp; Services (TC-IM) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850300a" xlink:label="loc_344" xlink:type="locator"/>
+        <label:label xlink:label="res_344" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855200b] Industry Metrics - Transportation - Airlines (TR-AL) - Revenue ton distance [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855200b" xlink:label="loc_344" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_344" xlink:to="res_344" xlink:type="arc"/>
-        <label:label xlink:label="res_345" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400" xlink:label="loc_345" xlink:type="locator"/>
+        <label:label xlink:label="res_345" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300] Industry Metrics - Transportation - Auto Parts (TR-AP)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300" xlink:label="loc_345" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_345" xlink:to="res_345" xlink:type="arc"/>
-        <label:label xlink:label="res_346" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400a] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Gross scope 1 greenhouse gas emissions [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400a" xlink:label="loc_346" xlink:type="locator"/>
+        <label:label xlink:label="res_346" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300a] Industry Metrics - Transportation - Auto Parts (TR-AP) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300a" xlink:label="loc_346" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_346" xlink:to="res_346" xlink:type="arc"/>
-        <label:label xlink:label="res_347" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400b] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400b" xlink:label="loc_347" xlink:type="locator"/>
+        <label:label xlink:label="res_347" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300b] Industry Metrics - Transportation - Auto Parts (TR-AP) - Revenues [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300b" xlink:label="loc_347" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_347" xlink:to="res_347" xlink:type="arc"/>
-        <label:label xlink:label="res_348" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400c] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Product revenue, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400c" xlink:label="loc_348" xlink:type="locator"/>
+        <label:label xlink:label="res_348" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300c] Industry Metrics - Transportation - Auto Parts (TR-AP) - Facilities, area [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300c" xlink:label="loc_348" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_348" xlink:to="res_348" xlink:type="arc"/>
-        <label:label xlink:label="res_349" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850400d] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Processor energy efficiency at system-level [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850400d" xlink:label="loc_349" xlink:type="locator"/>
+        <label:label xlink:label="res_349" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855400] Industry Metrics - Transportation - Automobiles (TR-AU)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855400" xlink:label="loc_349" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_349" xlink:to="res_349" xlink:type="arc"/>
-        <label:label xlink:label="res_350" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850500] Industry Metrics - Technology &amp; Communications - Software &amp; IT Services (TC-SI)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850500" xlink:label="loc_350" xlink:type="locator"/>
+        <label:label xlink:label="res_350" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855400a] Industry Metrics - Transportation - Automobiles (TR-AU) - Fleet fuel economy, sales-weighted average [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855400a" xlink:label="loc_350" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_350" xlink:to="res_350" xlink:type="arc"/>
-        <label:label xlink:label="res_351" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850500a] Industry Metrics - Technology &amp; Communications - Software &amp; IT Services (TC-SI) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850500a" xlink:label="loc_351" xlink:type="locator"/>
+        <label:label xlink:label="res_351" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855400b] Industry Metrics - Transportation - Automobiles (TR-AU) - Vehicles sold [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855400b" xlink:label="loc_351" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_351" xlink:to="res_351" xlink:type="arc"/>
-        <label:label xlink:label="res_352" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850600] Industry Metrics - Technology &amp; Communications - Telecommunication Services (TC-TL)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850600" xlink:label="loc_352" xlink:type="locator"/>
+        <label:label xlink:label="res_352" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855500] Industry Metrics - Transportation - Car Rental &amp; Leasing (TR-CR)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855500" xlink:label="loc_352" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_352" xlink:to="res_352" xlink:type="arc"/>
-        <label:label xlink:label="res_353" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[850600a] Industry Metrics - Technology &amp; Communications - Telecommunication Services (TC-TL) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-850600a" xlink:label="loc_353" xlink:type="locator"/>
+        <label:label xlink:label="res_353" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855500a] Industry Metrics - Transportation - Car Rental &amp; Leasing (TR-CR) - Rental fleet fuel economy, rental day-weighted average [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855500a" xlink:label="loc_353" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_353" xlink:to="res_353" xlink:type="arc"/>
-        <label:label xlink:label="res_354" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100" xlink:label="loc_354" xlink:type="locator"/>
+        <label:label xlink:label="res_354" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855500b] Industry Metrics - Transportation - Car Rental &amp; Leasing (TR-CR) - Fleet, number of vehicles [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855500b" xlink:label="loc_354" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_354" xlink:to="res_354" xlink:type="arc"/>
-        <label:label xlink:label="res_355" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100a] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100a" xlink:label="loc_355" xlink:type="locator"/>
+        <label:label xlink:label="res_355" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600] Industry Metrics - Transportation - Cruise Lines (TR-CL)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600" xlink:label="loc_355" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_355" xlink:to="res_355" xlink:type="arc"/>
-        <label:label xlink:label="res_356" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100b] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Fuel consumed [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100b" xlink:label="loc_356" xlink:type="locator"/>
+        <label:label xlink:label="res_356" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600a] Industry Metrics - Transportation - Cruise Lines (TR-CL) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600a" xlink:label="loc_356" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_356" xlink:to="res_356" xlink:type="arc"/>
-        <label:label xlink:label="res_357" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100c] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Revenue ton distance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100c" xlink:label="loc_357" xlink:type="locator"/>
+        <label:label xlink:label="res_357" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600b] Industry Metrics - Transportation - Cruise Lines (TR-CL) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600b" xlink:label="loc_357" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_357" xlink:to="res_357" xlink:type="arc"/>
-        <label:label xlink:label="res_358" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100d] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Transportation load factor [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100d" xlink:label="loc_358" xlink:type="locator"/>
+        <label:label xlink:label="res_358" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600c] Industry Metrics - Transportation - Cruise Lines (TR-CL) - Employees, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600c" xlink:label="loc_358" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_358" xlink:to="res_358" xlink:type="arc"/>
-        <label:label xlink:label="res_359" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855100e] Industry Metrics - Transportation - Air Freight &amp; Logistics (TR-AF) - Employees, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855100e" xlink:label="loc_359" xlink:type="locator"/>
+        <label:label xlink:label="res_359" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700] Industry Metrics - Transportation - Marine Transportation (TR-MT)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700" xlink:label="loc_359" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_359" xlink:to="res_359" xlink:type="arc"/>
-        <label:label xlink:label="res_360" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855200] Industry Metrics - Transportation - Airlines (TR-AL)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855200" xlink:label="loc_360" xlink:type="locator"/>
+        <label:label xlink:label="res_360" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700a] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700a" xlink:label="loc_360" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_360" xlink:to="res_360" xlink:type="arc"/>
-        <label:label xlink:label="res_361" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855200a] Industry Metrics - Transportation - Airlines (TR-AL) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855200a" xlink:label="loc_361" xlink:type="locator"/>
+        <label:label xlink:label="res_361" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700b] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Energy consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700b" xlink:label="loc_361" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_361" xlink:to="res_361" xlink:type="arc"/>
-        <label:label xlink:label="res_362" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855200b] Industry Metrics - Transportation - Airlines (TR-AL) - Revenue ton distance [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855200b" xlink:label="loc_362" xlink:type="locator"/>
+        <label:label xlink:label="res_362" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700c] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Employees, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700c" xlink:label="loc_362" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_362" xlink:to="res_362" xlink:type="arc"/>
-        <label:label xlink:label="res_363" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300] Industry Metrics - Transportation - Auto Parts (TR-AP)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300" xlink:label="loc_363" xlink:type="locator"/>
+        <label:label xlink:label="res_363" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700d] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Fleet, number of vehicles [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700d" xlink:label="loc_363" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_363" xlink:to="res_363" xlink:type="arc"/>
-        <label:label xlink:label="res_364" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300a] Industry Metrics - Transportation - Auto Parts (TR-AP) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300a" xlink:label="loc_364" xlink:type="locator"/>
+        <label:label xlink:label="res_364" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855800] Industry Metrics - Transportation - Rail Transportation (TR-RA)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855800" xlink:label="loc_364" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_364" xlink:to="res_364" xlink:type="arc"/>
-        <label:label xlink:label="res_365" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300b] Industry Metrics - Transportation - Auto Parts (TR-AP) - Revenues [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300b" xlink:label="loc_365" xlink:type="locator"/>
+        <label:label xlink:label="res_365" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855800a] Industry Metrics - Transportation - Rail Transportation (TR-RA) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855800a" xlink:label="loc_365" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_365" xlink:to="res_365" xlink:type="arc"/>
-        <label:label xlink:label="res_366" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855300c] Industry Metrics - Transportation - Auto Parts (TR-AP) - Facilities, area [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855300c" xlink:label="loc_366" xlink:type="locator"/>
+        <label:label xlink:label="res_366" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855900] Industry Metrics - Transportation - Road Transportation (TR-RO)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855900" xlink:label="loc_366" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_366" xlink:to="res_366" xlink:type="arc"/>
-        <label:label xlink:label="res_367" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855400] Industry Metrics - Transportation - Automobiles (TR-AU)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855400" xlink:label="loc_367" xlink:type="locator"/>
+        <label:label xlink:label="res_367" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855900a] Industry Metrics - Transportation - Road Transportation (TR-RO) - Fuel consumed, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855900a" xlink:label="loc_367" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_367" xlink:to="res_367" xlink:type="arc"/>
-        <label:label xlink:label="res_368" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855400a] Industry Metrics - Transportation - Automobiles (TR-AU) - Fleet fuel economy, sales-weighted average [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855400a" xlink:label="loc_368" xlink:type="locator"/>
+        <label:label xlink:label="res_368" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855900b] Industry Metrics - Transportation - Road Transportation (TR-RO) - Employees, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855900b" xlink:label="loc_368" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_368" xlink:to="res_368" xlink:type="arc"/>
-        <label:label xlink:label="res_369" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855400b] Industry Metrics - Transportation - Automobiles (TR-AU) - Vehicles sold [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855400b" xlink:label="loc_369" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_369" xlink:to="res_369" xlink:type="arc"/>
-        <label:label xlink:label="res_370" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855500] Industry Metrics - Transportation - Car Rental &amp; Leasing (TR-CR)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855500" xlink:label="loc_370" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_370" xlink:to="res_370" xlink:type="arc"/>
-        <label:label xlink:label="res_371" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855500a] Industry Metrics - Transportation - Car Rental &amp; Leasing (TR-CR) - Rental fleet fuel economy, rental day-weighted average [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855500a" xlink:label="loc_371" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_371" xlink:to="res_371" xlink:type="arc"/>
-        <label:label xlink:label="res_372" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855500b] Industry Metrics - Transportation - Car Rental &amp; Leasing (TR-CR) - Fleet, number of vehicles [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855500b" xlink:label="loc_372" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_372" xlink:to="res_372" xlink:type="arc"/>
-        <label:label xlink:label="res_373" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600] Industry Metrics - Transportation - Cruise Lines (TR-CL)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600" xlink:label="loc_373" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_373" xlink:to="res_373" xlink:type="arc"/>
-        <label:label xlink:label="res_374" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600a] Industry Metrics - Transportation - Cruise Lines (TR-CL) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600a" xlink:label="loc_374" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_374" xlink:to="res_374" xlink:type="arc"/>
-        <label:label xlink:label="res_375" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600b] Industry Metrics - Transportation - Cruise Lines (TR-CL) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600b" xlink:label="loc_375" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_375" xlink:to="res_375" xlink:type="arc"/>
-        <label:label xlink:label="res_376" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855600c] Industry Metrics - Transportation - Cruise Lines (TR-CL) - Employees, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855600c" xlink:label="loc_376" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_376" xlink:to="res_376" xlink:type="arc"/>
-        <label:label xlink:label="res_377" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700] Industry Metrics - Transportation - Marine Transportation (TR-MT)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700" xlink:label="loc_377" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_377" xlink:to="res_377" xlink:type="arc"/>
-        <label:label xlink:label="res_378" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700a] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Energy consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700a" xlink:label="loc_378" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_378" xlink:to="res_378" xlink:type="arc"/>
-        <label:label xlink:label="res_379" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700b] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700b" xlink:label="loc_379" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_379" xlink:to="res_379" xlink:type="arc"/>
-        <label:label xlink:label="res_380" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700c] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Employees, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700c" xlink:label="loc_380" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_380" xlink:to="res_380" xlink:type="arc"/>
-        <label:label xlink:label="res_381" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855700d] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Fleet, number of vehicles [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855700d" xlink:label="loc_381" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_381" xlink:to="res_381" xlink:type="arc"/>
-        <label:label xlink:label="res_382" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855800] Industry Metrics - Transportation - Rail Transportation (TR-RA)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855800" xlink:label="loc_382" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_382" xlink:to="res_382" xlink:type="arc"/>
-        <label:label xlink:label="res_383" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855800a] Industry Metrics - Transportation - Rail Transportation (TR-RA) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855800a" xlink:label="loc_383" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_383" xlink:to="res_383" xlink:type="arc"/>
-        <label:label xlink:label="res_384" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855900] Industry Metrics - Transportation - Road Transportation (TR-RO)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855900" xlink:label="loc_384" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_384" xlink:to="res_384" xlink:type="arc"/>
-        <label:label xlink:label="res_385" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855900a] Industry Metrics - Transportation - Road Transportation (TR-RO) - Fuel consumed, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855900a" xlink:label="loc_385" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_385" xlink:to="res_385" xlink:type="arc"/>
-        <label:label xlink:label="res_386" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[855900b] Industry Metrics - Transportation - Road Transportation (TR-RO) - Employees, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2023-04-25.xsd#ifrs_s2ib_2023-04-25_role-855900b" xlink:label="loc_386" xlink:type="locator"/>
-        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_386" xlink:to="res_386" xlink:type="arc"/>
     </gen:link>
 </link:linkbase>

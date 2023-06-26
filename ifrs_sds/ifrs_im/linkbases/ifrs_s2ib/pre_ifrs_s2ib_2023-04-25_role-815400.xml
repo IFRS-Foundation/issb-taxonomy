@@ -36,7 +36,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_NetPremiumsWritten" xlink:label="loc_18" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_NetPremiumsWrittenLineItems" xlink:label="loc_17" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProductsAndFeaturesThatIncentivizeHealthSafetyEnvironmentallyResponsibleActionsAndBehaviorsExplanatory" xlink:label="loc_20" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProductsAndFeaturesThatIncentiviseHealthSafetyOrEnvironmentallyResponsibleActionsAndBehaviorsExplanatory" xlink:label="loc_20" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FNIN410b2Abstract" xlink:label="loc_19" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PhysicalRiskExposureDisclosureExplanatory" xlink:label="loc_22" xlink:type="locator"/>
@@ -98,7 +98,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransitionRiskExposureDisclosureExplanatory" xlink:label="loc_67" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransitionRiskExposureDisclosureAbstract" xlink:label="loc_66" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_67" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FNIN000aAbstract" xlink:label="loc_69" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_FNIN000AAbstract" xlink:label="loc_69" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_InsuranceIndustryActivityMetricsAbstract" xlink:label="loc_68" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:to="loc_69" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PoliciesInForceNumberAbstract" xlink:label="loc_70" xlink:type="locator"/>

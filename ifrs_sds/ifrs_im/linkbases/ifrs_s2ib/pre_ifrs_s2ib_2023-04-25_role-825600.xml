@@ -41,7 +41,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:label="loc_20" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_19" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_HCMS000aAbstract" xlink:label="loc_22" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_HCMS000AAbstract" xlink:label="loc_22" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_MedicalEquipmentAndSuppliesIndustryActivityMetricsAbstract" xlink:label="loc_21" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_21" xlink:to="loc_22" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ProductSalesUnitsAbstract" xlink:label="loc_23" xlink:type="locator"/>

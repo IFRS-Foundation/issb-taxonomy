@@ -70,7 +70,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussion" xlink:label="loc_57" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussionLineItems" xlink:label="loc_56" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_56" xlink:to="loc_57" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGAA000aAbstract" xlink:label="loc_59" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGAA000AAbstract" xlink:label="loc_59" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ApparelAccessoriesAndFootwearIndustryActivityMetricsAbstract" xlink:label="loc_58" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_58" xlink:to="loc_59" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_SuppliersNumberAbstract" xlink:label="loc_60" xlink:type="locator"/>

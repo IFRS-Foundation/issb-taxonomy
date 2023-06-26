@@ -184,13 +184,13 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810100c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810100c">
-                <link:definition>[810100c] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, probable [table]</link:definition>
+                <link:definition>[810100c] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, proven [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810100d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810100d">
-                <link:definition>[810100d] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, proven [table]</link:definition>
+                <link:definition>[810100d] Industry Metrics - Extractives &amp; Minerals Processing - Coal Operations (EM-CO) - Coal reserves, probable [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -310,7 +310,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810400e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810400e">
-                <link:definition>[810400e] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Employees, number [table]</link:definition>
+                <link:definition>[810400e] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM) - Employees, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -340,7 +340,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810500d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810500d">
-                <link:definition>[810500d] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gas reserves, probable [table]</link:definition>
+                <link:definition>[810500d] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Oil reserves, proved [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -358,7 +358,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810500g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810500g">
-                <link:definition>[810500g] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Oil reserves, proved [table]</link:definition>
+                <link:definition>[810500g] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gas reserves, probable [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1000,13 +1000,13 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-825300b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-825300b">
-                <link:definition>[825300b] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Beds, number [table]</link:definition>
+                <link:definition>[825300b] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Facilities, number [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-825300c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-825300c">
-                <link:definition>[825300c] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Facilities, number [table]</link:definition>
+                <link:definition>[825300c] Industry Metrics - Health Care - Health Care Delivery (HC-DY) - Beds, number [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1102,25 +1102,19 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830100e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830100e">
-                <link:definition>[830100e] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Incidents of non-compliance [table]</link:definition>
+                <link:definition>[830100e] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Customers, number [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830100f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830100f">
-                <link:definition>[830100f] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Customers, number [table]</link:definition>
+                <link:definition>[830100f] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity delivered [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830100g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830100g">
-                <link:definition>[830100g] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity delivered [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830100h" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830100h">
-                <link:definition>[830100h] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity generated, source percentage [table]</link:definition>
+                <link:definition>[830100g] Industry Metrics - Infrastructure - Electric Utilities &amp; Power Generators (IF-EU) - Electricity generated, source percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1155,24 +1149,6 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830200e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830200e">
-                <link:definition>[830200e] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Backlog, projects [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830200f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830200f">
-                <link:definition>[830200f] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Backlog cancellations, projects [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830200g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830200g">
-                <link:definition>[830200g] Industry Metrics - Infrastructure - Engineering &amp; Construction Services (IF-EN) - Backlog, projects [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300">
                 <link:definition>[830300] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU)</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
@@ -1180,67 +1156,43 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300a">
-                <link:definition>[830300a] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas rate, average retail price [table]</link:definition>
+                <link:definition>[830300a] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customer savings from efficiency measures, gas [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300b">
-                <link:definition>[830300b] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas rate, monthly average bill [table]</link:definition>
+                <link:definition>[830300b] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Efficiency measures required by regulations [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300c">
-                <link:definition>[830300c] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas disconnections for non payment, percentage reconnected within thirty days [table]</link:definition>
+                <link:definition>[830300c] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Distribution pipeline, material percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300d">
-                <link:definition>[830300d] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Gas disconnections for non payment [table]</link:definition>
+                <link:definition>[830300d] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, percentage inspected [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300e">
-                <link:definition>[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customer savings from efficiency measures, gas [table]</link:definition>
+                <link:definition>[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300f">
-                <link:definition>[830300f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Efficiency measures required by regulations [table]</link:definition>
+                <link:definition>[830300f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Natural gas delivered, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830300g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300g">
-                <link:definition>[830300g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Distribution pipeline, material percentage [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830300h" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300h">
-                <link:definition>[830300h] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, percentage inspected [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830300i" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300i">
-                <link:definition>[830300i] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830300j" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300j">
-                <link:definition>[830300j] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Natural gas delivered, percentage [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830300k" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830300k">
-                <link:definition>[830300k] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, length [table]</link:definition>
+                <link:definition>[830300g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, length [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1252,43 +1204,25 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830400a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400a">
-                <link:definition>[830400a] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes delivered [table]</link:definition>
+                <link:definition>[830400a] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Losses as result of legal proceedings [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830400b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400b">
-                <link:definition>[830400b] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Lots delivered [table]</link:definition>
+                <link:definition>[830400b] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Nature, context, and corrective actions taken as result of monetary losses from legal proceedings [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830400c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400c">
-                <link:definition>[830400c] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Losses as result of legal proceedings [table]</link:definition>
+                <link:definition>[830400c] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes, certified residential energy efficiency rating [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830400d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400d">
-                <link:definition>[830400d] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Nature, context, and corrective actions taken as result of monetary losses from legal proceedings [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830400e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400e">
-                <link:definition>[830400e] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes, certified residential energy efficiency rating [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830400f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400f">
-                <link:definition>[830400f] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Homes delivered [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-830400g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830400g">
-                <link:definition>[830400g] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Lots [table]</link:definition>
+                <link:definition>[830400d] Industry Metrics - Infrastructure - Home Builders (IF-HB) - Lots [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1342,19 +1276,19 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830500h" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830500h">
-                <link:definition>[830500h] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage in regions with high or extremely high baseline water stress [table]</link:definition>
+                <link:definition>[830500h] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage with data coverage in regions with high or extremely high baseline water stress [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830500i" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830500i">
-                <link:definition>[830500i] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage in regions with high or extremely high baseline water stress [table]</link:definition>
+                <link:definition>[830500i] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830500j" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830500j">
-                <link:definition>[830500j] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn [table]</link:definition>
+                <link:definition>[830500j] Industry Metrics - Infrastructure - Real Estate (IF-RE) - Water withdrawn, percentage in regions with high or extremely high baseline water stress [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1366,13 +1300,13 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830500l" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830500l">
-                <link:definition>[830500l] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, floor area that contain cost recovery clause for resource efficiency [table]</link:definition>
+                <link:definition>[830500l] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, percentage that contain cost recovery clause for resource efficiency-related capital improvements [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830500m" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830500m">
-                <link:definition>[830500m] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, percentage that contain cost recovery clause for resource efficiency-related capital improvements [table]</link:definition>
+                <link:definition>[830500m] Industry Metrics - Infrastructure - Real Estate (IF-RE) - New leases, floor area that contain cost recovery clause for resource efficiency [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1462,7 +1396,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830700c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830700c">
-                <link:definition>[830700c] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Fuel consumed [table]</link:definition>
+                <link:definition>[830700c] Industry Metrics - Infrastructure - Waste Management (IF-WM) - Fleet fuel consumed [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1504,13 +1438,13 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830800c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830800c">
-                <link:definition>[830800c] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Efficiency measures required by regulations [table]</link:definition>
+                <link:definition>[830800c] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water savings from efficiency measures [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-830800d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-830800d">
-                <link:definition>[830800d] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water savings from efficiency measures [table]</link:definition>
+                <link:definition>[830800d] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Efficiency measures required by regulations [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1595,24 +1529,6 @@
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-835200a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835200a">
                 <link:definition>[835200a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland, percentage certified to third-party forest management standard [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-835200b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835200b">
-                <link:definition>[835200b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-835200c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835200c">
-                <link:definition>[835200c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-835200d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835200d">
-                <link:definition>[835200d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Forestry Management (RR-FM) - Forestland [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1714,31 +1630,31 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-835600a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835600a">
-                <link:definition>[835600a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fifth most-consumed [table]</link:definition>
+                <link:definition>[835600a] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, most consumed [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-835600b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835600b">
-                <link:definition>[835600b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fourth most-consumed [table]</link:definition>
+                <link:definition>[835600b] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, second most-consumed [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-835600c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835600c">
-                <link:definition>[835600c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, most consumed [table]</link:definition>
+                <link:definition>[835600c] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, third most-consumed [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-835600d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835600d">
-                <link:definition>[835600d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, second most-consumed [table]</link:definition>
+                <link:definition>[835600d] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fourth most-consumed [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-835600e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-835600e">
-                <link:definition>[835600e] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, third most-consumed [table]</link:definition>
+                <link:definition>[835600e] Industry Metrics - Renewable Resources &amp; Alternative Energy - Wind Technology &amp; Project Developers (RR-WT) - Material consumed, fifth most-consumed [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1852,7 +1768,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840300d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840300d">
-                <link:definition>[840300d] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Incidents of non-compliance [table]</link:definition>
+                <link:definition>[840300d] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Waste, quantity generated [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1864,25 +1780,19 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840300f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840300f">
-                <link:definition>[840300f] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Waste, quantity generated [table]</link:definition>
+                <link:definition>[840300f] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Wood fibre, source percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840300g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840300g">
-                <link:definition>[840300g] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Wood fibre, source percentage [table]</link:definition>
+                <link:definition>[840300g] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, weight [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840300h" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840300h">
-                <link:definition>[840300h] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, weight [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-840300i" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840300i">
-                <link:definition>[840300i] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, percentage [table]</link:definition>
+                <link:definition>[840300h] Industry Metrics - Resource Transformation - Containers &amp; Packaging (RT-CP) - Production, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1900,25 +1810,19 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840400b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840400b">
-                <link:definition>[840400b] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Product revenue, percentage [table]</link:definition>
+                <link:definition>[840400b] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Products, eligible to standard, percentage certified [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840400c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840400c">
-                <link:definition>[840400c] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Products, eligible to standard, percentage certified [table]</link:definition>
+                <link:definition>[840400c] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Revenues [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-840400d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840400d">
-                <link:definition>[840400d] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Revenues [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-840400e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-840400e">
-                <link:definition>[840400e] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Production, units [table]</link:definition>
+                <link:definition>[840400d] Industry Metrics - Resource Transformation - Electrical &amp; Electronic Equipment (RT-EE) - Production, units [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -2038,25 +1942,19 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-850200a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-850200a">
-                <link:definition>[850200a] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Product revenue, percentage [table]</link:definition>
+                <link:definition>[850200a] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Products, eligible to standard, percentage certified [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-850200b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-850200b">
-                <link:definition>[850200b] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Products, eligible to standard, percentage certified [table]</link:definition>
+                <link:definition>[850200b] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Production, units [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-850200c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-850200c">
-                <link:definition>[850200c] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Production, units [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-850200d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-850200d">
-                <link:definition>[850200d] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Facilities, area [table]</link:definition>
+                <link:definition>[850200c] Industry Metrics - Technology &amp; Communications - Hardware (TC-HW) - Facilities, area [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -2092,13 +1990,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-850400c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-850400c">
-                <link:definition>[850400c] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Product revenue, percentage [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2023-04-25_role-850400d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-850400d">
-                <link:definition>[850400d] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Processor energy efficiency at system-level [table]</link:definition>
+                <link:definition>[850400c] Industry Metrics - Technology &amp; Communications - Semiconductors (TC-SC) - Processor energy efficiency at system-level [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -2272,13 +2164,13 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-855700a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-855700a">
-                <link:definition>[855700a] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Energy consumed, percentage [table]</link:definition>
+                <link:definition>[855700a] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Fuel consumed, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-855700b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-855700b">
-                <link:definition>[855700b] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Fuel consumed, percentage [table]</link:definition>
+                <link:definition>[855700b] Industry Metrics - Transportation - Marine Transportation (TR-MT) - Energy consumed, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

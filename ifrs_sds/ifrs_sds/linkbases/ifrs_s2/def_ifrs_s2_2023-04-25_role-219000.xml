@@ -145,16 +145,14 @@
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_7" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope2" xlink:label="loc_9" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_9" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope1And2" xlink:label="loc_10" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope3" xlink:label="loc_10" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_10" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope3" xlink:label="loc_11" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAum" xlink:label="loc_11" xlink:type="locator"/>
         <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_11" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAum" xlink:label="loc_12" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AssetsUnderManagementIncludedInFinancedEmissionsDisclosure" xlink:label="loc_12" xlink:type="locator"/>
         <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_12" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_AssetsUnderManagementIncludedInFinancedEmissionsDisclosure" xlink:label="loc_13" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PercentageOfTotalAssetsUnderManagementIncludedInFinancedEmissionsCalculation" xlink:label="loc_13" xlink:type="locator"/>
         <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_13" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_PercentageOfTotalAssetsUnderManagementIncludedInFinancedEmissionsCalculation" xlink:label="loc_14" xlink:type="locator"/>
-        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_14" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000d" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisaggregationOfFinancedGreenhouseGasEmissionsByAssetClassTable" xlink:label="loc_2" xlink:type="locator"/>
