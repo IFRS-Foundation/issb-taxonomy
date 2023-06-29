@@ -807,7 +807,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_117" xlink:to="res_31" xlink:type="arc"/>
         <link:reference xlink:label="res_80" xlink:role="http://www.xbrl.org/2003/role/definitionRef" xlink:type="resource">
             <ref:Name>GHG Protocol</ref:Name>
-            <ref:Number>S2</ref:Number>
             <ref:IssueDate>2023-01-01</ref:IssueDate>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category1PurchasedGoodsAndServicesMember" xlink:label="loc_118" xlink:type="locator"/>
