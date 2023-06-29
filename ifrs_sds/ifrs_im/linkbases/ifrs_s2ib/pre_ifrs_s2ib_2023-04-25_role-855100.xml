@@ -66,7 +66,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransportTypeDomain" xlink:label="loc_38" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_37" xlink:to="loc_38" xlink:type="arc"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:to="loc_20" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonDistance" xlink:label="loc_40" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonneDistance" xlink:label="loc_40" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonDistanceLineItems" xlink:label="loc_39" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_40" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_TransportationLoadFactorAbstract" xlink:label="loc_42" xlink:type="locator"/>

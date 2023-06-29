@@ -53,20 +53,21 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyManagementDisclosureExplanatory" xlink:label="loc_33" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyManagementDisclosureAbstract" xlink:label="loc_32" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_33" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentageAbstract" xlink:label="loc_35" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumed" xlink:label="loc_35" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EMCM130a1Abstract" xlink:label="loc_34" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_34" xlink:to="loc_35" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentageTable" xlink:label="loc_36" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_35" xlink:to="loc_36" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergySourceAxis" xlink:label="loc_37" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentageTable" xlink:label="loc_37" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentageAbstract" xlink:label="loc_36" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_36" xlink:to="loc_37" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergySourceDomain" xlink:label="loc_38" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergySourceAxis" xlink:label="loc_38" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_37" xlink:to="loc_38" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_AlternativeSourcesMember" xlink:label="loc_39" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergySourceDomain" xlink:label="loc_39" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:to="loc_39" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentage" xlink:label="loc_43" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentageLineItems" xlink:label="loc_42" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_42" xlink:to="loc_43" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_AlternativeSourcesMember" xlink:label="loc_40" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_40" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentage" xlink:label="loc_44" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumedPercentageLineItems" xlink:label="loc_43" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_44" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterManagementDisclosureExplanatory" xlink:label="loc_46" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterManagementDisclosureAbstract" xlink:label="loc_45" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:to="loc_46" xlink:type="arc"/>
@@ -112,11 +113,10 @@
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_24" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_30" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_34" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_GridElectricityMember" xlink:label="loc_40" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:to="loc_40" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_35" xlink:to="loc_42" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_EnergyConsumed" xlink:label="loc_44" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_34" xlink:to="loc_44" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_34" xlink:to="loc_36" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_GridElectricityMember" xlink:label="loc_41" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_41" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_36" xlink:to="loc_43" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:to="loc_47" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterConsumed" xlink:label="loc_49" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_47" xlink:to="loc_49" xlink:type="arc"/>
@@ -132,8 +132,8 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_NitrogenOxideNoExcludingNitrogenOxygenMember" xlink:label="loc_25" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_25" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_32" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RenewableEnergyMember" xlink:label="loc_41" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:to="loc_41" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RenewableEnergyMember" xlink:label="loc_42" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_42" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WaterWithdrawnPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStress" xlink:label="loc_50" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_47" xlink:to="loc_50" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_WastePercentageRecycled" xlink:label="loc_57" xlink:type="locator"/>

@@ -12,7 +12,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFinancedEmissionsForEachIndustryByAssetClassAbstract" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_FinancedEmissionsInsuranceAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFinancedEmissionsForEachIndustryByAssetClassTable" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisclosureOfFinancedEmissionsByIndustryAndAssetClassTable" xlink:label="loc_3" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GicsClassifiedIndustriesAxis" xlink:label="loc_4" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>

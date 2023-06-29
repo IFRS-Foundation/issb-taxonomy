@@ -250,31 +250,37 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810300b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810300b">
-                <link:definition>[810300b] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Fuel consumed, percentage [table]</link:definition>
+                <link:definition>[810300b] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Energy consumed, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810300c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810300c">
-                <link:definition>[810300c] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
+                <link:definition>[810300c] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Fuel consumed, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810300d" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810300d">
-                <link:definition>[810300d] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Raw steel production, method percentage [table]</link:definition>
+                <link:definition>[810300d] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810300e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810300e">
-                <link:definition>[810300e] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
+                <link:definition>[810300e] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Raw steel production, method percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810300f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810300f">
                 <link:definition>[810300f] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s2ib_2023-04-25_role-810300g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810300g">
+                <link:definition>[810300g] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -322,13 +328,13 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810500a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810500a">
-                <link:definition>[810500a] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</link:definition>
+                <link:definition>[810500a] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gross scope 1 greenhouse gas emissions, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-04-25_role-810500b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-810500b">
-                <link:definition>[810500b] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gross scope 1 greenhouse gas emissions, percentage [table]</link:definition>
+                <link:definition>[810500b] Industry Metrics - Extractives &amp; Minerals Processing - Oil &amp; Gas - Exploration &amp; Production (EM-EP) - Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

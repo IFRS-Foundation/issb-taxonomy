@@ -59,7 +59,7 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_29" xlink:to="loc_30" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_AirTransportMember" xlink:label="loc_31" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_30" xlink:to="loc_31" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonDistance" xlink:label="loc_33" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonneDistance" xlink:label="loc_33" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonDistanceLineItems" xlink:label="loc_32" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_33" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_AirlineDeparturesNumber" xlink:label="loc_35" xlink:type="locator"/>

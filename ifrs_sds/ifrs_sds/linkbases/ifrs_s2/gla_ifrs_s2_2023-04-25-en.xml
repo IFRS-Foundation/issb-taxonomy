@@ -59,7 +59,7 @@
         <label:label xlink:label="res_16" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[211300] Climate-related disclosures: Financed Emissions - Insurance</label:label>
         <link:loc xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211300" xlink:label="loc_16" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_16" xlink:to="res_16" xlink:type="arc"/>
-        <label:label xlink:label="res_17" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[211300a] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions for each industry by asset class [table]</label:label>
+        <label:label xlink:label="res_17" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[211300a] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions by industry and asset class [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2_2023-04-25.xsd#ifrs_s2_2023-04-25_role-211300a" xlink:label="loc_17" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_17" xlink:to="res_17" xlink:type="arc"/>
         <label:label xlink:label="res_18" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[211300b] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions by asset class [table]</label:label>

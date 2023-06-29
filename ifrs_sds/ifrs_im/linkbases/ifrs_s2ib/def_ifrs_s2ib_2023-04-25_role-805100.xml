@@ -82,7 +82,7 @@
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-04-25_role-805100c" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CGAA440a3Abstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
@@ -93,9 +93,9 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsExplanatory" xlink:label="loc_15" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsLineItems" xlink:label="loc_14" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_14" xlink:to="loc_15" xlink:type="arc"/>
-        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_14" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RubberMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_14" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_CashmereMember" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_DownMember" xlink:label="loc_8" xlink:type="locator"/>

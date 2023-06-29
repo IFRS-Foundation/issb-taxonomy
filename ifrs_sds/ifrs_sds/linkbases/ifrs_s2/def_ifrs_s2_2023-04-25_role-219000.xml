@@ -66,8 +66,9 @@
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_13" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisaggregationOfGreenhouseGasEmissionsByConstituentGreenhouseGasesAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ConstituentGreenhouseGasDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ConstituentGreenhouseGasAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_ConstituentGreenhouseGasDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_CarbonDioxideCo2Member" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
@@ -78,7 +79,6 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_32" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_DisaggregationOfGreenhouseGasEmissionsByConstituentGreenhouseGasesLineItems" xlink:label="loc_31" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_31" xlink:to="loc_32" xlink:type="arc"/>
-        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_MethaneCh4Member" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-04-25.xsd#ifrs-sds_Category2CapitalGoodsMember" xlink:label="loc_16" xlink:type="locator"/>

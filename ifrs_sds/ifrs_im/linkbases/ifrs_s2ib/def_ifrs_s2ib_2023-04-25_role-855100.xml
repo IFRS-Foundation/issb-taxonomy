@@ -72,7 +72,7 @@
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_AirTransportMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonDistance" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonneDistance" xlink:label="loc_8" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RevenueTonDistanceLineItems" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-04-25.xsd#ifrs-im_RoadTransportMember" xlink:label="loc_6" xlink:type="locator"/>
