@@ -6328,14 +6328,14 @@
         <link:label id="ifrs-im_IecWindTurbineClassIMember_label" xlink:label="res_3511" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class i [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIMember" xlink:label="loc_1852" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1852" xlink:to="res_3511" xlink:type="arc"/>
-        <link:label id="ifrs-im_IecWindTurbineClassIiMember_label" xlink:label="res_3512" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class II [member]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIiMember" xlink:label="loc_1853" xlink:type="locator"/>
+        <link:label id="ifrs-im_IecWindTurbineClassIIMember_label" xlink:label="res_3512" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class II [member]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIIMember" xlink:label="loc_1853" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1853" xlink:to="res_3512" xlink:type="arc"/>
-        <link:label id="ifrs-im_IecWindTurbineClassIiiMember_label" xlink:label="res_3513" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class III [member]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIiiMember" xlink:label="loc_1854" xlink:type="locator"/>
+        <link:label id="ifrs-im_IecWindTurbineClassIIIMember_label" xlink:label="res_3513" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class III [member]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIIIMember" xlink:label="loc_1854" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1854" xlink:to="res_3513" xlink:type="arc"/>
-        <link:label id="ifrs-im_IecWindTurbineClassIvMember_label" xlink:label="res_3514" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class IV [member]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIvMember" xlink:label="loc_1855" xlink:type="locator"/>
+        <link:label id="ifrs-im_IecWindTurbineClassIVMember_label" xlink:label="res_3514" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class IV [member]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassIVMember" xlink:label="loc_1855" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1855" xlink:to="res_3514" xlink:type="arc"/>
         <link:label id="ifrs-im_IecWindTurbineClassSMember_label" xlink:label="res_3515" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IEC wind turbine class s [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-04-25.xsd#ifrs-im_IecWindTurbineClassSMember" xlink:label="loc_1856" xlink:type="locator"/>
@@ -10424,11 +10424,11 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1876" xlink:to="res_3545" xlink:type="arc"/>
         <link:label id="ifrs-im_IecWindTurbineClassIMember_terseLabel_1" xlink:label="res_3548" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2a</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1852" xlink:to="res_3548" xlink:type="arc"/>
-        <link:label id="ifrs-im_IecWindTurbineClassIiMember_terseLabel_1" xlink:label="res_3549" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2b</link:label>
+        <link:label id="ifrs-im_IecWindTurbineClassIIMember_terseLabel_1" xlink:label="res_3549" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2b</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1853" xlink:to="res_3549" xlink:type="arc"/>
-        <link:label id="ifrs-im_IecWindTurbineClassIiiMember_terseLabel_1" xlink:label="res_3550" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2c</link:label>
+        <link:label id="ifrs-im_IecWindTurbineClassIIIMember_terseLabel_1" xlink:label="res_3550" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2c</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1854" xlink:to="res_3550" xlink:type="arc"/>
-        <link:label id="ifrs-im_IecWindTurbineClassIvMember_terseLabel_1" xlink:label="res_3551" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2d</link:label>
+        <link:label id="ifrs-im_IecWindTurbineClassIVMember_terseLabel_1" xlink:label="res_3551" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2d</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1855" xlink:to="res_3551" xlink:type="arc"/>
         <link:label id="ifrs-im_IecWindTurbineClassSMember_terseLabel_1" xlink:label="res_3552" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">RR-WT-440b.2e</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1856" xlink:to="res_3552" xlink:type="arc"/>
