@@ -76,73 +76,73 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211100" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211100">
-                <link:definition>[211100] Climate-related disclosures: Financed Emissions - Asset management</link:definition>
+                <link:definition>[211100] Climate-related disclosures - Financed emissions - Asset management</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211200" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211200">
-                <link:definition>[211200] Climate-related disclosures: Financed Emissions - Commercial banks</link:definition>
+                <link:definition>[211200] Climate-related disclosures - Financed emissions - Commercial banks</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211200a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211200a">
-                <link:definition>[211200a] Climate-related disclosures: Financed Emissions - Commercial banks - Disclosure of financed emissions by industry and asset class [table]</link:definition>
+                <link:definition>[211200a] Climate-related disclosures - Financed emissions - Commercial banks - Disclosure of financed emissions by industry and asset class [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211200b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211200b">
-                <link:definition>[211200b] Climate-related disclosures: Financed Emissions - Commercial banks - Disclosure of financed emissions by asset class [table]</link:definition>
+                <link:definition>[211200b] Climate-related disclosures - Financed emissions - Commercial banks - Disclosure of financed emissions by asset class [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211300" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211300">
-                <link:definition>[211300] Climate-related disclosures: Financed Emissions - Insurance</link:definition>
+                <link:definition>[211300] Climate-related disclosures - Financed emissions - Insurance</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211300a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211300a">
-                <link:definition>[211300a] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions by industry and asset class [table]</link:definition>
+                <link:definition>[211300a] Climate-related disclosures - Financed emissions - Insurance - Disclosure of financed emissions by industry and asset class [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-211300b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-211300b">
-                <link:definition>[211300b] Climate-related disclosures: Financed Emissions - Insurance - Disclosure of financed emissions by asset class [table]</link:definition>
+                <link:definition>[211300b] Climate-related disclosures - Financed emissions - Insurance - Disclosure of financed emissions by asset class [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-219000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000">
-                <link:definition>[219000] Climate-related disclosures: Illustrative Examples</link:definition>
+                <link:definition>[219000] Climate-related disclosures - Illustrative examples</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-219000a" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000a">
-                <link:definition>[219000a] Climate-related disclosures: Illustrative Examples - Disaggregation of scope 3 greenhouse gas emissions by categories [table]</link:definition>
+                <link:definition>[219000a] Climate-related disclosures - Illustrative examples - Disaggregation of scope 3 greenhouse gas emissions by categories [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-219000b" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000b">
-                <link:definition>[219000b] Climate-related disclosures: Illustrative Examples - Disaggregation of greenhouse gas emissions by constituent greenhouse gases [table]</link:definition>
+                <link:definition>[219000b] Climate-related disclosures - Illustrative examples - Disaggregation of greenhouse gas emissions by constituent greenhouse gases [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-219000c" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000c">
-                <link:definition>[219000c] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by investment strategy [table]</link:definition>
+                <link:definition>[219000c] Climate-related disclosures - Illustrative examples - Disaggregation of financed greenhouse gas emissions by investment strategy [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2023-04-25_role-219000d" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-04-25_role-219000d">
-                <link:definition>[219000d] Climate-related disclosures: Illustrative Examples - Disaggregation of financed greenhouse gas emissions by asset class [table]</link:definition>
+                <link:definition>[219000d] Climate-related disclosures - Illustrative examples - Disaggregation of financed greenhouse gas emissions by asset class [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
