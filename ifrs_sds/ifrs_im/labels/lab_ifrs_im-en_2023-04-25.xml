@@ -7973,7 +7973,7 @@
         <link:label id="ifrs-im_EMCO000BAbstract_terseLabel_1" xlink:label="res_453" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-000.B</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_277" xlink:to="res_453" xlink:type="arc"/>
         <link:label id="ifrs-im_ThermalCoalMember_terseLabel_2" xlink:label="res_454" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-000.Ba</link:label>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_275" xlink:to="res_454" xlink:type="arc"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_274" xlink:to="res_454" xlink:type="arc"/>
         <link:label id="ifrs-im_ProductionWeight_terseLabel_3" xlink:label="res_455" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-000.Ba</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_148" xlink:to="res_455" xlink:type="arc"/>
         <link:label id="ifrs-im_ConstructionMaterialsIndustryAbstract_terseLabel_1" xlink:label="res_457" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CM</link:label>
