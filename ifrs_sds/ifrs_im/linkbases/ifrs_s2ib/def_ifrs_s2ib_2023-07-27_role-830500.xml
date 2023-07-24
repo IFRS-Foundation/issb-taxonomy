@@ -1,0 +1,806 @@
+<!--
+        Taxonomy: 2023-07-27 (Proposed)
+        ********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd http://xbrl.org/2005/xbrldt http://www.xbrl.org/2005/xbrldt-2005.xsd">
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500a" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500a" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500b" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500b" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500c" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500c" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500d" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500d" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500e" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500e" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500f" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500f" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500g" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500g" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500h" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500h" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500i" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500i" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500j" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500j" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500k" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500k" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500l" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500l" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500m" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500m" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500n" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500n" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500o" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500o" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500p" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500p" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500q" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500q" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500r" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500r" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500s" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500s" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500t" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830500t" xlink:type="simple"/>
+    <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
+    <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
+    <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
+    <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500a" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionDataCoveragePercentageTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionDataCoveragePercentageAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionDataCoveragePercentage" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionDataCoveragePercentageLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500b" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedPercentageTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedPercentageAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergySourceAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergySourceDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GridElectricityMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedPercentage" xlink:label="loc_22" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedPercentageLineItems" xlink:label="loc_21" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_21" xlink:to="loc_22" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RenewableEnergyMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_10" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_21" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_16" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_18" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_19" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_19" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_20" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_20" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500c" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioAreaWithDataCoverageAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioAreaWithDataCoverageDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumed" xlink:label="loc_20" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedLineItems" xlink:label="loc_19" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_8" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_19" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_16" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_18" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_18" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500d" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionLikeForLikePercentageChangeTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionLikeForLikePercentageChangeAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioAreaWithDataCoverageAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioAreaWithDataCoverageDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionLikeForLikePercentageChange" xlink:label="loc_20" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumptionLikeForLikePercentageChangeLineItems" xlink:label="loc_19" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_8" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_19" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_16" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_18" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_18" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500e" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRatingTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRatingAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRating" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRatingLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500f" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProductsEligibleToStandardPercentageCertifiedTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProductsEligibleToStandardPercentageCertifiedAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstateEnergyRatingStandardDomain" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstateEnergyRatingStandardAxis" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_USEpaEnergyStarMember" xlink:label="loc_19" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_18" xlink:to="loc_19" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProductsEligibleToStandardPercentageCertified" xlink:label="loc_21" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProductsEligibleToStandardPercentageCertifiedLineItems" xlink:label="loc_20" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_20" xlink:to="loc_21" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_17" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_20" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500g" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawalPercentageWithDataCoverageTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawalPercentageWithDataCoverageAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawalPercentageWithDataCoverage" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawalPercentageWithDataCoverageLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500h" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageWithDataCoverageInRegionsWithHighOrExtremelyHighBaselineWaterStressTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageWithDataCoverageInRegionsWithHighOrExtremelyHighBaselineWaterStressAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageWithDataCoverageInRegionsWithHighOrExtremelyHighBaselineWaterStress" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageWithDataCoverageInRegionsWithHighOrExtremelyHighBaselineWaterStressLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500i" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioAreaWithDataCoverageAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PortfolioAreaWithDataCoverageDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawn" xlink:label="loc_20" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnLineItems" xlink:label="loc_19" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_8" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_19" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_16" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_18" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_18" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500j" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStressTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStressAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStress" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStressLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500k" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnLikeForLikePercentageChangeTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnLikeForLikePercentageChangeAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnLikeForLikePercentageChange" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterWithdrawnLikeForLikePercentageChangeLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500l" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesPercentageThatContainCostRecoveryClauseForResourceEfficiencyRelatedCapitalImprovementsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesPercentageThatContainCostRecoveryClauseForResourceEfficiencyRelatedCapitalImprovementsAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesPercentageThatContainCostRecoveryClauseForResourceEfficiencyRelatedCapitalImprovements" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesPercentageThatContainCostRecoveryClauseForResourceEfficiencyRelatedCapitalImprovementsLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500m" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesFloorAreaThatContainCostRecoveryClauseForResourceEfficiencyTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesFloorAreaThatContainCostRecoveryClauseForResourceEfficiencyAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesFloorAreaThatContainCostRecoveryClauseForResourceEfficiency" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NewLeasesFloorAreaThatContainCostRecoveryClauseForResourceEfficiencyLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500n" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumptionTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumptionAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumptionLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500o" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500p" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertiesAreaTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertiesAreaAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LandAreaAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LandAreaDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OneHundredYearFloodZoneMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_6" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertiesArea" xlink:label="loc_21" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertiesAreaLineItems" xlink:label="loc_20" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_20" xlink:to="loc_21" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_6" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_9" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_20" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_16" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_18" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_19" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_19" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500q" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssets" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500r" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsLeasableFloorAreaTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsLeasableFloorAreaAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsLeasableFloorArea" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsLeasableFloorAreaLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500s" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsPercentageManagedIndirectlyTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsPercentageManagedIndirectlyAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsPercentageManagedIndirectly" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsPercentageManagedIndirectlyLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830500t" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsAverageOccupancyRateTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsAverageOccupancyRateAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PropertySectorDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DataCentresMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsAverageOccupancyRate" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RealEstatePropertyAndBuildingAssetsAverageOccupancyRateLineItems" xlink:label="loc_17" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_DiversifiedMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HealthCareMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialMember" xlink:label="loc_8" xlink:type="locator"/>
+        <link:definitionArc order="40.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_8" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialOfficeMember" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="50.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LodgingResortsMember" xlink:label="loc_10" xlink:type="locator"/>
+        <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OfficeMember" xlink:label="loc_11" xlink:type="locator"/>
+        <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_11" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherPropertyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:definitionArc order="80.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_12" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialMember" xlink:label="loc_13" xlink:type="locator"/>
+        <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RetailMember" xlink:label="loc_14" xlink:type="locator"/>
+        <link:definitionArc order="100.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_14" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SelfStorageMember" xlink:label="loc_15" xlink:type="locator"/>
+        <link:definitionArc order="110.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_15" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SpecialtyMember" xlink:label="loc_16" xlink:type="locator"/>
+        <link:definitionArc order="120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_16" xlink:type="arc"/>
+    </link:definitionLink>
+</link:linkbase>
