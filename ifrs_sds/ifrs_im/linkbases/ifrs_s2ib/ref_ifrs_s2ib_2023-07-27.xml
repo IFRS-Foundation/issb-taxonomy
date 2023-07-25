@@ -212,14 +212,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_11" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyConsumedPercentage" xlink:label="loc_71" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_11" xlink:type="arc"/>
-        <link:reference xlink:label="res_12" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S2IB</ref:Number>
-            <ref:IssueDate>2023-06-26</ref:IssueDate>
-            <ref:Paragraph>IB</ref:Paragraph>
-        </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProductLifecycleEnvironmentalImpactsDisclosureAbstract" xlink:label="loc_72" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_72" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_13" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -565,8 +557,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_Scope1EmissionsLongTermAndShortTermStrategyTargetsAndPerformanceAnalysisExplanatory" xlink:label="loc_149" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_149" xlink:to="res_43" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterManagementDisclosureAbstract" xlink:label="loc_150" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_150" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_44" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -672,8 +662,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_172" xlink:to="res_52" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_173" xlink:to="res_52" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_98" xlink:to="res_52" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GreenhouseGasEmissionsDisclosureAbstract" xlink:label="loc_176" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_176" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_53" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -854,8 +842,6 @@
             <ref:Section>EM-IS-110a.2</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_149" xlink:to="res_70" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyManagementDisclosureAbstract" xlink:label="loc_202" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_202" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_71" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -1185,8 +1171,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_251" xlink:to="res_99" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_JurisdictionalStandardGuidelineOrRegulationUsedForCalculationOfHydraulicFracturingSitesPercentageWhereGroundOrSurfaceWaterQualityDeterioratedComparedToBaselineExplanatory" xlink:label="loc_252" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_252" xlink:to="res_99" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ReservesValuationAndCapitalExpendituresDisclosureAbstract" xlink:label="loc_253" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_253" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_100" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -2243,8 +2227,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_502" xlink:to="res_190" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SuppliersSocialAndEnvironmentalResponsibilityCorrectiveActionRate" xlink:label="loc_504" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_504" xlink:to="res_190" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IngredientSourcingDisclosureAbstract" xlink:label="loc_505" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_505" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_191" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -2627,8 +2609,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_63" xlink:to="res_231" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_97" xlink:to="res_231" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_98" xlink:to="res_231" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_FleetFuelManagementDisclosureAbstract" xlink:label="loc_554" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_554" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_232" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -2697,8 +2677,6 @@
             <ref:Section>FB-NB-140a.2</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_120" xlink:to="res_238" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnvironmentalAndSocialImpactsOfIngredientSupplyChainDisclosureAbstract" xlink:label="loc_555" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_555" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_239" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -3077,8 +3055,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_277" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_277" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_65" xlink:to="res_277" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WasteManagementDisclosureAbstract" xlink:label="loc_591" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_591" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_278" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -3773,8 +3749,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_743" xlink:to="res_342" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_744" xlink:to="res_342" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_682" xlink:to="res_342" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_LandUseAndEcologicalImpactsDisclosureAbstract" xlink:label="loc_754" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_754" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_343" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -4201,8 +4175,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ApproachToMeasuringIncentivizingAndImprovingSustainabilityImpactsOfTenantsExplanatory" xlink:label="loc_827" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_827" xlink:to="res_373" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ClimateChangeAdaptationDisclosureAbstract" xlink:label="loc_828" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_828" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_374" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -4598,8 +4570,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NonRevenueRealWaterLossesVolume" xlink:label="loc_877" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_877" xlink:to="res_405" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EndUseEfficiencyDisclosureAbstract" xlink:label="loc_878" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_878" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_406" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -4925,8 +4895,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CorporatePositionsRelatedToGovernmentRegulationsAndPolicyProposalsThatAddressEnvironmentalAndSocialFactorsAffectingIndustryExplanatory" xlink:label="loc_950" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_950" xlink:to="res_434" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryActivityMetricsAbstract" xlink:label="loc_951" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_951" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_435" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -5382,8 +5350,6 @@
             <ref:Section>RR-PP-140a.2</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_120" xlink:to="res_466" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SupplyChainManagementDisclosureAbstract" xlink:label="loc_1033" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1033" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_467" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -5463,8 +5429,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WoodFibreSourced" xlink:label="loc_1051" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1051" xlink:to="res_472" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyManagementInManufacturingDisclosureAbstract" xlink:label="loc_1052" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1052" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_473" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -5484,8 +5448,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_474" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_474" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_474" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterManagementInManufacturingDisclosureAbstract" xlink:label="loc_1053" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1053" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_475" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -6092,8 +6054,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_537" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_537" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_537" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_FuelEconomyAndEmissionsInUsePhaseDisclosureAbstract" xlink:label="loc_1130" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1130" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_538" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -6384,8 +6344,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_566" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_109" xlink:to="res_566" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_566" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProductLifecycleManagementDisclosureAbstract" xlink:label="loc_1164" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1164" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_567" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -6689,8 +6647,6 @@
             <ref:Section>TC-SC-000.B</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1178" xlink:to="res_598" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnvironmentalFootprintOfHardwareInfrastructureDisclosureAbstract" xlink:label="loc_1190" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1190" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_599" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -6803,8 +6759,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_610" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_610" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_610" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagingSystemicRisksFromTechnologyDisruptionsDisclosureAbstract" xlink:label="loc_1200" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1200" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_611" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
