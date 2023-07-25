@@ -16,19 +16,19 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-07-27_role-805100a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-805100a">
-                <link:definition>[805100a] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Environmental or social factor(s), priority raw materials [table]</link:definition>
+                <link:definition>[805100a] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, environmental or social factor(s)[table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-07-27_role-805100b" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-805100b">
-                <link:definition>[805100b] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Business risks and opportunities, priority raw materials [table]</link:definition>
+                <link:definition>[805100b] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, business risks and opportunities [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-07-27_role-805100c" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-805100c">
-                <link:definition>[805100c] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Management strategy, priority raw materials [table]</link:definition>
+                <link:definition>[805100c] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, management strategy [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

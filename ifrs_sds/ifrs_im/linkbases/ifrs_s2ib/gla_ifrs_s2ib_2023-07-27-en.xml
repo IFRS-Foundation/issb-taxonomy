@@ -14,13 +14,13 @@
         <label:label xlink:label="res_1" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA)</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-805100" xlink:label="loc_1" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
-        <label:label xlink:label="res_2" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100a] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Environmental or social factor(s), priority raw materials [table]</label:label>
+        <label:label xlink:label="res_2" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100a] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, environmental or social factor(s) [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-805100a" xlink:label="loc_2" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_2" xlink:to="res_2" xlink:type="arc"/>
-        <label:label xlink:label="res_3" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100b] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Business risks and opportunities, priority raw materials [table]</label:label>
+        <label:label xlink:label="res_3" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100b] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, business risks and opportunities [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-805100b" xlink:label="loc_3" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_3" xlink:to="res_3" xlink:type="arc"/>
-        <label:label xlink:label="res_4" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100c] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Management strategy, priority raw materials [table]</label:label>
+        <label:label xlink:label="res_4" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100c] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, management strategy [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-805100c" xlink:label="loc_4" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_4" xlink:to="res_4" xlink:type="arc"/>
         <label:label xlink:label="res_5" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[805100d] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials purchased [table]</label:label>

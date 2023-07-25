@@ -889,12 +889,6 @@
         <link:label id="ifrs-sds_FinancedEmissionsInsuranceAbstract_label" xlink:label="res_496" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Financed emissions, insurance [abstract]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_FinancedEmissionsInsuranceAbstract" xlink:label="loc_277" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_277" xlink:to="res_496" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DisclosureOfFinancedEmissionsForEachIndustryByAssetClassAbstract_label" xlink:label="res_497" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of financed emissions for each industry by asset class [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfFinancedEmissionsForEachIndustryByAssetClassAbstract" xlink:label="loc_278" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_278" xlink:to="res_497" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DisclosureOfFinancedEmissionsForEachIndustryByAssetClassLineItems_label" xlink:label="res_498" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of financed emissions for each industry by asset class [line items]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfFinancedEmissionsForEachIndustryByAssetClassLineItems" xlink:label="loc_279" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_279" xlink:to="res_498" xlink:type="arc"/>
         <link:label id="ifrs-sds_IllustrativeExamplesAbstract_label" xlink:label="res_509" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Illustrative examples [abstract]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_IllustrativeExamplesAbstract" xlink:label="loc_280" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_280" xlink:to="res_509" xlink:type="arc"/>

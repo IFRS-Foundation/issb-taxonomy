@@ -16,7 +16,7 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsListing" xlink:label="loc_1" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnvironmentalOrSocialFactorPriorityRawMaterialsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorTable" xlink:label="loc_2" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_1" xlink:type="arc"/>
@@ -42,13 +42,13 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_13" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorExplanatory" xlink:label="loc_14" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_14" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsTable" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesTable" xlink:label="loc_15" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_15" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsExplanatory" xlink:label="loc_16" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesExplanatory" xlink:label="loc_16" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_16" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsTable" xlink:label="loc_17" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyTable" xlink:label="loc_17" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_17" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsExplanatory" xlink:label="loc_18" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyExplanatory" xlink:label="loc_18" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_18" xlink:to="res_1" xlink:type="arc"/>
         <link:reference xlink:label="res_2" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>

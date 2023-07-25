@@ -19,7 +19,7 @@
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-805100a" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnvironmentalOrSocialFactorPriorityRawMaterialsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorTable" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
@@ -50,7 +50,7 @@
         <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-805100b" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesTable" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
@@ -59,8 +59,8 @@
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CottonMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsExplanatory" xlink:label="loc_15" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsLineItems" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesExplanatory" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesLineItems" xlink:label="loc_14" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_14" xlink:to="loc_15" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RubberMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
@@ -81,8 +81,8 @@
         <link:definitionArc order="90.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_13" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-805100c" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
@@ -90,8 +90,8 @@
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CottonMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsExplanatory" xlink:label="loc_15" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsLineItems" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyExplanatory" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyLineItems" xlink:label="loc_14" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_14" xlink:to="loc_15" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RubberMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>

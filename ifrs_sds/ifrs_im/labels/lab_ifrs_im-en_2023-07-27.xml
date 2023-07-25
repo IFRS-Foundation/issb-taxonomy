@@ -1079,8 +1079,8 @@
         <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorAbstract_label" xlink:label="res_8" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorAbstract" xlink:label="loc_6" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_6" xlink:to="res_8" xlink:type="arc"/>
-        <link:label id="ifrs-im_EnvironmentalOrSocialFactorPriorityRawMaterialsTable_label" xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Environmental or social factor(s), priority raw materials [table]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnvironmentalOrSocialFactorPriorityRawMaterialsTable" xlink:label="loc_7" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorTable_label" xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [table]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorTable" xlink:label="loc_7" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_7" xlink:to="res_9" xlink:type="arc"/>
         <link:label id="ifrs-im_PriorityRawMaterialsAxis_label" xlink:label="res_10" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials [axis]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_8" xlink:type="locator"/>
@@ -1124,26 +1124,26 @@
         <link:label id="ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesAbstract_label" xlink:label="res_24" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, business risks and opportunities [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesAbstract" xlink:label="loc_21" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_21" xlink:to="res_24" xlink:type="arc"/>
-        <link:label id="ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsTable_label" xlink:label="res_25" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business risks and opportunities, priority raw materials [table]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsTable" xlink:label="loc_22" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesTable_label" xlink:label="res_25" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, business risks and opportunities [table]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesTable" xlink:label="loc_22" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_22" xlink:to="res_25" xlink:type="arc"/>
-        <link:label id="ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsLineItems_label" xlink:label="res_26" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business risks and opportunities, priority raw materials [line items]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsLineItems" xlink:label="loc_23" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesLineItems_label" xlink:label="res_26" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, business risks and opportunities [line items]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesLineItems" xlink:label="loc_23" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_23" xlink:to="res_26" xlink:type="arc"/>
-        <link:label id="ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsExplanatory_label" xlink:label="res_27" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business risks and opportunities, priority raw materials [text block]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsExplanatory" xlink:label="loc_24" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesExplanatory_label" xlink:label="res_27" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, business risks and opportunities [text block]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesExplanatory" xlink:label="loc_24" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_24" xlink:to="res_27" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementStrategyPriorityRawMaterialsAbstract_label" xlink:label="res_29" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management strategy, priority raw materials [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsAbstract" xlink:label="loc_25" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsManagementStrategyAbstract_label" xlink:label="res_29" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, management strategy [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyAbstract" xlink:label="loc_25" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_25" xlink:to="res_29" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementStrategyPriorityRawMaterialsTable_label" xlink:label="res_30" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management strategy, priority raw materials [table]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsTable" xlink:label="loc_26" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsManagementStrategyTable_label" xlink:label="res_30" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, management strategy [table]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyTable" xlink:label="loc_26" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_26" xlink:to="res_30" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementStrategyPriorityRawMaterialsLineItems_label" xlink:label="res_31" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management strategy, priority raw materials [line items]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsLineItems" xlink:label="loc_27" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsManagementStrategyLineItems_label" xlink:label="res_31" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, management strategy [line items]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyLineItems" xlink:label="loc_27" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_27" xlink:to="res_31" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementStrategyPriorityRawMaterialsExplanatory_label" xlink:label="res_32" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management strategy, priority raw materials [text block]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ManagementStrategyPriorityRawMaterialsExplanatory" xlink:label="loc_28" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsManagementStrategyExplanatory_label" xlink:label="res_32" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, management strategy [text block]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PriorityRawMaterialsManagementStrategyExplanatory" xlink:label="loc_28" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_28" xlink:to="res_32" xlink:type="arc"/>
         <link:label id="ifrs-im_CGAA440a4Abstract_label" xlink:label="res_34" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">CG-AA-440a.4 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CGAA440a4Abstract" xlink:label="loc_29" xlink:type="locator"/>
@@ -7694,9 +7694,9 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_5" xlink:to="res_7" xlink:type="arc"/>
         <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorExplanatory_terseLabel_1" xlink:label="res_23" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">CG-AA-440a.3b</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_20" xlink:to="res_23" xlink:type="arc"/>
-        <link:label id="ifrs-im_BusinessRisksAndOpportunitiesPriorityRawMaterialsExplanatory_terseLabel_1" xlink:label="res_28" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">CG-AA-440a.3c</link:label>
+        <link:label id="ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesExplanatory_terseLabel_1" xlink:label="res_28" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">CG-AA-440a.3c</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_24" xlink:to="res_28" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementStrategyPriorityRawMaterialsExplanatory_terseLabel_1" xlink:label="res_33" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">CG-AA-440a.3d</link:label>
+        <link:label id="ifrs-im_PriorityRawMaterialsManagementStrategyExplanatory_terseLabel_1" xlink:label="res_33" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">CG-AA-440a.3d</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_28" xlink:to="res_33" xlink:type="arc"/>
         <link:label id="ifrs-im_CGAA440a4Abstract_terseLabel_1" xlink:label="res_35" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">CG-AA-440a.4</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_29" xlink:to="res_35" xlink:type="arc"/>
