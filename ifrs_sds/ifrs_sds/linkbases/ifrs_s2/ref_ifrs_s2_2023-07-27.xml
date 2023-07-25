@@ -11,7 +11,7 @@
         <link:reference xlink:label="res_1" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfGovernanceProcessesControlsAndProceduresUsedToMonitorAndManageClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_1" xlink:type="locator"/>
@@ -23,7 +23,7 @@
         <link:reference xlink:label="res_2" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -32,7 +32,7 @@
         <link:reference xlink:label="res_3" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -42,7 +42,7 @@
         <link:reference xlink:label="res_4" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -52,7 +52,7 @@
         <link:reference xlink:label="res_5" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iii</ref:Clause>
@@ -62,7 +62,7 @@
         <link:reference xlink:label="res_6" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv</ref:Clause>
@@ -74,7 +74,7 @@
         <link:reference xlink:label="res_7" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>v</ref:Clause>
@@ -88,7 +88,7 @@
         <link:reference xlink:label="res_8" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -97,7 +97,7 @@
         <link:reference xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -109,7 +109,7 @@
         <link:reference xlink:label="res_10" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>6</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -121,7 +121,7 @@
         <link:reference xlink:label="res_11" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>5</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory" xlink:label="loc_18" xlink:type="locator"/>
@@ -129,7 +129,7 @@
         <link:reference xlink:label="res_12" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>10</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfClimateRelatedRisksOrOpportunitiesTable" xlink:label="loc_19" xlink:type="locator"/>
@@ -139,7 +139,7 @@
         <link:reference xlink:label="res_13" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>10</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -148,7 +148,7 @@
         <link:reference xlink:label="res_14" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>10</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -157,7 +157,7 @@
         <link:reference xlink:label="res_15" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>10</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -168,7 +168,7 @@
         <link:reference xlink:label="res_16" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>10</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -193,7 +193,7 @@
         <link:reference xlink:label="res_17" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>13</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfClimateRelatedRisksAndOpportunitiesOnBusinessModelAndValueChainTable" xlink:label="loc_33" xlink:type="locator"/>
@@ -203,7 +203,7 @@
         <link:reference xlink:label="res_18" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>13</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -212,7 +212,7 @@
         <link:reference xlink:label="res_19" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>13</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -223,7 +223,7 @@
         <link:reference xlink:label="res_20" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>14</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -232,7 +232,7 @@
         <link:reference xlink:label="res_21" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>14</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv</ref:Clause>
@@ -242,7 +242,7 @@
         <link:reference xlink:label="res_22" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>14</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -251,7 +251,7 @@
         <link:reference xlink:label="res_23" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>14</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -260,7 +260,7 @@
         <link:reference xlink:label="res_24" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>14</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutEffectsOfRisksAndOpportunitiesOnStrategyAndDecisionMakingExplanatory" xlink:label="loc_41" xlink:type="locator"/>
@@ -268,7 +268,7 @@
         <link:reference xlink:label="res_25" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>16</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -277,7 +277,7 @@
         <link:reference xlink:label="res_26" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>16</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -291,7 +291,7 @@
         <link:reference xlink:label="res_27" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>21</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -302,7 +302,7 @@
         <link:reference xlink:label="res_28" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>16</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -311,7 +311,7 @@
         <link:reference xlink:label="res_29" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>16</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -329,7 +329,7 @@
         <link:reference xlink:label="res_30" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>21</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -338,7 +338,7 @@
         <link:reference xlink:label="res_31" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>15</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedFinancialEffectsOfRisksAndOpportunitiesExplanatory" xlink:label="loc_49" xlink:type="locator"/>
@@ -346,7 +346,7 @@
         <link:reference xlink:label="res_32" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -355,7 +355,7 @@
         <link:reference xlink:label="res_33" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -364,7 +364,7 @@
         <link:reference xlink:label="res_34" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>i.2</ref:Clause>
@@ -374,7 +374,7 @@
         <link:reference xlink:label="res_35" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>i.3</ref:Clause>
@@ -384,7 +384,7 @@
         <link:reference xlink:label="res_36" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>i.4</ref:Clause>
@@ -394,7 +394,7 @@
         <link:reference xlink:label="res_37" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>25</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -403,7 +403,7 @@
         <link:reference xlink:label="res_38" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>25</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -415,7 +415,7 @@
         <link:reference xlink:label="res_39" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>25</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>vi</ref:Clause>
@@ -427,7 +427,7 @@
         <link:reference xlink:label="res_40" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>25</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -440,7 +440,7 @@
         <link:reference xlink:label="res_41" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>25</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -449,7 +449,7 @@
         <link:reference xlink:label="res_42" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>24</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory" xlink:label="loc_64" xlink:type="locator"/>
@@ -457,7 +457,7 @@
         <link:reference xlink:label="res_43" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -466,7 +466,7 @@
         <link:reference xlink:label="res_44" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv</ref:Clause>
@@ -478,7 +478,7 @@
         <link:reference xlink:label="res_45" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv.1</ref:Clause>
@@ -488,7 +488,7 @@
         <link:reference xlink:label="res_46" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv.2</ref:Clause>
@@ -498,7 +498,7 @@
         <link:reference xlink:label="res_47" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i.1</ref:Clause>
@@ -508,7 +508,7 @@
         <link:reference xlink:label="res_48" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i.2</ref:Clause>
@@ -518,7 +518,7 @@
         <link:reference xlink:label="res_49" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>v</ref:Clause>
@@ -527,7 +527,7 @@
         <link:reference xlink:label="res_50" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>IE5</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope1And2GreenhouseGasEmissions" xlink:label="loc_72" xlink:type="locator"/>
@@ -535,7 +535,7 @@
         <link:reference xlink:label="res_51" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i.3</ref:Clause>
@@ -545,7 +545,7 @@
         <link:reference xlink:label="res_52" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>IE32</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope12And3GreenhouseGasEmissions" xlink:label="loc_74" xlink:type="locator"/>
@@ -553,7 +553,7 @@
         <link:reference xlink:label="res_53" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iii.1</ref:Clause>
@@ -563,7 +563,7 @@
         <link:reference xlink:label="res_54" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B27</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -574,7 +574,7 @@
         <link:reference xlink:label="res_55" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B31</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossMarketBasedScope2GreenhouseGasEmissions" xlink:label="loc_78" xlink:type="locator"/>
@@ -582,7 +582,7 @@
         <link:reference xlink:label="res_56" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>vi.1</ref:Clause>
@@ -594,7 +594,7 @@
         <link:reference xlink:label="res_57" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B19</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -603,7 +603,7 @@
         <link:reference xlink:label="res_58" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B57</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityIsManagingItsScope3GhgEmissionsIfItIsImpracticableToEstimateExplanatory" xlink:label="loc_82" xlink:type="locator"/>
@@ -611,7 +611,7 @@
         <link:reference xlink:label="res_59" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -620,7 +620,7 @@
         <link:reference xlink:label="res_60" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -629,7 +629,7 @@
         <link:reference xlink:label="res_61" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -638,7 +638,7 @@
         <link:reference xlink:label="res_62" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
         </link:reference>
@@ -647,7 +647,7 @@
         <link:reference xlink:label="res_63" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>f</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -659,7 +659,7 @@
         <link:reference xlink:label="res_64" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>f</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -669,7 +669,7 @@
         <link:reference xlink:label="res_65" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>g</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -679,7 +679,7 @@
         <link:reference xlink:label="res_66" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>g</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -689,7 +689,7 @@
         <link:reference xlink:label="res_67" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfClimateRelatedTargetsTable" xlink:label="loc_92" xlink:type="locator"/>
@@ -701,7 +701,7 @@
         <link:reference xlink:label="res_68" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -712,7 +712,7 @@
         <link:reference xlink:label="res_69" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -721,7 +721,7 @@
         <link:reference xlink:label="res_70" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -730,7 +730,7 @@
         <link:reference xlink:label="res_71" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -739,7 +739,7 @@
         <link:reference xlink:label="res_72" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
         </link:reference>
@@ -748,7 +748,7 @@
         <link:reference xlink:label="res_73" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>f</ref:Subparagraph>
         </link:reference>
@@ -757,7 +757,7 @@
         <link:reference xlink:label="res_74" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>g</ref:Subparagraph>
         </link:reference>
@@ -766,7 +766,7 @@
         <link:reference xlink:label="res_75" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>33</ref:Paragraph>
             <ref:Subparagraph>h</ref:Subparagraph>
         </link:reference>
@@ -775,7 +775,7 @@
         <link:reference xlink:label="res_76" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>34</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfEntitysApproachToSettingAndReviewingTargetAndMonitoringProgressExplanatory" xlink:label="loc_104" xlink:type="locator"/>
@@ -783,7 +783,7 @@
         <link:reference xlink:label="res_77" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>34</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -792,7 +792,7 @@
         <link:reference xlink:label="res_78" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>35</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfPerformanceAgainstTargetAndAnalysisOfTrendsOrChangesInEntitysPerformanceExplanatory" xlink:label="loc_106" xlink:type="locator"/>
@@ -800,7 +800,7 @@
         <link:reference xlink:label="res_79" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>34</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -809,7 +809,7 @@
         <link:reference xlink:label="res_80" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -818,7 +818,7 @@
         <link:reference xlink:label="res_81" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -830,7 +830,7 @@
         <link:reference xlink:label="res_82" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -839,7 +839,7 @@
         <link:reference xlink:label="res_83" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -848,7 +848,7 @@
         <link:reference xlink:label="res_84" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
         </link:reference>
@@ -863,7 +863,7 @@
         <link:reference xlink:label="res_85" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -873,7 +873,7 @@
         <link:reference xlink:label="res_86" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
             <ref:Clause>iii</ref:Clause>
@@ -887,7 +887,7 @@
         <link:reference xlink:label="res_87" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>C1</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfEarlyApplicationOfNewOrAmendedIfrsSustainabilityStandardTable" xlink:label="loc_120" xlink:type="locator"/>
@@ -903,7 +903,7 @@
         <link:reference xlink:label="res_88" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B61</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -916,7 +916,7 @@
         <link:reference xlink:label="res_89" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B61</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -929,7 +929,7 @@
         <link:reference xlink:label="res_90" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B61</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -940,7 +940,7 @@
         <link:reference xlink:label="res_91" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B61</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -949,7 +949,7 @@
         <link:reference xlink:label="res_92" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -958,7 +958,7 @@
         <link:reference xlink:label="res_93" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -968,7 +968,7 @@
         <link:reference xlink:label="res_94" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -996,7 +996,7 @@
         <link:reference xlink:label="res_95" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -1005,7 +1005,7 @@
         <link:reference xlink:label="res_96" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -1019,7 +1019,7 @@
         <link:reference xlink:label="res_97" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -1028,7 +1028,7 @@
         <link:reference xlink:label="res_98" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -1038,7 +1038,7 @@
         <link:reference xlink:label="res_99" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
             <ref:Clause>iii</ref:Clause>
@@ -1048,7 +1048,7 @@
         <link:reference xlink:label="res_100" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B62</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -1056,7 +1056,7 @@
         <link:reference xlink:label="res_101" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -1064,7 +1064,7 @@
         <link:reference xlink:label="res_102" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -1073,7 +1073,7 @@
         <link:reference xlink:label="res_103" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -1090,7 +1090,7 @@
         <link:reference xlink:label="res_104" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
@@ -1098,7 +1098,7 @@
         <link:reference xlink:label="res_105" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -1111,7 +1111,7 @@
         <link:reference xlink:label="res_106" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
         </link:reference>
@@ -1119,7 +1119,7 @@
         <link:reference xlink:label="res_107" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -1128,7 +1128,7 @@
         <link:reference xlink:label="res_108" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
@@ -1137,7 +1137,7 @@
         <link:reference xlink:label="res_109" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B63</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
@@ -1145,7 +1145,7 @@
         <link:reference xlink:label="res_110" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>IE12</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisaggregationOfScope3GreenhouseGasEmissionsByCategoriesTable" xlink:label="loc_154" xlink:type="locator"/>
@@ -1162,7 +1162,7 @@
         <link:reference xlink:label="res_111" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>IE18</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisaggregationOfGreenhouseGasEmissionsByConstituentGreenhouseGasesTable" xlink:label="loc_159" xlink:type="locator"/>
@@ -1174,7 +1174,7 @@
         <link:reference xlink:label="res_112" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>IE24</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_CarbonDioxideCo2Member" xlink:label="loc_162" xlink:type="locator"/>
@@ -1209,7 +1209,7 @@
         <link:reference xlink:label="res_113" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>IE38</ref:Paragraph>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisaggregationOfFinancedGreenhouseGasEmissionsByAssetClassTable" xlink:label="loc_172" xlink:type="locator"/>
@@ -1243,7 +1243,7 @@
         <link:reference xlink:label="res_114" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>B66</ref:Paragraph>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_180" xlink:to="res_114" xlink:type="arc"/>
@@ -1253,7 +1253,7 @@
         <link:reference xlink:label="res_115" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>Appendix A</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_161" xlink:to="res_115" xlink:type="arc"/>
@@ -1285,7 +1285,7 @@
         <link:reference xlink:label="res_116" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>9</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
@@ -1306,7 +1306,7 @@
         <link:reference xlink:label="res_117" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>3</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
@@ -1318,7 +1318,7 @@
         <link:reference xlink:label="res_118" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>3</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
