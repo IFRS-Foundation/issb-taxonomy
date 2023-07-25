@@ -95,9 +95,6 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IncorporationOfEnvironmentalRisksIntoUnderwritingProcessForIndividualContractsAndManagementOfFirmLevelRisksAndCapitalAdequacyExplanatory" xlink:label="loc_64" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_FNIN450a3Abstract" xlink:label="loc_63" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_63" xlink:to="loc_64" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransitionRiskExposureDisclosureExplanatory" xlink:label="loc_67" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransitionRiskExposureDisclosureAbstract" xlink:label="loc_66" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_67" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_FNIN000AAbstract" xlink:label="loc_69" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_InsuranceIndustryActivityMetricsAbstract" xlink:label="loc_68" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_68" xlink:to="loc_69" xlink:type="arc"/>
@@ -165,7 +162,6 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_HurricanesAndTyphoonsMember" xlink:label="loc_36" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_36" xlink:type="arc"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_21" xlink:to="loc_63" xlink:type="arc"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_66" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TornadoesMember" xlink:label="loc_37" xlink:type="locator"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_37" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TsunamisMember" xlink:label="loc_38" xlink:type="locator"/>

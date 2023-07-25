@@ -2629,12 +2629,6 @@
         <link:label id="ifrs-im_ProxyVotingAndInvesteeEngagementPoliciesAndProceduresExplanatory_label" xlink:label="res_1024" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Proxy voting and investee engagement policies and procedures [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProxyVotingAndInvesteeEngagementPoliciesAndProceduresExplanatory" xlink:label="loc_553" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_553" xlink:to="res_1024" xlink:type="arc"/>
-        <link:label id="ifrs-im_TransitionRiskExposureDisclosureAbstract_label" xlink:label="res_1026" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transition risk exposure disclosure [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransitionRiskExposureDisclosureAbstract" xlink:label="loc_554" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_554" xlink:to="res_1026" xlink:type="arc"/>
-        <link:label id="ifrs-im_TransitionRiskExposureDisclosureExplanatory_label" xlink:label="res_1027" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Transition risk exposure disclosure [text block]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransitionRiskExposureDisclosureExplanatory" xlink:label="loc_555" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_555" xlink:to="res_1027" xlink:type="arc"/>
         <link:label id="ifrs-im_AssetManagementAndCustodyActivitiesIndustryActivityMetricsAbstract_label" xlink:label="res_1028" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Asset management and custody activities industry, activity metrics [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2023-07-27.xsd#ifrs-im_AssetManagementAndCustodyActivitiesIndustryActivityMetricsAbstract" xlink:label="loc_556" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_556" xlink:to="res_1028" xlink:type="arc"/>

@@ -2162,8 +2162,6 @@
     <xsd:element abstract="true" id="ifrs-im_TransactionsValueLineItems" name="TransactionsValueLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-im_TransactionsValueTable" name="TransactionsValueTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-im_TransferStationsMember" name="TransferStationsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="true" id="ifrs-im_TransitionRiskExposureDisclosureAbstract" name="TransitionRiskExposureDisclosureAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="false" id="ifrs-im_TransitionRiskExposureDisclosureExplanatory" name="TransitionRiskExposureDisclosureExplanatory" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-im_TransportTypeAxis" name="TransportTypeAxis" nillable="true" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-im_TransportTypeDomain" name="TransportTypeDomain" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-im_TransportationLoadFactor" name="TransportationLoadFactor" nillable="true" substitutionGroup="xbrli:item" type="xbrli:pureItemType" xbrli:periodType="duration"/>

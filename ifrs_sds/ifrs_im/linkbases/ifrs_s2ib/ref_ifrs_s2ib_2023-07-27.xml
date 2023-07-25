@@ -1719,8 +1719,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ProxyVotingAndInvesteeEngagementPoliciesAndProceduresExplanatory" xlink:label="loc_338" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_338" xlink:to="res_137" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransitionRiskExposureDisclosureExplanatory" xlink:label="loc_339" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_339" xlink:to="res_137" xlink:type="arc"/>
         <link:reference xlink:label="res_138" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2IB</ref:Number>
@@ -1753,9 +1751,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IncorporationOfEsgFactorsInCreditAnalysisExplanatory" xlink:label="loc_343" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_343" xlink:to="res_141" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransitionRiskExposureDisclosureAbstract" xlink:label="loc_344" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_344" xlink:to="res_141" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_339" xlink:to="res_141" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BankAccountsNumberTable" xlink:label="loc_345" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_345" xlink:to="res_3" xlink:type="arc"/>
         <link:reference xlink:label="res_142" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -1946,8 +1941,6 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_404" xlink:to="res_152" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnvironmentalRisksIntegrationIntoManagementOfFirmLevelRisksAndCapitalAdequacyExplanatory" xlink:label="loc_405" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_405" xlink:to="res_152" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_344" xlink:to="res_152" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_339" xlink:to="res_152" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PoliciesInForceNumberTable" xlink:label="loc_406" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_406" xlink:to="res_3" xlink:type="arc"/>
         <link:reference xlink:label="res_153" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -2021,8 +2014,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IncorporationOfEsgFactorsInInvestmentBankingAndBrokerageActivitiesExplanatory" xlink:label="loc_426" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_426" xlink:to="res_157" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_344" xlink:to="res_157" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_339" xlink:to="res_157" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_TransactionsNumberTable" xlink:label="loc_427" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_427" xlink:to="res_3" xlink:type="arc"/>
         <link:reference xlink:label="res_158" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
