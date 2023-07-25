@@ -8038,5 +8038,15 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1221" xlink:to="res_693" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1222" xlink:to="res_693" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_226" xlink:to="res_693" xlink:type="arc"/>
+        <link:reference xlink:label="res_694" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2IB</ref:Number>
+            <ref:IssueDate>2023-01-01</ref:IssueDate>
+            <ref:Section>IF-EN-410b.1</ref:Section>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BacklogHydrocarbonRelatedProjects" xlink:label="loc_1269" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1269" xlink:to="res_694" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_BacklogRenewableEnergyProjects" xlink:label="loc_1270" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1270" xlink:to="res_694" xlink:type="arc"/>
     </link:referenceLink>
 </link:linkbase>
