@@ -7944,7 +7944,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_257" xlink:to="res_415" xlink:type="arc"/>
         <link:label id="ifrs-im_SustainableDevelopmentScenarioMember_terseLabel_1" xlink:label="res_417" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-420a.1c</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_258" xlink:to="res_417" xlink:type="arc"/>
-        <link:label id="ifrs-im_CoalReservesProven_terseLabel_1" xlink:label="res_421" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-420a.1a, EM-CO-420a.1b,  EM-CO-420a.1c,</link:label>
+        <link:label id="ifrs-im_CoalReservesProven_terseLabel_1" xlink:label="res_421" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-420a.1a, EM-CO-420a.1b, EM-CO-420a.1c</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_260" xlink:to="res_421" xlink:type="arc"/>
         <link:label id="ifrs-im_CurrentPoliciesScenarioMember_terseLabel_2" xlink:label="res_424" xlink:role="http://www.xbrl.org/2003/role/terseLabel" xlink:type="resource" xml:lang="en">EM-CO-420a.1d</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_256" xlink:to="res_424" xlink:type="arc"/>
