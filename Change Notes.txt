@@ -1,3 +1,11 @@
+__Final Taxonomy__
+
+Corrections:
+* Typo in the documentation of all dimensions. Should have been “[...] An axis of a table defines the nature of the relationship _between_ the" (Corporatings)
+* Typo in the documentation of “Disclosure of assessment of resilience of strategy and business model in relation to risks [text block]” : 'quantiative'
+
+Changes:
+
 __Proposed Taxonomy__
 Corrections to staff draft:
 
