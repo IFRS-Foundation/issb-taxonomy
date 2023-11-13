@@ -46,6 +46,8 @@ Changes (Alignment with published standards and improvements):
 * Changed phrase "carbon offset" to "carbon credit"
 * Removed financed emissions sections from Industry metrics
 * Separated IFRS S2 industry metric content (now in ifrs_im) from body of Standards (in ifrs_sds)
+* Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
+* Changed terse labels, many per element, to definition guidance labels (least inappropriate standard label type), comma separated list.
 
 
 
