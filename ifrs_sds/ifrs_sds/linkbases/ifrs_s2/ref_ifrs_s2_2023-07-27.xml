@@ -1352,5 +1352,695 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_214" xlink:to="res_115" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_Category15InvestmentsMember" xlink:label="loc_215" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_215" xlink:to="res_115" xlink:type="arc"/>
+        <link:reference xlink:label="res_217" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfIdentityOfGovernanceBodyOrIndividualResponsibleForOversightOfRisksAndOpportunitiesExplanatory" xlink:label="loc_216" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_216" xlink:to="res_217" xlink:type="arc"/>
+        <link:reference xlink:label="res_219" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.i.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowResponsibilitiesForRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodyOrIndividualExplanatory" xlink:label="loc_217" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_217" xlink:to="res_219" xlink:type="arc"/>
+        <link:reference xlink:label="res_221" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualDeterminesThatAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesDesignedToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_218" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_218" xlink:to="res_221" xlink:type="arc"/>
+        <link:reference xlink:label="res_223" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.iii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowAndHowOftenResponsibleBodyOrIndividualIsInformedAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_219" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_219" xlink:to="res_223" xlink:type="arc"/>
+        <link:reference xlink:label="res_225" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.iv.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowResponsibleBodyOrIndividualTakesIntoAccountRisksAndOpportunitiesExplanatory" xlink:label="loc_220" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_220" xlink:to="res_225" xlink:type="arc"/>
+        <link:reference xlink:label="res_229" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.v.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowBodyOrIndividualOverseesSettingOfTargetsRelatedToRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_222" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_222" xlink:to="res_229" xlink:type="arc"/>
+        <link:reference xlink:label="res_231" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.v.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherAndHowPerformanceMetricsAreIncludedInRemunerationPoliciesExplanatory" xlink:label="loc_223" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_223" xlink:to="res_231" xlink:type="arc"/>
+        <link:reference xlink:label="res_235" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory" xlink:label="loc_225" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_225" xlink:to="res_235" xlink:type="arc"/>
+        <link:reference xlink:label="res_237" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.b.i.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesIsDelegatedToSpecificManagementLevelPositionOrManagementLevelCommitteeAndHowOversightIsExercisedOverThatPositionOrCommitteeExplanatory" xlink:label="loc_226" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_226" xlink:to="res_237" xlink:type="arc"/>
+        <link:reference xlink:label="res_241" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.b.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherManagementUsesControlsAndProceduresToSupportOversightOfRisksAndOpportunitiesAndHowThoseAreIntegratedWithOtherInternalFunctionsExplanatory" xlink:label="loc_228" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_228" xlink:to="res_241" xlink:type="arc"/>
+        <link:reference xlink:label="res_245" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.5.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory" xlink:label="loc_230" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_230" xlink:to="res_245" xlink:type="arc"/>
+        <link:reference xlink:label="res_252" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskOrOpportunityExplanatory" xlink:label="loc_236" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_236" xlink:to="res_252" xlink:type="arc"/>
+        <link:reference xlink:label="res_254" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfTimeHorizonOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_237" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_237" xlink:to="res_254" xlink:type="arc"/>
+        <link:reference xlink:label="res_266" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityDefinesTimeHorizonExplanatory" xlink:label="loc_247" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_247" xlink:to="res_266" xlink:type="arc"/>
+        <link:reference xlink:label="res_268" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.d.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowDefinitionOfTimeHorizonIsLinkedToPlanningHorizonsUsedByEntityForStrategicDecisionMakingExplanatory" xlink:label="loc_248" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_248" xlink:to="res_268" xlink:type="arc"/>
+        <link:reference xlink:label="res_270" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectEntitysProspectsExplanatory" xlink:label="loc_249" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_249" xlink:to="res_270" xlink:type="arc"/>
+        <link:reference xlink:label="res_276" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.13.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnEntitysBusinessModelAndItsValueChainExplanatory" xlink:label="loc_254" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_254" xlink:to="res_276" xlink:type="arc"/>
+        <link:reference xlink:label="res_278" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.13.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfConcentrationOfRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory" xlink:label="loc_255" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_255" xlink:to="res_278" xlink:type="arc"/>
+        <link:reference xlink:label="res_280" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.13.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnBusinessModelAndValueChainExplanatory" xlink:label="loc_256" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_256" xlink:to="res_280" xlink:type="arc"/>
+        <link:reference xlink:label="res_283" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityHasRespondedToAndPlansToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_258" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_258" xlink:to="res_283" xlink:type="arc"/>
+        <link:reference xlink:label="res_285" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfProgressAgainstPlansEntityHasDisclosedInPreviousReportingPeriodsExplanatory" xlink:label="loc_259" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_259" xlink:to="res_285" xlink:type="arc"/>
+        <link:reference xlink:label="res_289" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutEffectsOfRisksAndOpportunitiesOnStrategyAndDecisionMakingExplanatory" xlink:label="loc_261" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_261" xlink:to="res_289" xlink:type="arc"/>
+        <link:reference xlink:label="res_295" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.16.a.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowRisksAndOpportunitiesHaveAffectedEntitysFinancialPositionFinancialPerformanceAndCashFlowsForReportingPeriodExplanatory" xlink:label="loc_266" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_266" xlink:to="res_295" xlink:type="arc"/>
+        <link:reference xlink:label="res_297" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.16.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRisksAndOpportunitiesForWhichThereIsSignificantRiskOfMaterialAdjustmentWithinNextAnnualReportingPeriodToCarryingAmountsOfAssetsAndLiabilitiesReportedInRelatedFinancialStatementsExplanatory" xlink:label="loc_267" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_267" xlink:to="res_297" xlink:type="arc"/>
+        <link:reference xlink:label="res_302" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.16.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityExpectsItsFinancialPositionToChangeOverShortMediumAndLongTermGivenItsStrategyToManageRisksAndOpportunitiesExplanatory" xlink:label="loc_271" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_271" xlink:to="res_302" xlink:type="arc"/>
+        <link:reference xlink:label="res_304" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.16.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityExpectsItsFinancialPerformanceAndCashFlowsToChangeOverShortMediumAndLongTermGivenItsStrategyToManageRisksAndOpportunitiesExplanatory" xlink:label="loc_272" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_272" xlink:to="res_304" xlink:type="arc"/>
+        <link:reference xlink:label="res_306" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.21.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExplanationOfWhyEntityHasNotProvidedQuantitativeInformationAboutCurrentOrAnticipatedFinancialEffectsOfParticularRiskOrOpportunityExplanatory" xlink:label="loc_273" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_273" xlink:to="res_306" xlink:type="arc"/>
+        <link:reference xlink:label="res_308" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.15.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutCurrentAndAnticipatedFinancialEffectsOfRisksAndOpportunitiesExplanatory" xlink:label="loc_274" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_274" xlink:to="res_308" xlink:type="arc"/>
+        <link:reference xlink:label="res_314" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfProcessesAndRelatedPoliciesEntityUsesToIdentifyAssessPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_278" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_278" xlink:to="res_314" xlink:type="arc"/>
+        <link:reference xlink:label="res_316" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.a.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityUsesScenarioAnalysisToInformItsIdentificationOfRisksExplanatory" xlink:label="loc_279" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_279" xlink:to="res_316" xlink:type="arc"/>
+        <link:reference xlink:label="res_320" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.a.vi.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorRisksForRiskManagementPurposesComparedWithPriorReportingPeriodExplanatory" xlink:label="loc_281" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_281" xlink:to="res_320" xlink:type="arc"/>
+        <link:reference xlink:label="res_322" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.a.vi.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityChangedProcessesItUsesToIdentifyAssessPrioritiseAndMonitorRisksComparedWithPreviousReportingPeriod" xlink:label="loc_282" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_282" xlink:to="res_322" xlink:type="arc"/>
+        <link:reference xlink:label="res_324" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfProcessesEntityUsesToIdentifyAssessPrioritiseAndMonitorOpportunitiesExplanatory" xlink:label="loc_283" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_283" xlink:to="res_324" xlink:type="arc"/>
+        <link:reference xlink:label="res_326" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.c.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfExtentToWhichAndHowProcessesForIdentifyingAssessingPrioritisingAndMonitoringRisksAndOpportunitiesAreIntegratedIntoOrInformEntitysOverallRiskManagementProcessExplanatory" xlink:label="loc_284" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_284" xlink:to="res_326" xlink:type="arc"/>
+        <link:reference xlink:label="res_328" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.24.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherDisclosuresAboutRiskManagementExplanatory" xlink:label="loc_285" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_285" xlink:to="res_328" xlink:type="arc"/>
+        <link:reference xlink:label="res_355" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricUsedToSetTargetAndToMonitorProgressExplanatory" xlink:label="loc_304" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_304" xlink:to="res_355" xlink:type="arc"/>
+        <link:reference xlink:label="res_357" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SpecificQuantitativeOrQualitativeTargetEntityHasSetOrIsRequiredToMeet" xlink:label="loc_305" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_305" xlink:to="res_357" xlink:type="arc"/>
+        <link:reference xlink:label="res_359" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PeriodOverWhichTargetApplies" xlink:label="loc_306" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_306" xlink:to="res_359" xlink:type="arc"/>
+        <link:reference xlink:label="res_361" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.e.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_BasePeriodFromWhichProgressForTargetIsMeasured" xlink:label="loc_307" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_307" xlink:to="res_361" xlink:type="arc"/>
+        <link:reference xlink:label="res_363" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.f.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMilestonesAndInterimTargetsForMetricExplanatory" xlink:label="loc_308" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_308" xlink:to="res_363" xlink:type="arc"/>
+        <link:reference xlink:label="res_365" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.35.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfPerformanceAgainstTargetAndAnalysisOfTrendsOrChangesInEntitysPerformanceExplanatory" xlink:label="loc_309" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_309" xlink:to="res_365" xlink:type="arc"/>
+        <link:reference xlink:label="res_367" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.34.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRevisionsToTargetExplanatory" xlink:label="loc_310" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_310" xlink:to="res_367" xlink:type="arc"/>
+        <link:reference xlink:label="res_428" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.C1.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_NewOrAmendedIfrsSustainabilityDisclosureStandardIsAppliedEarly" xlink:label="loc_348" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_348" xlink:to="res_428" xlink:type="arc"/>
+        <link:reference xlink:label="res_454" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.iv.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithClimateRelatedRisksAndOpportunities" xlink:label="loc_366" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_366" xlink:to="res_454" xlink:type="arc"/>
+        <link:reference xlink:label="res_458" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.a.v.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedPerformanceMetricsAreIncludedInRemunerationPolicies" xlink:label="loc_367" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_367" xlink:to="res_458" xlink:type="arc"/>
+        <link:reference xlink:label="res_462" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.b.i.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ManagementsRoleInGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeClimateRelatedRisksAndOpportunitiesIsDelegatedToSpecificManagementLevelPositionOrManagementLevelCommittee" xlink:label="loc_368" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_368" xlink:to="res_462" xlink:type="arc"/>
+        <link:reference xlink:label="res_465" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.6.b.ii.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ManagementUsesControlsAndProceduresToSupportOversightOfClimateRelatedRisksAndOpportunities" xlink:label="loc_369" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_369" xlink:to="res_465" xlink:type="arc"/>
+        <link:reference xlink:label="res_472" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TypeOfClimateRelatedRisk" xlink:label="loc_373" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_373" xlink:to="res_472" xlink:type="arc"/>
+        <link:reference xlink:label="res_485" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.iv.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfClimateRelatedTransitionPlanExplanatory" xlink:label="loc_377" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_377" xlink:to="res_485" xlink:type="arc"/>
+        <link:reference xlink:label="res_487" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityIsResourcingAndPlansToResourceActivitiesDisclosedInRelationToEntitysResponseToClimateRelatedRisksAndOpportunitiesInStrategyAndDecisionMakingExplanatory" xlink:label="loc_378" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_378" xlink:to="res_487" xlink:type="arc"/>
+        <link:reference xlink:label="res_503" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfEntitysAssessmentOfItsClimateResilienceExplanatory" xlink:label="loc_385" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_385" xlink:to="res_503" xlink:type="arc"/>
+        <link:reference xlink:label="res_505" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowAndWhenClimateRelatedScenarioAnalysisWasCarriedOutExplanatory" xlink:label="loc_386" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_386" xlink:to="res_505" xlink:type="arc"/>
+        <link:reference xlink:label="res_507" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.b.i.2.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedScenarioAnalysisIncludedDiverseRangeOfClimateRelatedScenarios" xlink:label="loc_387" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_387" xlink:to="res_507" xlink:type="arc"/>
+        <link:reference xlink:label="res_509" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.b.i.3.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedScenariosUsedAreAssociatedWithClimateRelatedTransitionRisksOrClimateRelatedPhysicalRisks" xlink:label="loc_388" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_388" xlink:to="res_509" xlink:type="arc"/>
+        <link:reference xlink:label="res_511" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.b.i.4.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedScenarioWasUsedThatIsAlignedWithLatestInternationalAgreementOnClimateChange" xlink:label="loc_389" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_389" xlink:to="res_511" xlink:type="arc"/>
+        <link:reference xlink:label="res_515" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.a.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityUsesClimateRelatedScenarioAnalysisToInformItsIdentificationOfClimateRelatedRisks" xlink:label="loc_390" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_390" xlink:to="res_515" xlink:type="arc"/>
+        <link:reference xlink:label="res_520" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.b.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityUsesClimateRelatedScenarioAnalysisToInformItsIdentificationOfClimateRelatedOpportunitiesExplanatory" xlink:label="loc_391" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_391" xlink:to="res_520" xlink:type="arc"/>
+        <link:reference xlink:label="res_522" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.25.b.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityUsesClimateRelatedScenarioAnalysisToInformItsIdentificationOfClimateRelatedOpportunities" xlink:label="loc_392" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_392" xlink:to="res_522" xlink:type="arc"/>
+        <link:reference xlink:label="res_536" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.i.1.1,S2.IE18.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_402" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_402" xlink:to="res_536" xlink:type="arc"/>
+        <link:reference xlink:label="res_539" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.i.2.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossLocationBasedScope2GreenhouseGasEmissions" xlink:label="loc_403" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_403" xlink:to="res_539" xlink:type="arc"/>
+        <link:reference xlink:label="res_542" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.IE5.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope1And2GreenhouseGasEmissions" xlink:label="loc_404" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_404" xlink:to="res_542" xlink:type="arc"/>
+        <link:reference xlink:label="res_545" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.i.3.1,S2.IE12.1,S2.IE24.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope3GreenhouseGasEmissions" xlink:label="loc_405" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_405" xlink:to="res_545" xlink:type="arc"/>
+        <link:reference xlink:label="res_548" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.IE32.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope12And3GreenhouseGasEmissions" xlink:label="loc_406" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_406" xlink:to="res_548" xlink:type="arc"/>
+        <link:reference xlink:label="res_550" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.iii.1.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfApproachEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory" xlink:label="loc_407" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_407" xlink:to="res_550" xlink:type="arc"/>
+        <link:reference xlink:label="res_552" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B27.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MeasurementApproachEntityUsesInCalculatingGreenhouseGasEmissions" xlink:label="loc_408" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_408" xlink:to="res_552" xlink:type="arc"/>
+        <link:reference xlink:label="res_554" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.v.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfAnyContractualInstrumentsThatInformUnderstandingOfScope2GreenhouseGasEmissionsExplanatory" xlink:label="loc_409" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_409" xlink:to="res_554" xlink:type="arc"/>
+        <link:reference xlink:label="res_557" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B31.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossMarketBasedScope2GreenhouseGasEmissions" xlink:label="loc_410" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_410" xlink:to="res_557" xlink:type="arc"/>
+        <link:reference xlink:label="res_559" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.vi.1.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfDetailsOfInclusionWithinScope3GreenhouseGasEmissionsExplanatory" xlink:label="loc_411" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_411" xlink:to="res_559" xlink:type="arc"/>
+        <link:reference xlink:label="res_561" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.vi.1.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_CategoriesIncludedWithinMeasureOfScope3GreenhouseGasEmissions" xlink:label="loc_412" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_412" xlink:to="res_561" xlink:type="arc"/>
+        <link:reference xlink:label="res_563" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B19.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfEffectsOfSignificantEventsAndChangesInCircumstancesThatAreRelevantToItsGreenhouseGasEmissionsThatOccurBetweenReportingDatesOfEntitiesInItsValueChainAndDateOfEntitysGeneralPurposeFinancialReportsExplanatory" xlink:label="loc_413" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_413" xlink:to="res_563" xlink:type="arc"/>
+        <link:reference xlink:label="res_565" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B57.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowEntityIsManagingItsScope3GhgEmissionsIfItIsImpracticableToEstimateExplanatory" xlink:label="loc_414" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_414" xlink:to="res_565" xlink:type="arc"/>
+        <link:reference xlink:label="res_567" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfAmountAndPercentageOfAssetsOrBusinessActivitiesVulnerableToClimateRelatedTransitionRisksExplanatory" xlink:label="loc_415" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_415" xlink:to="res_567" xlink:type="arc"/>
+        <link:reference xlink:label="res_569" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfAmountAndPercentageOfAssetsOrBusinessActivitiesVulnerableToClimateRelatedPhysicalRisksExplanatory" xlink:label="loc_416" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_416" xlink:to="res_569" xlink:type="arc"/>
+        <link:reference xlink:label="res_571" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfAmountAndPercentageOfAssetsOrBusinessActivitiesAlignedWithClimateRelatedOpportunitiesExplanatory" xlink:label="loc_417" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_417" xlink:to="res_571" xlink:type="arc"/>
+        <link:reference xlink:label="res_573" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.e.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfAmountOfCapitalExpenditureFinancingOrInvestmentDeployedTowardsClimateRelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_418" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_418" xlink:to="res_573" xlink:type="arc"/>
+        <link:reference xlink:label="res_576" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.f.i.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExplanationOfWhetherAndHowEntityIsApplyingCarbonPriceInDecisionMakingExplanatory" xlink:label="loc_420" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_420" xlink:to="res_576" xlink:type="arc"/>
+        <link:reference xlink:label="res_578" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.f.i.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityAppliesCarbonPriceInDecisionMaking" xlink:label="loc_421" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_421" xlink:to="res_578" xlink:type="arc"/>
+        <link:reference xlink:label="res_581" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.f.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PriceForEachMetricTonneOfGreenhouseGasEmissionsEntityUsesToAssessCostsOfGreenhouseGasEmissions" xlink:label="loc_422" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_422" xlink:to="res_581" xlink:type="arc"/>
+        <link:reference xlink:label="res_584" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.g.i.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory" xlink:label="loc_424" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_424" xlink:to="res_584" xlink:type="arc"/>
+        <link:reference xlink:label="res_587" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.g.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PercentageOfExecutiveManagementRemunerationRecognisedThatIsLinkedToClimateRelatedConsiderations" xlink:label="loc_425" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_425" xlink:to="res_587" xlink:type="arc"/>
+        <link:reference xlink:label="res_594" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfObjectiveOfClimateRelatedTargetExplanatory" xlink:label="loc_429" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_429" xlink:to="res_594" xlink:type="arc"/>
+        <link:reference xlink:label="res_596" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PartOfEntityToWhichClimateRelatedTargetApplies" xlink:label="loc_430" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_430" xlink:to="res_596" xlink:type="arc"/>
+        <link:reference xlink:label="res_601" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.g.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedTargetIsAbsoluteTargetOrIntensityTarget" xlink:label="loc_431" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_431" xlink:to="res_601" xlink:type="arc"/>
+        <link:reference xlink:label="res_603" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.33.h.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowClimateRelatedTargetHasBeenInformedByLatestInternationalAgreementOnClimateChangeExplanatory" xlink:label="loc_432" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_432" xlink:to="res_603" xlink:type="arc"/>
+        <link:reference xlink:label="res_605" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.34.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfEntitysApproachToSettingAndReviewingTargetAndMonitoringProgressExplanatory" xlink:label="loc_433" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_433" xlink:to="res_605" xlink:type="arc"/>
+        <link:reference xlink:label="res_607" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.34.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedTargetAndMethodologyHasBeenValidatedByThirdParty" xlink:label="loc_434" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_434" xlink:to="res_607" xlink:type="arc"/>
+        <link:reference xlink:label="res_612" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.a.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfGreenhouseGasesAndEmissionScopesCoveredByEntitysEmissionTargetsExplanatory" xlink:label="loc_436" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_436" xlink:to="res_612" xlink:type="arc"/>
+        <link:reference xlink:label="res_614" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.a.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GreenhouseGasesCoveredByTarget" xlink:label="loc_437" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_437" xlink:to="res_614" xlink:type="arc"/>
+        <link:reference xlink:label="res_616" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EmissionsScopesCoveredByTarget" xlink:label="loc_438" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_438" xlink:to="res_616" xlink:type="arc"/>
+        <link:reference xlink:label="res_618" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossOrNetGreenhouseGasEmissionsTarget" xlink:label="loc_439" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_439" xlink:to="res_618" xlink:type="arc"/>
+        <link:reference xlink:label="res_620" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedTargetWasDerivedUsingSectoralDecarbonisationApproach" xlink:label="loc_440" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_440" xlink:to="res_620" xlink:type="arc"/>
+        <link:reference xlink:label="res_627" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.e.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfVerificationOrCertificationSchemeToWhichCarbonCreditWillBeSubjectExplanatory" xlink:label="loc_446" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_446" xlink:to="res_627" xlink:type="arc"/>
+        <link:reference xlink:label="res_629" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.e.iii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfTypeOfCarbonCreditExplanatory" xlink:label="loc_447" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_447" xlink:to="res_629" xlink:type="arc"/>
+        <link:reference xlink:label="res_631" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.e.iii.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_CarbonCreditUnderlyingOffsetWillBeNatureBasedOrBasedOnTechnologicalCarbonRemovals" xlink:label="loc_448" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_448" xlink:to="res_631" xlink:type="arc"/>
+        <link:reference xlink:label="res_633" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.36.e.iii.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_CarbonCreditUnderlyingOffsetIsThroughCarbonReductionOrRemoval" xlink:label="loc_449" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_449" xlink:to="res_633" xlink:type="arc"/>
+        <link:reference xlink:label="res_639" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.a.1,S2.IE32.1,S2.IE38.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope1" xlink:label="loc_452" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_452" xlink:to="res_639" xlink:type="arc"/>
+        <link:reference xlink:label="res_642" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.a.2,S2.IE32.2,S2.IE38.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope2" xlink:label="loc_453" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_453" xlink:to="res_642" xlink:type="arc"/>
+        <link:reference xlink:label="res_645" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.a.3,S2.IE32.3,S2.IE38.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAumScope3" xlink:label="loc_454" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_454" xlink:to="res_645" xlink:type="arc"/>
+        <link:reference xlink:label="res_648" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AssetsUnderManagementIncludedInFinancedEmissionsDisclosureScope1" xlink:label="loc_455" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_455" xlink:to="res_648" xlink:type="arc"/>
+        <link:reference xlink:label="res_651" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.b.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AssetsUnderManagementIncludedInFinancedEmissionsDisclosureScope2" xlink:label="loc_456" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_456" xlink:to="res_651" xlink:type="arc"/>
+        <link:reference xlink:label="res_654" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.b.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AssetsUnderManagementIncludedInFinancedEmissionsDisclosureScope3" xlink:label="loc_457" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_457" xlink:to="res_654" xlink:type="arc"/>
+        <link:reference xlink:label="res_657" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.c.1,S2.IE32.6,S2.IE38.6</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PercentageOfTotalAssetsUnderManagementIncludedInFinancedEmissionsCalculation" xlink:label="loc_458" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_458" xlink:to="res_657" xlink:type="arc"/>
+        <link:reference xlink:label="res_659" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.c.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExplanationOfExclusionsOfAssetsUnderManagementFromFinancedEmissionsCalculationExplanatory" xlink:label="loc_459" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_459" xlink:to="res_659" xlink:type="arc"/>
+        <link:reference xlink:label="res_661" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B61.d.1,S2.B62.d.1,S2.B63.d.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMethodologyUsedToCalculateFinancedEmissionsExplanatory" xlink:label="loc_460" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_460" xlink:to="res_661" xlink:type="arc"/>
+        <link:reference xlink:label="res_676" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.a.1,S2.B63.a.2</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope1" xlink:label="loc_473" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_473" xlink:to="res_676" xlink:type="arc"/>
+        <link:reference xlink:label="res_679" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.a.2,S2.B63.a.3</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope2" xlink:label="loc_474" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_474" xlink:to="res_679" xlink:type="arc"/>
+        <link:reference xlink:label="res_682" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.a.3,S2.B63.a.4</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsScope3" xlink:label="loc_475" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_475" xlink:to="res_682" xlink:type="arc"/>
+        <link:reference xlink:label="res_685" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.b.1,S2.B62.b.2,S2.B63.b.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossExposure" xlink:label="loc_476" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_476" xlink:to="res_685" xlink:type="arc"/>
+        <link:reference xlink:label="res_688" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.b.ii.1,S2.B63.b.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DrawnPortionOfLoanCommitment" xlink:label="loc_477" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_477" xlink:to="res_688" xlink:type="arc"/>
+        <link:reference xlink:label="res_694" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.a.ii.1,S2.B63.a.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExplanationOfDisclosureOfFinancedEmissionsForAdditionalAssetClassesExplanatory" xlink:label="loc_481" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_481" xlink:to="res_694" xlink:type="arc"/>
+        <link:reference xlink:label="res_697" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.c.1,S2.B63.c.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PercentageOfGrossExposureIncludedInFinancedEmissionsCalculation" xlink:label="loc_482" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_482" xlink:to="res_697" xlink:type="arc"/>
+        <link:reference xlink:label="res_699" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.c.i.1,S2.B63.c.i.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExplanationOfExclusionsOfGrossExposureFromFinancedEmissionsCalculationExplanatory" xlink:label="loc_483" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_483" xlink:to="res_699" xlink:type="arc"/>
+        <link:reference xlink:label="res_702" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B62.c.iii.1,S2.B63.c.ii.1</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PercentageOfUndrawnLoanCommitmentsIncludedInFinancedEmissionsCalculation" xlink:label="loc_484" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_484" xlink:to="res_702" xlink:type="arc"/>
+        <link:reference xlink:label="res_767" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.IE32.4,S2.IE38.4</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAum" xlink:label="loc_530" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_530" xlink:to="res_767" xlink:type="arc"/>
+        <link:reference xlink:label="res_770" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.IE32.5,S2.IE38.5</ref:Number>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_AssetsUnderManagementIncludedInFinancedEmissionsDisclosure" xlink:label="loc_531" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_531" xlink:to="res_770" xlink:type="arc"/>
     </link:referenceLink>
 </link:linkbase>
