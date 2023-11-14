@@ -3,8 +3,13 @@ __Final Taxonomy__
 Corrections:
 * Typo in the documentation of all dimensions. Should have been “[...] An axis of a table defines the nature of the relationship _between_ the" (Corporatings)
 * Typo in the documentation of “Disclosure of assessment of resilience of strategy and business model in relation to risks [text block]” : 'quantiative'
+* OtherDisclosuresAboutGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory was listed as the child of a table abstract instead of the main Governance [abstract].
+* DisclosureOfConcentrationOfRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory was listed as child of the Disclosure of current and anticipated effects of climate-related risks and opportunities on business model and value chain [table] element, rather than the pline item] element
 
 Changes:
+* Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
+* Changed terse labels (many per element) to commentary references (comma separated list), the least inappropriate standard reference type.
+
 
 __Proposed Taxonomy__
 Corrections to staff draft:
@@ -46,7 +51,6 @@ Changes (Alignment with published standards and improvements):
 * Changed phrase "carbon offset" to "carbon credit"
 * Removed financed emissions sections from Industry metrics
 * Separated IFRS S2 industry metric content (now in ifrs_im) from body of Standards (in ifrs_sds)
-* Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
-* Changed terse labels (many per element) to commentary references (comma separated list), the least inappropriate standard reference type .
+
 
 
