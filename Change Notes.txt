@@ -28,6 +28,7 @@ Corrections to staff draft:
 * Corrected casing of label "STeP By OEKO-TEX"
 * Corrected some discrepencies between definition and presentation linkbases in the industry metrics
 * Corrected typo in documentation label of  ifrs-sds_GrossOrNetGreenhouseGasEmissionsTarget
+* Corrected reference of element 'Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]' to IFRS S2 29(a)(iii)
 
 
 

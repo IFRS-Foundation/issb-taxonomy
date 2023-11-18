@@ -556,7 +556,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>iii.1</ref:Clause>
+            <ref:Clause>iii</ref:Clause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfApproachEntityUsesToMeasureItsGreenhouseGasEmissionsExplanatory" xlink:label="loc_75" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_75" xlink:to="res_53" xlink:type="arc"/>
