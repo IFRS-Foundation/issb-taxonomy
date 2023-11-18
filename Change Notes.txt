@@ -6,11 +6,12 @@ Corrections:
 * OtherDisclosuresAboutGovernanceProcessesControlsAndProceduresUsedToMonitorManageAndOverseeRisksAndOpportunitiesExplanatory was listed as the child of a table abstract instead of the main Governance [abstract].
 * DisclosureOfConcentrationOfRisksAndOpportunitiesInEntitysBusinessModelAndValueChainExplanatory was listed as child of the Disclosure of current and anticipated effects of climate-related risks and opportunities on business model and value chain [table] element, rather than the pline item] element
 * Mismatch between the presentation and the definition linkbases for Absolute gross financed emissions related to AUM. In the presentation it has children, which should be siblings.
+* Corrected reference of element 'Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]' to IFRS S2 29(a)(iii)
 
 Changes:
 * Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
 * Changed terse labels (many per element) to commentary references (comma separated list), the least inappropriate standard reference type.
-
+* Changed all references applied to abstract elements (members etc) to be simply "reference" type (rather than disclosure or example).
 
 __Proposed Taxonomy__
 Corrections to staff draft:
@@ -28,8 +29,6 @@ Corrections to staff draft:
 * Corrected casing of label "STeP By OEKO-TEX"
 * Corrected some discrepencies between definition and presentation linkbases in the industry metrics
 * Corrected typo in documentation label of  ifrs-sds_GrossOrNetGreenhouseGasEmissionsTarget
-* Corrected reference of element 'Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]' to IFRS S2 29(a)(iii)
-
 
 
 Changes (Alignment with published standards and improvements):
