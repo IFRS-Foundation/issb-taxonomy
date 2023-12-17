@@ -13,6 +13,7 @@ Changes:
 * Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
 * Changed terse labels (many per element) to commentary references (comma separated list), the least inappropriate standard reference type.
 * Changed all references applied to abstract elements (members etc) to be simply "reference" type (rather than disclosure or example).
+* Split IM pres ELRs (830300 and 830800) into parts where the defs conflict with each other
 
 __Proposed Taxonomy__
 Corrections to staff draft:

@@ -1161,6 +1161,12 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
+            <link:roleType id="ifrs_s2ib_2023-07-27_role-830300_1" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830300_1">
+                <link:definition>[830300] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1)</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-07-27_role-830300a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830300a">
                 <link:definition>[830300a] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customer savings from efficiency measures, gas [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
@@ -1427,6 +1433,12 @@
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2023-07-27_role-830800" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830800">
                 <link:definition>[830800] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU)</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s2ib_2023-07-27_role-830800_1" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830800_1">
+                <link:definition>[830800] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1)</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

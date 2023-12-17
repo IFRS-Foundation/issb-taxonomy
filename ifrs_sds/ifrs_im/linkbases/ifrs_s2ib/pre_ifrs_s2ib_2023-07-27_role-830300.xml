@@ -8,12 +8,11 @@
         **********************
 --><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830300" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830300" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830300_1" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830300_1" xlink:type="simple"/>
     <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830300" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GasUtilitiesAndDistributorsIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GasUtilitiesAndDistributorsIndustryAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnergyAffordabilityDisclosureAbstract" xlink:label="loc_3" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EndUseEfficiencyDisclosureExplanatory" xlink:label="loc_5" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EndUseEfficiencyDisclosureAbstract" xlink:label="loc_4" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
@@ -92,22 +91,6 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredAmount" xlink:label="loc_59" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IFGU000BAbstract" xlink:label="loc_58" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_58" xlink:to="loc_59" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentageTable" xlink:label="loc_61" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentageAbstract" xlink:label="loc_60" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_60" xlink:to="loc_61" xlink:type="arc"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_61" xlink:to="loc_50" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentage" xlink:label="loc_63" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentageLineItems" xlink:label="loc_62" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_62" xlink:to="loc_63" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLengthAbstract" xlink:label="loc_65" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IFGU000CAbstract" xlink:label="loc_64" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:to="loc_65" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLengthTable" xlink:label="loc_66" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_65" xlink:to="loc_66" xlink:type="arc"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_38" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLength" xlink:label="loc_68" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLengthLineItems" xlink:label="loc_67" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_67" xlink:to="loc_68" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_4" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:to="loc_11" xlink:type="arc"/>
@@ -127,25 +110,64 @@
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_53" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_56" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_58" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_58" xlink:to="loc_60" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_60" xlink:to="loc_62" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_65" xlink:to="loc_67" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_17" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_EnforcementProceedingsOccurringAsResultOfPipelineSafetyConsideration" xlink:label="loc_22" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_22" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_26" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialCustomersMember" xlink:label="loc_54" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_54" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_64" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ViolationsOfPipelineSafetyStatutes" xlink:label="loc_23" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_23" xlink:type="arc"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_35" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ThirdPartyMember" xlink:label="loc_55" xlink:type="locator"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_55" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_JurisdictionalStandardOrRegulationUsedToDefineReportablePipelineIncidentsCorrectiveActionsAndPipelineSafetyViolationsExplanatory" xlink:label="loc_24" xlink:type="locator"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_24" xlink:type="arc"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_44" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NotableIncidentsDiscussionExplanatory" xlink:label="loc_25" xlink:type="locator"/>
         <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_25" xlink:type="arc"/>
+    </link:presentationLink>
+    <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830300_1" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GasUtilitiesAndDistributorsIndustryAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelineAxis" xlink:label="loc_38" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelineDomain" xlink:label="loc_39" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:to="loc_39" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GasDistributionPipelinesMember" xlink:label="loc_40" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_40" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GasUtilitiesAndDistributorsIndustryActivityMetricsAbstract" xlink:label="loc_46" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CustomerTypeAxis" xlink:label="loc_50" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CustomerTypeDomain" xlink:label="loc_51" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_50" xlink:to="loc_51" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CommercialCustomersMember" xlink:label="loc_52" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_52" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IFGU000BAbstract" xlink:label="loc_58" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentageTable" xlink:label="loc_61" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentageAbstract" xlink:label="loc_60" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_60" xlink:to="loc_61" xlink:type="arc"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_61" xlink:to="loc_50" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentage" xlink:label="loc_63" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NaturalGasDeliveredPercentageLineItems" xlink:label="loc_62" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_62" xlink:to="loc_63" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLengthAbstract" xlink:label="loc_65" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IFGU000CAbstract" xlink:label="loc_64" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:to="loc_65" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLengthTable" xlink:label="loc_66" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_65" xlink:to="loc_66" xlink:type="arc"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_38" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLength" xlink:label="loc_68" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipelinesLengthLineItems" xlink:label="loc_67" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_67" xlink:to="loc_68" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_GasTransmissionPipelinesMember" xlink:label="loc_41" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_41" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_46" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialCustomersMember" xlink:label="loc_53" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_53" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_58" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_58" xlink:to="loc_60" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_60" xlink:to="loc_62" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_65" xlink:to="loc_67" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialCustomersMember" xlink:label="loc_54" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_54" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_64" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ThirdPartyMember" xlink:label="loc_55" xlink:type="locator"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_55" xlink:type="arc"/>
     </link:presentationLink>
 </link:linkbase>

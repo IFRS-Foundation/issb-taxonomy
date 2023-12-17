@@ -8,6 +8,7 @@
         **********************
 --><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830800" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830800" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830800_1" xlink:href="rol_ifrs_s2ib_2023-07-27.xsd#ifrs_s2ib_2023-07-27_role-830800_1" xlink:type="simple"/>
     <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830800" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterUtilitiesAndServicesIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryAbstract" xlink:label="loc_1" xlink:type="locator"/>
@@ -162,6 +163,75 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterSourcedPercentage" xlink:label="loc_106" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterSourcedPercentageLineItems" xlink:label="loc_105" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_105" xlink:to="loc_106" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:to="loc_5" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_5" xlink:to="loc_7" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RenewableEnergyMember" xlink:label="loc_12" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_10" xlink:to="loc_12" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:to="loc_13" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_15" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_17" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_UseOfAndChallengesAssociatedWithPlannedAndCorrectiveMaintenanceInDistributionSystemExplanatory" xlink:label="loc_19" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_19" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_24" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_25" xlink:to="loc_30" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_33" xlink:to="loc_37" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_39" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_41" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_45" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterSourcedFreshFromRegionsWithHighOrExtremelyHighBaselineWaterStressPercentagePurchasedFromThirdParty" xlink:label="loc_47" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:to="loc_47" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_54" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_55" xlink:to="loc_60" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SanitarySewerOverflowsSsoVolume" xlink:label="loc_64" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_62" xlink:to="loc_64" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ServiceDisruptionBetweenFourAndTwelveHoursMember" xlink:label="loc_72" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_70" xlink:to="loc_72" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_67" xlink:to="loc_74" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_76" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_78" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_83" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CommercialCustomersMember" xlink:label="loc_90" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_88" xlink:to="loc_90" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_85" xlink:to="loc_92" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_94" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OceanWaterMember" xlink:label="loc_100" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_100" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_105" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_20" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_22" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_32" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_48" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_62" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SanitarySewerOverflowsSsoPercentageRecovered" xlink:label="loc_65" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_62" xlink:to="loc_65" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ServiceDisruptionTwelveHoursOrMoreMember" xlink:label="loc_73" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_70" xlink:to="loc_73" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NotableServiceDisruptionsExplanatory" xlink:label="loc_80" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_80" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialCustomersMember" xlink:label="loc_91" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_88" xlink:to="loc_91" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RecycledWaterMember" xlink:label="loc_101" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_101" xlink:type="arc"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_43" xlink:type="arc"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_50" xlink:type="arc"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_66" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SurfaceWaterMember" xlink:label="loc_102" xlink:type="locator"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_102" xlink:type="arc"/>
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_52" xlink:type="arc"/>
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_81" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterPurchasedFromThirdPartiesMember" xlink:label="loc_103" xlink:type="locator"/>
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_103" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterThatIsFromOtherSourcesMember" xlink:label="loc_104" xlink:type="locator"/>
+        <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_104" xlink:type="arc"/>
+    </link:presentationLink>
+    <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2023-07-27_role-830800_1" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryActivityMetricsAbstract" xlink:label="loc_83" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CustomerTypeAxis" xlink:label="loc_87" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CustomerTypeDomain" xlink:label="loc_88" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_87" xlink:to="loc_88" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ResidentialCustomersMember" xlink:label="loc_89" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_88" xlink:to="loc_89" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterDeliveredVolumeAbstract" xlink:label="loc_108" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IFWU000CAbstract" xlink:label="loc_107" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_107" xlink:to="loc_108" xlink:type="arc"/>
@@ -199,40 +269,9 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipeLength" xlink:label="loc_131" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_PipeLengthLineItems" xlink:label="loc_130" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_130" xlink:to="loc_131" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:to="loc_5" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_5" xlink:to="loc_7" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RenewableEnergyMember" xlink:label="loc_12" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_10" xlink:to="loc_12" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:to="loc_13" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_15" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_17" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_UseOfAndChallengesAssociatedWithPlannedAndCorrectiveMaintenanceInDistributionSystemExplanatory" xlink:label="loc_19" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_19" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_24" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_25" xlink:to="loc_30" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_33" xlink:to="loc_37" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_32" xlink:to="loc_39" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_41" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_45" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterSourcedFreshFromRegionsWithHighOrExtremelyHighBaselineWaterStressPercentagePurchasedFromThirdParty" xlink:label="loc_47" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_45" xlink:to="loc_47" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_54" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_55" xlink:to="loc_60" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SanitarySewerOverflowsSsoVolume" xlink:label="loc_64" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_62" xlink:to="loc_64" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ServiceDisruptionBetweenFourAndTwelveHoursMember" xlink:label="loc_72" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_70" xlink:to="loc_72" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_67" xlink:to="loc_74" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_76" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_78" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_83" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_CommercialCustomersMember" xlink:label="loc_90" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_88" xlink:to="loc_90" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_85" xlink:to="loc_92" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_94" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OceanWaterMember" xlink:label="loc_100" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_100" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_105" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_111" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SanitarySewerMember" xlink:label="loc_119" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_117" xlink:to="loc_119" xlink:type="arc"/>
@@ -240,38 +279,14 @@
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterMainsMember" xlink:label="loc_129" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_127" xlink:to="loc_129" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_124" xlink:to="loc_130" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_20" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_22" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_32" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_48" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_62" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SanitarySewerOverflowsSsoPercentageRecovered" xlink:label="loc_65" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_62" xlink:to="loc_65" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_ServiceDisruptionTwelveHoursOrMoreMember" xlink:label="loc_73" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_70" xlink:to="loc_73" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_NotableServiceDisruptionsExplanatory" xlink:label="loc_80" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_66" xlink:to="loc_80" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_IndustrialCustomersMember" xlink:label="loc_91" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_88" xlink:to="loc_91" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_RecycledWaterMember" xlink:label="loc_101" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_101" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_107" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_StormwaterSewerMember" xlink:label="loc_120" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_117" xlink:to="loc_120" xlink:type="arc"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_43" xlink:type="arc"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_43" xlink:to="loc_50" xlink:type="arc"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_66" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_SurfaceWaterMember" xlink:label="loc_102" xlink:type="locator"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_102" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_OtherCustomersMember" xlink:label="loc_110" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_88" xlink:to="loc_110" xlink:type="arc"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_113" xlink:type="arc"/>
-        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_52" xlink:type="arc"/>
-        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_52" xlink:to="loc_81" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterPurchasedFromThirdPartiesMember" xlink:label="loc_103" xlink:type="locator"/>
-        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_103" xlink:type="arc"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_123" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2023-07-27.xsd#ifrs-im_WaterThatIsFromOtherSourcesMember" xlink:label="loc_104" xlink:type="locator"/>
-        <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_104" xlink:type="arc"/>
     </link:presentationLink>
 </link:linkbase>
