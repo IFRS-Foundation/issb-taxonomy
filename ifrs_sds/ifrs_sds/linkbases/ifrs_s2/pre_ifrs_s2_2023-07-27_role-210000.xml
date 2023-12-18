@@ -96,9 +96,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfEntitysAssessmentOfItsClimateResilienceExplanatory" xlink:label="loc_70" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ResilienceAbstract" xlink:label="loc_69" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_70" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedScenarioAnalysisIncludedDiverseRangeOfClimateRelatedScenarios" xlink:label="loc_72" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowAndWhenClimateRelatedScenarioAnalysisWasCarriedOutExplanatory" xlink:label="loc_71" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_71" xlink:to="loc_72" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfProcessesAndRelatedPoliciesEntityUsesToIdentifyAssessPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_76" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_RiskManagementAbstract" xlink:label="loc_75" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_76" xlink:type="arc"/>
