@@ -116,5 +116,10 @@
         <link:presentationArc order="150.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_35" xlink:to="loc_50" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherScope3GreenhouseGasEmissionsMember" xlink:label="loc_51" xlink:type="locator"/>
         <link:presentationArc order="160.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_35" xlink:to="loc_51" xlink:type="arc"/>
+
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateTopicMember" xlink:label="loc_60" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityTopicsDomain" xlink:label="loc_61" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_61" xlink:to="loc_60" xlink:type="arc"/>
+
     </link:presentationLink>
 </link:linkbase>

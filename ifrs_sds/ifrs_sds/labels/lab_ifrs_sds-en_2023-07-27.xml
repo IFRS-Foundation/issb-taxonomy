@@ -1121,5 +1121,23 @@
         <link:label id="ifrs-sds_QualitativeMeasureMember_label" xlink:label="res_603" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Qualitative measure [member]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_QualitativeMeasureMember" xlink:label="loc_357" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_357" xlink:to="res_603" xlink:type="arc"/>
+
+        <link:label id="ifrs-sds_TopicsCoveredByIntegratedGovernanceDisclosure_label" xlink:label="res_604" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Topic(s) covered by integrated governance disclosure</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsCoveredByIntegratedGovernanceDisclosure" xlink:label="loc_358" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_358" xlink:to="res_604" xlink:type="arc"/>
+        <link:label id="ifrs-sds_SustainabilityTopicsDomain_label" xlink:label="res_605" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability Topics [domain]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityTopicsDomain" xlink:label="loc_359" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_359" xlink:to="res_605" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ClimateTopicMember_label" xlink:label="res_606" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate Topic [member]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateTopicMember" xlink:label="loc_360" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_360" xlink:to="res_606" xlink:type="arc"/>
+        <link:label id="ifrs-sds_TopicsOfRiskOrOpportunity_label" xlink:label="res_607" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Topic(s) of risk or opportunity</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsOfRiskOrOpportunity" xlink:label="loc_361" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_361" xlink:to="res_607" xlink:type="arc"/>
+        <link:label id="ifrs-sds_TopicsCoveredByIntegratedRiskManagementDisclosure_label" xlink:label="res_608" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Topic(s) covered by integrated risk management disclosure</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsCoveredByIntegratedRiskManagementDisclosure" xlink:label="loc_362" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_362" xlink:to="res_608" xlink:type="arc"/>
+
+
     </link:labelLink>
 </link:linkbase>
