@@ -351,7 +351,12 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_168" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_HowEntityPlansToAchieveClimateRelatedRargets" xlink:label="loc_169" xlink:type="locator"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_169" xlink:type="arc"/>
-         
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_StartOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" xlink:label="loc_170" xlink:type="locator"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_71" xlink:to="loc_170" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EndOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" xlink:label="loc_171" xlink:type="locator"/>
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_71" xlink:to="loc_171" xlink:type="arc"/>
+   
         
     </link:presentationLink>
 </link:linkbase>

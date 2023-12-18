@@ -2307,7 +2307,29 @@
             <ref:Number>S2.14.a.v.1</ref:Number>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_790" xlink:to="res_804" xlink:type="arc"/>
-    
+
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_StartOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" xlink:label="loc_805" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EndOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" xlink:label="loc_806" xlink:type="locator"/>
+        <link:reference xlink:label="res_807" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>22</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+            <ref:Clause>iii</ref:Clause>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_805" xlink:to="res_807" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_806" xlink:to="res_807" xlink:type="arc"/>
+         <link:reference xlink:label="res_808" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.b.iii.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_805" xlink:to="res_808" xlink:type="arc"/>
+        <link:reference xlink:label="res_809" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.22.b.iii.2</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_806" xlink:to="res_809" xlink:type="arc"/>   
     
     </link:referenceLink>
 </link:linkbase>
