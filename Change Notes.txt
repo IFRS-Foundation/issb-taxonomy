@@ -19,7 +19,7 @@ Changes:
 * Add 5 elements in S2 strategy and decision-making section, rearrange presentation
 * Remove ClimateRelatedScenarioAnalysisIncludedDiverseRangeOfClimateRelatedScenarios
 * Add Start (and end) of reporting period in which climate-related scenario analysis was carried out
-
+* Add four additional elements for subparagraphs under IFRS S2.25(a)
 
 __Proposed Taxonomy__
 Corrections to staff draft:

@@ -1161,6 +1161,18 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_StartOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" xlink:label="loc_370" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_370" xlink:to="res_616" xlink:type="arc"/>
        
+        <link:label id="ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks_label" xlink:label="res_617" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Inputs and parameters used in process to identify, prioritise and monitor risks</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks" xlink:label="loc_371" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_371" xlink:to="res_617" xlink:type="arc"/>
+        <link:label id="ifrs-sds_HowLikelihoodAndMagnitudeOfEffectsOfRisksAreAssessed_label" xlink:label="res_618" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">How likelihood and magnitude of effects of risks are assessed</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_HowLikelihoodAndMagnitudeOfEffectsOfRisksAreAssessed" xlink:label="loc_372" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_372" xlink:to="res_618" xlink:type="arc"/>
+        <link:label id="ifrs-sds_WhetherAndHowSustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk_label" xlink:label="res_619" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Whether and how sustainability-related risks have been prioritised relative to other types of risk</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_WhetherAndHowSustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_373" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_373" xlink:to="res_619" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ClimateRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk_label" xlink:label="res_620" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related risks have been prioritised relative to other types of risk</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_374" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_374" xlink:to="res_620" xlink:type="arc"/>
 
     </link:labelLink>
 </link:linkbase>

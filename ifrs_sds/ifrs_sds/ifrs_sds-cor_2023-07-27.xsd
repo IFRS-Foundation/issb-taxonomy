@@ -382,5 +382,10 @@
 
     <xsd:element abstract="false" id="ifrs-sds_EndOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" name="EndOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" nillable="true" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_StartOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" name="StartOfReportingPeriodInWhichClimateRelatedScenarioAnalysisCarriedOut" nillable="true" substitutionGroup="xbrli:item" type="xbrli:dateItemType" xbrli:periodType="duration"/>
+
+    <xsd:element abstract="false" id="ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks" name="InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_HowLikelihoodAndMagnitudeOfEffectsOfRisksAreAssessed" name="HowLikelihoodAndMagnitudeOfEffectsOfRisksAreAssessed" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_WhetherAndHowSustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" name="WhetherAndHowSustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_ClimateRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" name="ClimateRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
     
 </xsd:schema>
