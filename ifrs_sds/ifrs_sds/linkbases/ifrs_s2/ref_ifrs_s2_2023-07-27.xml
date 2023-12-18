@@ -2246,6 +2246,15 @@
             <ref:Number>S2.26.1</ref:Number>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_781" xlink:to="res_783" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DefinitionOfTimeHorizonsIsLinkedToPlanningHorizons" xlink:label="loc_784" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_784" xlink:to="res_16" xlink:type="arc"/>
+        <link:reference xlink:label="res_785" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.10.d.3</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_784" xlink:to="res_785" xlink:type="arc"/>
+   
+    
     
     </link:referenceLink>
 </link:linkbase>
