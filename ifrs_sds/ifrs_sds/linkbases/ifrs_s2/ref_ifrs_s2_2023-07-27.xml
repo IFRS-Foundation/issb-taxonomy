@@ -2231,7 +2231,7 @@
             <ref:Number>S2.10.a.2</ref:Number>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_778" xlink:to="res_779" xlink:type="arc"/>
-         <link:reference xlink:label="res_780" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+        <link:reference xlink:label="res_780" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
             <ref:IssueDate>2023-06-26</ref:IssueDate>
@@ -2253,7 +2253,76 @@
             <ref:Number>S2.10.d.3</ref:Number>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_784" xlink:to="res_785" xlink:type="arc"/>
+
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityHasClimateRelatedTransitionPlan" xlink:label="loc_786" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities" xlink:label="loc_787" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DirectMitigationAndAdaptationEfforts" xlink:label="loc_788" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_IndirectMitigationAndAdaptationEfforts" xlink:label="loc_789" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_HowEntityPlansToAchieveClimateRelatedRargets" xlink:label="loc_790" xlink:type="locator"/>
+
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_786" xlink:to="res_21" xlink:type="arc"/>
+        <link:reference xlink:label="res_791" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>14</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Clause>i</ref:Clause>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_787" xlink:to="res_791" xlink:type="arc"/>
+        <link:reference xlink:label="res_792" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>14</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Clause>ii</ref:Clause>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_788" xlink:to="res_792" xlink:type="arc"/>
+        <link:reference xlink:label="res_793" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>14</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Clause>iii</ref:Clause>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_789" xlink:to="res_793" xlink:type="arc"/>
+        <link:reference xlink:label="res_794" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>14</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Clause>v</ref:Clause>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_790" xlink:to="res_794" xlink:type="arc"/>
    
+        <link:reference xlink:label="res_800" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.i.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_787" xlink:to="res_800" xlink:type="arc"/>
+        <link:reference xlink:label="res_801" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.ii.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_788" xlink:to="res_801" xlink:type="arc"/>
+        <link:reference xlink:label="res_802" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.iii.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_789" xlink:to="res_802" xlink:type="arc"/>
+        <link:reference xlink:label="res_803" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.iv.2</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_786" xlink:to="res_803" xlink:type="arc"/>
+        <link:reference xlink:label="res_804" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.14.a.v.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_790" xlink:to="res_804" xlink:type="arc"/>
     
     
     </link:referenceLink>

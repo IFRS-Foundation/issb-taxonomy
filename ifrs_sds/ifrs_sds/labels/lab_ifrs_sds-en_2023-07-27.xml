@@ -1141,6 +1141,23 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DefinitionOfTimeHorizonsIsLinkedToPlanningHorizons" xlink:label="loc_363" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_363" xlink:to="res_609" xlink:type="arc"/>
 
+        <link:label id="ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities_label" xlink:label="res_610" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes to business model, including resource allocation, to address climate-related risks and opportunities </link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities" xlink:label="loc_364" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_364" xlink:to="res_610" xlink:type="arc"/>      
+        <link:label id="ifrs-sds_DirectMitigationAndAdaptationEfforts_label" xlink:label="res_611" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Direct mitigation and adaptation efforts</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DirectMitigationAndAdaptationEfforts" xlink:label="loc_365" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_365" xlink:to="res_611" xlink:type="arc"/>
+        <link:label id="ifrs-sds_IndirectMitigationAndAdaptationEfforts_label" xlink:label="res_612" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Indirect mitigation and adaptation efforts</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_IndirectMitigationAndAdaptationEfforts" xlink:label="loc_366" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_366" xlink:to="res_612" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EntityHasClimateRelatedTransitionPlan_label" xlink:label="res_613" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Entity has climate-related transition plan</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityHasClimateRelatedTransitionPlan" xlink:label="loc_367" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_367" xlink:to="res_613" xlink:type="arc"/>
+        <link:label id="ifrs-sds_HowEntityPlansToAchieveClimateRelatedRargets_label" xlink:label="res_614" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">How entity plans to achieve climate-related targets</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_HowEntityPlansToAchieveClimateRelatedRargets" xlink:label="loc_368" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_368" xlink:to="res_614" xlink:type="arc"/>
+       
+
 
     </link:labelLink>
 </link:linkbase>
