@@ -2521,29 +2521,72 @@
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_845" xlink:to="res_850" xlink:type="arc"/>
                 
-        <link:reference xlink:label="res_851" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+        <link:reference xlink:label="res_891" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.34.d.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_852" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_852" xlink:to="res_851" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_852" xlink:to="res_79" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_892" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_892" xlink:to="res_891" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_892" xlink:to="res_79" xlink:type="arc"/>
          
-        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" xlink:label="loc_853" xlink:type="locator"/>
-        <link:reference xlink:label="res_854" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" xlink:label="loc_893" xlink:type="locator"/>
+        <link:reference xlink:label="res_894" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>e</ref:Subparagraph>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_853" xlink:to="res_854" xlink:type="arc"/>
-        <link:reference xlink:label="res_855" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_893" xlink:to="res_894" xlink:type="arc"/>
+        <link:reference xlink:label="res_895" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.36.e.1</ref:Number>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_853" xlink:to="res_855" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_893" xlink:to="res_895" xlink:type="arc"/>
       
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissionsWhenNotInAccordanceWithGreenhouseGasProtocol" xlink:label="loc_896" xlink:type="locator"/>
+        <link:reference xlink:label="res_897" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B26</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_896" xlink:to="res_897" xlink:type="arc"/>
+        <link:reference xlink:label="res_898" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B28</ref:Paragraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_896" xlink:to="res_898" xlink:type="arc"/>
+        <link:reference xlink:label="res_899" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B28.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_896" xlink:to="res_899" xlink:type="arc"/>
+
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" xlink:label="loc_900" xlink:type="locator"/>
+        <link:reference xlink:label="res_901" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B26</ref:Paragraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_900" xlink:to="res_901" xlink:type="arc"/>
+        <link:reference xlink:label="res_902" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B29</ref:Paragraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_900" xlink:to="res_902" xlink:type="arc"/>
+        <link:reference xlink:label="res_903" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.B29.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_900" xlink:to="res_903" xlink:type="arc"/>
         
     </link:referenceLink>
 </link:linkbase>

@@ -415,5 +415,11 @@
      
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" xlink:label="loc_196" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_148" xlink:to="loc_196" xlink:type="arc"/> 
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissionsWhenNotInAccordanceWithGreenhouseGasProtocol" xlink:label="loc_197" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_197" xlink:type="arc"/>    
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" xlink:label="loc_198" xlink:type="locator"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_198" xlink:type="arc"/> 
+        
     </link:presentationLink>
 </link:linkbase>

@@ -1245,6 +1245,12 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" xlink:label="loc_395" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_395" xlink:to="res_641" xlink:type="arc"/>
 
-    
+        <link:label id="ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissionsWhenNotInAccordanceWithGreenhouseGasProtocol_label" xlink:label="res_642" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Method and measurement approach used in calculating greenhouse gas emissions when not in accordance with Greenhouse Gas Protocol</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissionsWhenNotInAccordanceWithGreenhouseGasProtocol" xlink:label="loc_396" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_396" xlink:to="res_642" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions_label" xlink:label="res_643" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emission factors used in calculating greenhouse gas emissions</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" xlink:label="loc_397" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_397" xlink:to="res_643" xlink:type="arc"/>
+
     </link:labelLink>
 </link:linkbase>
