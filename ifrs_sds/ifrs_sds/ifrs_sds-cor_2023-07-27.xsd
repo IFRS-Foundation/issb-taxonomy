@@ -413,5 +413,7 @@
     <xsd:element abstract="false" id="ifrs-sds_TargetValueText" name="TargetValueText" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_TargetValueNumeric" name="TargetValueNumeric" nillable="true" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_TargetValuePercentage" name="TargetValuePercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+
+    <xsd:element abstract="false" id="ifrs-sds_TargetHasBeenRevised" name="TargetHasBeenRevised" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
     
 </xsd:schema>

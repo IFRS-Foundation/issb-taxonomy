@@ -2523,9 +2523,11 @@
                 
         <link:reference xlink:label="res_851" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
-            <ref:Number>S2.33.4</ref:Number>
+            <ref:Number>S2.34.d.1</ref:Number>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_846" xlink:to="res_851" xlink:type="arc"/>
-                
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_852" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_852" xlink:to="res_851" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_852" xlink:to="res_79" xlink:type="arc"/>
+               
     </link:referenceLink>
 </link:linkbase>
