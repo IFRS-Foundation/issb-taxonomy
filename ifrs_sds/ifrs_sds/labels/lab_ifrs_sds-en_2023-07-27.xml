@@ -1220,5 +1220,23 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" xlink:label="loc_388" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_388" xlink:to="res_634" xlink:type="arc"/>
 
+
+        <link:label id="ifrs-sds_MetricUsedToSetTarget_label" xlink:label="res_635" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric used to set target</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_389" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_389" xlink:to="res_635" xlink:type="arc"/>
+        <link:label id="ifrs-sds_MetricsUsedToMonitorTargetProgress_label" xlink:label="res_636" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric(s) used to monitor progress</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricsUsedToMonitorTargetProgress" xlink:label="loc_390" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_390" xlink:to="res_636" xlink:type="arc"/>
+        <link:label id="ifrs-sds_TargetValueText_label" xlink:label="res_637" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Target value, text</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValueText" xlink:label="loc_391" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_391" xlink:to="res_637" xlink:type="arc"/>
+        <link:label id="ifrs-sds_TargetValueNumeric_label" xlink:label="res_638" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Target value, numeric</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValueNumeric" xlink:label="loc_392" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_392" xlink:to="res_638" xlink:type="arc"/>
+        <link:label id="ifrs-sds_TargetValuePercentage_label" xlink:label="res_639" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Target value, percentage</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValuePercentage" xlink:label="loc_393" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_393" xlink:to="res_639" xlink:type="arc"/>
+
+    
     </link:labelLink>
 </link:linkbase>

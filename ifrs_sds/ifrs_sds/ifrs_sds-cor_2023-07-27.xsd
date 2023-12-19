@@ -406,5 +406,12 @@
     <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks" name="BusinessActivitiesAlignedWithClimateRelatedOpportunities" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" name="BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
     
+    <xsd:element abstract="true" id="ifrs-sds_SustainabilityMetricsDomain" name="SustainabilityMetricsDomain" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/> 
+    <xsd:element abstract="false" id="ifrs-sds_MetricUsedToSetTarget" name="MetricUsedToSetTarget" nillable="true" substitutionGroup="xbrli:item" type="enum2:enumerationItemType" xbrli:periodType="duration" enum2:domain="ifrs-sds:SustainabilityMetricsDomain" enum2:headUsable="false" enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-07-27_role-995000" />
+    <xsd:element abstract="false" id="ifrs-sds_MetricsUsedToMonitorTargetProgress" name="MetricsUsedToMonitorTargetProgress" nillable="true" substitutionGroup="xbrli:item" type="enum2:enumerationSetItemType" xbrli:periodType="duration" enum2:domain="ifrs-sds:SustainabilityMetricsDomain" enum2:headUsable="false" enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-07-27_role-995000" />
+
+    <xsd:element abstract="false" id="ifrs-sds_TargetValueText" name="TargetValueText" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_TargetValueNumeric" name="TargetValueNumeric" nillable="true" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_TargetValuePercentage" name="TargetValuePercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
     
 </xsd:schema>
