@@ -1241,6 +1241,10 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_394" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_394" xlink:to="res_640" xlink:type="arc"/>
 
+        <link:label id="ifrs-sds_PlannedUseOfCarbonCreditsExplanatory_label" xlink:label="res_641" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Planned use of carbon credits [text block]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" xlink:label="loc_395" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_395" xlink:to="res_641" xlink:type="arc"/>
+
     
     </link:labelLink>
 </link:linkbase>

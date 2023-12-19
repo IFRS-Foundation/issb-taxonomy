@@ -416,4 +416,6 @@
 
     <xsd:element abstract="false" id="ifrs-sds_TargetHasBeenRevised" name="TargetHasBeenRevised" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
     
+    <xsd:element abstract="false" id="ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" name="PlannedUseOfCarbonCreditsExplanatory" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/>
+
 </xsd:schema>

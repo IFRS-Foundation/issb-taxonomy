@@ -25,6 +25,7 @@ Changes:
 * add example monetary and percentage disclosures under S2 29(b)-(d)
 * add 'metric used to set target' and 'metrics used to monitor progress' categoricals, also three sub elements for value of target to S2.
 * add 'target has been revised' to disclosure of climate-related targets.
+* add 'planned use of carbon credits'
 
 
 __Proposed Taxonomy__
