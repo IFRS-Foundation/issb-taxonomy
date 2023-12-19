@@ -22,6 +22,10 @@ Changes:
 * Add four additional elements for subparagraphs under IFRS S2.25(a)
 * Correct reference for Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]
 * add additional reference ( S2.29(a)(iii)(1) ) to Measurement approach entity uses in calculating greenhouse gas emissions
+* add ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges and ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions
+
+
+
 
 __Proposed Taxonomy__
 Corrections to staff draft:

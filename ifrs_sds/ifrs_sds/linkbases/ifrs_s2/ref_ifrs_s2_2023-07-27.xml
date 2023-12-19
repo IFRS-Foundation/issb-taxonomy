@@ -2396,11 +2396,36 @@
             <ref:Subclause>1</ref:Subclause>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_76" xlink:to="res_821" xlink:type="arc"/>                
-        <link:reference xlink:label="res_822" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+        <link:reference xlink:label="res_823" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.29.a.iii.1.1</ref:Number>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_408" xlink:to="res_822" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_408" xlink:to="res_823" xlink:type="arc"/>
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges" xlink:label="loc_824" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions" xlink:label="loc_825" xlink:type="locator"/>
+        <link:reference xlink:label="res_826" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>29</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+            <ref:Clause>iii</ref:Clause>
+            <ref:Subclause>3</ref:Subclause>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_824" xlink:to="res_826" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_825" xlink:to="res_826" xlink:type="arc"/>
+        <link:reference xlink:label="res_827" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.iii.3.1</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_824" xlink:to="res_827" xlink:type="arc"/>
+        <link:reference xlink:label="res_828" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.a.iii.3.2</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_825" xlink:to="res_828" xlink:type="arc"/>
+        
+    
     </link:referenceLink>
 </link:linkbase>

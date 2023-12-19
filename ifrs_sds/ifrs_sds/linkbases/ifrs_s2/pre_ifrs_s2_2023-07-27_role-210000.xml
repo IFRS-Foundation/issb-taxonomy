@@ -366,5 +366,10 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_175" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_174" xlink:to="loc_175" xlink:type="arc"/>
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges" xlink:label="loc_176" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_176" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions" xlink:label="loc_177" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_176" xlink:to="loc_177" xlink:type="arc"/>
+    
     </link:presentationLink>
 </link:linkbase>
