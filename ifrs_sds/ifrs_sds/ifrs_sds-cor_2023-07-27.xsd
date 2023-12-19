@@ -391,4 +391,20 @@
     <xsd:element abstract="false" id="ifrs-sds_ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges" name="ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions" name="ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
     
+    <xsd:element abstract="false" id="ifrs-sds_AssetsVulnerableToClimateRelatedTransitionRisks" name="AssetsVulnerableToClimateRelatedTransitionRisks" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_AssetsVulnerableToClimateRelatedTransitionRisksPercentage" name="AssetsVulnerableToClimateRelatedTransitionRisksPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedTransitionRisks" name="BusinessActivitiesVulnerableToClimateRelatedTransitionRisks" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedTransitionRisksPercentage" name="BusinessActivitiesVulnerableToClimateRelatedTransitionRisksPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+
+    <xsd:element abstract="false" id="ifrs-sds_AssetsVulnerableToClimateRelatedPhysicalRisks" name="AssetsVulnerableToClimateRelatedPhysicalRisks" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_AssetsVulnerableToClimateRelatedPhysicalRisksPercentage" name="AssetsVulnerableToClimateRelatedPhysicalRisksPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedPhysicalRisks" name="BusinessActivitiesVulnerableToClimateRelatedPhysicalRisks" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedPhysicalRisksPercentage" name="BusinessActivitiesVulnerableToClimateRelatedPhysicalRisksPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+
+    <xsd:element abstract="false" id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunities" name="AssetsAlignedWithClimateRelatedOpportunities" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunitiesPercentage" name="AssetsAlignedWithClimateRelatedOpportunitiesPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks" name="BusinessActivitiesAlignedWithClimateRelatedOpportunities" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" name="BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+    
+    
 </xsd:schema>
