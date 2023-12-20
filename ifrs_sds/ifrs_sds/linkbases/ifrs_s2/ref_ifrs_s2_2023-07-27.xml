@@ -2654,5 +2654,14 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_916" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_916" xlink:type="arc"/>
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" xlink:label="loc_917" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_917" xlink:to="res_65" xlink:type="arc"/>
+        <link:reference xlink:label="res_918" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S2.29.g.i.2</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_917" xlink:to="res_918" xlink:type="arc"/>
+
+                
     </link:referenceLink>
 </link:linkbase>

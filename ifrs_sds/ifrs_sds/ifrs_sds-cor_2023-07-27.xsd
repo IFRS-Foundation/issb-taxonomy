@@ -433,4 +433,6 @@
     <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" name="DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" name="DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
 
+    <xsd:element abstract="false" id="ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" name="ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+
 </xsd:schema>

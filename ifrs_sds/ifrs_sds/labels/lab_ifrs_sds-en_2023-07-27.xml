@@ -1282,6 +1282,9 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_406" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_406" xlink:to="res_652" xlink:type="arc"/>
         
+        <link:label id="ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration_label" xlink:label="res_653" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related considerations are factored into executive remuneration</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" xlink:label="loc_407" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_407" xlink:to="res_653" xlink:type="arc"/>
 
         
     </link:labelLink>
