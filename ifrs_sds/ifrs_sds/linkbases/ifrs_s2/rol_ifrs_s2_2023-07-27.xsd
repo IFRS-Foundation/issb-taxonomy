@@ -81,6 +81,12 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
+            <link:roleType id="ifrs_s2_2023-07-27_role-210000l" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-07-27_role-210000l">
+                <link:definition>[210000l] Climate-related disclosures - Disclosure of risk management of climate-related risks and opportunities [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
             <link:roleType id="ifrs_s2_2023-07-27_role-211100" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2023-07-27_role-211100">
                 <link:definition>[211100] Climate-related disclosures - Financed emissions - Asset management</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>

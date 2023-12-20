@@ -429,4 +429,8 @@
     <xsd:element abstract="true" id="ifrs-sds_DisclosureOfMetricsForClimateRelatedRisksAndOpportunitiesTable" name="DisclosureOfMetricsForClimateRelatedRisksAndOpportunitiesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_MetricsRelatedToRisksAndOpportunities" name="MetricsRelatedToRisksAndOpportunities" nillable="true" substitutionGroup="xbrli:item" type="enum2:enumerationSetItemType" xbrli:periodType="duration" enum2:domain="ifrs-sds:SustainabilityMetricsDomain" enum2:headUsable="false" enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2023-07-27_role-995000" />
 
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesAbstract" name="DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" name="DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" name="DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+
 </xsd:schema>

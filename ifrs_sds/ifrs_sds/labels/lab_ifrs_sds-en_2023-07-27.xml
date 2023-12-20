@@ -1271,6 +1271,17 @@
         <link:label id="ifrs-sds_MetricsRelatedToRisksAndOpportunities_label" xlink:label="res_649" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric(s) related to risks and opportunities</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricsRelatedToRisksAndOpportunities" xlink:label="loc_403" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_403" xlink:to="res_649" xlink:type="arc"/>
+        
+        <link:label id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_650" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of risk management of climate-related risks and opportunities [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_404" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_404" xlink:to="res_650" xlink:type="arc"/>
+        <link:label id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems_label" xlink:label="res_651" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of risk management of climate-related risks and opportunities [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_405" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_405" xlink:to="res_651" xlink:type="arc"/>
+        <link:label id="ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable_label" xlink:label="res_652" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of risk management of climate-related risks and opportunities [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_406" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_406" xlink:to="res_652" xlink:type="arc"/>
+        
 
         
     </link:labelLink>

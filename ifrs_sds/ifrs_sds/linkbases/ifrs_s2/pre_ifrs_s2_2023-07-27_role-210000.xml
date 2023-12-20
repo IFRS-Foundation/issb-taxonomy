@@ -99,7 +99,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfHowAndWhenClimateRelatedScenarioAnalysisWasCarriedOutExplanatory" xlink:label="loc_71" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfProcessesAndRelatedPoliciesEntityUsesToIdentifyAssessPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_76" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_RiskManagementAbstract" xlink:label="loc_75" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_76" xlink:type="arc"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_214" xlink:to="loc_76" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfWhetherAndHowEntityUsesScenarioAnalysisToInformItsIdentificationOfRisksExplanatory" xlink:label="loc_77" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_77" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityUsesClimateRelatedScenarioAnalysisToInformItsIdentificationOfClimateRelatedRisks" xlink:label="loc_78" xlink:type="locator"/>
@@ -218,7 +218,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateRelatedScenariosUsedAreAssociatedWithClimateRelatedTransitionRisksOrClimateRelatedPhysicalRisks" xlink:label="loc_73" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_71" xlink:to="loc_73" xlink:type="arc"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_79" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_81" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_214" xlink:to="loc_81" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_OtherInvesteesExcludedFromConsolidatedAccountingGroupMember" xlink:label="loc_94" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_92" xlink:to="loc_94" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_89" xlink:to="loc_95" xlink:type="arc"/>
@@ -266,7 +266,7 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_71" xlink:to="loc_74" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_75" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfExtentToWhichAndHowProcessesForIdentifyingAssessingPrioritisingAndMonitoringRisksAndOpportunitiesAreIntegratedIntoOrInformEntitysOverallRiskManagementProcessExplanatory" xlink:label="loc_84" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_84" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_214" xlink:to="loc_84" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope1And2GreenhouseGasEmissions" xlink:label="loc_98" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_98" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GrossScope12And3GreenhouseGasEmissions" xlink:label="loc_100" xlink:type="locator"/>
@@ -438,6 +438,17 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForClimateRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_207" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_207" xlink:to="loc_208" xlink:type="arc"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_203" xlink:to="loc_207" xlink:type="arc"/>
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_209" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_75" xlink:to="loc_209" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_210" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_209" xlink:to="loc_210" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_RisksAndOpportunitiesAxis" xlink:label="loc_211" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_210" xlink:to="loc_211" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_RisksAndOpportunitiesDomain" xlink:label="loc_212" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_211" xlink:to="loc_212" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_214" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_209" xlink:to="loc_214" xlink:type="arc"/>
         
     </link:presentationLink>
 </link:linkbase>
