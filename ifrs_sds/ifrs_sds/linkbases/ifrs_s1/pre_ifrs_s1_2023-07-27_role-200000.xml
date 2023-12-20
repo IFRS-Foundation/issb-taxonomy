@@ -297,5 +297,9 @@
         <link:presentationArc order="80.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_133" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EntityHasMadeExplicitAndUnreservedStatementOfCompliance" xlink:label="loc_117" xlink:type="locator"/>
         <link:presentationArc order="90.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_117" xlink:type="arc"/>
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsOfRiskOrOpportunity" xlink:label="loc_162" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_28" xlink:to="loc_162" xlink:type="arc"/>
+
     </link:presentationLink>
 </link:linkbase>

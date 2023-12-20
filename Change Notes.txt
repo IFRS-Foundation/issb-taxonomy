@@ -14,7 +14,7 @@ Changes:
 * Changed terse labels (many per element) to commentary references (comma separated list), the least inappropriate standard reference type.
 * Changed all references applied to abstract elements (members etc) to be simply "reference" type (rather than disclosure or example).
 * Split IM pres ELRs (830300 and 830800) into parts where the defs conflict with each other.
-* Add TopicsCoveredByIntegratedGovernanceDisclosure, TopicsCoveredByIntegratedRiskManagementDisclosure, TopicsOfRiskOrOpportunity
+* Add TopicsCoveredByIntegratedGovernanceDisclosure, TopicsCoveredByIntegratedRiskManagementDisclosure, TopicsOfRiskOrOpportunity (S1 and S2)
 * Add DefinitionOfTimeHorizonsIsLinkedToPlanningHorizons
 * Add 5 elements in S2 strategy and decision-making section, rearrange presentation
 * Remove ClimateRelatedScenarioAnalysisIncludedDiverseRangeOfClimateRelatedScenarios

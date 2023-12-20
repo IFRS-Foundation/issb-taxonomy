@@ -1406,5 +1406,27 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TransitionReliefUsedPermittingDisclosureOnOnlyClimateRelatedRisksAndOpportunities" xlink:label="loc_279" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_279" xlink:to="res_361" xlink:type="arc"/>
+        
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityTopicsDomain" xlink:label="loc_774" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateTopicMember" xlink:label="loc_775" xlink:type="locator"/>
+        <link:reference xlink:label="res_777" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>30</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsOfRiskOrOpportunity" xlink:label="loc_778" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_778" xlink:to="res_777" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_774" xlink:to="res_777" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_775" xlink:to="res_777" xlink:type="arc"/>
+        <link:reference xlink:label="res_779" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S1.30.a.2</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_778" xlink:to="res_779" xlink:type="arc"/>
+        
+        
     </link:referenceLink>
 </link:linkbase>
