@@ -1134,9 +1134,7 @@
         <link:label id="ifrs-sds_TopicsCoveredByIntegratedRiskManagementDisclosure_label" xlink:label="res_608" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Topic(s) covered by integrated risk management disclosure</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsCoveredByIntegratedRiskManagementDisclosure" xlink:label="loc_362" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_362" xlink:to="res_608" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DefinitionOfTimeHorizonsIsLinkedToPlanningHorizons_label" xlink:label="res_609" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Definition of time horizons is linked to planning horizons</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DefinitionOfTimeHorizonsIsLinkedToPlanningHorizons" xlink:label="loc_363" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_363" xlink:to="res_609" xlink:type="arc"/>
+
 
         <link:label id="ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities_label" xlink:label="res_610" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes to business model, including resource allocation, to address climate-related risks and opportunities </link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities" xlink:label="loc_364" xlink:type="locator"/>
