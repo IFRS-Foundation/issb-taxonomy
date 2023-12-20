@@ -27,7 +27,7 @@ Changes:
 * add 'target has been revised' to disclosure of climate-related targets.
 * add 'planned use of carbon credits'
 * add elements for emission factors and approach to calculating GHG emissions when not in accordance with GHG
-
+* add elements for extent scope 2 emissions measured using inputs from specific activities within value chain and using verified inputs (S2 b56)
 
 __Proposed Taxonomy__
 Corrections to staff draft:

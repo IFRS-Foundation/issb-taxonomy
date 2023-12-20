@@ -421,4 +421,7 @@
     <xsd:element abstract="false" id="ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissionsWhenNotInAccordanceWithGreenhouseGasProtocol" name="MethodAndMeasurementApproachUsedInCalculatingGreenhouseGasEmissionsWhenNotInAccordanceWithGreenhouseGasProtocol" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" name="EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
 
+    <xsd:element abstract="false" id="ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingInputsFromSpecificActivitiesWithinValueChain" name="ExtentScope3GreenhouseGasEmissionsMeasuredUsingInputsFromSpecificActivitiesWithinValueChain" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingVerifiedInputs" name="ExtentScope3GreenhouseGasEmissionsMeasuredUsingVerifiedInputs" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+
 </xsd:schema>

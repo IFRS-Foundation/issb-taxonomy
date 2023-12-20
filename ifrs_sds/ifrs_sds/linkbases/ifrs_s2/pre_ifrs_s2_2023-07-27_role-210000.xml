@@ -421,5 +421,10 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" xlink:label="loc_198" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_198" xlink:type="arc"/> 
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingInputsFromSpecificActivitiesWithinValueChain" xlink:label="loc_199" xlink:type="locator"/>
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_199" xlink:type="arc"/>    
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingVerifiedInputs" xlink:label="loc_200" xlink:type="locator"/>
+        <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_200" xlink:type="arc"/> 
+        
     </link:presentationLink>
 </link:linkbase>

@@ -1177,7 +1177,7 @@
         <link:label id="ifrs-sds_ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges_label" xlink:label="res_621" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes to measurement approach, inputs and assumptions used to measure greenhouse gas emissions and reasons for changes</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissionsAndReasonsForChanges" xlink:label="loc_375" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_375" xlink:to="res_621" xlink:type="arc"/>
-        <link:label id="ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions_label" xlink:label="res_622" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes made changes to measurement approach, inputs and assumptions used to measure greenhouse gas emissions</link:label>
+        <link:label id="ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions_label" xlink:label="res_622" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes made to measurement approach, inputs and assumptions used to measure greenhouse gas emissions</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGreenhouseGasEmissions" xlink:label="loc_376" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_376" xlink:to="res_622" xlink:type="arc"/>
 
@@ -1252,5 +1252,13 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EmissionFactorsUsedInCalculatingGreenhouseGasEmissions" xlink:label="loc_397" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_397" xlink:to="res_643" xlink:type="arc"/>
 
+        <link:label id="ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingInputsFromSpecificActivitiesWithinValueChain_label" xlink:label="res_644" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extent Scope 3 greenhouse gas emissions measured using inputs from specific activities within value chain</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingInputsFromSpecificActivitiesWithinValueChain" xlink:label="loc_398" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_398" xlink:to="res_644" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingVerifiedInputs_label" xlink:label="res_645" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extent Scope 3 greenhouse gas emissions measured using verified inputs</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ExtentScope3GreenhouseGasEmissionsMeasuredUsingVerifiedInputs" xlink:label="loc_399" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_399" xlink:to="res_645" xlink:type="arc"/>
+
+        
     </link:labelLink>
 </link:linkbase>
