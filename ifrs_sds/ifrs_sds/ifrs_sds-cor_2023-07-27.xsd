@@ -434,4 +434,10 @@
 
     <xsd:element abstract="false" id="ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" name="ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
 
+    <xsd:element abstract="false" id="ifrs-sds_SustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" name="SustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" nillable="true" substitutionGroup="xbrli:item" type="xbrli:booleanItemType" xbrli:periodType="duration"/>
+
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesAbstract" name="DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesLineItems" name="DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesTable" name="DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+
 </xsd:schema>

@@ -28,7 +28,7 @@ Changes:
 * add elements for emission factors and approach to calculating GHG emissions when not in accordance with GHG
 * add elements for extent scope 2 emissions measured using inputs from specific activities within value chain and using verified inputs (S2 B56)
 * add table for Metric(s) related to risks and opportunities
-* add table for Disclosure of risk management of climate-related risks and opportunities
+* add tables for Disclosure of risk management of (sustainability/climate)-related risks and opportunities 
 * add Climate-related considerations are factored into executive remuneration
 
 
