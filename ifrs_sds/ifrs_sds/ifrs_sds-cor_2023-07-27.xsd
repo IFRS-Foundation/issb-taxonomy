@@ -440,4 +440,8 @@
     <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesLineItems" name="DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesTable" name="DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
 
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract" name="DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems" name="DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable" name="DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+
 </xsd:schema>

@@ -1297,6 +1297,15 @@
         <link:label id="ifrs-sds_SustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk_label" xlink:label="res_657" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability-related risks have been prioritised relative to other types of risk</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_411" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_411" xlink:to="res_657" xlink:type="arc"/>
-        
+
+        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for Sustainability-related risks and opportunities [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_412" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_412" xlink:to="res_658" xlink:type="arc"/>
+        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems_label" xlink:label="res_659" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for Sustainability-related risks and opportunities [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_413" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_413" xlink:to="res_659" xlink:type="arc"/>
+        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable_label" xlink:label="res_660" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for Sustainability-related risks and opportunities [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable" xlink:label="loc_414" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_414" xlink:to="res_660" xlink:type="arc"/>        
     </link:labelLink>
 </link:linkbase>
