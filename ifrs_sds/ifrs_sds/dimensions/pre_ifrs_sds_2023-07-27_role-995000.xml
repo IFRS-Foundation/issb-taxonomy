@@ -123,5 +123,17 @@
 
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityMetricsDomain" xlink:label="loc_63" xlink:type="locator"/>
 
+
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityMetricSourcesDomain" xlink:label="loc_64" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_CdsbFrameworkApplicationGuidanceMember" xlink:label="loc_65" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:to="loc_65" xlink:type="arc"/>
+         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EsrsMember" xlink:label="loc_66" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:to="loc_66" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GriStandardsMember" xlink:label="loc_67" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:to="loc_67" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SasbStandardsMember" xlink:label="loc_68" xlink:type="locator"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_64" xlink:to="loc_68" xlink:type="arc"/>
+     
+    
     </link:presentationLink>
 </link:linkbase>

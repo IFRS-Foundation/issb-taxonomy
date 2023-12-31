@@ -81,6 +81,18 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
+            <link:roleType id="ifrs_s1_2023-07-27_role-200000l" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-07-27_role-200000l">
+                <link:definition>[200000l] General requirements for disclosure of sustainability-related financial information - Disclosure of metrics for sustainability-related risks and opportunities [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
+            <link:roleType id="ifrs_s1_2023-07-27_role-200000m" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-07-27_role-200000m">
+                <link:definition>[200000m] General requirements for disclosure of sustainability-related financial information - Disclosure of source of metrics (other than IFRS Standards) [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
         </xsd:appinfo>
     </xsd:annotation>
 </xsd:schema>

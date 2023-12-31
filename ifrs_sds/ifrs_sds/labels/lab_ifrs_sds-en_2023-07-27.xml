@@ -1122,10 +1122,10 @@
         <link:label id="ifrs-sds_TopicsCoveredByIntegratedGovernanceDisclosure_label" xlink:label="res_604" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Topic(s) covered by integrated governance disclosure</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TopicsCoveredByIntegratedGovernanceDisclosure" xlink:label="loc_358" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_358" xlink:to="res_604" xlink:type="arc"/>
-        <link:label id="ifrs-sds_SustainabilityTopicsDomain_label" xlink:label="res_605" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability Topics [domain]</link:label>
+        <link:label id="ifrs-sds_SustainabilityTopicsDomain_label" xlink:label="res_605" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability topics [domain]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityTopicsDomain" xlink:label="loc_359" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_359" xlink:to="res_605" xlink:type="arc"/>
-        <link:label id="ifrs-sds_ClimateTopicMember_label" xlink:label="res_606" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate Topic [member]</link:label>
+        <link:label id="ifrs-sds_ClimateTopicMember_label" xlink:label="res_606" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate topic [member]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_ClimateTopicMember" xlink:label="loc_360" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_360" xlink:to="res_606" xlink:type="arc"/>
         <link:label id="ifrs-sds_TopicsOfRiskOrOpportunity_label" xlink:label="res_607" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Topic(s) of risk or opportunity</link:label>
@@ -1298,14 +1298,44 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityRelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_411" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_411" xlink:to="res_657" xlink:type="arc"/>
 
-        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for Sustainability-related risks and opportunities [abstract]</link:label>
+        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for sustainability-related risks and opportunities [abstract]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_412" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_412" xlink:to="res_658" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems_label" xlink:label="res_659" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for Sustainability-related risks and opportunities [line items]</link:label>
+        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems_label" xlink:label="res_659" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for sustainability-related risks and opportunities [line items]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_413" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_413" xlink:to="res_659" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable_label" xlink:label="res_660" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for Sustainability-related risks and opportunities [table]</link:label>
+        <link:label id="ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable_label" xlink:label="res_660" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of metrics for sustainability-related risks and opportunities [table]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfMetricsForSustainabilityRelatedRisksAndOpportunitiesTable" xlink:label="loc_414" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_414" xlink:to="res_660" xlink:type="arc"/>        
+
+        <link:label id="ifrs-sds_DisclosureOfSourceOfMetricsAbstract_label" xlink:label="res_661" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of source of metrics (other than IFRS Standards) [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfSourceOfMetricsAbstract" xlink:label="loc_415" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_415" xlink:to="res_661" xlink:type="arc"/>
+        <link:label id="ifrs-sds_DisclosureOfSourceOfMetricsLineItems_label" xlink:label="res_662" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of source of metrics (other than IFRS Standards) [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfSourceOfMetricsLineItems" xlink:label="loc_416" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_416" xlink:to="res_662" xlink:type="arc"/>
+        <link:label id="ifrs-sds_DisclosureOfSourceOfMetricsTable_label" xlink:label="res_663" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of source of metrics (other than IFRS Standards) [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfSourceOfMetricsTable" xlink:label="loc_417" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_417" xlink:to="res_663" xlink:type="arc"/>        
+
+        <link:label id="ifrs-sds_SourceFromWhichMetricWasDrawn_label" xlink:label="res_664" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Source from which metric was drawn</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SourceFromWhichMetricWasDrawn" xlink:label="loc_418" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_418" xlink:to="res_664" xlink:type="arc"/>
+        <link:label id="ifrs-sds_SustainabilityMetricSourcesDomain_label" xlink:label="res_665" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability metric sources [domain]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SustainabilityMetricSourcesDomain" xlink:label="loc_419" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_419" xlink:to="res_665" xlink:type="arc"/>
+        <link:label id="ifrs-sds_SasbStandardsMember_label" xlink:label="res_666" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">SASB Standards [member]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_SasbStandardsMember" xlink:label="loc_420" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_420" xlink:to="res_666" xlink:type="arc"/>        
+        <link:label id="ifrs-sds_CdsbFrameworkApplicationGuidanceMember_label" xlink:label="res_667" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">CDSB Framework Application Guidance [member]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_CdsbFrameworkApplicationGuidanceMember" xlink:label="loc_421" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_421" xlink:to="res_667" xlink:type="arc"/>
+        <link:label id="ifrs-sds_GriStandardsMember_label" xlink:label="res_668" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Global Reporting Initiative Standards [member]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_GriStandardsMember" xlink:label="loc_422" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_422" xlink:to="res_668" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EsrsMember_label" xlink:label="res_669" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">European Sustainability Reporting Standards [member]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EsrsMember" xlink:label="loc_423" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_423" xlink:to="res_669" xlink:type="arc"/>        
+
     </link:labelLink>
 </link:linkbase>
