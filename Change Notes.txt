@@ -31,7 +31,7 @@ Changes:
 * add tables for Disclosure of risk management of (sustainability/climate)-related risks and opportunities 
 * add Climate-related considerations are factored into executive remuneration
 * add Disclosure of source of metrics (other than IFRS Standards) table, and enum element for 'Source from which metric was drawn'
-
+* add 3*elements for metric value 
 
 
 __Proposed Taxonomy__

@@ -1573,5 +1573,13 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EsrsMember" xlink:label="loc_423" xlink:type="locator"/>  
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_423" xlink:to="res_921" xlink:type="arc"/> 
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValueText" xlink:label="loc_425" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_425" xlink:to="res_912" xlink:type="arc"/> 
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValueNumeric" xlink:label="loc_426" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_426" xlink:to="res_912" xlink:type="arc"/> 
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValuePercentage" xlink:label="loc_427" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_427" xlink:to="res_912" xlink:type="arc"/> 
+        
+
     </link:referenceLink>
 </link:linkbase>

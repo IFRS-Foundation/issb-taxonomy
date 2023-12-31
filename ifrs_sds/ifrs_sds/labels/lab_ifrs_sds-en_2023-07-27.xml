@@ -1337,5 +1337,18 @@
         <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_EsrsMember" xlink:label="loc_423" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_423" xlink:to="res_669" xlink:type="arc"/>        
 
+        <link:label id="ifrs-sds_MetricValueAbstract_label" xlink:label="res_670" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValueAbstract" xlink:label="loc_424" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_424" xlink:to="res_670" xlink:type="arc"/>   
+        <link:label id="ifrs-sds_MetricValueText_label" xlink:label="res_671" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value, text</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValueText" xlink:label="loc_425" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_425" xlink:to="res_671" xlink:type="arc"/> 
+        <link:label id="ifrs-sds_MetricValueNumeric_label" xlink:label="res_672" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value, numeric</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValueNumeric" xlink:label="loc_426" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_426" xlink:to="res_672" xlink:type="arc"/>        
+        <link:label id="ifrs-sds_MetricValuePercentage_label" xlink:label="res_673" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value, percentage </link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValuePercentage" xlink:label="loc_427" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_427" xlink:to="res_673" xlink:type="arc"/>
+    
     </link:labelLink>
 </link:linkbase>

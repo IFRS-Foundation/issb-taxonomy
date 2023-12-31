@@ -452,5 +452,10 @@
     <xsd:element abstract="true" id="ifrs-sds_SasbStandardsMember" name="SasbStandardsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/> 
     <xsd:element abstract="true" id="ifrs-sds_CdsbFrameworkApplicationGuidanceMember" name="CdsbFrameworkApplicationGuidanceMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/> 
     <xsd:element abstract="true" id="ifrs-sds_GriStandardsMember" name="GriStandardsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="true" id="ifrs-sds_EsrsMember" name="EsrsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/> 
+    <xsd:element abstract="true" id="ifrs-sds_EsrsMember" name="EsrsMember" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/>
+    
+    <xsd:element abstract="true" id="ifrs-sds_MetricValueAbstract" name="MetricValueAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_MetricValueText" name="MetricValueText" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_MetricValueNumeric" name="MetricValueNumeric" nillable="true" substitutionGroup="xbrli:item" type="xbrli:decimalItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="false" id="ifrs-sds_MetricValuePercentage" name="MetricValuePercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>    
 </xsd:schema>
