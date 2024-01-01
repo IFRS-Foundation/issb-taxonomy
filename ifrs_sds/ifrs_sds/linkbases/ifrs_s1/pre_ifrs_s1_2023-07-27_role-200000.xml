@@ -358,6 +358,19 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricValuePercentage" xlink:label="loc_225" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_222" xlink:to="loc_225" xlink:type="arc"/>
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_226" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_96" xlink:to="loc_226" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricsUsedToMonitorTargetProgress" xlink:label="loc_227" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_96" xlink:to="loc_227" xlink:type="arc"/>
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValueText" xlink:label="loc_228" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_97" xlink:to="loc_228" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValueNumeric" xlink:label="loc_229" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_97" xlink:to="loc_229" xlink:type="arc"/>    
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValuePercentage" xlink:label="loc_230" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_97" xlink:to="loc_230" xlink:type="arc"/>
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_231" xlink:type="locator"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_102" xlink:to="loc_231" xlink:type="arc"/>         
     </link:presentationLink>
 </link:linkbase>

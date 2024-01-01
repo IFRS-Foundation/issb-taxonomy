@@ -207,6 +207,19 @@
         <link:definitionArc order="60.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_11" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRevisionsToTargetExplanatory" xlink:label="loc_12" xlink:type="locator"/>
         <link:definitionArc order="70.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_12" xlink:type="arc"/>
+
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_25" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_25" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_MetricsUsedToMonitorTargetProgress" xlink:label="loc_26" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_26" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValueText" xlink:label="loc_27" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_27" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValueNumeric" xlink:label="loc_28" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_28" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetValuePercentage" xlink:label="loc_29" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_29" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_30" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_12" xlink:to="loc_30" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2023-07-27_role-200000i" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_sds-cor_2023-07-27.xsd#ifrs-sds_DisclosureOfRedefinitionOrReplacementOfMetricsIncludingMetricsUsedToSetAndMonitorProgressTowardsReachingEntitysTargetsTable" xlink:label="loc_2" xlink:type="locator"/>

@@ -22,8 +22,8 @@ Changes:
 * Correct reference for Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]
 * add additional reference ( S2.29(a)(iii)(1) ) to Measurement approach entity uses in calculating greenhouse gas emissions
 * add example monetary and percentage disclosures under S2 29(b)-(d)
-* add 'metric used to set target' and 'metrics used to monitor progress' categoricals, also three sub elements for value of target to S2.
-* add 'target has been revised' to disclosure of climate-related targets.
+* add 'metric used to set target' and 'metrics used to monitor progress' categoricals, also three sub elements for value of target to S1 and S2.
+* add 'target has been revised' to disclosures of targets.
 * add 'planned use of carbon credits'
 * add elements for emission factors and approach to calculating GHG emissions when not in accordance with GHG
 * add elements for extent scope 2 emissions measured using inputs from specific activities within value chain and using verified inputs (S2 B56)
