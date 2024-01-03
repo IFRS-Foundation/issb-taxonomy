@@ -79,7 +79,7 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_3" xlink:to="loc_15" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterWithdrawnPercentageInRegionsWithHighOrExtremelyHighBaselineWaterStress" xlink:label="loc_18" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_18" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntime" xlink:label="loc_27" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntimeDays" xlink:label="loc_27" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:to="loc_27" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_29" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_31" xlink:to="loc_38" xlink:type="arc"/>

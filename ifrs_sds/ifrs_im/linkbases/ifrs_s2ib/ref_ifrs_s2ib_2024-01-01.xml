@@ -4063,11 +4063,11 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>IF-EU-550a.2</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationIndexSaidi" xlink:label="loc_667" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationIndexSaidiMinutes" xlink:label="loc_667" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_667" xlink:to="res_312" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionFrequencyIndexSaifi" xlink:label="loc_668" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_668" xlink:to="res_312" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationIndexCaidi" xlink:label="loc_669" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationIndexCaidiMinutes" xlink:label="loc_669" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_669" xlink:to="res_312" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NotableServiceDisruptionsExplanatory" xlink:label="loc_670" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_670" xlink:to="res_312" xlink:type="arc"/>
@@ -6229,7 +6229,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1018" xlink:to="res_6325" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1019" xlink:to="res_6325" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1020" xlink:to="res_6325" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetime" xlink:label="loc_1027" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHours" xlink:label="loc_1027" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1027" xlink:to="res_454" xlink:type="arc"/>
         <link:reference xlink:label="res_455" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -6265,7 +6265,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_990" xlink:to="res_6326" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_991" xlink:to="res_6326" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_992" xlink:to="res_6326" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetime" xlink:label="loc_1029" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeCycles" xlink:label="loc_1029" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1029" xlink:to="res_455" xlink:type="arc"/>
         <link:reference xlink:label="res_456" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -7997,7 +7997,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PerformanceIssues" xlink:label="loc_1193" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1193" xlink:to="res_604" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_907" xlink:to="res_604" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntime" xlink:label="loc_1194" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntimeDays" xlink:label="loc_1194" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1194" xlink:to="res_604" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SignificantPerformanceIssuesAndServiceDisruptionsAndAnyCorrectiveActionsTakenToPreventFutureDisruptionsExplanatory" xlink:label="loc_1195" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1195" xlink:to="res_604" xlink:type="arc"/>
@@ -8074,11 +8074,11 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>TC-TL-550a.1</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDuration" xlink:label="loc_1201" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationMinutes" xlink:label="loc_1201" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1201" xlink:to="res_612" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionFrequency" xlink:label="loc_1202" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1202" xlink:to="res_612" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDuration" xlink:label="loc_1203" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationMinutes" xlink:label="loc_1203" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1203" xlink:to="res_612" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1195" xlink:to="res_612" xlink:type="arc"/>
         <link:reference xlink:label="res_613" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -8335,7 +8335,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>TR-AL-000.F</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetAverageVehicleAge" xlink:label="loc_1230" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetAverageVehicleAgeYears" xlink:label="loc_1230" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1230" xlink:to="res_636" xlink:type="arc"/>
         <link:reference xlink:label="res_637" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -8532,7 +8532,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>TR-CR-000.B</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RentalDurationAvailable" xlink:label="loc_1250" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RentalDurationAvailableDays" xlink:label="loc_1250" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1250" xlink:to="res_654" xlink:type="arc"/>
         <link:reference xlink:label="res_655" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -8731,7 +8731,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>TR-MT-000.C</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDuration" xlink:label="loc_1262" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDurationDays" xlink:label="loc_1262" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1262" xlink:to="res_673" xlink:type="arc"/>
         <link:reference xlink:label="res_674" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -12006,7 +12006,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-EU-550a.2a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationIndexSaidi" xlink:label="loc_2420" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationIndexSaidiMinutes" xlink:label="loc_2420" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2420" xlink:to="res_3409" xlink:type="arc"/>
         <link:reference xlink:label="res_3412" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -12018,7 +12018,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-EU-550a.2c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationIndexCaidi" xlink:label="loc_2422" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationIndexCaidiMinutes" xlink:label="loc_2422" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2422" xlink:to="res_3415" xlink:type="arc"/>
         <link:reference xlink:label="res_3417" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -14022,7 +14022,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RR-FC-410a.4a, RR-FC-410a.4aa, RR-FC-410a.4b, RR-FC-410a.4bb, RR-FC-410a.4c, RR-FC-410a.4d, RR-FC-410a.4e, RR-FC-410a.4f, RR-FC-410a.4g, RR-FC-410a.4h, RR-FC-410a.4i, RR-FC-410a.4j, RR-FC-410a.4k, RR-FC-410a.4l, RR-FC-410a.4m, RR-FC-410a.4n, RR-FC-410a.4o, RR-FC-410a.4p, RR-FC-410a.4q, RR-FC-410a.4r, RR-FC-410a.4s, RR-FC-410a.4t, RR-FC-410a.4u, RR-FC-410a.4v, RR-FC-410a.4w, RR-FC-410a.4x, RR-FC-410a.4y, RR-FC-410a.4z</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetime" xlink:label="loc_3039" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHours" xlink:label="loc_3039" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3039" xlink:to="res_4604" xlink:type="arc"/>
         <link:reference xlink:label="res_4606" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -14034,7 +14034,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RR-FC-410a.5a, RR-FC-410a.5b, RR-FC-410a.5c, RR-FC-410a.5d, RR-FC-410a.5e, RR-FC-410a.5f, RR-FC-410a.5g, RR-FC-410a.5h, RR-FC-410a.5i, RR-FC-410a.5j, RR-FC-410a.5k, RR-FC-410a.5l, RR-FC-410a.5m, RR-FC-410a.5n, RR-FC-410a.5o, RR-FC-410a.5p, RR-FC-410a.5q, RR-FC-410a.5r, RR-FC-410a.5s, RR-FC-410a.5t</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetime" xlink:label="loc_3044" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeCycles" xlink:label="loc_3044" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3044" xlink:to="res_4612" xlink:type="arc"/>
         <link:reference xlink:label="res_4616" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -15348,7 +15348,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>TC-SI-550a.1c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntime" xlink:label="loc_3406" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntimeDays" xlink:label="loc_3406" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3406" xlink:to="res_5424" xlink:type="arc"/>
         <link:reference xlink:label="res_5426" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -15414,7 +15414,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>TC-TL-550a.1a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDuration" xlink:label="loc_3422" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationMinutes" xlink:label="loc_3422" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3422" xlink:to="res_5464" xlink:type="arc"/>
         <link:reference xlink:label="res_5467" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -15426,7 +15426,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>TC-TL-550a.1c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDuration" xlink:label="loc_3424" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationMinutes" xlink:label="loc_3424" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3424" xlink:to="res_5470" xlink:type="arc"/>
         <link:reference xlink:label="res_5473" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -15654,7 +15654,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>TR-AL-000.Fa,TR-CR-000.Aa</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetAverageVehicleAge" xlink:label="loc_3479" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetAverageVehicleAgeYears" xlink:label="loc_3479" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3479" xlink:to="res_5601" xlink:type="arc"/>
         <link:reference xlink:label="res_5606" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -15804,7 +15804,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>TR-CR-000.Ba</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RentalDurationAvailable" xlink:label="loc_3531" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RentalDurationAvailableDays" xlink:label="loc_3531" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3531" xlink:to="res_5701" xlink:type="arc"/>
         <link:reference xlink:label="res_5703" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -15972,7 +15972,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>TR-MT-000.Ca</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDuration" xlink:label="loc_3564" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDurationDays" xlink:label="loc_3564" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3564" xlink:to="res_5791" xlink:type="arc"/>
         <link:reference xlink:label="res_5793" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>

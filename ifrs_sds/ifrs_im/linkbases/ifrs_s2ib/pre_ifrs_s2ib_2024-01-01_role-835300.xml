@@ -78,14 +78,14 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryCoulombicEfficiency" xlink:label="loc_83" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryCoulombicEfficiencyLineItems" xlink:label="loc_82" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_82" xlink:to="loc_83" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeAbstract" xlink:label="loc_85" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHoursAbstract" xlink:label="loc_85" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFC410a4Abstract" xlink:label="loc_84" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_84" xlink:to="loc_85" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeTable" xlink:label="loc_86" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHoursTable" xlink:label="loc_86" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_85" xlink:to="loc_86" xlink:type="arc"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_86" xlink:to="loc_47" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetime" xlink:label="loc_88" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeLineItems" xlink:label="loc_87" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHours" xlink:label="loc_88" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHoursLineItems" xlink:label="loc_87" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_87" xlink:to="loc_88" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeAbstract" xlink:label="loc_90" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFC410a5Abstract" xlink:label="loc_89" xlink:type="locator"/>
@@ -93,7 +93,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeTable" xlink:label="loc_91" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_90" xlink:to="loc_91" xlink:type="arc"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_91" xlink:to="loc_20" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetime" xlink:label="loc_93" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeCycles" xlink:label="loc_93" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeLineItems" xlink:label="loc_92" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_92" xlink:to="loc_93" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFC000AAbstract" xlink:label="loc_95" xlink:type="locator"/>

@@ -71,7 +71,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsDistanceTravelled" xlink:label="loc_37" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRMT000BAbstract" xlink:label="loc_36" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_36" xlink:to="loc_37" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDuration" xlink:label="loc_39" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDurationDays" xlink:label="loc_39" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRMT000CAbstract" xlink:label="loc_38" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_38" xlink:to="loc_39" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsDeadweight" xlink:label="loc_41" xlink:type="locator"/>

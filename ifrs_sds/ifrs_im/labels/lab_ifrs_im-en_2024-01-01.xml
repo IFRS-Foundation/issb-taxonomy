@@ -509,14 +509,14 @@
         <link:label id="ifrs-im_IncidentsOfNonCompliancePhysicalOrCybersecurityStandardsOrRegulations_measurementGuidance_1" xlink:label="res_2137" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IncidentsOfNonCompliancePhysicalOrCybersecurityStandardsOrRegulations" xlink:label="loc_1152" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1152" xlink:to="res_2137" xlink:type="arc"/>
-        <link:label id="ifrs-im_SystemAverageInterruptionDurationIndexSaidi_measurementGuidance_1" xlink:label="res_2142" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationIndexSaidi" xlink:label="loc_1154" xlink:type="locator"/>
+        <link:label id="ifrs-im_SystemAverageInterruptionDurationIndexSaidiMinutes_measurementGuidance_1" xlink:label="res_2142" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationIndexSaidiMinutes" xlink:label="loc_1154" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1154" xlink:to="res_2142" xlink:type="arc"/>
         <link:label id="ifrs-im_SystemAverageInterruptionFrequencyIndexSaifi_measurementGuidance_1" xlink:label="res_2145" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionFrequencyIndexSaifi" xlink:label="loc_1155" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1155" xlink:to="res_2145" xlink:type="arc"/>
-        <link:label id="ifrs-im_CustomerAverageInterruptionDurationIndexCaidi_measurementGuidance_1" xlink:label="res_2148" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationIndexCaidi" xlink:label="loc_1156" xlink:type="locator"/>
+        <link:label id="ifrs-im_CustomerAverageInterruptionDurationIndexCaidiMinutes_measurementGuidance_1" xlink:label="res_2148" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationIndexCaidiMinutes" xlink:label="loc_1156" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1156" xlink:to="res_2148" xlink:type="arc"/>
         <link:label id="ifrs-im_CustomersNumber_measurementGuidance_1" xlink:label="res_2170" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomersNumber" xlink:label="loc_1170" xlink:type="locator"/>
@@ -824,11 +824,11 @@
         <link:label id="ifrs-im_BatteryCoulombicEfficiency_measurementGuidance_1" xlink:label="res_3329" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Percentage (%)</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryCoulombicEfficiency" xlink:label="loc_1768" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1768" xlink:to="res_3329" xlink:type="arc"/>
-        <link:label id="ifrs-im_FuelCellAverageOperatingLifetime_measurementGuidance_1" xlink:label="res_3337" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Hours (h)</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetime" xlink:label="loc_1773" xlink:type="locator"/>
+        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeHours_measurementGuidance_1" xlink:label="res_3337" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Hours (h)</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHours" xlink:label="loc_1773" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1773" xlink:to="res_3337" xlink:type="arc"/>
-        <link:label id="ifrs-im_BatteryOperatingLifetime_measurementGuidance_1" xlink:label="res_3345" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number of cycles</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetime" xlink:label="loc_1778" xlink:type="locator"/>
+        <link:label id="ifrs-im_BatteryOperatingLifetimeCycles_measurementGuidance_1" xlink:label="res_3345" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number of cycles</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeCycles" xlink:label="loc_1778" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1778" xlink:to="res_3345" xlink:type="arc"/>
         <link:label id="ifrs-im_BatteriesSoldStorageCapacity_measurementGuidance_1" xlink:label="res_3355" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Megawatt hours (MWh)</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteriesSoldStorageCapacity" xlink:label="loc_1782" xlink:type="locator"/>
@@ -950,8 +950,8 @@
         <link:label id="ifrs-im_PerformanceIssues_measurementGuidance_1" xlink:label="res_4153" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PerformanceIssues" xlink:label="loc_2139" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2139" xlink:to="res_4153" xlink:type="arc"/>
-        <link:label id="ifrs-im_CustomerDowntime_measurementGuidance_1" xlink:label="res_4157" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntime" xlink:label="loc_2140" xlink:type="locator"/>
+        <link:label id="ifrs-im_CustomerDowntimeDays_measurementGuidance_1" xlink:label="res_4157" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerDowntimeDays" xlink:label="loc_2140" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2140" xlink:to="res_4157" xlink:type="arc"/>
         <link:label id="ifrs-im_LicensesOrSubscriptionsNumber_measurementGuidance_1" xlink:label="res_4170" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LicensesOrSubscriptionsNumber" xlink:label="loc_2146" xlink:type="locator"/>
@@ -959,14 +959,14 @@
         <link:label id="ifrs-im_LicensesOrSubscriptionsPercentageCloudBased_measurementGuidance_1" xlink:label="res_4173" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Percentage (%)</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LicensesOrSubscriptionsPercentageCloudBased" xlink:label="loc_2147" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2147" xlink:to="res_4173" xlink:type="arc"/>
-        <link:label id="ifrs-im_SystemAverageInterruptionDuration_measurementGuidance_1" xlink:label="res_4197" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDuration" xlink:label="loc_2156" xlink:type="locator"/>
+        <link:label id="ifrs-im_SystemAverageInterruptionDurationMinutes_measurementGuidance_1" xlink:label="res_4197" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionDurationMinutes" xlink:label="loc_2156" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2156" xlink:to="res_4197" xlink:type="arc"/>
         <link:label id="ifrs-im_SystemAverageInterruptionFrequency_measurementGuidance_1" xlink:label="res_4200" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number of service disruptions per customer</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionFrequency" xlink:label="loc_2157" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2157" xlink:to="res_4200" xlink:type="arc"/>
-        <link:label id="ifrs-im_CustomerAverageInterruptionDuration_measurementGuidance_1" xlink:label="res_4203" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDuration" xlink:label="loc_2158" xlink:type="locator"/>
+        <link:label id="ifrs-im_CustomerAverageInterruptionDurationMinutes_measurementGuidance_1" xlink:label="res_4203" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Minutes</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerAverageInterruptionDurationMinutes" xlink:label="loc_2158" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2158" xlink:to="res_4203" xlink:type="arc"/>
         <link:label id="ifrs-im_WirelessSubscribers_measurementGuidance_1" xlink:label="res_4215" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WirelessSubscribers" xlink:label="loc_2163" xlink:type="locator"/>
@@ -998,8 +998,8 @@
         <link:label id="ifrs-im_AirlineDeparturesNumber_measurementGuidance_1" xlink:label="res_4329" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirlineDeparturesNumber" xlink:label="loc_2211" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2211" xlink:to="res_4329" xlink:type="arc"/>
-        <link:label id="ifrs-im_FleetAverageVehicleAge_measurementGuidance_1" xlink:label="res_4334" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Years</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetAverageVehicleAge" xlink:label="loc_2213" xlink:type="locator"/>
+        <link:label id="ifrs-im_FleetAverageVehicleAgeYears_measurementGuidance_1" xlink:label="res_4334" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Years</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetAverageVehicleAgeYears" xlink:label="loc_2213" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2213" xlink:to="res_4334" xlink:type="arc"/>
         <link:label id="ifrs-im_PartsProducedNumber_measurementGuidance_1" xlink:label="res_4355" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PartsProducedNumber" xlink:label="loc_2223" xlink:type="locator"/>
@@ -1022,8 +1022,8 @@
         <link:label id="ifrs-im_FleetUtilisationRate_measurementGuidance_1" xlink:label="res_4424" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Rate</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetUtilisationRate" xlink:label="loc_2261" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2261" xlink:to="res_4424" xlink:type="arc"/>
-        <link:label id="ifrs-im_RentalDurationAvailable_measurementGuidance_1" xlink:label="res_4434" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RentalDurationAvailable" xlink:label="loc_2265" xlink:type="locator"/>
+        <link:label id="ifrs-im_RentalDurationAvailableDays_measurementGuidance_1" xlink:label="res_4434" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RentalDurationAvailableDays" xlink:label="loc_2265" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2265" xlink:to="res_4434" xlink:type="arc"/>
         <link:label id="ifrs-im_AverageEnergyEfficiencyDesignIndexEediForNewShips_measurementGuidance_1" xlink:label="res_4462" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Grammes of CO₂ per ton-nautical mile</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AverageEnergyEfficiencyDesignIndexEediForNewShips" xlink:label="loc_2275" xlink:type="locator"/>
@@ -1031,7 +1031,7 @@
         <link:label id="ifrs-im_CruiseShipCapacityAvailableLowerBerthDistance_measurementGuidance_1" xlink:label="res_4469" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Available lower berth kilometres (ALB-KM)</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CruiseShipCapacityAvailableLowerBerthDistance" xlink:label="loc_2278" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2278" xlink:to="res_4469" xlink:type="arc"/>
-        <link:label id="ifrs-im_AveragePassengerCruiseDays_measurementGuidance_1" xlink:label="res_4474" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Average passenger cruise days (APCD)</link:label>
+        <link:label id="ifrs-im_AveragePassengerCruiseDays_measurementGuidance_1" xlink:label="res_4474" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AveragePassengerCruiseDays" xlink:label="loc_2280" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2280" xlink:to="res_4474" xlink:type="arc"/>
         <link:label id="ifrs-im_CruisePassengersNumber_measurementGuidance_1" xlink:label="res_4484" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number</link:label>
@@ -1043,8 +1043,8 @@
         <link:label id="ifrs-im_VesselsDistanceTravelled_measurementGuidance_1" xlink:label="res_4519" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Nautical miles (nm)</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsDistanceTravelled" xlink:label="loc_2296" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2296" xlink:to="res_4519" xlink:type="arc"/>
-        <link:label id="ifrs-im_VesselsOperatingDuration_measurementGuidance_1" xlink:label="res_4524" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDuration" xlink:label="loc_2298" xlink:type="locator"/>
+        <link:label id="ifrs-im_VesselsOperatingDurationDays_measurementGuidance_1" xlink:label="res_4524" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Days</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsOperatingDurationDays" xlink:label="loc_2298" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2298" xlink:to="res_4524" xlink:type="arc"/>
         <link:label id="ifrs-im_VesselsDeadweight_measurementGuidance_1" xlink:label="res_4529" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Thousands of deadweight tons</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VesselsDeadweight" xlink:label="loc_2300" xlink:type="locator"/>
@@ -4341,11 +4341,11 @@
         <link:label id="ifrs-im_IFEU550a2Abstract_label" xlink:label="res_2139" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IF-EU-550a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IFEU550a2Abstract" xlink:label="loc_1153" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1153" xlink:to="res_2139" xlink:type="arc"/>
-        <link:label id="ifrs-im_SystemAverageInterruptionDurationIndexSaidi_label" xlink:label="res_2141" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">System average interruption duration index (SAIDI)</link:label>
+        <link:label id="ifrs-im_SystemAverageInterruptionDurationIndexSaidiMinutes_label" xlink:label="res_2141" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">System average interruption duration index (SAIDI), minutes</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1154" xlink:to="res_2141" xlink:type="arc"/>
         <link:label id="ifrs-im_SystemAverageInterruptionFrequencyIndexSaifi_label" xlink:label="res_2144" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">System average interruption frequency index (SAIFI)</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1155" xlink:to="res_2144" xlink:type="arc"/>
-        <link:label id="ifrs-im_CustomerAverageInterruptionDurationIndexCaidi_label" xlink:label="res_2147" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Customer average interruption duration index (CAIDI)</link:label>
+        <link:label id="ifrs-im_CustomerAverageInterruptionDurationIndexCaidiMinutes_label" xlink:label="res_2147" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Customer average interruption duration index (CAIDI), minutes</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1156" xlink:to="res_2147" xlink:type="arc"/>
         <link:label id="ifrs-im_NotableServiceDisruptionsExplanatory_label" xlink:label="res_2150" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Notable service disruptions [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NotableServiceDisruptionsExplanatory" xlink:label="loc_1157" xlink:type="locator"/>
@@ -6084,16 +6084,16 @@
         <link:label id="ifrs-im_RRFC410a4Abstract_label" xlink:label="res_3331" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-FC-410a.4 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFC410a4Abstract" xlink:label="loc_1769" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1769" xlink:to="res_3331" xlink:type="arc"/>
-        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeAbstract_label" xlink:label="res_3333" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeAbstract" xlink:label="loc_1770" xlink:type="locator"/>
+        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeHoursAbstract_label" xlink:label="res_3333" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHoursAbstract" xlink:label="loc_1770" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1770" xlink:to="res_3333" xlink:type="arc"/>
-        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeTable_label" xlink:label="res_3334" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime [table]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeTable" xlink:label="loc_1771" xlink:type="locator"/>
+        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeHoursTable_label" xlink:label="res_3334" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime [table]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHoursTable" xlink:label="loc_1771" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1771" xlink:to="res_3334" xlink:type="arc"/>
-        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeLineItems_label" xlink:label="res_3335" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime [line items]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeLineItems" xlink:label="loc_1772" xlink:type="locator"/>
+        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeHoursLineItems_label" xlink:label="res_3335" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime [line items]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellAverageOperatingLifetimeHoursLineItems" xlink:label="loc_1772" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1772" xlink:to="res_3335" xlink:type="arc"/>
-        <link:label id="ifrs-im_FuelCellAverageOperatingLifetime_label" xlink:label="res_3336" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime</link:label>
+        <link:label id="ifrs-im_FuelCellAverageOperatingLifetimeHours_label" xlink:label="res_3336" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cell, average operating lifetime, hours</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1773" xlink:to="res_3336" xlink:type="arc"/>
         <link:label id="ifrs-im_RRFC410a5Abstract_label" xlink:label="res_3339" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-FC-410a.5 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFC410a5Abstract" xlink:label="loc_1774" xlink:type="locator"/>
@@ -6107,7 +6107,7 @@
         <link:label id="ifrs-im_BatteryOperatingLifetimeLineItems_label" xlink:label="res_3343" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Battery, operating lifetime [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BatteryOperatingLifetimeLineItems" xlink:label="loc_1777" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1777" xlink:to="res_3343" xlink:type="arc"/>
-        <link:label id="ifrs-im_BatteryOperatingLifetime_label" xlink:label="res_3344" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Battery, operating lifetime</link:label>
+        <link:label id="ifrs-im_BatteryOperatingLifetimeCycles_label" xlink:label="res_3344" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Battery, operating lifetime, cycles</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1778" xlink:to="res_3344" xlink:type="arc"/>
         <link:label id="ifrs-im_FuelCellsAndIndustrialBatteriesIndustryActivityMetricsAbstract_label" xlink:label="res_3347" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fuel cells and industrial batteries industry, activity metrics [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FuelCellsAndIndustrialBatteriesIndustryActivityMetricsAbstract" xlink:label="loc_1779" xlink:type="locator"/>
@@ -7152,7 +7152,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2138" xlink:to="res_4150" xlink:type="arc"/>
         <link:label id="ifrs-im_PerformanceIssues_label" xlink:label="res_4152" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Performance issues</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2139" xlink:to="res_4152" xlink:type="arc"/>
-        <link:label id="ifrs-im_CustomerDowntime_label" xlink:label="res_4156" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Customer downtime</link:label>
+        <link:label id="ifrs-im_CustomerDowntimeDays_label" xlink:label="res_4156" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Customer downtime, days</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2140" xlink:to="res_4156" xlink:type="arc"/>
         <link:label id="ifrs-im_SignificantPerformanceIssuesAndServiceDisruptionsAndAnyCorrectiveActionsTakenToPreventFutureDisruptionsExplanatory_label" xlink:label="res_4159" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Significant performance issues and service disruptions and any corrective actions taken to prevent future disruptions [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SignificantPerformanceIssuesAndServiceDisruptionsAndAnyCorrectiveActionsTakenToPreventFutureDisruptionsExplanatory" xlink:label="loc_2141" xlink:type="locator"/>
@@ -7197,11 +7197,11 @@
         <link:label id="ifrs-im_TCTL550a1Abstract_label" xlink:label="res_4194" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TC-TL-550a.1 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TCTL550a1Abstract" xlink:label="loc_2155" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2155" xlink:to="res_4194" xlink:type="arc"/>
-        <link:label id="ifrs-im_SystemAverageInterruptionDuration_label" xlink:label="res_4196" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">System average interruption duration</link:label>
+        <link:label id="ifrs-im_SystemAverageInterruptionDurationMinutes_label" xlink:label="res_4196" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">System average interruption duration, minutes</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2156" xlink:to="res_4196" xlink:type="arc"/>
         <link:label id="ifrs-im_SystemAverageInterruptionFrequency_label" xlink:label="res_4199" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">System average interruption frequency</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2157" xlink:to="res_4199" xlink:type="arc"/>
-        <link:label id="ifrs-im_CustomerAverageInterruptionDuration_label" xlink:label="res_4202" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Customer average interruption duration</link:label>
+        <link:label id="ifrs-im_CustomerAverageInterruptionDurationMinutes_label" xlink:label="res_4202" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Customer average interruption duration, minutes</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2158" xlink:to="res_4202" xlink:type="arc"/>
         <link:label id="ifrs-im_TCTL550a2Abstract_label" xlink:label="res_4206" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TC-TL-550a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TCTL550a2Abstract" xlink:label="loc_2159" xlink:type="locator"/>
@@ -7355,7 +7355,7 @@
         <link:label id="ifrs-im_TRAL000FAbstract_label" xlink:label="res_4331" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-AL-000.F [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRAL000FAbstract" xlink:label="loc_2212" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2212" xlink:to="res_4331" xlink:type="arc"/>
-        <link:label id="ifrs-im_FleetAverageVehicleAge_label" xlink:label="res_4333" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fleet, average vehicle age</link:label>
+        <link:label id="ifrs-im_FleetAverageVehicleAgeYears_label" xlink:label="res_4333" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fleet, average vehicle age, years</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2213" xlink:to="res_4333" xlink:type="arc"/>
         <link:label id="ifrs-im_AutoPartsIndustryAbstract_label" xlink:label="res_4336" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Auto parts industry [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AutoPartsIndustryAbstract" xlink:label="loc_2214" xlink:type="locator"/>
@@ -7503,7 +7503,7 @@
         <link:label id="ifrs-im_TRCR000BAbstract_label" xlink:label="res_4431" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-CR-000.B [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRCR000BAbstract" xlink:label="loc_2264" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2264" xlink:to="res_4431" xlink:type="arc"/>
-        <link:label id="ifrs-im_RentalDurationAvailable_label" xlink:label="res_4433" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Rental duration available</link:label>
+        <link:label id="ifrs-im_RentalDurationAvailableDays_label" xlink:label="res_4433" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Rental duration available, days</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2265" xlink:to="res_4433" xlink:type="arc"/>
         <link:label id="ifrs-im_TRCR000CAbstract_label" xlink:label="res_4436" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-CR-000.C [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRCR000CAbstract" xlink:label="loc_2266" xlink:type="locator"/>
@@ -7595,7 +7595,7 @@
         <link:label id="ifrs-im_TRMT000CAbstract_label" xlink:label="res_4521" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-MT-000.C [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRMT000CAbstract" xlink:label="loc_2297" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2297" xlink:to="res_4521" xlink:type="arc"/>
-        <link:label id="ifrs-im_VesselsOperatingDuration_label" xlink:label="res_4523" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Vessels, operating duration</link:label>
+        <link:label id="ifrs-im_VesselsOperatingDurationDays_label" xlink:label="res_4523" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Vessels, operating duration, days</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2298" xlink:to="res_4523" xlink:type="arc"/>
         <link:label id="ifrs-im_TRMT000DAbstract_label" xlink:label="res_4526" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-MT-000.D [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRMT000DAbstract" xlink:label="loc_2299" xlink:type="locator"/>
