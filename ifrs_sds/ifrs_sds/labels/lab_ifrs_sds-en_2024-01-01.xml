@@ -1354,5 +1354,9 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" xlink:label="loc_428" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_428" xlink:to="res_674" xlink:type="arc"/>
 
+        <link:label id="ifrs-sds_SustainabilityMetricsDomain_label" xlink:label="res_675" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability metrics [domain]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityMetricsDomain" xlink:label="loc_429" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_429" xlink:to="res_675" xlink:type="arc"/>
+
     </link:labelLink>
 </link:linkbase>
