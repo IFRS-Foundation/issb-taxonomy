@@ -1346,9 +1346,13 @@
         <link:label id="ifrs-sds_MetricValueNumeric_label" xlink:label="res_672" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value, numeric</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricValueNumeric" xlink:label="loc_426" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_426" xlink:to="res_672" xlink:type="arc"/>        
-        <link:label id="ifrs-sds_MetricValuePercentage_label" xlink:label="res_673" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value, percentage </link:label>
+        <link:label id="ifrs-sds_MetricValuePercentage_label" xlink:label="res_673" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric Value, percentage</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricValuePercentage" xlink:label="loc_427" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_427" xlink:to="res_673" xlink:type="arc"/>
-    
+
+        <link:label id="ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits_label" xlink:label="res_674" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Extent to which, and how, achieving net greenhouse emissions target(s) relies on use of carbon credits</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" xlink:label="loc_428" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_428" xlink:to="res_674" xlink:type="arc"/>
+
     </link:labelLink>
 </link:linkbase>
