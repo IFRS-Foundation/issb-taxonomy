@@ -1136,7 +1136,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_362" xlink:to="res_608" xlink:type="arc"/>
 
 
-        <link:label id="ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities_label" xlink:label="res_610" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes to business model, including resource allocation, to address climate-related risks and opportunities </link:label>
+        <link:label id="ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities_label" xlink:label="res_610" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Changes to business model, including resource allocation, to address climate-related risks and opportunities</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ChangesToBusinessModelToAddressClimateRelatedRisksAndOpportunities" xlink:label="loc_364" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_364" xlink:to="res_610" xlink:type="arc"/>      
         <link:label id="ifrs-sds_DirectMitigationAndAdaptationEfforts_label" xlink:label="res_611" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Direct mitigation and adaptation efforts</link:label>
