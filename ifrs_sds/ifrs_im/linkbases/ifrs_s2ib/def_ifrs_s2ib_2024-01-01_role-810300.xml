@@ -12,8 +12,6 @@
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300c" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-810300c" xlink:type="simple"/>
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300d" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-810300d" xlink:type="simple"/>
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300e" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-810300e" xlink:type="simple"/>
-    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300f" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-810300f" xlink:type="simple"/>
-    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300g" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-810300g" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
