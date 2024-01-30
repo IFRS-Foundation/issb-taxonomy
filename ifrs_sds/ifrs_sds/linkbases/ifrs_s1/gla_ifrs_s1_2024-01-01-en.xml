@@ -44,5 +44,14 @@
         <label:label xlink:label="res_11" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[200000j] General requirements for disclosure of sustainability-related financial information - Disclosure of early application of new or amended IFRS Sustainability Standard [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s1_2024-01-01.xsd#ifrs_s1_2024-01-01_role-200000j" xlink:label="loc_11" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_11" xlink:to="res_11" xlink:type="arc"/>
+        <label:label xlink:label="res_12" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[200000k] General requirements for disclosure of sustainability-related financial information - Disclosure of risk management of sustainability-related risks and opportunities [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s1_2024-01-01.xsd#ifrs_s1_2024-01-01_role-200000k" xlink:label="loc_12" xlink:type="locator"/>
+        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_12" xlink:to="res_12" xlink:type="arc"/>
+        <label:label xlink:label="res_13" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[200000l] General requirements for disclosure of sustainability-related financial information - Disclosure of metrics for sustainability-related risks and opportunities [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s1_2024-01-01.xsd#ifrs_s1_2024-01-01_role-200000l" xlink:label="loc_13" xlink:type="locator"/>
+        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_13" xlink:to="res_13" xlink:type="arc"/>
+        <label:label xlink:label="res_14" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[200000m] General requirements for disclosure of sustainability-related financial information - Disclosure of source of metrics (other than IFRS Standards) [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s1_2024-01-01.xsd#ifrs_s1_2024-01-01_role-200000m" xlink:label="loc_14" xlink:type="locator"/>
+        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_14" xlink:to="res_14" xlink:type="arc"/>
     </gen:link>
 </link:linkbase>
