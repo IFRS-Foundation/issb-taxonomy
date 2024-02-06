@@ -4608,9 +4608,6 @@
         <link:label id="ifrs-im_GasUtilitiesAndDistributorsIndustrySustainabilityDisclosureMetricsAbstract_label" xlink:label="res_2319" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gas utilities and distributors industry, sustainability disclosure metrics [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GasUtilitiesAndDistributorsIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_1249" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1249" xlink:to="res_2319" xlink:type="arc"/>
-        <link:label id="ifrs-im_EnergyAffordabilityDisclosureAbstract_label" xlink:label="res_2320" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Energy affordability disclosure [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergyAffordabilityDisclosureAbstract" xlink:label="loc_1250" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1250" xlink:to="res_2320" xlink:type="arc"/>
         <link:label id="ifrs-im_EndUseEfficiencyDisclosureAbstract_label" xlink:label="res_2321" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">End-use efficiency disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EndUseEfficiencyDisclosureAbstract" xlink:label="loc_1251" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1251" xlink:to="res_2321" xlink:type="arc"/>
