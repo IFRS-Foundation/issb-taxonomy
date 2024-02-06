@@ -8,6 +8,7 @@ Corrections:
 * Mismatch between the presentation and the definition linkbases for Absolute gross financed emissions related to AUM. In the presentation it has children, which should be siblings.
 * Corrected reference of element 'Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]' to IFRS S2 29(a)(iii)
 * Corrected layout of “Retrospective application and retrospective restatement [axis]”, making increase (decrease) member a sibling of Previously stated.
+* Correct id of element 'ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks' to remove trailing 'Risks'
 
 Changes:
 * Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 

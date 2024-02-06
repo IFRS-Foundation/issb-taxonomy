@@ -1211,8 +1211,8 @@
         <link:label id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunitiesPercentage_label" xlink:label="res_632" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets aligned with climate-related opportunities, percentage</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimateRelatedOpportunitiesPercentage" xlink:label="loc_386" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_386" xlink:to="res_632" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks_label" xlink:label="res_633" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities aligned with climate-related opportunities</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks" xlink:label="loc_387" xlink:type="locator"/>
+        <link:label id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunities_label" xlink:label="res_633" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities aligned with climate-related opportunities</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunities" xlink:label="loc_387" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_387" xlink:to="res_633" xlink:type="arc"/>
         <link:label id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage_label" xlink:label="res_634" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities aligned with climate-related opportunities, percentage</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" xlink:label="loc_388" xlink:type="locator"/>
