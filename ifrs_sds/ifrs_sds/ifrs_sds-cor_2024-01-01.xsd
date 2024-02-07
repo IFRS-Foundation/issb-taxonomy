@@ -460,5 +460,8 @@
     <xsd:element abstract="false" id="ifrs-sds_MetricValuePercentage" name="MetricValuePercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/> 
 
     <xsd:element abstract="false" id="ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" name="ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/> 
-    
+
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>    
 </xsd:schema>

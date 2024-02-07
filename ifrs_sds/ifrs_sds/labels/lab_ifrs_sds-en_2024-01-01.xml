@@ -1358,5 +1358,14 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityMetricsDomain" xlink:label="loc_429" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_429" xlink:to="res_675" xlink:type="arc"/>
 
+        <link:label id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract_label" xlink:label="res_676" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of sustainability-related risks and opportunities on strategy and decision-making [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" xlink:label="loc_430" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_430" xlink:to="res_676" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems_label" xlink:label="res_677" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of sustainability-related risks and opportunities on strategy and decision-making [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" xlink:label="loc_431" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_431" xlink:to="res_677" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable_label" xlink:label="res_678" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of sustainability-related risks and opportunities on strategy and decision-making [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_432" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_432" xlink:to="res_678" xlink:type="arc"/> 
     </link:labelLink>
 </link:linkbase>

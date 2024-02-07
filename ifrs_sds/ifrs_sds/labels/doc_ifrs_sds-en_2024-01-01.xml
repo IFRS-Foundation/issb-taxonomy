@@ -836,5 +836,13 @@ These risks could carry financial implications for an entity, such as costs resu
         <link:label id="ifrs-sds_QualitativeMeasureMember_documentation" xlink:label="res_277" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">A qualitative measure (such as red, amber, green status).</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_QualitativeMeasureMember" xlink:label="loc_277" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_277" xlink:to="res_277" xlink:type="arc"/>
+
+        <link:label id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable_documentation" xlink:label="res_278" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Schedule disclosing the effects of sustainability-related risks and opportunities on strategy and decision-making.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_278" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_278" xlink:to="res_278" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems_documentation" xlink:label="res_279" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Line items are the concepts grouped together in a table (because they may relate to several different facts within a report). These concepts are used to disclose reportable information associated with members defined in one or many axes of the table.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" xlink:label="loc_279" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_279" xlink:to="res_279" xlink:type="arc"/>
+
     </link:labelLink>
 </link:linkbase>
