@@ -1094,9 +1094,6 @@
         <link:label id="ifrs-sds_ControlApproachMember_label" xlink:label="res_595" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Control approach [member]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ControlApproachMember" xlink:label="loc_349" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_349" xlink:to="res_595" xlink:type="arc"/>
-        <link:label id="ifrs-sds_OtherApproachMember_label" xlink:label="res_596" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Other approach [member]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherApproachMember" xlink:label="loc_350" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_350" xlink:to="res_596" xlink:type="arc"/>
         <link:label id="ifrs-sds_PhysicalOrTransitionalRiskDomain_label" xlink:label="res_597" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Physical or transitional risk [domain]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PhysicalOrTransitionalRiskDomain" xlink:label="loc_351" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_351" xlink:to="res_597" xlink:type="arc"/>

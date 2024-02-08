@@ -10,6 +10,7 @@ Corrections:
 * Corrected layout of “Retrospective application and retrospective restatement [axis]”, making increase (decrease) member a sibling of Previously stated.
 * Correct id of element 'ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks' to remove trailing 'Risks'
 * remove unused element EnergyAffordabilityDisclosureAbstract
+* remove OtherApproachMember
 
 Changes:
 * Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
