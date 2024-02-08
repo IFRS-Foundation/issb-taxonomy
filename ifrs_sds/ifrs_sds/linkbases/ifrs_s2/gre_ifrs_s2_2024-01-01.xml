@@ -44,6 +44,8 @@
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_25" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-210000n" xlink:label="loc_26" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_26" xlink:to="res_1" xlink:type="arc"/>
+        <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-210000o" xlink:label="loc_27" xlink:type="locator"/>
+        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_27" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-211100" xlink:label="loc_12" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_12" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-211200" xlink:label="loc_13" xlink:type="locator"/>

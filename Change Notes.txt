@@ -38,7 +38,7 @@ Changes:
 * alter industry metrics with durationItemType to specify their units in their label and name, and be of pureItemType (durationItemType does not allow fractional values for anything other than seconds).
 * add separate element for S2.36 e (i)
 * Change type of GreenhouseGasFootprintAcrossTransportModes to decimal (to facilitate unit of Metric tons (t) CO2-e per ton-kilometre ).
-* add risk and opportunities axis to Strategy and decision-making section
+* add risk and opportunities axis to Strategy and decision-making and resilience sections
 
 __Proposed Taxonomy__
 Corrections to staff draft:

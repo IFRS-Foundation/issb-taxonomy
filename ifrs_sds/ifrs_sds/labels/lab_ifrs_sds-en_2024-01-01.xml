@@ -1367,5 +1367,26 @@
         <link:label id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable_label" xlink:label="res_678" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of sustainability-related risks and opportunities on strategy and decision-making [table]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_432" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_432" xlink:to="res_678" xlink:type="arc"/> 
+
+        <link:label id="ifrs-sds_SustainabilityResilienceAbstract_label" xlink:label="res_679" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability resilience [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityResilienceAbstract" xlink:label="loc_433" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_433" xlink:to="res_679" xlink:type="arc"/>
+        <link:label id="ifrs-sds_SustainabilityResilienceLineItems_label" xlink:label="res_680" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability resilience [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityResilienceLineItems" xlink:label="loc_434" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_434" xlink:to="res_680" xlink:type="arc"/>
+        <link:label id="ifrs-sds_SustainabilityResilienceTable_label" xlink:label="res_681" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability resilience [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityResilienceTable" xlink:label="loc_435" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_435" xlink:to="res_681" xlink:type="arc"/>
+        
+        <link:label id="ifrs-sds_ClimateResilienceAbstract_label" xlink:label="res_682" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate resilience [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceAbstract" xlink:label="loc_436" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_436" xlink:to="res_682" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ClimateResilienceLineItems_label" xlink:label="res_683" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate resilience [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceLineItems" xlink:label="loc_437" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_437" xlink:to="res_683" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ClimateResilienceTable_label" xlink:label="res_684" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate resilience [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceTable" xlink:label="loc_438" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_438" xlink:to="res_684" xlink:type="arc"/>
+        
     </link:labelLink>
 </link:linkbase>

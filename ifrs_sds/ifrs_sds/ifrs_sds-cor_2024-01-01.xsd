@@ -462,6 +462,19 @@
     <xsd:element abstract="false" id="ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" name="ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/> 
 
     <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="true" id="ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" name="EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>    
+
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" name="EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" name="EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" name="EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>    
+
+    <xsd:element abstract="true" id="ifrs-sds_SustainabilityResilienceAbstract" name="SustainabilityResilienceAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_SustainabilityResilienceLineItems" name="SustainabilityResilienceLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_SustainabilityResilienceTable" name="SustainabilityResilienceTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>    
+
+    <xsd:element abstract="true" id="ifrs-sds_ClimateResilienceAbstract" name="ClimateResilienceAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_ClimateResilienceLineItems" name="ClimateResilienceLineItems" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
+    <xsd:element abstract="true" id="ifrs-sds_ClimateResilienceTable" name="ClimateResilienceTable" nillable="true" substitutionGroup="xbrldt:hypercubeItem" type="xbrli:stringItemType" xbrli:periodType="duration"/>    
+
 </xsd:schema>

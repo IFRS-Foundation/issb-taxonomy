@@ -99,6 +99,12 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
+            <link:roleType id="ifrs_s1_2024-01-01_role-200000o" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s1_2024-01-01_role-200000o">
+                <link:definition>[200000o] General requirements for disclosure of sustainability-related financial information - Sustainability resilience [table]</link:definition>
+                <link:usedOn>link:calculationLink</link:usedOn>
+                <link:usedOn>link:definitionLink</link:usedOn>
+                <link:usedOn>link:presentationLink</link:usedOn>
+            </link:roleType>
         </xsd:appinfo>
     </xsd:annotation>
 </xsd:schema>
