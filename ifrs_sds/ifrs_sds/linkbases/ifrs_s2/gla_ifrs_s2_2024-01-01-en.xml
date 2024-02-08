@@ -50,6 +50,9 @@
         <label:label xlink:label="res_25" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000l] Climate-related disclosures - Disclosure of metrics for climate-related risks and opportunities [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-210000l" xlink:label="loc_25" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_25" xlink:to="res_25" xlink:type="arc"/>
+        <label:label xlink:label="res_26" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[210000n] Climate-related disclosures - Effects of sustainability-related risks and opportunities on strategy and decision-making [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-210000n" xlink:label="loc_26" xlink:type="locator"/>
+        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_26" xlink:to="res_26" xlink:type="arc"/>
         <label:label xlink:label="res_12" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[211100] Climate-related disclosures - Financed emissions - Asset management</label:label>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-211100" xlink:label="loc_12" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_12" xlink:to="res_12" xlink:type="arc"/>
