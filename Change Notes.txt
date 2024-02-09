@@ -19,7 +19,6 @@ Changes:
 * Split IM pres ELRs (830300 and 830800) into parts where the defs conflict with each other.
 * Add TopicsCoveredByIntegratedGovernanceDisclosure, TopicsCoveredByIntegratedRiskManagementDisclosure, TopicsOfRiskOrOpportunity (S1 and S2)
 * Add 5 elements in S2 strategy and decision-making section, rearrange presentation
-* Remove ClimateRelatedScenarioAnalysisIncludedDiverseRangeOfClimateRelatedScenarios
 * Add Start (and end) of reporting period in which climate-related scenario analysis was carried out
 * Add four additional elements for subparagraphs under IFRS S2.25(a)
 * Correct reference for Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]
