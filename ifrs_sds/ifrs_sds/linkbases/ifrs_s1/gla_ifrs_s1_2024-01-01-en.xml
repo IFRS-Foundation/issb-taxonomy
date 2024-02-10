@@ -59,5 +59,8 @@
         <label:label xlink:label="res_16" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[200000o] General requirements for disclosure of sustainability-related financial information - Sustainability resilience [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s1_2024-01-01.xsd#ifrs_s1_2024-01-01_role-200000o" xlink:label="loc_16" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_16" xlink:to="res_16" xlink:type="arc"/>
+        <label:label xlink:label="res_17" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[200000p] General requirements for disclosure of sustainability-related financial information - Impracticality of revision of comparative amounts [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s1_2024-01-01.xsd#ifrs_s1_2024-01-01_role-200000p" xlink:label="loc_17" xlink:type="locator"/>
+        <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_17" xlink:to="res_17" xlink:type="arc"/>
     </gen:link>
 </link:linkbase>

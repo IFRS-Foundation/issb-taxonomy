@@ -856,10 +856,17 @@ These risks could carry financial implications for an entity, such as costs resu
  
         <link:label id="ifrs-sds_ClimateResilienceTable_documentation" xlink:label="res_282" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Schedule disclosing the resilience of the strategy and business model in relation to Climate-related risks.</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceTable" xlink:label="loc_282" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_282" xlink:to="res_278" xlink:type="arc"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_282" xlink:to="res_282" xlink:type="arc"/>
         <link:label id="ifrs-sds_ClimateResilienceLineItems_documentation" xlink:label="res_283" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Line items are the concepts grouped together in a table (because they may relate to several different facts within a report). These concepts are used to disclose reportable information associated with members defined in one or many axes of the table.</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceLineItems" xlink:label="loc_283" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_283" xlink:to="res_283" xlink:type="arc"/> 
+ 
+        <link:label id="ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable_documentation" xlink:label="res_284" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Schedule disclosing the impracticality  of revision of comparative amounts.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable" xlink:label="loc_284" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_284" xlink:to="res_284" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsLineItems_documentation" xlink:label="res_285" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Line items are the concepts grouped together in a table (because they may relate to several different facts within a report). These concepts are used to disclose reportable information associated with members defined in one or many axes of the table.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsLineItems" xlink:label="loc_285" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_285" xlink:to="res_285" xlink:type="arc"/> 
         
     </link:labelLink>
 </link:linkbase>

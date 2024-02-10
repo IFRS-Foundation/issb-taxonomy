@@ -1387,6 +1387,16 @@
         <link:label id="ifrs-sds_ClimateResilienceTable_label" xlink:label="res_684" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate resilience [table]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceTable" xlink:label="loc_438" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_438" xlink:to="res_684" xlink:type="arc"/>
+                
+        <link:label id="ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsAbstract_label" xlink:label="res_685" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Impracticality of revision of comparative amounts [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsAbstract" xlink:label="loc_439" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_439" xlink:to="res_685" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsLineItems_label" xlink:label="res_686" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Impracticality of revision of comparative amounts [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsLineItems" xlink:label="loc_440" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_440" xlink:to="res_686" xlink:type="arc"/>
+        <link:label id="ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable_label" xlink:label="res_687" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Impracticality of revision of comparative amounts [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable" xlink:label="loc_441" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_441" xlink:to="res_687" xlink:type="arc"/>
         
     </link:labelLink>
 </link:linkbase>

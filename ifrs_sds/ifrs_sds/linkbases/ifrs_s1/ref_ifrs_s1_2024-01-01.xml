@@ -1631,7 +1631,7 @@
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_433" xlink:to="res_927" xlink:type="arc"/>
 
-        <link:reference xlink:label="res_928" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+        <link:reference xlink:label="res_928" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
             <ref:IssueDate>2023-06-26</ref:IssueDate>
@@ -1646,6 +1646,17 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_435" xlink:to="res_392" xlink:type="arc"/> 
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_392" xlink:type="arc"/>  
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_392" xlink:type="arc"/>  
+
+        <link:reference xlink:label="res_929" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S1</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B54</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfSustainabilityRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_436" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_436" xlink:to="res_929" xlink:type="arc"/>  
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_58" xlink:to="res_929" xlink:type="arc"/>  
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_59" xlink:to="res_929" xlink:type="arc"/>  
         
     </link:referenceLink>
 </link:linkbase>
