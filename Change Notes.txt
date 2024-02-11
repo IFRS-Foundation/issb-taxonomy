@@ -11,6 +11,7 @@ Corrections:
 * Correct id of element 'ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesRisks' to remove trailing 'Risks'
 * remove unused element EnergyAffordabilityDisclosureAbstract
 * remove OtherApproachMember
+* remove "Other scope 3 greenhouse gas emissions [member]" from "Scope 3 emissions categories [domain]" in ELR 995000
 
 Changes:
 * Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
@@ -41,7 +42,7 @@ Changes:
 * add risk and opportunities axis to Strategy and decision-making and resilience sections
 * add metrics axis to S1.B54
 * add enclosing text element for "Amounts disclosed in sustainability-related financial disclosures are not entirely comparable due to change in length of reporting period"
-* combine elements behind S2.29(g)(i) and S2.6 a (v) 
+* combine elements behind S2.29(g)(i) and S2.6 a (v)
 
 __Proposed Taxonomy__
 Corrections to staff draft:
