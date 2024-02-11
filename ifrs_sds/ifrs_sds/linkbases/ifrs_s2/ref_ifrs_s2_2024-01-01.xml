@@ -734,8 +734,7 @@
             <ref:Subparagraph>g</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory" xlink:label="loc_90" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_90" xlink:to="res_65" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_11" xlink:to="res_65" xlink:type="arc"/>
         <link:reference xlink:label="res_66" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
@@ -1977,8 +1976,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.29.g.i.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory" xlink:label="loc_424" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_424" xlink:to="res_584" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_11" xlink:to="res_584" xlink:type="arc"/>
         <link:reference xlink:label="res_587" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.29.g.ii.1</ref:Number>
@@ -2667,13 +2665,12 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_916" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_916" xlink:type="arc"/>
         
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" xlink:label="loc_917" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_917" xlink:to="res_65" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_367" xlink:to="res_65" xlink:type="arc"/>
         <link:reference xlink:label="res_918" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.29.g.i.2</ref:Number>
         </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_917" xlink:to="res_918" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_367" xlink:to="res_918" xlink:type="arc"/>
 
          <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" xlink:label="loc_919" xlink:type="locator"/>
         <link:reference xlink:label="res_920" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">

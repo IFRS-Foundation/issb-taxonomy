@@ -718,9 +718,6 @@
         <link:label id="ifrs-sds_RemunerationDisclosureAbstract_label" xlink:label="res_374" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Remuneration disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RemunerationDisclosureAbstract" xlink:label="loc_215" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_215" xlink:to="res_374" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory_label" xlink:label="res_375" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of whether and how climate-related considerations are factored into executive remuneration [text block]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory" xlink:label="loc_216" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_216" xlink:to="res_375" xlink:type="arc"/>
         <link:label id="ifrs-sds_PercentageOfExecutiveManagementRemunerationRecognisedThatIsLinkedToClimateRelatedConsiderations_label" xlink:label="res_377" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Percentage of executive management remuneration recognised that is linked to climate-related considerations</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_217" xlink:to="res_377" xlink:type="arc"/>
         <link:label id="ifrs-sds_DisclosureOfClimateRelatedTargetsAbstract_label" xlink:label="res_380" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of climate-related targets [abstract]</link:label>
@@ -1280,10 +1277,6 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesTable" xlink:label="loc_406" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_406" xlink:to="res_652" xlink:type="arc"/>
         
-        <link:label id="ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration_label" xlink:label="res_653" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related considerations are factored into executive remuneration</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" xlink:label="loc_407" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_407" xlink:to="res_653" xlink:type="arc"/>
-
         <link:label id="ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_654" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of risk management of sustainability-related risks and opportunities [abstract]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesAbstract" xlink:label="loc_408" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_408" xlink:to="res_654" xlink:type="arc"/>
@@ -1397,6 +1390,10 @@
         <link:label id="ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable_label" xlink:label="res_687" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Impracticality of revision of comparative amounts [table]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable" xlink:label="loc_441" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_441" xlink:to="res_687" xlink:type="arc"/>
+        
+        <link:label id="ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod_label" xlink:label="res_688" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fact that amounts disclosed in the sustainability-related financial disclosures are not entirely comparable due to the change in length of reporting period.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_442" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_442" xlink:to="res_688" xlink:type="arc"/>   
         
     </link:labelLink>
 </link:linkbase>

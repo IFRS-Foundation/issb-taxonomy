@@ -142,9 +142,8 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_113" xlink:to="loc_114" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EntityAppliesCarbonPriceInDecisionMaking" xlink:label="loc_115" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_114" xlink:to="loc_115" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfWhetherAndHowClimateRelatedConsiderationsAreFactoredIntoExecutiveRemunerationExplanatory" xlink:label="loc_118" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RemunerationDisclosureAbstract" xlink:label="loc_117" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_117" xlink:to="loc_118" xlink:type="arc"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_117" xlink:to="loc_15" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfClimateRelatedTargetsTable" xlink:label="loc_121" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfClimateRelatedTargetsAbstract" xlink:label="loc_120" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_120" xlink:to="loc_121" xlink:type="arc"/>
@@ -440,10 +439,7 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_210" xlink:to="loc_211" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfRiskManagementOfClimateRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_214" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_209" xlink:to="loc_214" xlink:type="arc"/>
-        
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateRelatedConsiderationsAreFactoredIntoExecutiveRemuneration" xlink:label="loc_215" xlink:type="locator"/>        
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_118" xlink:to="loc_215" xlink:type="arc"/>
-
+               
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentToWhichAndHowNetGreenhouseEmissionsTargetReliesOnUseOfCarbonCredits" xlink:label="loc_216" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_196" xlink:to="loc_216" xlink:type="arc"/>          
 

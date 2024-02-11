@@ -283,7 +283,6 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfRevisionsToTargetExplanatory" xlink:label="loc_102" xlink:type="locator"/>
         <link:presentationArc order="70.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_102" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_115" xlink:type="locator"/>
-        <link:presentationArc order="70.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_115" xlink:type="arc"/>
         <link:presentationArc order="70.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_1" xlink:to="loc_121" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfInformationAboutTransactionsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityRelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory" xlink:label="loc_116" xlink:type="locator"/>
         <link:presentationArc order="80.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_116" xlink:type="arc"/>
@@ -391,5 +390,8 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_238" xlink:to="loc_240" xlink:type="arc"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_240" xlink:to="loc_128" xlink:type="arc"/>
         
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_241" xlink:type="locator"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_241" xlink:to="loc_115" xlink:type="arc"/>
+        <link:presentationArc order="70.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_241" xlink:type="arc"/>
     </link:presentationLink>
 </link:linkbase>
