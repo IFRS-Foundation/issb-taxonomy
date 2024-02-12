@@ -153,7 +153,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfReasonsEntityHasDisclosedRevisedComparativeAmountThatReflectsNewInformationInRelationToEstimatedAmountDisclosedInPrecedingPeriodExplanatory" xlink:label="loc_127" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsAbstract" xlink:label="loc_126" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_126" xlink:to="loc_127" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountOfAtLeastOneMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_129" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountForfMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_129" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfFactThatItIsImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory" xlink:label="loc_128" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_128" xlink:to="loc_129" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory" xlink:label="loc_131" xlink:type="locator"/>
@@ -302,7 +302,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfRiskManagementOfSustainabilityRelatedRisksAndOpportunitiesLineItems" xlink:label="loc_214" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_209" xlink:to="loc_214" xlink:type="arc"/>
 
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks" xlink:label="loc_172" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_172" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_70" xlink:to="loc_172" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowLikelihoodAndMagnitudeOfEffectsOfRisksAreAssessed" xlink:label="loc_173" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_70" xlink:to="loc_173" xlink:type="arc"/>

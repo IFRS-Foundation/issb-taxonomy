@@ -283,7 +283,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EntityUsesClimateRelatedScenarioAnalysisToInformItsIdentificationOfClimateRelatedOpportunities" xlink:label="loc_83" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_82" xlink:to="loc_83" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfExtentToWhichAndHowProcessesForIdentifyingAssessingPrioritisingAndMonitoringRisksAndOpportunitiesAreIntegratedIntoOrInformEntitysOverallRiskManagementProcessExplanatory" xlink:label="loc_84" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks" xlink:label="loc_172" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_172" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_76" xlink:to="loc_172" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowLikelihoodAndMagnitudeOfEffectsOfRisksAreAssessed" xlink:label="loc_173" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_76" xlink:to="loc_173" xlink:type="arc"/>
@@ -362,7 +362,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsLineItems" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>          
 
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountOfAtLeastOneMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_129" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountForfMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_129" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfFactThatItIsImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory" xlink:label="loc_128" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_128" xlink:to="loc_129" xlink:type="arc"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_128" xlink:type="arc"/>     

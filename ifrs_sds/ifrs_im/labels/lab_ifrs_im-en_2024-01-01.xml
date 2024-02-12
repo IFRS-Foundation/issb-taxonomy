@@ -104,8 +104,8 @@
         <link:label id="ifrs-im_CoalReservesProvedEstimatedCarbonDioxideEmissions_measurementGuidance_1" xlink:label="res_435" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t) CO₂-e</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CoalReservesProvedEstimatedCarbonDioxideEmissions" xlink:label="loc_267" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_267" xlink:to="res_435" xlink:type="arc"/>
-        <link:label id="ifrs-im_AirEmissionsVolume_measurementGuidance_1" xlink:label="res_483" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t)</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolume" xlink:label="loc_297" xlink:type="locator"/>
+        <link:label id="ifrs-im_AirEmissionsMass_measurementGuidance_1" xlink:label="res_483" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t)</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMass" xlink:label="loc_297" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_297" xlink:to="res_483" xlink:type="arc"/>
         <link:label id="ifrs-im_WasteQuantityGenerated_measurementGuidance_1" xlink:label="res_506" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t)</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WasteQuantityGenerated" xlink:label="loc_306" xlink:type="locator"/>
@@ -1477,7 +1477,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_142" xlink:to="res_193" xlink:type="arc"/>
         <link:label id="ifrs-im_WoodFibreMaterialsPurchasedPercentageCertifiedToOtherFibreSourcingStandards_label" xlink:label="res_194" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Wood fibre materials purchased, percentage certified to other fibre sourcing standards</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_143" xlink:to="res_194" xlink:type="arc"/>
-        <link:label id="ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsThatAreNotCertifiedToThirdPartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory_label" xlink:label="res_198" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sourcing of wood fibre materials from forestlands that are not certified to third-party forest management standard, and other wood fibre certification standards [text block]</link:label>
+        <link:label id="ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsThatAreNotCertifiedToThirdPartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory_label" xlink:label="res_198" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sourcing of wood fibre materials from forestlands not certified to third-party forest management standard, and other wood fibre certification standards [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsThatAreNotCertifiedToThirdPartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_144" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_144" xlink:to="res_198" xlink:type="arc"/>
         <link:label id="ifrs-im_BuildingProductsAndFurnishingsIndustryActivityMetricsAbstract_label" xlink:label="res_200" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Building products and furnishings industry, activity metrics [abstract]</link:label>
@@ -1706,19 +1706,19 @@
         <link:label id="ifrs-im_CoalOperationsIndustrySustainabilityDisclosureMetricsAbstract_label" xlink:label="res_361" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Coal operations industry, sustainability disclosure metrics [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CoalOperationsIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_224" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_224" xlink:to="res_361" xlink:type="arc"/>
-        <link:label id="ifrs-im_GreenhouseGasEmissionsDisclosureAbstract_label" xlink:label="res_362" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gas emissions disclosure [abstract]</link:label>
+        <link:label id="ifrs-im_GreenhouseGasEmissionsDisclosureAbstract_label" xlink:label="res_362" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GHG emissions disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasEmissionsDisclosureAbstract" xlink:label="loc_225" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_225" xlink:to="res_362" xlink:type="arc"/>
-        <link:label id="ifrs-im_GreenhouseGasEmissionsDisclosureExplanatory_label" xlink:label="res_363" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gas emissions disclosure [text block]</link:label>
+        <link:label id="ifrs-im_GreenhouseGasEmissionsDisclosureExplanatory_label" xlink:label="res_363" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GHG emissions disclosure [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasEmissionsDisclosureExplanatory" xlink:label="loc_226" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_226" xlink:to="res_363" xlink:type="arc"/>
         <link:label id="ifrs-im_EMCO110a1Abstract_label" xlink:label="res_364" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-CO-110a.1 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EMCO110a1Abstract" xlink:label="loc_227" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_227" xlink:to="res_364" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationAbstract_label" xlink:label="res_369" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage covered by regulation [abstract]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationAbstract_label" xlink:label="res_369" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage covered by regulation [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationAbstract" xlink:label="loc_229" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_229" xlink:to="res_369" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable_label" xlink:label="res_370" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage covered by regulation [table]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable_label" xlink:label="res_370" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage covered by regulation [table]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_230" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_230" xlink:to="res_370" xlink:type="arc"/>
         <link:label id="ifrs-im_EmissionRegulationAxis_label" xlink:label="res_371" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emission regulation [axis]</link:label>
@@ -1730,10 +1730,10 @@
         <link:label id="ifrs-im_EmissionsLimitingRegulationsMember_label" xlink:label="res_373" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emissions-limiting regulations [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EmissionsLimitingRegulationsMember" xlink:label="loc_233" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_233" xlink:to="res_373" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationLineItems_label" xlink:label="res_374" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage covered by regulation [line items]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationLineItems_label" xlink:label="res_374" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage covered by regulation [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulationLineItems" xlink:label="loc_234" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_234" xlink:to="res_374" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation_label" xlink:label="res_375" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage covered by regulation</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation_label" xlink:label="res_375" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage covered by regulation</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_235" xlink:to="res_375" xlink:type="arc"/>
         <link:label id="ifrs-im_EMCO110a2Abstract_label" xlink:label="res_378" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-CO-110a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EMCO110a2Abstract" xlink:label="loc_236" xlink:type="locator"/>
@@ -1878,11 +1878,11 @@
         <link:label id="ifrs-im_EMCM120a1Abstract_label" xlink:label="res_468" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-CM-120a.1 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EMCM120a1Abstract" xlink:label="loc_284" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_284" xlink:to="res_468" xlink:type="arc"/>
-        <link:label id="ifrs-im_AirEmissionsVolumeAbstract_label" xlink:label="res_470" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, volume [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolumeAbstract" xlink:label="loc_285" xlink:type="locator"/>
+        <link:label id="ifrs-im_AirEmissionsMassAbstract_label" xlink:label="res_470" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, mass [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMassAbstract" xlink:label="loc_285" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_285" xlink:to="res_470" xlink:type="arc"/>
-        <link:label id="ifrs-im_AirEmissionsVolumeTable_label" xlink:label="res_471" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, volume [table]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolumeTable" xlink:label="loc_286" xlink:type="locator"/>
+        <link:label id="ifrs-im_AirEmissionsMassTable_label" xlink:label="res_471" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, mass [table]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMassTable" xlink:label="loc_286" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_286" xlink:to="res_471" xlink:type="arc"/>
         <link:label id="ifrs-im_PollutantAxis_label" xlink:label="res_472" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Pollutant [axis]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PollutantAxis" xlink:label="loc_287" xlink:type="locator"/>
@@ -1911,10 +1911,10 @@
         <link:label id="ifrs-im_VolatileOrganicCompoundsVocsMember_label" xlink:label="res_480" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Volatile organic compounds (vocs) [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VolatileOrganicCompoundsVocsMember" xlink:label="loc_295" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_295" xlink:to="res_480" xlink:type="arc"/>
-        <link:label id="ifrs-im_AirEmissionsVolumeLineItems_label" xlink:label="res_481" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, volume [line items]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolumeLineItems" xlink:label="loc_296" xlink:type="locator"/>
+        <link:label id="ifrs-im_AirEmissionsMassLineItems_label" xlink:label="res_481" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, mass [line items]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMassLineItems" xlink:label="loc_296" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_296" xlink:to="res_481" xlink:type="arc"/>
-        <link:label id="ifrs-im_AirEmissionsVolume_label" xlink:label="res_482" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, volume</link:label>
+        <link:label id="ifrs-im_AirEmissionsMass_label" xlink:label="res_482" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Air emissions, mass</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_297" xlink:to="res_482" xlink:type="arc"/>
         <link:label id="ifrs-im_EnergyManagementDisclosureAbstract_label" xlink:label="res_485" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Energy management disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergyManagementDisclosureAbstract" xlink:label="loc_298" xlink:type="locator"/>
@@ -2145,10 +2145,10 @@
         <link:label id="ifrs-im_EMEP110a1Abstract_label" xlink:label="res_658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-EP-110a.1 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EMEP110a1Abstract" xlink:label="loc_377" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_377" xlink:to="res_658" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageAbstract_label" xlink:label="res_661" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage [abstract]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageAbstract_label" xlink:label="res_661" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageAbstract" xlink:label="loc_378" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_378" xlink:to="res_661" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageTable_label" xlink:label="res_662" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage [table]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageTable_label" xlink:label="res_662" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage [table]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageTable" xlink:label="loc_379" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_379" xlink:to="res_662" xlink:type="arc"/>
         <link:label id="ifrs-im_EmissionAxis_label" xlink:label="res_663" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emission [axis]</link:label>
@@ -2160,18 +2160,18 @@
         <link:label id="ifrs-im_MethaneMember_label" xlink:label="res_665" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Methane [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_MethaneMember" xlink:label="loc_382" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_382" xlink:to="res_665" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageLineItems_label" xlink:label="res_667" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage [line items]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageLineItems_label" xlink:label="res_667" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageLineItems" xlink:label="loc_383" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_383" xlink:to="res_667" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentage_label" xlink:label="res_668" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions, percentage</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsPercentage_label" xlink:label="res_668" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions, percentage</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_384" xlink:to="res_668" xlink:type="arc"/>
         <link:label id="ifrs-im_EMEP110a2Abstract_label" xlink:label="res_673" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-EP-110a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EMEP110a2Abstract" xlink:label="loc_385" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_385" xlink:to="res_673" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsAbstract_label" xlink:label="res_675" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions [abstract]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsAbstract_label" xlink:label="res_675" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsAbstract" xlink:label="loc_386" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_386" xlink:to="res_675" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsTable_label" xlink:label="res_676" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions [table]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsTable_label" xlink:label="res_676" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions [table]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsTable" xlink:label="loc_387" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_387" xlink:to="res_676" xlink:type="arc"/>
         <link:label id="ifrs-im_EmissionSourceAxis_label" xlink:label="res_677" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Emission source [axis]</link:label>
@@ -2195,7 +2195,7 @@
         <link:label id="ifrs-im_ProcessEmissionsMember_label" xlink:label="res_687" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Process emissions [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ProcessEmissionsMember" xlink:label="loc_394" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_394" xlink:to="res_687" xlink:type="arc"/>
-        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsLineItems_label" xlink:label="res_689" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross scope 1 greenhouse gas emissions [line items]</link:label>
+        <link:label id="ifrs-im_GrossScope1GreenhouseGasEmissionsLineItems_label" xlink:label="res_689" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Gross Scope 1 GHG emissions [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsLineItems" xlink:label="loc_395" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_395" xlink:to="res_689" xlink:type="arc"/>
         <link:label id="ifrs-im_EMEP110a3Abstract_label" xlink:label="res_691" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">EM-EP-110a.3 [abstract]</link:label>
@@ -2523,7 +2523,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_510" xlink:to="res_925" xlink:type="arc"/>
         <link:label id="ifrs-im_EnginesInServiceThatComplyWithHighestLevelOfEmissionsStandardsForNonRoadDieselEngineEmissionsPercentage_label" xlink:label="res_927" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Engines in service that comply with highest level of emissions standards for non road diesel engine emissions, percentage</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_511" xlink:to="res_927" xlink:type="arc"/>
-        <link:label id="ifrs-im_JurisdictionalEmissionStandardUsedInDisclosureOfPercentageOfItsNonRoadDieselEnginesThatAreInComplianceWithHighestLevelOfJurisdictionalEmissionsStandardsExplanatory_label" xlink:label="res_930" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Jurisdictional emission standard used in disclosure of percentage of its non road diesel engines that are in compliance with highest level of jurisdictional emissions standards [text block]</link:label>
+        <link:label id="ifrs-im_JurisdictionalEmissionStandardUsedInDisclosureOfPercentageOfItsNonRoadDieselEnginesThatAreInComplianceWithHighestLevelOfJurisdictionalEmissionsStandardsExplanatory_label" xlink:label="res_930" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Jurisdictional emission standard used in disclosure of percentage of non road diesel engines in compliance with highest level of jurisdictional emissions standards [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionalEmissionStandardUsedInDisclosureOfPercentageOfItsNonRoadDieselEnginesThatAreInComplianceWithHighestLevelOfJurisdictionalEmissionsStandardsExplanatory" xlink:label="loc_512" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_512" xlink:to="res_930" xlink:type="arc"/>
         <link:label id="ifrs-im_WaterManagementServicesDisclosureAbstract_label" xlink:label="res_931" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Water management services disclosure [abstract]</link:label>
@@ -2918,7 +2918,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_654" xlink:to="res_1178" xlink:type="arc"/>
         <link:label id="ifrs-im_LossesAttributableToInsurancePayoutsNet_label" xlink:label="res_1179" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Losses attributable to insurance payouts, net</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_655" xlink:to="res_1179" xlink:type="arc"/>
-        <link:label id="ifrs-im_ClimateChangeRelatedImpactsAndVariabilityOfWeatherRelatedLossesImpactOnCostOfReinsuranceAndEntitysApproachToTransferringRiskExplanatory_label" xlink:label="res_1182" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate change-related impacts and variability of weather-related losses impact on cost of reinsurance and entity's approach to transferring risk [text block]</link:label>
+        <link:label id="ifrs-im_ClimateChangeRelatedImpactsAndVariabilityOfWeatherRelatedLossesImpactOnCostOfReinsuranceAndEntitysApproachToTransferringRiskExplanatory_label" xlink:label="res_1182" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate change-related impacts and variability of weather-related losses impact on cost of reinsurance and approach to transferring risk [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ClimateChangeRelatedImpactsAndVariabilityOfWeatherRelatedLossesImpactOnCostOfReinsuranceAndEntitysApproachToTransferringRiskExplanatory" xlink:label="loc_656" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_656" xlink:to="res_1182" xlink:type="arc"/>
         <link:label id="ifrs-im_FNIN450a3Abstract_label" xlink:label="res_1184" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FN-IN-450a.3 [abstract]</link:label>
@@ -3550,7 +3550,7 @@
         <link:label id="ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInTheSupplyChainDisclosureAbstract_label" xlink:label="res_1572" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management of environmental and social impacts in the supply chain disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInTheSupplyChainDisclosureAbstract" xlink:label="loc_876" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_876" xlink:to="res_1572" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInTheSupplyChainDisclosureExplanatory_label" xlink:label="res_1573" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management of environmental and social impacts in the supply chain disclosure [text block]</link:label>
+        <link:label id="ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInTheSupplyChainDisclosureExplanatory_label" xlink:label="res_1573" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management of environmental and social impacts in supply chain disclosure [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInTheSupplyChainDisclosureExplanatory" xlink:label="loc_877" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_877" xlink:to="res_1573" xlink:type="arc"/>
         <link:label id="ifrs-im_FBFR430a1Abstract_label" xlink:label="res_1574" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">FB-FR-430a.1 [abstract]</link:label>
@@ -4229,10 +4229,10 @@
         <link:label id="ifrs-im_ElectricUtilitiesAndPowerGeneratorsIndustrySustainabilityDisclosureMetricsAbstract_label" xlink:label="res_2062" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Electric utilities and power generators industry, sustainability disclosure metrics [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ElectricUtilitiesAndPowerGeneratorsIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_1114" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1114" xlink:to="res_2062" xlink:type="arc"/>
-        <link:label id="ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureAbstract_label" xlink:label="res_2063" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gas emissions and energy resource planning disclosure [abstract]</link:label>
+        <link:label id="ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureAbstract_label" xlink:label="res_2063" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GHG emissions and energy resource planning disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureAbstract" xlink:label="loc_1115" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1115" xlink:to="res_2063" xlink:type="arc"/>
-        <link:label id="ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureExplanatory_label" xlink:label="res_2064" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gas emissions and energy resource planning disclosure [text block]</link:label>
+        <link:label id="ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureExplanatory_label" xlink:label="res_2064" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GHG emissions and energy resource planning disclosure [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureExplanatory" xlink:label="loc_1116" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1116" xlink:to="res_2064" xlink:type="arc"/>
         <link:label id="ifrs-im_IFEU110a1Abstract_label" xlink:label="res_2065" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IF-EU-110a.1 [abstract]</link:label>
@@ -4244,7 +4244,7 @@
         <link:label id="ifrs-im_IFEU110a2Abstract_label" xlink:label="res_2072" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IF-EU-110a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IFEU110a2Abstract" xlink:label="loc_1119" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1119" xlink:to="res_2072" xlink:type="arc"/>
-        <link:label id="ifrs-im_GreenhouseGasGhgEmissionsAssociatedWithPowerDeliveries_label" xlink:label="res_2074" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gas (GHG) emissions associated with power deliveries</link:label>
+        <link:label id="ifrs-im_GreenhouseGasGhgEmissionsAssociatedWithPowerDeliveries_label" xlink:label="res_2074" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GHG emissions associated with power deliveries</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1120" xlink:to="res_2074" xlink:type="arc"/>
         <link:label id="ifrs-im_IFEU110a3Abstract_label" xlink:label="res_2077" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IF-EU-110a.3 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IFEU110a3Abstract" xlink:label="loc_1121" xlink:type="locator"/>
@@ -4979,7 +4979,7 @@
         <link:label id="ifrs-im_PortfolioPercentageThatHasAnEnergyRatingLineItems_label" xlink:label="res_2555" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Portfolio, percentage that has an energy rating [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRatingLineItems" xlink:label="loc_1381" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1381" xlink:to="res_2555" xlink:type="arc"/>
-        <link:label id="ifrs-im_PortfolioPercentageThatHasAnEnergyRating_label" xlink:label="res_2556" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Portfolio, percentage that has an energy rating</link:label>
+        <link:label id="ifrs-im_PortfolioPercentageThatHasAnEnergyRating_label" xlink:label="res_2556" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Portfolio, percentage with energy rating</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1382" xlink:to="res_2556" xlink:type="arc"/>
         <link:label id="ifrs-im_ProductsEligibleToStandardPercentageCertifiedAbstract_label" xlink:label="res_2559" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Products, eligible to standard, percentage certified [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ProductsEligibleToStandardPercentageCertifiedAbstract" xlink:label="loc_1383" xlink:type="locator"/>
@@ -5113,7 +5113,7 @@
         <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumptionLineItems_label" xlink:label="res_2628" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage that are separately metered or submetered for grid electricity consumption [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumptionLineItems" xlink:label="loc_1428" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1428" xlink:to="res_2628" xlink:type="arc"/>
-        <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumption_label" xlink:label="res_2629" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage that are separately metered or submetered for grid electricity consumption</link:label>
+        <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumption_label" xlink:label="res_2629" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage separately metered or submetered for grid electricity consumption</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1429" xlink:to="res_2629" xlink:type="arc"/>
         <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsAbstract_label" xlink:label="res_2632" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage that are separately metered or submetered for water withdrawals [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsAbstract" xlink:label="loc_1430" xlink:type="locator"/>
@@ -5124,7 +5124,7 @@
         <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsLineItems_label" xlink:label="res_2634" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage that are separately metered or submetered for water withdrawals [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawalsLineItems" xlink:label="loc_1432" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1432" xlink:to="res_2634" xlink:type="arc"/>
-        <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawals_label" xlink:label="res_2635" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage that are separately metered or submetered for water withdrawals</link:label>
+        <link:label id="ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawals_label" xlink:label="res_2635" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Tenants, percentage separately metered or submetered for water withdrawals</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1433" xlink:to="res_2635" xlink:type="arc"/>
         <link:label id="ifrs-im_IFRE410a3Abstract_label" xlink:label="res_2638" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">IF-RE-410a.3 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IFRE410a3Abstract" xlink:label="loc_1434" xlink:type="locator"/>
@@ -5702,10 +5702,10 @@
         <link:label id="ifrs-im_RRBI410a1Abstract_label" xlink:label="res_3048" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-BI-410a.1 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRBI410a1Abstract" xlink:label="loc_1637" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1637" xlink:to="res_3048" xlink:type="arc"/>
-        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissionsAbstract_label" xlink:label="res_3050" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle greenhouse gas (GHG) emissions [abstract]</link:label>
+        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissionsAbstract_label" xlink:label="res_3050" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle GHG emissions [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGreenhouseGasGhgEmissionsAbstract" xlink:label="loc_1638" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1638" xlink:to="res_3050" xlink:type="arc"/>
-        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissionsTable_label" xlink:label="res_3051" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle greenhouse gas (GHG) emissions [table]</link:label>
+        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissionsTable_label" xlink:label="res_3051" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle GHG emissions [table]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGreenhouseGasGhgEmissionsTable" xlink:label="loc_1639" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1639" xlink:to="res_3051" xlink:type="arc"/>
         <link:label id="ifrs-im_BiofuelTypeAxis_label" xlink:label="res_3052" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Biofuel type [axis]</link:label>
@@ -5726,10 +5726,10 @@
         <link:label id="ifrs-im_RenewableFuelMember_label" xlink:label="res_3060" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Renewable fuel [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RenewableFuelMember" xlink:label="loc_1645" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1645" xlink:to="res_3060" xlink:type="arc"/>
-        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissionsLineItems_label" xlink:label="res_3062" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle greenhouse gas (GHG) emissions [line items]</link:label>
+        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissionsLineItems_label" xlink:label="res_3062" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle GHG emissions [line items]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGreenhouseGasGhgEmissionsLineItems" xlink:label="loc_1646" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1646" xlink:to="res_3062" xlink:type="arc"/>
-        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissions_label" xlink:label="res_3063" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle greenhouse gas (GHG) emissions</link:label>
+        <link:label id="ifrs-im_LifecycleGreenhouseGasGhgEmissions_label" xlink:label="res_3063" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Lifecycle GHG emissions</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1647" xlink:to="res_3063" xlink:type="arc"/>
         <link:label id="ifrs-im_JurisdictionalStandardOrRegulationUsedForCalculationOfLifecycleGhgEmissionsExplanatory_label" xlink:label="res_3066" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Jurisdictional standard or regulation used for calculation of lifecycle GHG emissions [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionalStandardOrRegulationUsedForCalculationOfLifecycleGhgEmissionsExplanatory" xlink:label="loc_1648" xlink:type="locator"/>
@@ -5754,7 +5754,7 @@
         <link:label id="ifrs-im_ManagementOfTheLegalAndRegulatoryEnvironmentDisclosureAbstract_label" xlink:label="res_3078" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management of the legal and regulatory environment disclosure [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfTheLegalAndRegulatoryEnvironmentDisclosureAbstract" xlink:label="loc_1655" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1655" xlink:to="res_3078" xlink:type="arc"/>
-        <link:label id="ifrs-im_ManagementOfTheLegalAndRegulatoryEnvironmentDisclosureExplanatory_label" xlink:label="res_3079" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management of the legal and regulatory environment disclosure [text block]</link:label>
+        <link:label id="ifrs-im_ManagementOfTheLegalAndRegulatoryEnvironmentDisclosureExplanatory_label" xlink:label="res_3079" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Management of legal and regulatory environment disclosure [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfTheLegalAndRegulatoryEnvironmentDisclosureExplanatory" xlink:label="loc_1656" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1656" xlink:to="res_3079" xlink:type="arc"/>
         <link:label id="ifrs-im_RRBI530a1Abstract_label" xlink:label="res_3080" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-BI-530a.1 [abstract]</link:label>
@@ -5823,7 +5823,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1679" xlink:to="res_3125" xlink:type="arc"/>
         <link:label id="ifrs-im_ForestlandPercentageCertifiedToThirdPartyForestManagementStandard_label" xlink:label="res_3126" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Forestland, percentage certified to third-party forest management standard</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1680" xlink:to="res_3126" xlink:type="arc"/>
-        <link:label id="ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsThatWereSuspendedOrTerminatedExplanatory_label" xlink:label="res_3129" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Number, associated acreage, and reason for suspension or termination for forest management certifications that were suspended or terminated [text block]</link:label>
+        <link:label id="ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsThatWereSuspendedOrTerminatedExplanatory_label" xlink:label="res_3129" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Number, associated acreage, and reason for suspension or termination for forest management certifications suspended or terminated [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsThatWereSuspendedOrTerminatedExplanatory" xlink:label="loc_1681" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1681" xlink:to="res_3129" xlink:type="arc"/>
         <link:label id="ifrs-im_RRFM160a2Abstract_label" xlink:label="res_3131" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-FM-160a.2 [abstract]</link:label>
@@ -5854,7 +5854,7 @@
         <link:label id="ifrs-im_RRFM000AAbstract_label" xlink:label="res_3151" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-FM-000.A [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFM000AAbstract" xlink:label="loc_1691" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1691" xlink:to="res_3151" xlink:type="arc"/>
-        <link:label id="ifrs-im_ForestlandOwnedLeasedOrManagedByEntityArea_label" xlink:label="res_3153" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Forestland owned, leased, or managed by entity, area</link:label>
+        <link:label id="ifrs-im_ForestlandOwnedLeasedOrManagedByEntityArea_label" xlink:label="res_3153" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Forestland owned, leased, or managed, area</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1692" xlink:to="res_3153" xlink:type="arc"/>
         <link:label id="ifrs-im_RRFM000BAbstract_label" xlink:label="res_3156" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-FM-000.B [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RRFM000BAbstract" xlink:label="loc_1693" xlink:type="locator"/>
@@ -6205,7 +6205,7 @@
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1811" xlink:to="res_3422" xlink:type="arc"/>
         <link:label id="ifrs-im_WoodFibreSourcePercentage_label" xlink:label="res_3423" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Wood fibre, source percentage</link:label>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1812" xlink:to="res_3423" xlink:type="arc"/>
-        <link:label id="ifrs-im_DueDiligencePracticesForFibreThatIsNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory_label" xlink:label="res_3426" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Due diligence practices for fibre that is not from certified forestlands or certified to other fibre sourcing standards [text block]</link:label>
+        <link:label id="ifrs-im_DueDiligencePracticesForFibreThatIsNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory_label" xlink:label="res_3426" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Due diligence practices for fibre not from certified forestlands or certified to other fibre sourcing standards [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DueDiligencePracticesForFibreThatIsNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory" xlink:label="loc_1813" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1813" xlink:to="res_3426" xlink:type="arc"/>
         <link:label id="ifrs-im_RRPP430a2Abstract_label" xlink:label="res_3428" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RR-PP-430a.2 [abstract]</link:label>
@@ -6469,7 +6469,7 @@
         <link:label id="ifrs-im_RTAE410a2Abstract_label" xlink:label="res_3605" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">RT-AE-410a.2 [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RTAE410a2Abstract" xlink:label="loc_1905" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1905" xlink:to="res_3605" xlink:type="arc"/>
-        <link:label id="ifrs-im_ApproachAndStrategyForFuelEconomyAndGreenhouseGasGhgEmissionsOfProductsExplanatory_label" xlink:label="res_3607" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Approach and strategy for fuel economy and greenhouse gas (GHG) emissions of products [text block]</link:label>
+        <link:label id="ifrs-im_ApproachAndStrategyForFuelEconomyAndGreenhouseGasGhgEmissionsOfProductsExplanatory_label" xlink:label="res_3607" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Approach and strategy for fuel economy and GHG emissions of products [text block]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ApproachAndStrategyForFuelEconomyAndGreenhouseGasGhgEmissionsOfProductsExplanatory" xlink:label="loc_1906" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1906" xlink:to="res_3607" xlink:type="arc"/>
         <link:label id="ifrs-im_AerospaceAndDefenseIndustryActivityMetricsAbstract_label" xlink:label="res_3609" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Aerospace and defense industry, activity metrics [abstract]</link:label>
@@ -7679,5 +7679,11 @@
         <link:label id="ifrs-im_TRRO000CAbstract_label" xlink:label="res_4604" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-RO-000.C [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRRO000CAbstract" xlink:label="loc_2328" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2328" xlink:to="res_4604" xlink:type="arc"/>
+        <link:label id="ifrs-im_MaterialConsumedFifthMostConsumed_measurementGuidance_1" xlink:label="res_4605" xlink:role="measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t)</link:label>
+        <link:loc xlink:href="../ifrs-im-cor_2024-01-01.xsd#ifrs-im_MaterialConsumedFifthMostConsumed" xlink:label="loc_4605" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_4605" xlink:to="res_4605" xlink:type="arc"/>
+        <link:label id="ifrs-im_GamingFloorArea_measurementGuidance_1" xlink:label="res_4606" xlink:role="measurementGuidance" xlink:type="resource" xml:lang="en">Square metres (m²)</link:label>
+        <link:loc xlink:href="../ifrs-im-cor_2024-01-01.xsd#ifrs-im_GamingFloorArea" xlink:label="loc_4606" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_4606" xlink:to="res_4606" xlink:type="arc"/>
     </link:labelLink>
 </link:linkbase>

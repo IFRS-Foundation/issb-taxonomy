@@ -740,7 +740,7 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfFactThatItIsImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory" xlink:label="loc_96" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_96" xlink:to="res_71" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountOfAtLeastOneMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_97" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountForfMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_97" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_97" xlink:to="res_71" xlink:type="arc"/>
         <link:reference xlink:label="res_72" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -1374,7 +1374,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.B54.2</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountOfAtLeastOneMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_266" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountForfMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_266" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_266" xlink:to="res_343" xlink:type="arc"/>
         <link:reference xlink:label="res_346" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -1430,7 +1430,7 @@
         
         
      
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisks" xlink:label="loc_810" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_InputsAndParametersUsedInProcessToIdentifyPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_810" xlink:type="locator"/>
         <link:reference xlink:label="res_811" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>

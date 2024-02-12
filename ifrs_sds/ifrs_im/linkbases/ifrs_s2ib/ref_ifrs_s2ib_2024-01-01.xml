@@ -851,7 +851,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_188" xlink:to="res_5928" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_VolatileOrganicCompoundsVocsMember" xlink:label="loc_189" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_189" xlink:to="res_5928" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolume" xlink:label="loc_190" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMass" xlink:label="loc_190" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_190" xlink:to="res_57" xlink:type="arc"/>
         <link:reference xlink:label="res_58" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -9582,7 +9582,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>EM-CM-120a.1a, EM-CM-120a.1b, EM-CM-120a.1c, EM-CM-120a.1d, EM-CM-120a.1e, EM-CM-120a.1f, EM-CM-120a.1g</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolume" xlink:label="loc_1563" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMass" xlink:label="loc_1563" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1563" xlink:to="res_1750" xlink:type="arc"/>
         <link:reference xlink:label="res_1754" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>

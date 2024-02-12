@@ -276,7 +276,7 @@
         <link:presentationArc order="730.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_142" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ResponsibleBodyOrIndividualConsideredTradeOffsAssociatedWithRisksAndOpportunities" xlink:label="loc_143" xlink:type="locator"/>
         <link:presentationArc order="740.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_143" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountOfAtLeastOneMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_144" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RevisionOfComparativeAmountForfMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_144" xlink:type="locator"/>
         <link:presentationArc order="750.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_144" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourceFromWhichMetricWasDrawn" xlink:label="loc_145" xlink:type="locator"/>
         <link:presentationArc order="760.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_145" xlink:type="arc"/>

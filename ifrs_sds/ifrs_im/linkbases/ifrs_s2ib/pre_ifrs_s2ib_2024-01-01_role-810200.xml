@@ -36,10 +36,10 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirQualityDisclosureExplanatory" xlink:label="loc_17" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirQualityDisclosureAbstract" xlink:label="loc_16" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_16" xlink:to="loc_17" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolumeAbstract" xlink:label="loc_19" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMassAbstract" xlink:label="loc_19" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EMCM120a1Abstract" xlink:label="loc_18" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_18" xlink:to="loc_19" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolumeTable" xlink:label="loc_20" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMassTable" xlink:label="loc_20" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PollutantAxis" xlink:label="loc_21" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_20" xlink:to="loc_21" xlink:type="arc"/>
@@ -47,8 +47,8 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_21" xlink:to="loc_22" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DioxinsFuransMember" xlink:label="loc_23" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_22" xlink:to="loc_23" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolume" xlink:label="loc_31" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolumeLineItems" xlink:label="loc_30" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMass" xlink:label="loc_31" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMassLineItems" xlink:label="loc_30" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_30" xlink:to="loc_31" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergyManagementDisclosureExplanatory" xlink:label="loc_33" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergyManagementDisclosureAbstract" xlink:label="loc_32" xlink:type="locator"/>

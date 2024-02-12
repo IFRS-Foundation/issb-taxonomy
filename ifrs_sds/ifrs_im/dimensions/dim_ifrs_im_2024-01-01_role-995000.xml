@@ -42,7 +42,7 @@
         <link:definitionArc order="10030.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1014" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AgriculturalRawMaterialsPercentageSourcedFromRegionsWithHighOrExtremelyHighBaselineWaterStress" xlink:label="loc_1015" xlink:type="locator"/>
         <link:definitionArc order="10040.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1015" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsVolume" xlink:label="loc_1016" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirEmissionsMass" xlink:label="loc_1016" xlink:type="locator"/>
         <link:definitionArc order="10050.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1016" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AirlineDeparturesNumber" xlink:label="loc_1017" xlink:type="locator"/>
         <link:definitionArc order="10060.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1017" xlink:type="arc"/>
