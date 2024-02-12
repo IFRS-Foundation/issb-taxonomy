@@ -7679,11 +7679,11 @@
         <link:label id="ifrs-im_TRRO000CAbstract_label" xlink:label="res_4604" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">TR-RO-000.C [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TRRO000CAbstract" xlink:label="loc_2328" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_2328" xlink:to="res_4604" xlink:type="arc"/>
-        <link:label id="ifrs-im_MaterialConsumedFifthMostConsumed_measurementGuidance_1" xlink:label="res_4605" xlink:role="measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t)</link:label>
-        <link:loc xlink:href="../ifrs-im-cor_2024-01-01.xsd#ifrs-im_MaterialConsumedFifthMostConsumed" xlink:label="loc_4605" xlink:type="locator"/>
+        <link:label id="ifrs-im_MaterialConsumedFifthMostConsumed_measurementGuidance_1" xlink:label="res_4605" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Metric tons (t)</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_MaterialConsumedFifthMostConsumed" xlink:label="loc_4605" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_4605" xlink:to="res_4605" xlink:type="arc"/>
-        <link:label id="ifrs-im_GamingFloorArea_measurementGuidance_1" xlink:label="res_4606" xlink:role="measurementGuidance" xlink:type="resource" xml:lang="en">Square metres (m²)</link:label>
-        <link:loc xlink:href="../ifrs-im-cor_2024-01-01.xsd#ifrs-im_GamingFloorArea" xlink:label="loc_4606" xlink:type="locator"/>
+        <link:label id="ifrs-im_GamingFloorArea_measurementGuidance_1" xlink:label="res_4606" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Square metres (m²)</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GamingFloorArea" xlink:label="loc_4606" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_4606" xlink:to="res_4606" xlink:type="arc"/>
     </link:labelLink>
 </link:linkbase>
