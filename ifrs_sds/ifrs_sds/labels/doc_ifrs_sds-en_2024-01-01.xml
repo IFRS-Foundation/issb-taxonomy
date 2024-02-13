@@ -868,6 +868,13 @@ These risks could carry financial implications for an entity, such as costs resu
         <link:label id="ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod_documentation" xlink:label="res_286" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Disclosure of the fact that the amounts disclosed in the sustainability-related financial disclosures are not entirely comparable due to the entity changing the end of its reporting period and disclosing sustainability-related financial disclosures for a period longer or shorter than 12 months.</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_286" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_286" xlink:to="res_286" xlink:type="arc"/>   
+
+        <link:label id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable_documentation" xlink:label="res_287" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Schedule disclosing the effects of climate-related risks and opportunities on strategy and decision-making.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_287" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_287" xlink:to="res_287" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems_documentation" xlink:label="res_288" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Line items are the concepts grouped together in a table (because they may relate to several different facts within a report). These concepts are used to disclose reportable information associated with members defined in one or many axes of the table.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" xlink:label="loc_288" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_288" xlink:to="res_288" xlink:type="arc"/>
         
     </link:labelLink>
 </link:linkbase>

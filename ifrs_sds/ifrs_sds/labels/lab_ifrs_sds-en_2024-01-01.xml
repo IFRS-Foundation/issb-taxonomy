@@ -1394,6 +1394,16 @@
         <link:label id="ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod_label" xlink:label="res_688" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fact that amounts disclosed in the sustainability-related financial disclosures are not entirely comparable due to the change in length of reporting period.</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_442" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_442" xlink:to="res_688" xlink:type="arc"/>   
+
+        <link:label id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract_label" xlink:label="res_689" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of climate-related risks and opportunities on strategy and decision-making [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingAbstract" xlink:label="loc_689" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_689" xlink:to="res_689" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems_label" xlink:label="res_690" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of climate-related risks and opportunities on strategy and decision-making [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" xlink:label="loc_690" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_690" xlink:to="res_690" xlink:type="arc"/>
+        <link:label id="ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable_label" xlink:label="res_691" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Effects of climate-related risks and opportunities on strategy and decision-making [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_691" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_691" xlink:to="res_691" xlink:type="arc"/> 
         
     </link:labelLink>
 </link:linkbase>
