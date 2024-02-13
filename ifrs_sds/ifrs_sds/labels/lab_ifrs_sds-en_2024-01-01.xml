@@ -1022,9 +1022,6 @@
         <link:label id="ifrs-sds_DisaggregationOfFinancedGreenhouseGasEmissionsByAssetClassTable_label" xlink:label="res_565" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disaggregation of financed greenhouse gas emissions by asset class [table]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisaggregationOfFinancedGreenhouseGasEmissionsByAssetClassTable" xlink:label="loc_325" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_325" xlink:to="res_565" xlink:type="arc"/>
-        <link:label id="ifrs-sds_OtherAssetClassMember_label" xlink:label="res_566" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Other asset class [member]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherAssetClassMember" xlink:label="loc_326" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_326" xlink:to="res_566" xlink:type="arc"/>
         <link:label id="ifrs-sds_DisaggregationOfFinancedGreenhouseGasEmissionsByAssetClassLineItems_label" xlink:label="res_567" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disaggregation of financed greenhouse gas emissions by asset class [line items]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisaggregationOfFinancedGreenhouseGasEmissionsByAssetClassLineItems" xlink:label="loc_327" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_327" xlink:to="res_567" xlink:type="arc"/>
