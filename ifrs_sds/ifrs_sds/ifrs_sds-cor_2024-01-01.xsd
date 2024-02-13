@@ -483,4 +483,5 @@
 
     <xsd:element abstract="false" id="ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" name="FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     
+    <xsd:element abstract="false" id="ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards" name="StatementOfComplianceWithIFRSSustainabilityDisclosureStandards" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
 </xsd:schema>
