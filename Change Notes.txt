@@ -45,6 +45,7 @@ Changes:
 * combine elements behind S2.29(g)(i) and S2.6 a (v)
 * add list of sustainability metrics from the taxonomy under SustainabilityMetricsDomain
 * add containing text element 'Statement of compliance with IFRS Sustainability Disclosure Standards' for 'Entity has made explicit and unreserved statement of compliance'
+* remove OtherAssetClassMember
 
 __Proposed Taxonomy__
 Corrections to staff draft:
