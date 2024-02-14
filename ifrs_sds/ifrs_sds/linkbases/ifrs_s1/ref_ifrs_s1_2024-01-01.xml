@@ -1664,6 +1664,7 @@
         
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards" xlink:label="loc_438" xlink:type="locator"/>        
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_438" xlink:to="res_64" xlink:type="arc"/>
-   
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_438" xlink:to="res_322" xlink:type="arc"/>
+        
     </link:referenceLink>
 </link:linkbase>

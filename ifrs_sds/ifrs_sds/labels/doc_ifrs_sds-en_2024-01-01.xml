@@ -876,5 +876,9 @@ These risks could carry financial implications for an entity, such as costs resu
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" xlink:label="loc_288" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_288" xlink:to="res_288" xlink:type="arc"/>
         
+        <link:label id="ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards_documentation" xlink:label="res_289" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Statement of compliance with IFRS Sustainability Disclosure Standards.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards" xlink:label="loc_289" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_289" xlink:to="res_289" xlink:type="arc"/>
+
     </link:labelLink>
 </link:linkbase>

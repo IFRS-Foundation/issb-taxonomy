@@ -1399,5 +1399,9 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingTable" xlink:label="loc_691" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_691" xlink:to="res_691" xlink:type="arc"/> 
         
+        <link:label id="ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards_label" xlink:label="res_692" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Statement of compliance with IFRS Sustainability Disclosure Standards</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards" xlink:label="loc_692" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_692" xlink:to="res_692" xlink:type="arc"/>
+
     </link:labelLink>
 </link:linkbase>
