@@ -46,6 +46,7 @@ Changes:
 * add list of sustainability metrics from the taxonomy under SustainabilityMetricsDomain
 * add containing text element 'Statement of compliance with IFRS Sustainability Disclosure Standards' for 'Entity has made explicit and unreserved statement of compliance'
 * remove OtherAssetClassMember
+* made "GHGEmission target details [text block]" parent to S2.36 a-d categoricals, remove greenhouse gas emission targets [abstract]
 
 __Proposed Taxonomy__
 Corrections to staff draft:

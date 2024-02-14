@@ -885,7 +885,7 @@
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfGreenhouseGasesAndEmissionScopesCoveredByEntitysEmissionTargetsExplanatory" xlink:label="loc_108" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GHGEmissionTargetDetailsExplanatory" xlink:label="loc_108" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_80" xlink:type="arc"/>
         <link:reference xlink:label="res_81" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -912,7 +912,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>c</ref:Subparagraph>
-        </link:reference>
+        </link:reference>        
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_82" xlink:type="arc"/>
         <link:reference xlink:label="res_852" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S2</ref:Number>
@@ -929,6 +930,7 @@
             <ref:Paragraph>36</ref:Paragraph>
             <ref:Subparagraph>d</ref:Subparagraph>
         </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_83" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateRelatedTargetWasDerivedUsingSectoralDecarbonisationApproach" xlink:label="loc_112" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_112" xlink:to="res_83" xlink:type="arc"/>
         <link:reference xlink:label="res_84" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
@@ -2023,7 +2025,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.36.a.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfGreenhouseGasesAndEmissionScopesCoveredByEntitysEmissionTargetsExplanatory" xlink:label="loc_436" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GHGEmissionTargetDetailsExplanatory" xlink:label="loc_436" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_436" xlink:to="res_612" xlink:type="arc"/>
         <link:reference xlink:label="res_614" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>

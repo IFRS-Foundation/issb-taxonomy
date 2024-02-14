@@ -747,11 +747,8 @@
         <link:label id="ifrs-sds_ClimateRelatedTargetAndMethodologyHasBeenValidatedByThirdParty_label" xlink:label="res_398" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Climate-related target and methodology has been validated by third party</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateRelatedTargetAndMethodologyHasBeenValidatedByThirdParty" xlink:label="loc_226" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_226" xlink:to="res_398" xlink:type="arc"/>
-        <link:label id="ifrs-sds_GreenhouseGasEmissionTargetsAbstract_label" xlink:label="res_402" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gas emission targets [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GreenhouseGasEmissionTargetsAbstract" xlink:label="loc_227" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_227" xlink:to="res_402" xlink:type="arc"/>
-        <link:label id="ifrs-sds_DisclosureOfGreenhouseGasesAndEmissionScopesCoveredByEntitysEmissionTargetsExplanatory_label" xlink:label="res_403" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Disclosure of greenhouse gases and emission scopes covered by entity's emission targets [text block]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfGreenhouseGasesAndEmissionScopesCoveredByEntitysEmissionTargetsExplanatory" xlink:label="loc_228" xlink:type="locator"/>
+        <link:label id="ifrs-sds_GHGEmissionTargetDetailsExplanatory_label" xlink:label="res_403" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">GHG emission target details [text block]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GHGEmissionTargetDetailsExplanatory" xlink:label="loc_228" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_228" xlink:to="res_403" xlink:type="arc"/>
         <link:label id="ifrs-sds_GreenhouseGasesCoveredByTarget_label" xlink:label="res_405" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Greenhouse gases covered by target</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GreenhouseGasesCoveredByTarget" xlink:label="loc_229" xlink:type="locator"/>
