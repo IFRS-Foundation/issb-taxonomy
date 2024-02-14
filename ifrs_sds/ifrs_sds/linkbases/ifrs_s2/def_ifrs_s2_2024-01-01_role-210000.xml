@@ -342,7 +342,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EffectsOfClimateRelatedRisksAndOpportunitiesOnStrategyAndDecisionMakingLineItems" xlink:label="loc_6" xlink:type="locator"/>
-        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>          
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>          
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfHowEntityHasRespondedToAndPlansToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_51" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_51" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfProgressAgainstPlansEntityHasDisclosedInPreviousReportingPeriodsExplanatory" xlink:label="loc_8" xlink:type="locator"/> 
@@ -372,7 +372,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RisksAndOpportunitiesDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimateResilienceLineItems" xlink:label="loc_6" xlink:type="locator"/>
-        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>          
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>          
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfEntitysAssessmentOfItsClimateResilienceExplanatory" xlink:label="loc_70" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_70" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfHowAndWhenClimateRelatedScenarioAnalysisWasCarriedOutExplanatory" xlink:label="loc_71" xlink:type="locator"/>
