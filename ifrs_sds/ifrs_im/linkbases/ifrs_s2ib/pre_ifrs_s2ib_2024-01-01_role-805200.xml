@@ -40,7 +40,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ProductsEligibleToCertificationToEnvironmentalProductLifecycleStandardPercentageCertified" xlink:label="loc_19" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ProductsEligibleToCertificationToEnvironmentalProductLifecycleStandardPercentageCertifiedLineItems" xlink:label="loc_18" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_18" xlink:to="loc_19" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EffortsToManageProductsEndOfLifeImpactsExplanatory" xlink:label="loc_21" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EffortsToManageProductsEndoflifeImpactsExplanatory" xlink:label="loc_21" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CGAM410a3Abstract" xlink:label="loc_20" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_20" xlink:to="loc_21" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CGAM000AAbstract" xlink:label="loc_23" xlink:type="locator"/>

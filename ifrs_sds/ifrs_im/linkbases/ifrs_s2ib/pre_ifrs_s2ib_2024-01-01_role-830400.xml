@@ -64,7 +64,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterFixturesCertifiedToWaterEfficiencyStandardPercentage" xlink:label="loc_37" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IFHB410a2Abstract" xlink:label="loc_36" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_36" xlink:to="loc_37" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesDeliveredToThirdPartyMultiAttributeGreenBuildingStandard" xlink:label="loc_40" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesDeliveredToThirdpartyMultiattributeGreenBuildingStandard" xlink:label="loc_40" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IFHB410a3Abstract" xlink:label="loc_39" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_39" xlink:to="loc_40" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RisksAndOpportunitiesRelatedToIntegratingResourceEfficiencyIntoHomeDesignAndHowBenefitsAreCommunicatedToCustomersExplanatory" xlink:label="loc_42" xlink:type="locator"/>

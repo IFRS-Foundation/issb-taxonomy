@@ -19,27 +19,27 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ProcessToAssessAndManageEnvironmentalAndHumanHealthConsiderationsAssociatedWithChemicalsInProductsAndMeetDemandForSustainableProductsExplanatory" xlink:label="loc_6" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HCMS410a1Abstract" xlink:label="loc_5" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_9" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_9" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HCMS410a2Abstract" xlink:label="loc_8" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_8" xlink:to="loc_9" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:label="loc_10" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedTable" xlink:label="loc_10" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_9" xlink:to="loc_10" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAxis" xlink:label="loc_11" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_10" xlink:to="loc_11" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentDomain" xlink:label="loc_12" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_11" xlink:to="loc_12" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:label="loc_14" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_13" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonated" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_13" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_13" xlink:to="loc_14" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedTable" xlink:label="loc_16" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedTable" xlink:label="loc_16" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_15" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_16" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAxis" xlink:label="loc_17" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_16" xlink:to="loc_17" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesDomain" xlink:label="loc_18" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_17" xlink:to="loc_18" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonated" xlink:label="loc_20" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakeBackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_19" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonated" xlink:label="loc_20" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_19" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HCMS000AAbstract" xlink:label="loc_22" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_MedicalEquipmentAndSuppliesIndustryActivityMetricsAbstract" xlink:label="loc_21" xlink:type="locator"/>

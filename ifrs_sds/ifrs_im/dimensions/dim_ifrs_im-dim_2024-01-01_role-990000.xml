@@ -13,8 +13,8 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsDomain" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdPartyEnvironmentalOrSocialStandardDomain" xlink:label="loc_4" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdPartyEnvironmentalOrSocialStandardAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdpartyEnvironmentalOrSocialStandardDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdpartyEnvironmentalOrSocialStandardAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SupplierTierDomain" xlink:label="loc_6" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SupplierTierAxis" xlink:label="loc_5" xlink:type="locator"/>
@@ -31,8 +31,8 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergySourceDomain" xlink:label="loc_14" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergySourceAxis" xlink:label="loc_13" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_13" xlink:to="loc_14" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdPartyForestManagementStandardDomain" xlink:label="loc_16" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdPartyForestManagementStandardAxis" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdpartyForestManagementStandardDomain" xlink:label="loc_16" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ThirdpartyForestManagementStandardAxis" xlink:label="loc_15" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_15" xlink:to="loc_16" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WoodFibreStandardDomain" xlink:label="loc_18" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WoodFibreStandardAxis" xlink:label="loc_17" xlink:type="locator"/>
@@ -40,14 +40,14 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FacilityTypeDomain" xlink:label="loc_20" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FacilityTypeAxis" xlink:label="loc_19" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_19" xlink:to="loc_20" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RspoSupplyChainModelDomain" xlink:label="loc_22" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RspoSupplyChainModelAxis" xlink:label="loc_21" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RSPOSupplyChainModelDomain" xlink:label="loc_22" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RSPOSupplyChainModelAxis" xlink:label="loc_21" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_21" xlink:to="loc_22" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EmissionRegulationDomain" xlink:label="loc_24" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EmissionRegulationAxis" xlink:label="loc_23" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_23" xlink:to="loc_24" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NonComplianceTypeDomain" xlink:label="loc_26" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NonComplianceTypeAxis" xlink:label="loc_25" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NoncomplianceTypeDomain" xlink:label="loc_26" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NoncomplianceTypeAxis" xlink:label="loc_25" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_25" xlink:to="loc_26" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CoalReserveAnalysisScenarioDomain" xlink:label="loc_28" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CoalReserveAnalysisScenarioAxis" xlink:label="loc_27" xlink:type="locator"/>
@@ -91,8 +91,8 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BankCustomerTypeDomain" xlink:label="loc_54" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BankCustomerTypeAxis" xlink:label="loc_53" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_53" xlink:to="loc_54" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SustainabilityRelatedProjectsTechnologiesAndActivitiesDomain" xlink:label="loc_56" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SustainabilityRelatedProjectsTechnologiesAndActivitiesAxis" xlink:label="loc_55" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SustainabilityrelatedProjectsTechnologiesAndActivitiesDomain" xlink:label="loc_56" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SustainabilityrelatedProjectsTechnologiesAndActivitiesAxis" xlink:label="loc_55" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_55" xlink:to="loc_56" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LikelihoodOfExceedanceDomain" xlink:label="loc_58" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LikelihoodOfExceedanceAxis" xlink:label="loc_57" xlink:type="locator"/>
@@ -112,8 +112,8 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TransactionTypeDomain" xlink:label="loc_68" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TransactionTypeAxis" xlink:label="loc_67" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_67" xlink:to="loc_68" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FicoScoreDomain" xlink:label="loc_70" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FicoScoreAxis" xlink:label="loc_69" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FICOScoreDomain" xlink:label="loc_70" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FICOScoreAxis" xlink:label="loc_69" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_69" xlink:to="loc_70" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LandAreaDomain" xlink:label="loc_72" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LandAreaAxis" xlink:label="loc_71" xlink:type="locator"/>
@@ -130,8 +130,8 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergyUseDomain" xlink:label="loc_80" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnergyUseAxis" xlink:label="loc_79" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_79" xlink:to="loc_80" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NonConformanceSeverityDomain" xlink:label="loc_82" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NonConformanceSeverityAxis" xlink:label="loc_81" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NonconformanceSeverityDomain" xlink:label="loc_82" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NonconformanceSeverityAxis" xlink:label="loc_81" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_81" xlink:to="loc_82" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetTypeDomain" xlink:label="loc_84" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_FleetTypeAxis" xlink:label="loc_83" xlink:type="locator"/>
@@ -217,8 +217,8 @@
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WoodFibreSourceDomain" xlink:label="loc_138" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WoodFibreSourceAxis" xlink:label="loc_137" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_137" xlink:to="loc_138" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IecWindTurbineClassDomain" xlink:label="loc_140" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IecWindTurbineClassAxis" xlink:label="loc_139" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IECWindTurbineClassDomain" xlink:label="loc_140" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IECWindTurbineClassAxis" xlink:label="loc_139" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-default" xlink:from="loc_139" xlink:to="loc_140" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SegmentDomain" xlink:label="loc_142" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_StatementBusinessSegmentsAxis" xlink:label="loc_141" xlink:type="locator"/>
