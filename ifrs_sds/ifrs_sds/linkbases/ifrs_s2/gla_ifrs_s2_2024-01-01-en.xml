@@ -77,7 +77,7 @@
         <label:label xlink:label="res_18" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[211300b] Climate-related disclosures - Financed emissions - Insurance - Disclosure of financed emissions by asset class [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-211300b" xlink:label="loc_18" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_18" xlink:to="res_18" xlink:type="arc"/>
-        <label:label xlink:label="res_19" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[219000] Climate-related disclosures - Illustrative examples</label:label>
+        <label:label xlink:label="res_19" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[219000] Climate-related disclosures - Illustrative examples - Aggregation and disaggregation of greenhouse gas emissions</label:label>
         <link:loc xlink:href="rol_ifrs_s2_2024-01-01.xsd#ifrs_s2_2024-01-01_role-219000" xlink:label="loc_19" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_19" xlink:to="res_19" xlink:type="arc"/>
         <label:label xlink:label="res_20" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[219000a] Climate-related disclosures - Illustrative examples - Disaggregation of scope 3 greenhouse gas emissions by categories [table]</label:label>

@@ -30,8 +30,8 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RangesDomain" xlink:label="loc_14" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_RangeAxis" xlink:label="loc_13" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_13" xlink:to="loc_14" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GreenhouseGasEmissionsDisclosureBasisDomain" xlink:label="loc_16" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GreenhouseGasEmissionsDisclosureBasisAxis" xlink:label="loc_15" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GHGEmissionsDisclosureBasisDomain" xlink:label="loc_16" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GHGEmissionsDisclosureBasisAxis" xlink:label="loc_15" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_16" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_CarbonCreditDomain" xlink:label="loc_18" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_CarbonCreditAxis" xlink:label="loc_17" xlink:type="locator"/>

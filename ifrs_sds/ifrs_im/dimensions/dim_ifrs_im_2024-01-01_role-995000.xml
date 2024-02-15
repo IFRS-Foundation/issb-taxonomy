@@ -266,7 +266,7 @@
         <link:definitionArc order="11150.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1126" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_Forestland" xlink:label="loc_1127" xlink:type="locator"/>
         <link:definitionArc order="11160.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1127" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandOwnedLeasedOrManagedByEntityArea" xlink:label="loc_1128" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandOwnedLeasedOrManagedArea" xlink:label="loc_1128" xlink:type="locator"/>
         <link:definitionArc order="11170.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1128" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandEndangeredSpeciesHabitat" xlink:label="loc_1129" xlink:type="locator"/>
         <link:definitionArc order="11180.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1129" xlink:type="arc"/>
@@ -296,15 +296,15 @@
         <link:definitionArc order="11300.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1141" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GasReservesProved" xlink:label="loc_1142" xlink:type="locator"/>
         <link:definitionArc order="11310.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1142" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasGhgEmissionsAssociatedWithPowerDeliveries" xlink:label="loc_1143" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GHGEmissionsAssociatedWithPowerDeliveries" xlink:label="loc_1143" xlink:type="locator"/>
         <link:definitionArc order="11320.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1143" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasFootprintAcrossTransportModes" xlink:label="loc_1144" xlink:type="locator"/>
         <link:definitionArc order="11330.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1144" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasFootprintOfProductShipments" xlink:label="loc_1145" xlink:type="locator"/>
         <link:definitionArc order="11340.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1145" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentage" xlink:label="loc_1146" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentage" xlink:label="loc_1146" xlink:type="locator"/>
         <link:definitionArc order="11350.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1146" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:label="loc_1147" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulation" xlink:label="loc_1147" xlink:type="locator"/>
         <link:definitionArc order="11360.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1147" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesDeliveredOnRedevelopmentSites" xlink:label="loc_1148" xlink:type="locator"/>
         <link:definitionArc order="11370.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1148" xlink:type="arc"/>
@@ -352,7 +352,7 @@
         <link:definitionArc order="11580.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1169" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LicensesOrSubscriptionsPercentageCloudBased" xlink:label="loc_1170" xlink:type="locator"/>
         <link:definitionArc order="11590.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1170" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGreenhouseGasGhgEmissions" xlink:label="loc_1171" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGHGEmissions" xlink:label="loc_1171" xlink:type="locator"/>
         <link:definitionArc order="11600.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1171" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LoansNumber" xlink:label="loc_1172" xlink:type="locator"/>
         <link:definitionArc order="11610.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1172" xlink:type="arc"/>
@@ -460,7 +460,7 @@
         <link:definitionArc order="12120.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1223" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PoliciesInForceNumber" xlink:label="loc_1224" xlink:type="locator"/>
         <link:definitionArc order="12130.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1224" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRating" xlink:label="loc_1225" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageWithEnergyRating" xlink:label="loc_1225" xlink:type="locator"/>
         <link:definitionArc order="12140.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1225" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PrescriptionsFilledNumber" xlink:label="loc_1226" xlink:type="locator"/>
         <link:definitionArc order="12150.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1226" xlink:type="arc"/>
@@ -628,9 +628,9 @@
         <link:definitionArc order="12960.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1307" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SystemAverageInterruptionFrequencyIndexSaifi" xlink:label="loc_1308" xlink:type="locator"/>
         <link:definitionArc order="12970.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1308" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_1309" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_1309" xlink:type="locator"/>
         <link:definitionArc order="12980.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1309" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_1310" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_1310" xlink:type="locator"/>
         <link:definitionArc order="12990.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1310" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TimberHarvestVolume" xlink:label="loc_1311" xlink:type="locator"/>
         <link:definitionArc order="13000.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_11" xlink:to="loc_1311" xlink:type="arc"/>

@@ -142,7 +142,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2_2024-01-01_role-219000" roleURI="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_s2_2024-01-01_role-219000">
-                <link:definition>[219000] Climate-related disclosures - Illustrative examples</link:definition>
+                <link:definition>[219000] Climate-related disclosures - Illustrative examples - Aggregation and disaggregation of greenhouse gas emissions</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

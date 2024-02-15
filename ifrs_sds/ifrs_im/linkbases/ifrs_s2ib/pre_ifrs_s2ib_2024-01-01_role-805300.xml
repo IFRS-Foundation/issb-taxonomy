@@ -131,7 +131,7 @@
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_41" xlink:to="loc_36" xlink:type="arc"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:to="loc_47" xlink:type="arc"/>
         <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_30" xlink:to="loc_36" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsThatAreNotCertifiedToThirdPartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_48" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsNotCertifiedToThirdpartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_48" xlink:type="locator"/>
         <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:to="loc_48" xlink:type="arc"/>
     </link:presentationLink>
 </link:linkbase>

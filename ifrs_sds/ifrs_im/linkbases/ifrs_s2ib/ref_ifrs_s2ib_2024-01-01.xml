@@ -22,7 +22,7 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsListing" xlink:label="loc_1" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSTable" xlink:label="loc_2" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_5872" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_5872" xlink:type="arc"/>
@@ -46,7 +46,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_12" xlink:to="res_5872" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PolyesterMember" xlink:label="loc_13" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_13" xlink:to="res_5872" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorExplanatory" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSExplanatory" xlink:label="loc_14" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_14" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesTable" xlink:label="loc_15" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_15" xlink:to="res_5872" xlink:type="arc"/>
@@ -121,7 +121,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_38" xlink:to="res_2" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussionTable" xlink:label="loc_39" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_39" xlink:to="res_5873" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussion" xlink:label="loc_40" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussionExplanatory" xlink:label="loc_40" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_40" xlink:to="res_2" xlink:type="arc"/>
         <link:reference xlink:label="res_4" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -333,7 +333,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_94" xlink:to="res_5888" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WoodFibreMaterialsPurchasedPercentageCertifiedToOtherFibreSourcingStandards" xlink:label="loc_95" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_95" xlink:to="res_17" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsThatAreNotCertifiedToThirdPartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_96" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsNotCertifiedToThirdpartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_96" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_96" xlink:to="res_17" xlink:type="arc"/>
         <link:reference xlink:label="res_18" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -621,7 +621,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>EM-CO-110a</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasEmissionsDisclosureExplanatory" xlink:label="loc_142" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GHGEmissionsDisclosureExplanatory" xlink:label="loc_142" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_142" xlink:to="res_41" xlink:type="arc"/>
         <link:reference xlink:label="res_42" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -635,7 +635,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>EM-CO-110a.1</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1GreenhouseGasEmissions" xlink:label="loc_143" xlink:type="locator"/>
+        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1GHGEmissions" xlink:label="loc_143" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_143" xlink:to="res_42" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EmissionRegulationAxis" xlink:label="loc_145" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_145" xlink:to="res_5913" xlink:type="arc"/>
@@ -643,7 +643,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_146" xlink:to="res_5913" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EmissionsLimitingRegulationsMember" xlink:label="loc_147" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_147" xlink:to="res_5913" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:label="loc_148" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulation" xlink:label="loc_148" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_148" xlink:to="res_42" xlink:type="arc"/>
         <link:reference xlink:label="res_43" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -1302,7 +1302,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_234" xlink:to="res_5963" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_MethaneMember" xlink:label="loc_235" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_235" xlink:to="res_5963" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentage" xlink:label="loc_236" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentage" xlink:label="loc_236" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_236" xlink:to="res_92" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_145" xlink:to="res_5963" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_146" xlink:to="res_5963" xlink:type="arc"/>
@@ -1764,7 +1764,7 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnginesInServiceThatComplyWithHighestLevelOfEmissionsStandardsForNonRoadDieselEngineEmissionsPercentage" xlink:label="loc_310" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_310" xlink:to="res_126" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionalEmissionStandardUsedInDisclosureOfPercentageOfItsNonRoadDieselEnginesThatAreInComplianceWithHighestLevelOfJurisdictionalEmissionsStandardsExplanatory" xlink:label="loc_311" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionalEmissionStandardUsedInDisclosureOfPercentageOfNonRoadDieselEnginesInComplianceWithHighestLevelOfJurisdictionalEmissionsStandardsExplanatory" xlink:label="loc_311" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_311" xlink:to="res_126" xlink:type="arc"/>
         <link:reference xlink:label="res_127" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -2100,7 +2100,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_400" xlink:to="res_151" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LossesAttributableToInsurancePayoutsNet" xlink:label="loc_402" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_402" xlink:to="res_151" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ClimateChangeRelatedImpactsAndVariabilityOfWeatherRelatedLossesImpactOnCostOfReinsuranceAndEntitysApproachToTransferringRiskExplanatory" xlink:label="loc_403" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ClimateChangerelatedImpactsAndVariabilityOfWeatherrelatedLossesImpactOnCostOfReinsuranceAndApproachToTransferringRiskExplanatory" xlink:label="loc_403" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_403" xlink:to="res_151" xlink:type="arc"/>
         <link:reference xlink:label="res_152" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -2828,7 +2828,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>FB-FR-430a</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInTheSupplyChainDisclosureExplanatory" xlink:label="loc_523" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfEnvironmentalAndSocialImpactsInSupplyChainDisclosureExplanatory" xlink:label="loc_523" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_523" xlink:to="res_205" xlink:type="arc"/>
         <link:reference xlink:label="res_206" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -3049,7 +3049,7 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinProductionFromConfinedAnimalFeedingOperations" xlink:label="loc_540" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_540" xlink:to="res_225" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinProductionFromConfinedAnimalFeedingOperationsDefinitionUsed" xlink:label="loc_541" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinProductionFromConfinedAnimalFeedingOperationsDefinitionUsedExplanatory" xlink:label="loc_541" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_541" xlink:to="res_225" xlink:type="arc"/>
         <link:reference xlink:label="res_226" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -3891,7 +3891,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>IF-EU-110a</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasEmissionsAndEnergyResourcePlanningDisclosureExplanatory" xlink:label="loc_648" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GHGEmissionsAndEnergyResourcePlanningDisclosureExplanatory" xlink:label="loc_648" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_648" xlink:to="res_296" xlink:type="arc"/>
         <link:reference xlink:label="res_297" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -3918,7 +3918,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>IF-EU-110a.2</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasGhgEmissionsAssociatedWithPowerDeliveries" xlink:label="loc_650" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GHGEmissionsAssociatedWithPowerDeliveries" xlink:label="loc_650" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_650" xlink:to="res_298" xlink:type="arc"/>
         <link:reference xlink:label="res_299" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -4563,7 +4563,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_768" xlink:to="res_349" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesCertifiedResidentialEnergyEfficiencyRatingAverage" xlink:label="loc_769" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_769" xlink:to="res_349" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesCertifiedResidentialEnergyEfficiencyRatingSystemUsed" xlink:label="loc_770" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesCertifiedResidentialEnergyEfficiencyRatingSystemUsedExplanatory" xlink:label="loc_770" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_770" xlink:to="res_349" xlink:type="arc"/>
         <link:reference xlink:label="res_350" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -4789,7 +4789,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_794" xlink:to="res_6234" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_795" xlink:to="res_6234" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_796" xlink:to="res_6234" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRating" xlink:label="loc_803" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageWithEnergyRating" xlink:label="loc_803" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_803" xlink:to="res_363" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RealEstateEnergyRatingStandardAxis" xlink:label="loc_805" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_805" xlink:to="res_6234" xlink:type="arc"/>
@@ -4973,9 +4973,9 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_794" xlink:to="res_6243" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_795" xlink:to="res_6243" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_796" xlink:to="res_6243" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_824" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_824" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_824" xlink:to="res_372" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_826" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_826" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_826" xlink:to="res_372" xlink:type="arc"/>
         <link:reference xlink:label="res_373" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -5803,7 +5803,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_941" xlink:to="res_6299" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_RenewableFuelMember" xlink:label="loc_942" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_942" xlink:to="res_6299" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGreenhouseGasGhgEmissions" xlink:label="loc_943" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGHGEmissions" xlink:label="loc_943" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_943" xlink:to="res_428" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionalStandardOrRegulationUsedForCalculationOfLifecycleGhgEmissionsExplanatory" xlink:label="loc_944" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_944" xlink:to="res_428" xlink:type="arc"/>
@@ -5837,7 +5837,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>RR-BI-530a</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfTheLegalAndRegulatoryEnvironmentDisclosureExplanatory" xlink:label="loc_948" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagementOfLegalAndRegulatoryEnvironmentDisclosureExplanatory" xlink:label="loc_948" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_948" xlink:to="res_432" xlink:type="arc"/>
         <link:reference xlink:label="res_433" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -5923,7 +5923,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_959" xlink:to="res_6310" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandPercentageCertifiedToThirdPartyForestManagementStandard" xlink:label="loc_960" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_960" xlink:to="res_439" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsThatWereSuspendedOrTerminatedExplanatory" xlink:label="loc_961" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsSuspendedOrTerminatedExplanatory" xlink:label="loc_961" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_961" xlink:to="res_439" xlink:type="arc"/>
         <link:reference xlink:label="res_440" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -5970,7 +5970,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>RR-FM-000.A</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandOwnedLeasedOrManagedByEntityArea" xlink:label="loc_966" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandOwnedLeasedOrManagedArea" xlink:label="loc_966" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_966" xlink:to="res_445" xlink:type="arc"/>
         <link:reference xlink:label="res_446" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -6403,7 +6403,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1043" xlink:to="res_6339" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WoodFibreSourcePercentage" xlink:label="loc_1044" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1044" xlink:to="res_468" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DueDiligencePracticesForFibreThatIsNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory" xlink:label="loc_1045" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DueDiligencePracticesForFibreNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory" xlink:label="loc_1045" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1045" xlink:to="res_468" xlink:type="arc"/>
         <link:reference xlink:label="res_469" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -6715,7 +6715,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>RT-AE-410a.2</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ApproachAndStrategyForFuelEconomyAndGreenhouseGasGhgEmissionsOfProductsExplanatory" xlink:label="loc_1085" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ApproachAndStrategyForFuelEconomyAndGHGEmissionsOfProductsExplanatory" xlink:label="loc_1085" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1085" xlink:to="res_496" xlink:type="arc"/>
         <link:reference xlink:label="res_497" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -8940,7 +8940,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>CG-AA-440a.3b</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorExplanatory" xlink:label="loc_1286" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSExplanatory" xlink:label="loc_1286" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1286" xlink:to="res_1289" xlink:type="arc"/>
         <link:reference xlink:label="res_1294" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -8976,7 +8976,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>CG-AA-440a.4c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussion" xlink:label="loc_1323" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsPurchasedAmountCertifiedAssociatedDiscussionExplanatory" xlink:label="loc_1323" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1323" xlink:to="res_1334" xlink:type="arc"/>
         <link:reference xlink:label="res_1338" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -9132,7 +9132,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>CG-BF-430a.1f</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsThatAreNotCertifiedToThirdPartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_1410" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_SourcingOfWoodFibreMaterialsFromForestlandsNotCertifiedToThirdpartyForestManagementStandardAndOtherWoodFibreCertificationStandardsExplanatory" xlink:label="loc_1410" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1410" xlink:to="res_1465" xlink:type="arc"/>
         <link:reference xlink:label="res_1469" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -9426,7 +9426,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>EM-CM-110a.1b,EM-CO-110a.1b,EM-EP-110a.1c,EM-IS-110a.1b,EM-MD-110a.1b,EM-MM-110a.1b,EM-RM-110a.1a,IF-EU-110a.1b, IF-EU-110a.1c,IF-WM-110a.1b, IF-WM-110a.1c,RT-CH-110a.1b,RT-CP-110a.1b</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentageCoveredByRegulation" xlink:label="loc_1501" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulation" xlink:label="loc_1501" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1501" xlink:to="res_1643" xlink:type="arc"/>
         <link:reference xlink:label="res_1645" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -9858,7 +9858,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>EM-EP-110a.1b,EM-MD-110a.1c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GreenhouseGasEmissionsPercentage" xlink:label="loc_1650" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentage" xlink:label="loc_1650" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1650" xlink:to="res_1936" xlink:type="arc"/>
         <link:reference xlink:label="res_1937" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -10620,7 +10620,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>FN-IN-450a.2e</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ClimateChangeRelatedImpactsAndVariabilityOfWeatherRelatedLossesImpactOnCostOfReinsuranceAndEntitysApproachToTransferringRiskExplanatory" xlink:label="loc_1922" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ClimateChangerelatedImpactsAndVariabilityOfWeatherrelatedLossesImpactOnCostOfReinsuranceAndApproachToTransferringRiskExplanatory" xlink:label="loc_1922" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1922" xlink:to="res_2449" xlink:type="arc"/>
         <link:reference xlink:label="res_2451" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -11298,7 +11298,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>FB-MP-160a.3b</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinProductionFromConfinedAnimalFeedingOperationsDefinitionUsed" xlink:label="loc_2181" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinProductionFromConfinedAnimalFeedingOperationsDefinitionUsedExplanatory" xlink:label="loc_2181" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2181" xlink:to="res_2928" xlink:type="arc"/>
         <link:reference xlink:label="res_2932" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -11880,7 +11880,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-EU-110a.2a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GreenhouseGasGhgEmissionsAssociatedWithPowerDeliveries" xlink:label="loc_2386" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_GHGEmissionsAssociatedWithPowerDeliveries" xlink:label="loc_2386" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2386" xlink:to="res_3342" xlink:type="arc"/>
         <link:reference xlink:label="res_3344" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -12546,7 +12546,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-HB-410a.1c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesCertifiedResidentialEnergyEfficiencyRatingSystemUsed" xlink:label="loc_2591" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_HomesCertifiedResidentialEnergyEfficiencyRatingSystemUsedExplanatory" xlink:label="loc_2591" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2591" xlink:to="res_3728" xlink:type="arc"/>
         <link:reference xlink:label="res_3730" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -12690,7 +12690,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-RE-130a.4a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageThatHasAnEnergyRating" xlink:label="loc_2648" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PortfolioPercentageWithEnergyRating" xlink:label="loc_2648" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2648" xlink:to="res_3824" xlink:type="arc"/>
         <link:reference xlink:label="res_3830" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -12786,13 +12786,13 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-RE-410a.2a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_2695" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageSeparatelyMeteredOrSubmeteredForGridElectricityConsumption" xlink:label="loc_2695" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2695" xlink:to="res_3897" xlink:type="arc"/>
         <link:reference xlink:label="res_3903" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>IF-RE-410a.2b</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageThatAreSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_2699" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TenantsPercentageSeparatelyMeteredOrSubmeteredForWaterWithdrawals" xlink:label="loc_2699" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2699" xlink:to="res_3903" xlink:type="arc"/>
         <link:reference xlink:label="res_3905" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -13506,7 +13506,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RR-BI-410a.1a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGreenhouseGasGhgEmissions" xlink:label="loc_2913" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_LifecycleGHGEmissions" xlink:label="loc_2913" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2913" xlink:to="res_4331" xlink:type="arc"/>
         <link:reference xlink:label="res_4336" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -13614,7 +13614,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RR-FM-160a.1c</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsThatWereSuspendedOrTerminatedExplanatory" xlink:label="loc_2947" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NumberAssociatedAcreageAndReasonForSuspensionOrTerminationForForestManagementCertificationsSuspendedOrTerminatedExplanatory" xlink:label="loc_2947" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2947" xlink:to="res_4396" xlink:type="arc"/>
         <link:reference xlink:label="res_4398" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -13674,7 +13674,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RR-FM-000.Aa</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandOwnedLeasedOrManagedByEntityArea" xlink:label="loc_2958" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ForestlandOwnedLeasedOrManagedArea" xlink:label="loc_2958" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2958" xlink:to="res_4421" xlink:type="arc"/>
         <link:reference xlink:label="res_4423" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -14214,7 +14214,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RR-PP-430a.1e</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DueDiligencePracticesForFibreThatIsNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory" xlink:label="loc_3079" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_DueDiligencePracticesForFibreNotFromCertifiedForestlandsOrCertifiedToOtherFibreSourcingStandardsExplanatory" xlink:label="loc_3079" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3079" xlink:to="res_4693" xlink:type="arc"/>
         <link:reference xlink:label="res_4695" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -14520,7 +14520,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>RT-AE-410a.2a</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ApproachAndStrategyForFuelEconomyAndGreenhouseGasGhgEmissionsOfProductsExplanatory" xlink:label="loc_3172" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ApproachAndStrategyForFuelEconomyAndGHGEmissionsOfProductsExplanatory" xlink:label="loc_3172" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3172" xlink:to="res_4874" xlink:type="arc"/>
         <link:reference xlink:label="res_4878" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
