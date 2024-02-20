@@ -3114,6 +3114,8 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinAxis" xlink:label="loc_548" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_548" xlink:to="res_6102" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinAxis" xlink:label="loc_549" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_549" xlink:to="res_6102" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_AnimalProteinPercentageOutsourced" xlink:label="loc_550" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_550" xlink:to="res_231" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_63" xlink:to="res_231" xlink:type="arc"/>
@@ -3826,6 +3828,8 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagedCarePlanTypeAxis" xlink:label="loc_629" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_629" xlink:to="res_6162" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_ManagedCarePlanTypeDomain" xlink:label="loc_630" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_630" xlink:to="res_6162" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_EnrolleesNumber" xlink:label="loc_636" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_636" xlink:to="res_291" xlink:type="arc"/>
         <link:reference xlink:label="res_292" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -4027,6 +4031,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>IF-EU-540a.1</ref:Section>
         </link:reference>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IndependentNuclearSafetyReviewResultAxis" xlink:label="loc_660" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_660" xlink:to="res_6179" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IndependentNuclearSafetyReviewResultDomain" xlink:label="loc_661" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_661" xlink:to="res_6179" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_NuclearPowerUnits" xlink:label="loc_662" xlink:type="locator"/>
@@ -6580,6 +6586,8 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IecWindTurbineClassAxis" xlink:label="loc_1062" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1062" xlink:to="res_6356" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_IecWindTurbineClassDomain" xlink:label="loc_1063" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1063" xlink:to="res_6356" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_MaterialConsumedMostConsumed" xlink:label="loc_1065" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1065" xlink:to="res_485" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_MaterialConsumedSecondMostConsumed" xlink:label="loc_1067" xlink:type="locator"/>
@@ -6603,6 +6611,7 @@
             <ref:Section>RR-WT-440b.2</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1062" xlink:to="res_6357" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1063" xlink:to="res_6357" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_TopHeadMassAveragePerTurbineCapacity" xlink:label="loc_1075" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1075" xlink:to="res_486" xlink:type="arc"/>
         <link:reference xlink:label="res_487" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -6626,6 +6635,7 @@
             <ref:Section>RR-WT-000.A</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1062" xlink:to="res_6359" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1063" xlink:to="res_6359" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WindTurbinesDeliveredNumber" xlink:label="loc_1078" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1078" xlink:to="res_488" xlink:type="arc"/>
         <link:reference xlink:label="res_489" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -6641,6 +6651,7 @@
             <ref:Section>RR-WT-000.B</ref:Section>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1062" xlink:to="res_6360" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1063" xlink:to="res_6360" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WindTurbinesDeliveredAggregateCapacity" xlink:label="loc_1080" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1080" xlink:to="res_489" xlink:type="arc"/>
         <link:reference xlink:label="res_490" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
@@ -8930,6 +8941,18 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1269" xlink:to="res_694" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_BacklogRenewableEnergyProjects" xlink:label="loc_1270" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1270" xlink:to="res_694" xlink:type="arc"/>
+        
+        <link:reference xlink:label="res_695" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>IFRS</ref:Name>
+            <ref:Number>S2IB</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Section>IF-HB-410a.1</ref:Section>
+        </link:reference>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionAxis" xlink:label="loc_378" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_378" xlink:to="res_695" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_JurisdictionDomain" xlink:label="loc_379" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_379" xlink:to="res_695" xlink:type="arc"/>
+        
         <link:reference xlink:label="res_1273" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>CG-AA-440a.3a</ref:Number>
