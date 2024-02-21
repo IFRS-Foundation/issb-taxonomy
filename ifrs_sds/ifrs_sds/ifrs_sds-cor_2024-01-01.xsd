@@ -399,8 +399,7 @@
 
     <xsd:element abstract="false" id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunities" name="AssetsAlignedWithClimateRelatedOpportunities" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunitiesPercentage" name="AssetsAlignedWithClimateRelatedOpportunitiesPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunities" name="BusinessActivitiesAlignedWithClimateRelatedOpportunities" nillable="true" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType" xbrli:periodType="duration"/>
-    <xsd:element abstract="false" id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" name="BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:percentItemType" xbrli:periodType="duration"/>
+
     
     <xsd:element abstract="true" id="ifrs-sds_SustainabilityMetricsDomain" name="SustainabilityMetricsDomain" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:domainItemType" xbrli:periodType="duration"/> 
     <xsd:element abstract="false" id="ifrs-sds_MetricUsedToSetTarget" name="MetricUsedToSetTarget" nillable="true" substitutionGroup="xbrli:item" type="enum2:enumerationItemType" xbrli:periodType="duration" enum2:domain="ifrs-sds:SustainabilityMetricsDomain" enum2:headUsable="false" enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2024-01-01_role-995000" />

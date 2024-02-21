@@ -1176,12 +1176,6 @@
         <link:label id="ifrs-sds_AssetsVulnerableToClimateRelatedTransitionRisksPercentage_label" xlink:label="res_624" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related transition risks, percentage</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimateRelatedTransitionRisksPercentage" xlink:label="loc_378" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_378" xlink:to="res_624" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedTransitionRisks_label" xlink:label="res_625" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities vulnerable to climate-related transition risks</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedTransitionRisks" xlink:label="loc_379" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_379" xlink:to="res_625" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedTransitionRisksPercentage_label" xlink:label="res_626" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities vulnerable to climate-related transition risks, percentage</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedTransitionRisksPercentage" xlink:label="loc_380" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_380" xlink:to="res_626" xlink:type="arc"/>
 
         <link:label id="ifrs-sds_AssetsVulnerableToClimateRelatedPhysicalRisks_label" xlink:label="res_627" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related physical risks</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimateRelatedPhysicalRisks" xlink:label="loc_381" xlink:type="locator"/>
@@ -1189,25 +1183,13 @@
         <link:label id="ifrs-sds_AssetsVulnerableToClimateRelatedPhysicalRisksPercentage_label" xlink:label="res_628" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related physical risks, percentage</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimateRelatedPhysicalRisksPercentage" xlink:label="loc_382" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_382" xlink:to="res_628" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedPhysicalRisks_label" xlink:label="res_629" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities vulnerable to climate-related physical risks</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedPhysicalRisks" xlink:label="loc_383" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_383" xlink:to="res_629" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedPhysicalRisksPercentage_label" xlink:label="res_630" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities vulnerable to climate-related physical risks, percentage</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimateRelatedPhysicalRisksPercentage" xlink:label="loc_384" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_384" xlink:to="res_630" xlink:type="arc"/>
-        
+
         <link:label id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunities_label" xlink:label="res_631" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets aligned with climate-related opportunities</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimateRelatedOpportunities" xlink:label="loc_385" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_385" xlink:to="res_631" xlink:type="arc"/>
         <link:label id="ifrs-sds_AssetsAlignedWithClimateRelatedOpportunitiesPercentage_label" xlink:label="res_632" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets aligned with climate-related opportunities, percentage</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimateRelatedOpportunitiesPercentage" xlink:label="loc_386" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_386" xlink:to="res_632" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunities_label" xlink:label="res_633" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities aligned with climate-related opportunities</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunities" xlink:label="loc_387" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_387" xlink:to="res_633" xlink:type="arc"/>
-        <link:label id="ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage_label" xlink:label="res_634" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Business activities aligned with climate-related opportunities, percentage</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimateRelatedOpportunitiesPercentage" xlink:label="loc_388" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_388" xlink:to="res_634" xlink:type="arc"/>
 
 
         <link:label id="ifrs-sds_MetricUsedToSetTarget_label" xlink:label="res_635" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric used to set target</link:label>
