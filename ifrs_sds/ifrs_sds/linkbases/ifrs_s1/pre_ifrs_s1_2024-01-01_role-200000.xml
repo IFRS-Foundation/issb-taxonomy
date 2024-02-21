@@ -102,7 +102,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EntityUsesScenarioAnalysisToInformIdentificationOfRisks" xlink:label="loc_72" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_71" xlink:to="loc_72" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EntityChangedProcessesToIdentifyAssessPrioritiseAndMonitorRisksComparedWithPreviousReportingPeriod" xlink:label="loc_74" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_WhetherAndHowChangedProcessesToIdentifyAssessPrioritiseAndMonitorRisksForRiskmanagementPurposesComparedWithPriorReportingPeriodExplanatory" xlink:label="loc_73" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_WhetherAndHowChangedProcessesToIdentifyAssessPrioritiseAndMonitorRisksForRiskmanagementPurposesComparedWithPreviousReportingPeriodExplanatory" xlink:label="loc_73" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_73" xlink:to="loc_74" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsDevelopedByEntityAbstract" xlink:label="loc_79" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsAndTargetsAbstract" xlink:label="loc_78" xlink:type="locator"/>
