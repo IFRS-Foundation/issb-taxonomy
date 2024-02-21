@@ -145,17 +145,29 @@
         <link:presentationArc order="70.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_84" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisksPercentage" xlink:label="loc_85" xlink:type="locator"/>
         <link:presentationArc order="80.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_85" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimaterelatedPhysicalRisks" xlink:label="loc_91" xlink:type="locator"/>
+        <link:presentationArc order="90.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_91" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimaterelatedPhysicalRisksPercentage" xlink:label="loc_92" xlink:type="locator"/>
+        <link:presentationArc order="100.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_92" xlink:type="arc"/>
 
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisks" xlink:label="loc_86" xlink:type="locator"/>
         <link:presentationArc order="110.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_86" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisksPercentage" xlink:label="loc_87" xlink:type="locator"/>
         <link:presentationArc order="120.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_87" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimaterelatedTransitionRisks" xlink:label="loc_93" xlink:type="locator"/>
+        <link:presentationArc order="130.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_93" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesVulnerableToClimaterelatedTransitionRisksPercentage" xlink:label="loc_94" xlink:type="locator"/>
+        <link:presentationArc order="140.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_94" xlink:type="arc"/>
 
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimaterelatedOpportunities" xlink:label="loc_78" xlink:type="locator"/>
         <link:presentationArc order="150.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_78" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimaterelatedOpportunitiesPercentage" xlink:label="loc_79" xlink:type="locator"/>
         <link:presentationArc order="160.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_79" xlink:type="arc"/>
-        
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimaterelatedOpportunities" xlink:label="loc_89" xlink:type="locator"/>
+        <link:presentationArc order="170.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_89" xlink:type="arc"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_BusinessActivitiesAlignedWithClimaterelatedOpportunitiesPercentage" xlink:label="loc_90" xlink:type="locator"/>
+        <link:presentationArc order="180.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_90" xlink:type="arc"/>
+
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PriceForEachMetricTonneOfGHGEmissionsUsedToAssessCostsOfGHGEmissions" xlink:label="loc_141" xlink:type="locator"/>
         <link:presentationArc order="190.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_141" xlink:type="arc"/>
 

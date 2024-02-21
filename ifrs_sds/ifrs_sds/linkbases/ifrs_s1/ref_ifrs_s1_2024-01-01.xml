@@ -27,7 +27,7 @@
             <ref:Paragraph>27</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IdentityOfGovernanceBodySOrIndividualSResponsibleForOversightOfRisksAndOpportunitiesExplanatory" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IdentityOfGovernanceBodysOrIndividualsResponsibleForOversightOfRisksAndOpportunitiesExplanatory" xlink:label="loc_4" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_4" xlink:to="res_2" xlink:type="arc"/>
         <link:reference xlink:label="res_3" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -37,7 +37,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>i</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibilitiesForRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodySOrIndividualSExplanatory" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibilitiesForRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodysOrIndividualsExplanatory" xlink:label="loc_5" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_5" xlink:to="res_3" xlink:type="arc"/>
         <link:reference xlink:label="res_4" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -47,7 +47,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>ii</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodySOrIndividualSDeterminesAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodysOrIndividualsDeterminesAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_6" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_6" xlink:to="res_4" xlink:type="arc"/>
         <link:reference xlink:label="res_5" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -57,7 +57,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iii</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowAndHowOftenResponsibleBodySOrIndividualSIsInformedAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowAndHowOftenResponsibleBodysOrIndividualsIsInformedAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_7" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_7" xlink:to="res_5" xlink:type="arc"/>
         <link:reference xlink:label="res_6" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -67,9 +67,9 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>iv</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodySOrIndividualSTakesIntoAccountRisksAndOpportunitiesWhenOverseeingStrategyDecisionsOnMajorTransactionsAndRiskManagementProcessesAndRelatedPoliciesExplanatory" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodysOrIndividualsTakesIntoAccountRisksAndOpportunitiesWhenOverseeingStrategyDecisionsOnMajorTransactionsAndRiskManagementProcessesAndRelatedPoliciesExplanatory" xlink:label="loc_8" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_8" xlink:to="res_6" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ResponsibleBodySOrIndividualSConsideredTradeoffsAssociatedWithRisksAndOpportunities" xlink:label="loc_9" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ResponsibleBodysOrIndividualsConsideredTradeoffsAssociatedWithRisksAndOpportunities" xlink:label="loc_9" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_9" xlink:to="res_6" xlink:type="arc"/>
         <link:reference xlink:label="res_7" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -79,7 +79,7 @@
             <ref:Subparagraph>a</ref:Subparagraph>
             <ref:Clause>v</ref:Clause>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowBodySOrIndividualSOverseesSettingOfTargetsRelatedToRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_10" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowBodysOrIndividualsOverseesSettingOfTargetsRelatedToRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_10" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_10" xlink:to="res_7" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_WhetherAndHowRelatedPerformanceMetricsAreIncludedInRemunerationPoliciesExplanatory" xlink:label="loc_11" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_11" xlink:to="res_7" xlink:type="arc"/>
@@ -160,9 +160,9 @@
             <ref:Paragraph>30</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonSOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_21" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonsOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_21" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_21" xlink:to="res_13" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonSOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_22" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonsOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_22" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_22" xlink:to="res_13" xlink:type="arc"/>
         <link:reference xlink:label="res_14" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -192,7 +192,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_28" xlink:to="res_375" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DefinitionOfTimeHorizonExplanatory" xlink:label="loc_29" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_29" xlink:to="res_14" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowDefinitionOfTimeHorizonSIsLinkedToPlanningHorizonsUsedForStrategicDecisionmakingExplanatory" xlink:label="loc_30" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowDefinitionOfTimeHorizonsIsLinkedToPlanningHorizonsUsedForStrategicDecisionmakingExplanatory" xlink:label="loc_30" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_30" xlink:to="res_14" xlink:type="arc"/>
         <link:reference xlink:label="res_15" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -624,7 +624,7 @@
             <ref:Paragraph>59</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IndustrySAppliedInPreparingSustainabilityrelatedFinancialDisclosuresExplanatory" xlink:label="loc_81" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IndustrysAppliedInPreparingSustainabilityrelatedFinancialDisclosuresExplanatory" xlink:label="loc_81" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_81" xlink:to="res_58" xlink:type="arc"/>
         <link:reference xlink:label="res_59" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -918,43 +918,43 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IdentityOfGovernanceBodySOrIndividualSResponsibleForOversightOfRisksAndOpportunitiesExplanatory" xlink:label="loc_145" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IdentityOfGovernanceBodysOrIndividualsResponsibleForOversightOfRisksAndOpportunitiesExplanatory" xlink:label="loc_145" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_145" xlink:to="res_146" xlink:type="arc"/>
         <link:reference xlink:label="res_148" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.i.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibilitiesForRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodySOrIndividualSExplanatory" xlink:label="loc_146" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibilitiesForRisksAndOpportunitiesAreReflectedInTermsOfReferenceMandatesRoleDescriptionsAndOtherRelatedPoliciesApplicableToResponsibleBodysOrIndividualsExplanatory" xlink:label="loc_146" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_146" xlink:to="res_148" xlink:type="arc"/>
         <link:reference xlink:label="res_150" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.ii.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodySOrIndividualSDeterminesAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_147" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodysOrIndividualsDeterminesAppropriateSkillsAndCompetenciesAreAvailableOrWillBeDevelopedToOverseeStrategiesToRespondToRisksAndOpportunitiesExplanatory" xlink:label="loc_147" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_147" xlink:to="res_150" xlink:type="arc"/>
         <link:reference xlink:label="res_152" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.iii.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowAndHowOftenResponsibleBodySOrIndividualSIsInformedAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_148" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowAndHowOftenResponsibleBodysOrIndividualsIsInformedAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_148" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_148" xlink:to="res_152" xlink:type="arc"/>
         <link:reference xlink:label="res_154" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.iv.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodySOrIndividualSTakesIntoAccountRisksAndOpportunitiesWhenOverseeingStrategyDecisionsOnMajorTransactionsAndRiskManagementProcessesAndRelatedPoliciesExplanatory" xlink:label="loc_149" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowResponsibleBodysOrIndividualsTakesIntoAccountRisksAndOpportunitiesWhenOverseeingStrategyDecisionsOnMajorTransactionsAndRiskManagementProcessesAndRelatedPoliciesExplanatory" xlink:label="loc_149" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_149" xlink:to="res_154" xlink:type="arc"/>
         <link:reference xlink:label="res_156" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.iv.2</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ResponsibleBodySOrIndividualSConsideredTradeoffsAssociatedWithRisksAndOpportunities" xlink:label="loc_150" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ResponsibleBodysOrIndividualsConsideredTradeoffsAssociatedWithRisksAndOpportunities" xlink:label="loc_150" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_150" xlink:to="res_156" xlink:type="arc"/>
         <link:reference xlink:label="res_158" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.27.a.v.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowBodySOrIndividualSOverseesSettingOfTargetsRelatedToRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_151" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowBodysOrIndividualsOverseesSettingOfTargetsRelatedToRisksAndOpportunitiesAndMonitorsProgressTowardsThoseTargetsExplanatory" xlink:label="loc_151" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_151" xlink:to="res_158" xlink:type="arc"/>
         <link:reference xlink:label="res_160" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -1014,13 +1014,13 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.30.b.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonSOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_166" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonsOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_166" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_166" xlink:to="res_183" xlink:type="arc"/>
         <link:reference xlink:label="res_185" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.30.b.2</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonSOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_167" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonsOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_167" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_167" xlink:to="res_185" xlink:type="arc"/>
         <link:reference xlink:label="res_195" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -1032,7 +1032,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.30.c.2</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowDefinitionOfTimeHorizonSIsLinkedToPlanningHorizonsUsedForStrategicDecisionmakingExplanatory" xlink:label="loc_177" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowDefinitionOfTimeHorizonsIsLinkedToPlanningHorizonsUsedForStrategicDecisionmakingExplanatory" xlink:label="loc_177" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_177" xlink:to="res_197" xlink:type="arc"/>
         <link:reference xlink:label="res_199" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -1278,7 +1278,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.59.b.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IndustrySAppliedInPreparingSustainabilityrelatedFinancialDisclosuresExplanatory" xlink:label="loc_247" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_IndustrysAppliedInPreparingSustainabilityrelatedFinancialDisclosuresExplanatory" xlink:label="loc_247" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_247" xlink:to="res_308" xlink:type="arc"/>
         <link:reference xlink:label="res_310" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
@@ -1417,7 +1417,7 @@
             <ref:Paragraph>30</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TopicSOfRiskOrOpportunity" xlink:label="loc_778" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TopicsOfRiskOrOpportunity" xlink:label="loc_778" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_778" xlink:to="res_777" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_774" xlink:to="res_777" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_775" xlink:to="res_777" xlink:type="arc"/>
@@ -1487,7 +1487,7 @@
 
         
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesTable" xlink:label="loc_910" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricSRelatedToRisksAndOpportunities" xlink:label="loc_911" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsRelatedToRisksAndOpportunities" xlink:label="loc_911" xlink:type="locator"/>
         <link:reference xlink:label="res_912" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
             <ref:Number>S1</ref:Number>
@@ -1581,7 +1581,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_427" xlink:to="res_912" xlink:type="arc"/> 
         
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_428" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricSUsedToMonitorProgress" xlink:label="loc_429" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsUsedToMonitorProgress" xlink:label="loc_429" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_428" xlink:to="res_45" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_429" xlink:to="res_45" xlink:type="arc"/>
         

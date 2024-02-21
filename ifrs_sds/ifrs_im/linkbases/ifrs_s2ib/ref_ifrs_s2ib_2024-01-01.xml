@@ -22,7 +22,7 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsListing" xlink:label="loc_1" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsTable" xlink:label="loc_2" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_5872" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_5872" xlink:type="arc"/>
@@ -46,7 +46,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_12" xlink:to="res_5872" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PolyesterMember" xlink:label="loc_13" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_13" xlink:to="res_5872" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSExplanatory" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsExplanatory" xlink:label="loc_14" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_14" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesTable" xlink:label="loc_15" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_15" xlink:to="res_5872" xlink:type="arc"/>
@@ -8963,7 +8963,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>CG-AA-440a.3b</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSExplanatory" xlink:label="loc_1286" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsExplanatory" xlink:label="loc_1286" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_1286" xlink:to="res_1289" xlink:type="arc"/>
         <link:reference xlink:label="res_1294" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>

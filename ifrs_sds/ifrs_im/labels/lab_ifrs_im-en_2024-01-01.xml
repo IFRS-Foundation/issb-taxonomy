@@ -1076,11 +1076,11 @@
         <link:label id="ifrs-im_PriorityRawMaterialsListing_label" xlink:label="res_6" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, listing</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsListing" xlink:label="loc_5" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_5" xlink:to="res_6" xlink:type="arc"/>
-        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSAbstract_label" xlink:label="res_8" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSAbstract" xlink:label="loc_6" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsAbstract_label" xlink:label="res_8" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsAbstract" xlink:label="loc_6" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_6" xlink:to="res_8" xlink:type="arc"/>
-        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSTable_label" xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [table]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSTable" xlink:label="loc_7" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsTable_label" xlink:label="res_9" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [table]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsTable" xlink:label="loc_7" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_7" xlink:to="res_9" xlink:type="arc"/>
         <link:label id="ifrs-im_PriorityRawMaterialsAxis_label" xlink:label="res_10" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials [axis]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsAxis" xlink:label="loc_8" xlink:type="locator"/>
@@ -1115,11 +1115,11 @@
         <link:label id="ifrs-im_PolyesterMember_label" xlink:label="res_20" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Polyester [member]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PolyesterMember" xlink:label="loc_18" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_18" xlink:to="res_20" xlink:type="arc"/>
-        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSLineItems_label" xlink:label="res_21" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [line items]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSLineItems" xlink:label="loc_19" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsLineItems_label" xlink:label="res_21" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [line items]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsLineItems" xlink:label="loc_19" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_19" xlink:to="res_21" xlink:type="arc"/>
-        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSExplanatory_label" xlink:label="res_22" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [text block]</link:label>
-        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorSExplanatory" xlink:label="loc_20" xlink:type="locator"/>
+        <link:label id="ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsExplanatory_label" xlink:label="res_22" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, environmental or social factor(s) [text block]</link:label>
+        <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsEnvironmentalOrSocialFactorsExplanatory" xlink:label="loc_20" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_20" xlink:to="res_22" xlink:type="arc"/>
         <link:label id="ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesAbstract_label" xlink:label="res_24" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Priority raw materials, business risks and opportunities [abstract]</link:label>
         <link:loc xlink:href="../ifrs_im-cor_2024-01-01.xsd#ifrs-im_PriorityRawMaterialsBusinessRisksAndOpportunitiesAbstract" xlink:label="loc_21" xlink:type="locator"/>
