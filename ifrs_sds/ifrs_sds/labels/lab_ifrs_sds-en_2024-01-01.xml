@@ -1385,7 +1385,7 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ImpracticalityOfRevisionOfComparativeAmountsTable" xlink:label="loc_441" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_441" xlink:to="res_687" xlink:type="arc"/>
         
-        <link:label id="ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod_label" xlink:label="res_688" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fact that amounts disclosed in sustainability-related financial disclosures are not entirely comparable due to change in length of reporting period.</link:label>
+        <link:label id="ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod_label" xlink:label="res_688" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Fact that amounts disclosed in sustainability-related financial disclosures are not entirely comparable due to change in length of reporting period</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_442" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_442" xlink:to="res_688" xlink:type="arc"/>   
 
