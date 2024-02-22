@@ -43,7 +43,6 @@ All climate-related risks and opportunities are sustainability-related risks and
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfTimeHorizonOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_15" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_15" xlink:to="res_2" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_16" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_16" xlink:to="res_2" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectEntitysProspectsExplanatory" xlink:label="loc_17" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_17" xlink:to="res_2" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DisclosureOfCurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnEntitysBusinessModelAndItsValueChainExplanatory" xlink:label="loc_18" xlink:type="locator"/>
@@ -109,5 +108,7 @@ All climate-related risks and opportunities are sustainability-related risks and
         <link:label id="ifrs-sds_GicsClassifiedIndustriesAxis_commentaryGuidance" xlink:label="res_5" xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance" xlink:type="resource" xml:lang="en">The Global Industry Classification Standard (GICS) 6-digit industry-level code should be used for classifying counterparties</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GicsClassifiedIndustriesAxis" xlink:label="loc_47" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_47" xlink:to="res_5" xlink:type="arc"/>
+        <link:label id="ifrs-sds_TimeHorizonOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur_commentaryGuidance" xlink:label="res_6" xlink:role="http://www.xbrl.org/2003/role/commentaryGuidance" xlink:type="resource" xml:lang="en">All climate-related risks and opportunities are sustainability-related risks and opportunities. Entities should use the element reference to find the appropriate element for tagging.</link:label>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_16" xlink:to="res_6" xlink:type="arc"/>
     </link:labelLink>
 </link:linkbase>
