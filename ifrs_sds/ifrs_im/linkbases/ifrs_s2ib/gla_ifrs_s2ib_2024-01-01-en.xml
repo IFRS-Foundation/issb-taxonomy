@@ -593,14 +593,14 @@
         <label:label xlink:label="res_196" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300d] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, percentage inspected [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300d" xlink:label="loc_196" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_196" xlink:to="res_196" xlink:type="arc"/>
-        <label:label xlink:label="res_197" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300e" xlink:label="loc_197" xlink:type="locator"/>
+        <label:label xlink:label="res_197" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830301e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Customers, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301e" xlink:label="loc_197" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_197" xlink:to="res_197" xlink:type="arc"/>
-        <label:label xlink:label="res_198" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Natural gas delivered, percentage [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300f" xlink:label="loc_198" xlink:type="locator"/>
+        <label:label xlink:label="res_198" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830301f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Natural gas delivered, percentage [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301f" xlink:label="loc_198" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_198" xlink:to="res_198" xlink:type="arc"/>
-        <label:label xlink:label="res_199" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, length [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300g" xlink:label="loc_199" xlink:type="locator"/>
+        <label:label xlink:label="res_199" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830301g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Pipelines, length [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301g" xlink:label="loc_199" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_199" xlink:to="res_199" xlink:type="arc"/>
         <label:label xlink:label="res_200" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830400] Industry Metrics - Infrastructure - Home Builders (IF-HB)</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830400" xlink:label="loc_200" xlink:type="locator"/>
@@ -743,14 +743,14 @@
         <label:label xlink:label="res_246" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800i] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water sourced, percentage [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800i" xlink:label="loc_246" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_246" xlink:to="res_246" xlink:type="arc"/>
-        <label:label xlink:label="res_247" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800j] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water delivered, volume [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800j" xlink:label="loc_247" xlink:type="locator"/>
+        <label:label xlink:label="res_247" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830801j] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1) - Water delivered, volume [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801j" xlink:label="loc_247" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_247" xlink:to="res_247" xlink:type="arc"/>
-        <label:label xlink:label="res_248" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800k] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Sewer treated, average volume [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800k" xlink:label="loc_248" xlink:type="locator"/>
+        <label:label xlink:label="res_248" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830801k] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1) - Sewer treated, average volume [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801k" xlink:label="loc_248" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_248" xlink:to="res_248" xlink:type="arc"/>
-        <label:label xlink:label="res_249" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800l] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Pipe length [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800l" xlink:label="loc_249" xlink:type="locator"/>
+        <label:label xlink:label="res_249" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830801l] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1) - Pipe length [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801l" xlink:label="loc_249" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_249" xlink:to="res_249" xlink:type="arc"/>
         <label:label xlink:label="res_250" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[835100] Industry Metrics - Renewable Resources &amp; Alternative Energy - Biofuels (RR-BI)</label:label>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-835100" xlink:label="loc_250" xlink:type="locator"/>
@@ -1113,11 +1113,11 @@
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-855900b" xlink:label="loc_369" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_369" xlink:to="res_369" xlink:type="arc"/>
  
-        <label:label xlink:label="res_370" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300_1" xlink:label="loc_370" xlink:type="locator"/>
+        <label:label xlink:label="res_370" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830301] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301" xlink:label="loc_370" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_370" xlink:to="res_370" xlink:type="arc"/> 
-        <label:label xlink:label="res_371" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830800] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1)</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800_1" xlink:label="loc_371" xlink:type="locator"/>
+        <label:label xlink:label="res_371" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830801] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1)</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801" xlink:label="loc_371" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_371" xlink:to="res_371" xlink:type="arc"/>
         
     </gen:link>

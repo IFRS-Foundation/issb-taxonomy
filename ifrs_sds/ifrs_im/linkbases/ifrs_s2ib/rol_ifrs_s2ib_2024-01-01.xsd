@@ -1149,8 +1149,8 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830300_1" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830300_1">
-                <link:definition>[830300] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1)</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830301" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830301">
+                <link:definition>[830301] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1)</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1179,20 +1179,20 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830300e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830300e">
-                <link:definition>[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830301e" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830301e">
+                <link:definition>[830301e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830300f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830300f">
-                <link:definition>[830300f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Natural gas delivered, percentage [table]</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830301f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830301f">
+                <link:definition>[830301f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Natural gas delivered, percentage [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830300g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830300g">
-                <link:definition>[830300g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, length [table]</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830301g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830301g">
+                <link:definition>[830301g] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Pipelines, length [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1425,8 +1425,8 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830800_1" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800_1">
-                <link:definition>[830800] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1)</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830801" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830801">
+                <link:definition>[830801] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1)</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
@@ -1485,20 +1485,20 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830800j" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800j">
-                <link:definition>[830800j] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Water delivered, volume [table]</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830801j" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830801j">
+                <link:definition>[830801j] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1) - Water delivered, volume [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830800k" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800k">
-                <link:definition>[830800k] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Sewer treated, average volume [table]</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830801k" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830801k">
+                <link:definition>[830801k] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1) - Sewer treated, average volume [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-830800l" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800l">
-                <link:definition>[830800l] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) - Pipe length [table]</link:definition>
+            <link:roleType id="ifrs_s2ib_2024-01-01_role-830801l" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830801l">
+                <link:definition>[830801l] Industry Metrics - Infrastructure - Water Utilities &amp; Services (IF-WU) (1) - Pipe length [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>

@@ -404,11 +404,11 @@
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_195" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300d" xlink:label="loc_196" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_196" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300e" xlink:label="loc_197" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301e" xlink:label="loc_197" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_197" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300f" xlink:label="loc_198" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301f" xlink:label="loc_198" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_198" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830300g" xlink:label="loc_199" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830301g" xlink:label="loc_199" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_199" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830400" xlink:label="loc_200" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_200" xlink:to="res_1" xlink:type="arc"/>
@@ -504,11 +504,11 @@
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_245" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800i" xlink:label="loc_246" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_246" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800j" xlink:label="loc_247" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801j" xlink:label="loc_247" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_247" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800k" xlink:label="loc_248" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801k" xlink:label="loc_248" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_248" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800l" xlink:label="loc_249" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801l" xlink:label="loc_249" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_249" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-835100" xlink:label="loc_250" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_250" xlink:to="res_1" xlink:type="arc"/>

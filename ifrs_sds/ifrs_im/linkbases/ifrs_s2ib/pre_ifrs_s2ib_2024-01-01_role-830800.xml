@@ -8,7 +8,7 @@
         **********************
 --><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800" xlink:type="simple"/>
-    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800_1" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830800_1" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830801" xlink:href="rol_ifrs_s2ib_2024-01-01.xsd#ifrs_s2ib_2024-01-01_role-830801" xlink:type="simple"/>
     <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterUtilitiesAndServicesIndustrySustainabilityDisclosureMetricsAbstract" xlink:label="loc_2" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryAbstract" xlink:label="loc_1" xlink:type="locator"/>
@@ -224,7 +224,7 @@
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterThatIsFromOtherSourcesMember" xlink:label="loc_104" xlink:type="locator"/>
         <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_98" xlink:to="loc_104" xlink:type="arc"/>
     </link:presentationLink>
-    <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830800_1" xlink:type="extended">
+    <link:presentationLink xlink:role="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-830801" xlink:type="extended">
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_WaterUtilitiesAndServicesIndustryActivityMetricsAbstract" xlink:label="loc_83" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_im-cor_2024-01-01.xsd#ifrs-im_CustomerTypeAxis" xlink:label="loc_87" xlink:type="locator"/>
