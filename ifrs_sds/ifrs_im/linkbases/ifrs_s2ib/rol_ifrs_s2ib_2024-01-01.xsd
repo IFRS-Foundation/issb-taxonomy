@@ -16,7 +16,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ib_2024-01-01_role-805100a" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-805100a">
-                <link:definition>[805100a] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, environmental or social factor(s)[table]</link:definition>
+                <link:definition>[805100a] Industry Metrics - Consumer Goods - Apparel, Accessories &amp; Footwear (CG-AA) - Priority raw materials, environmental or social factor(s) [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
