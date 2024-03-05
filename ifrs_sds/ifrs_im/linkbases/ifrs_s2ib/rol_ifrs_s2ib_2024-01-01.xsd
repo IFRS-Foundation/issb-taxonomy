@@ -273,18 +273,6 @@
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-810300f" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300f">
-                <link:definition>[810300f] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
-            <link:roleType id="ifrs_s2ib_2024-01-01_role-810300g" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810300g">
-                <link:definition>[810300g] Industry Metrics - Extractives &amp; Minerals Processing - Iron &amp; Steel Producers (EM-IS) - Production, weight [table]</link:definition>
-                <link:usedOn>link:calculationLink</link:usedOn>
-                <link:usedOn>link:definitionLink</link:usedOn>
-                <link:usedOn>link:presentationLink</link:usedOn>
-            </link:roleType>
             <link:roleType id="ifrs_s2ib_2024-01-01_role-810400" roleURI="https://xbrl.ifrs.org/role/ifrs_im/ifrs_s2ib_2024-01-01_role-810400">
                 <link:definition>[810400] Industry Metrics - Extractives &amp; Minerals Processing - Metals &amp; Mining (EM-MM)</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
