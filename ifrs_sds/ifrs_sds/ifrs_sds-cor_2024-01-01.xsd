@@ -11,6 +11,13 @@
     <xsd:import namespace="http://www.xbrl.org/dtr/type/2022-03-31" schemaLocation="https://www.xbrl.org/dtr/type/2022-03-31/types.xsd"/>
     <xsd:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd"/>
     <xsd:import namespace="http://xbrl.org/2020/extensible-enumerations-2.0" schemaLocation="https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd"/>
+    
+    <xsd:annotation>
+        <xsd:appinfo>
+            <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="dimensions/dim_ifrs_sds_2024-01-01_role-995000.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:type="simple" />
+        </xsd:appinfo>
+    </xsd:annotation>
+    
     <xsd:element abstract="false" id="ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAUM" name="AbsoluteGrossFinancedEmissionsRelatedToAUM" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAUMScope1" name="AbsoluteGrossFinancedEmissionsRelatedToAUMScope1" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>
     <xsd:element abstract="false" id="ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAUMScope2" name="AbsoluteGrossFinancedEmissionsRelatedToAUMScope2" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:ghgEmissionsItemType" xbrli:periodType="duration"/>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+		Taxonomy: 2023-03-23 (Final)
+		**********************
+		Copyright (c) 2023 IFRS Foundation
+		All rights reserved. Reproduction and use rights are strictly limited.
+		For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+		The IFRS Foundation has trade marks registered around the world (Marks) including 'IAS', 'IASB', the IASB logo, 'IFRIC', 'IFRS', the IFRS logo, 'IFRS for SMEs', the IFRS for SMEs logo, the 'Hexagon Device', 'International Accounting Standards', 'International Financial Reporting Standards', 'NIIF' and 'SIC'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+		**********************
+-->
+<xbrli:xbrl xmlns:example1="http://www.ifrs.org/xbrl/illustrativeExamples/Example1" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2022-03-31" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" xmlns:ifrs-sds="https://xbrl.ifrs.org/taxonomy/2024-01-01/ifrs-sds" xmlns:xl="http://www.xbrl.org/2003/XLink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xbrldi="http://xbrl.org/2006/xbrldi" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:iso4217="http://www.xbrl.org/2003/iso4217" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <link:schemaRef xlink:type="simple" xlink:href="ifrs_sds\ifrs_sds\ifrs_sds-cor_2024-01-01.xsd"/>
+  
+
+  <link:schemaRef xlink:type="simple" xlink:href="ifrs_sds\ifrs_im\ifrs_im-cor_2024-01-01.xsd"/>
+
+            
+  <xbrli:context id="e2010">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.ifrs.org/xbrl/illustrativeExamples">Example 1</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2012-01-01</xbrli:startDate>
+      <xbrli:endDate>2012-12-31</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <ifrs-sds:CarbonCreditUnderlyingOffsetWillBeNaturebasedOrBasedOnTechnologicalCarbonRemovals id="XWAND00000326" contextRef="e2010" >https://xbrl.ifrs.org/taxonomy/2024-01-01/ifrs-sds#NaturebasedCarbonRemovalsMember</ifrs-sds:CarbonCreditUnderlyingOffsetWillBeNaturebasedOrBasedOnTechnologicalCarbonRemovals>
+  
+  
+</xbrli:xbrl>
