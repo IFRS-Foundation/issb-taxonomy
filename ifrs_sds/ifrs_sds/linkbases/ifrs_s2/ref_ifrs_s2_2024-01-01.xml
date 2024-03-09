@@ -2432,45 +2432,6 @@
             <ref:Number>S2.29.a.iii.3.2</ref:Number>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_825" xlink:to="res_828" xlink:type="arc"/>
-        
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisks" xlink:label="loc_826" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisksPercentage" xlink:label="loc_827" xlink:type="locator"/>
-
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisks" xlink:label="loc_830" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisksPercentage" xlink:label="loc_831" xlink:type="locator"/>
-
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimaterelatedOpportunities" xlink:label="loc_834" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimaterelatedOpportunitiesPercentage" xlink:label="loc_835" xlink:type="locator"/>
-
-        <link:reference xlink:label="res_838" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-06-26</ref:IssueDate>
-            <ref:Paragraph>29</ref:Paragraph>
-            <ref:Subparagraph>b</ref:Subparagraph>
-        </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_826" xlink:to="res_838" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_827" xlink:to="res_838" xlink:type="arc"/>
-        
-        <link:reference xlink:label="res_839" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-06-26</ref:IssueDate>
-            <ref:Paragraph>29</ref:Paragraph>
-            <ref:Subparagraph>c</ref:Subparagraph>
-        </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_830" xlink:to="res_839" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_831" xlink:to="res_839" xlink:type="arc"/>
-                
-        <link:reference xlink:label="res_840" xlink:role="http://www.xbrl.org/2003/role/exampleRef" xlink:type="resource">
-            <ref:Name>IFRS</ref:Name>
-            <ref:Number>S2</ref:Number>
-            <ref:IssueDate>2023-06-26</ref:IssueDate>
-            <ref:Paragraph>29</ref:Paragraph>
-            <ref:Subparagraph>d</ref:Subparagraph>
-        </link:reference>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_834" xlink:to="res_840" xlink:type="arc"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_835" xlink:to="res_840" xlink:type="arc"/>
 
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_841" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsUsedToMonitorProgress" xlink:label="loc_842" xlink:type="locator"/>

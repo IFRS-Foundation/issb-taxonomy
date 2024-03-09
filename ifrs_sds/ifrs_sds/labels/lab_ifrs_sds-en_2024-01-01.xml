@@ -1170,28 +1170,6 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissions" xlink:label="loc_376" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_376" xlink:to="res_622" xlink:type="arc"/>
 
-        <link:label id="ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisks_label" xlink:label="res_623" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related transition risks</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisks" xlink:label="loc_377" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_377" xlink:to="res_623" xlink:type="arc"/>
-        <link:label id="ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisksPercentage_label" xlink:label="res_624" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related transition risks, percentage</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedTransitionRisksPercentage" xlink:label="loc_378" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_378" xlink:to="res_624" xlink:type="arc"/>
-
-        <link:label id="ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisks_label" xlink:label="res_627" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related physical risks</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisks" xlink:label="loc_381" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_381" xlink:to="res_627" xlink:type="arc"/>
-        <link:label id="ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisksPercentage_label" xlink:label="res_628" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets vulnerable to climate-related physical risks, percentage</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsVulnerableToClimaterelatedPhysicalRisksPercentage" xlink:label="loc_382" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_382" xlink:to="res_628" xlink:type="arc"/>
-
-        <link:label id="ifrs-sds_AssetsAlignedWithClimaterelatedOpportunities_label" xlink:label="res_631" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets aligned with climate-related opportunities</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimaterelatedOpportunities" xlink:label="loc_385" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_385" xlink:to="res_631" xlink:type="arc"/>
-        <link:label id="ifrs-sds_AssetsAlignedWithClimaterelatedOpportunitiesPercentage_label" xlink:label="res_632" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Assets aligned with climate-related opportunities, percentage</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AssetsAlignedWithClimaterelatedOpportunitiesPercentage" xlink:label="loc_386" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_386" xlink:to="res_632" xlink:type="arc"/>
-
-
         <link:label id="ifrs-sds_MetricUsedToSetTarget_label" xlink:label="res_635" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric used to set target</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_389" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_389" xlink:to="res_635" xlink:type="arc"/>
