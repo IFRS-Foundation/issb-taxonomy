@@ -1208,15 +1208,6 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentScope3GHGEmissionsMeasuredUsingVerifiedInputsExplanatory" xlink:label="loc_399" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_399" xlink:to="res_645" xlink:type="arc"/>
 
-        <link:label id="ifrs-sds_MetricsForClimaterelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_646" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for climate-related risks and opportunities [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForClimaterelatedRisksAndOpportunitiesAbstract" xlink:label="loc_400" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_400" xlink:to="res_646" xlink:type="arc"/>
-        <link:label id="ifrs-sds_MetricsForClimaterelatedRisksAndOpportunitiesLineItems_label" xlink:label="res_647" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for climate-related risks and opportunities [line items]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForClimaterelatedRisksAndOpportunitiesLineItems" xlink:label="loc_401" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_401" xlink:to="res_647" xlink:type="arc"/>
-        <link:label id="ifrs-sds_MetricsForClimaterelatedRisksAndOpportunitiesTable_label" xlink:label="res_648" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for climate-related risks and opportunities [table]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForClimaterelatedRisksAndOpportunitiesTable" xlink:label="loc_402" xlink:type="locator"/>
-        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_402" xlink:to="res_648" xlink:type="arc"/>
         <link:label id="ifrs-sds_MetricsRelatedToRisksAndOpportunities_label" xlink:label="res_649" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metric(s) related to risks and opportunities</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsRelatedToRisksAndOpportunities" xlink:label="loc_403" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_403" xlink:to="res_649" xlink:type="arc"/>
@@ -1245,14 +1236,14 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityrelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_411" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_411" xlink:to="res_657" xlink:type="arc"/>
 
-        <link:label id="ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesAbstract_label" xlink:label="res_658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for sustainability-related risks and opportunities [abstract]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesAbstract" xlink:label="loc_412" xlink:type="locator"/>
+        <link:label id="ifrs-sds_MetricsForRisksAndOpportunitiesAbstract_label" xlink:label="res_658" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for risks and opportunities [abstract]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForRisksAndOpportunitiesAbstract" xlink:label="loc_412" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_412" xlink:to="res_658" xlink:type="arc"/>
-        <link:label id="ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesLineItems_label" xlink:label="res_659" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for sustainability-related risks and opportunities [line items]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesLineItems" xlink:label="loc_413" xlink:type="locator"/>
+        <link:label id="ifrs-sds_MetricsForRisksAndOpportunitiesLineItems_label" xlink:label="res_659" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for risks and opportunities [line items]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForRisksAndOpportunitiesLineItems" xlink:label="loc_413" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_413" xlink:to="res_659" xlink:type="arc"/>
-        <link:label id="ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesTable_label" xlink:label="res_660" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for sustainability-related risks and opportunities [table]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForSustainabilityrelatedRisksAndOpportunitiesTable" xlink:label="loc_414" xlink:type="locator"/>
+        <link:label id="ifrs-sds_MetricsForRisksAndOpportunitiesTable_label" xlink:label="res_660" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Metrics for risks and opportunities [table]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForRisksAndOpportunitiesTable" xlink:label="loc_414" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_414" xlink:to="res_660" xlink:type="arc"/>        
 
         <link:label id="ifrs-sds_SourceOfMetricsOtherThanIFRSStandardsAbstract_label" xlink:label="res_661" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Source of metrics (other than IFRS Standards) [abstract]</link:label>
