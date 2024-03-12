@@ -18,108 +18,108 @@
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-810100a" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulationAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_GrossScope1GHGEmissionsPercentageCoveredByRegulationTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_GrossScope1GHGEmissionsPercentageCoveredByRegulationAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_EmissionRegulationAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_EmissionRegulationAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_EmissionRegulationDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_EmissionRegulationDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_EmissionslimitingRegulationsMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_EmissionslimitingRegulationsMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulation" xlink:label="loc_7" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_GrossScope1GHGEmissionsPercentageCoveredByRegulationLineItems" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_GrossScope1GHGEmissionsPercentageCoveredByRegulation" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_GrossScope1GHGEmissionsPercentageCoveredByRegulationLineItems" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_7" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-810100b" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_IncidentsOfNoncomplianceTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_IncidentsOfNoncomplianceAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_IncidentsOfNoncomplianceTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_IncidentsOfNoncomplianceAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_NoncomplianceTypeAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_NoncomplianceTypeAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_NoncomplianceTypeDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_NoncomplianceTypeDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_WaterQualityPermitsMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_WaterQualityPermitsMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_IncidentsOfNoncompliance" xlink:label="loc_9" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_IncidentsOfNoncomplianceLineItems" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_IncidentsOfNoncompliance" xlink:label="loc_9" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_IncidentsOfNoncomplianceLineItems" xlink:label="loc_8" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_9" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_WaterQualityRegulationsMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_WaterQualityRegulationsMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_8" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_WaterQualityStandardsMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_WaterQualityStandardsMember" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-810100c" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProvenTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProvenAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProvenTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProvenAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReserveAnalysisScenarioAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReserveAnalysisScenarioAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReserveAnalysisScenarioDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReserveAnalysisScenarioDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CurrentPoliciesScenarioMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CurrentPoliciesScenarioMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProven" xlink:label="loc_9" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProvenLineItems" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProven" xlink:label="loc_9" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProvenLineItems" xlink:label="loc_8" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_9" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_NewPoliciesScenarioMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_NewPoliciesScenarioMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_8" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SustainableDevelopmentScenarioMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SustainableDevelopmentScenarioMember" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-810100d" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProbableTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProbableAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProbableTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProbableAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReserveAnalysisScenarioAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReserveAnalysisScenarioAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReserveAnalysisScenarioDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReserveAnalysisScenarioDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CurrentPoliciesScenarioMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CurrentPoliciesScenarioMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProbable" xlink:label="loc_9" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_CoalReservesProbableLineItems" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProbable" xlink:label="loc_9" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CoalReservesProbableLineItems" xlink:label="loc_8" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_8" xlink:to="loc_9" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_NewPoliciesScenarioMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_NewPoliciesScenarioMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_8" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SustainableDevelopmentScenarioMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SustainableDevelopmentScenarioMember" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-810100e" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeightTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeightAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeightTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeightAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductCategoryAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductCategoryAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductCategoryDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductCategoryDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_MetallurgicalCoalMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_MetallurgicalCoalMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeight" xlink:label="loc_8" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeightLineItems" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeight" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeightLineItems" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ThermalCoalMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ThermalCoalMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-810100f" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeightTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeightAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeightTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeightAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductCategoryAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductCategoryAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductCategoryDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductCategoryDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_MetallurgicalCoalMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_MetallurgicalCoalMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeight" xlink:label="loc_8" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductionWeightLineItems" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeight" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductionWeightLineItems" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ThermalCoalMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ThermalCoalMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>

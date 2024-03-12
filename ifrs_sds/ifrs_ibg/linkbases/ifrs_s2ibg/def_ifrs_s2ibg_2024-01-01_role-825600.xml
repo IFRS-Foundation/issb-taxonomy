@@ -15,41 +15,41 @@
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-825600a" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_DevicesAndEquipmentAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_DevicesAndEquipmentDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonated" xlink:label="loc_6" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonated" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_DevicesAndEquipmentAcceptedForTakebackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_5" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-825600b" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SuppliesAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SuppliesAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SuppliesDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SuppliesDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonated" xlink:label="loc_6" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SuppliesAcceptedForTakebackAndReusedRecycledOrDonated" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SuppliesAcceptedForTakebackAndReusedRecycledOrDonatedLineItems" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_5" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-825600c" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductSalesUnitsTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductSalesUnitsAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductSalesUnitsTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductSalesUnitsAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductCategoryAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductCategoryAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductCategoryDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductCategoryDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductSalesUnits" xlink:label="loc_6" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_ProductSalesUnitsLineItems" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductSalesUnits" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_ProductSalesUnitsLineItems" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_5" xlink:type="arc"/>
     </link:definitionLink>

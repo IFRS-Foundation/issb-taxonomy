@@ -14,34 +14,34 @@
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/domain-member" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#domain-member" xlink:type="simple"/>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-855200a" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_FuelConsumedPercentageTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_FuelConsumedPercentageAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_FuelConsumedPercentageTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_FuelConsumedPercentageAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_FuelSourceAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_FuelSourceAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_FuelSourceDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_FuelSourceDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_AlternativeFuelMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_AlternativeFuelMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_FuelConsumedPercentage" xlink:label="loc_8" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_FuelConsumedPercentageLineItems" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_FuelConsumedPercentage" xlink:label="loc_8" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_FuelConsumedPercentageLineItems" xlink:label="loc_7" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_8" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_SustainableFuelMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_SustainableFuelMember" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>
     <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-01-01_role-855200b" xlink:type="extended">
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_RevenueTonDistanceTable" xlink:label="loc_2" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_RevenueTonDistanceAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_RevenueTonDistanceTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_RevenueTonDistanceAbstract" xlink:label="loc_1" xlink:type="locator"/>
         <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_TransportTypeAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_TransportTypeAxis" xlink:label="loc_3" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_TransportTypeDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_TransportTypeDomain" xlink:label="loc_4" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_AirTransportMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_AirTransportMember" xlink:label="loc_5" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_RevenueTonneDistance" xlink:label="loc_7" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-im_RevenueTonDistanceLineItems" xlink:label="loc_6" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_RevenueTonneDistance" xlink:label="loc_7" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_RevenueTonDistanceLineItems" xlink:label="loc_6" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_6" xlink:to="loc_7" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_6" xlink:type="arc"/>
     </link:definitionLink>
