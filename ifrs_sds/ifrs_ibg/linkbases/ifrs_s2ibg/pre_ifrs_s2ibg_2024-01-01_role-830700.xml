@@ -114,7 +114,7 @@
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_EmissionsreportingRegulationsMember" xlink:label="loc_11" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_9" xlink:to="loc_11" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_6" xlink:to="loc_12" xlink:type="arc"/>
-        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1GHGEmissions" xlink:label="loc_14" xlink:type="locator"/>
+        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1GHGEmissions" xlink:label="loc_14" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_5" xlink:to="loc_14" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_LandfillGasPercentageFlared" xlink:label="loc_17" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_15" xlink:to="loc_17" xlink:type="arc"/>

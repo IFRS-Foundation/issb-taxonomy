@@ -635,7 +635,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Section>EM-CO-110a.1</ref:Section>
         </link:reference>
-        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1GHGEmissions" xlink:label="loc_143" xlink:type="locator"/>
+        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1GHGEmissions" xlink:label="loc_143" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_143" xlink:to="res_42" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_EmissionRegulationAxis" xlink:label="loc_145" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_145" xlink:to="res_5913" xlink:type="arc"/>

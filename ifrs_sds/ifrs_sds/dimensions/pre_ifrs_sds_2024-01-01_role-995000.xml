@@ -128,17 +128,17 @@
      
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityMetricsDomain" xlink:label="loc_69" xlink:type="locator"/>
 
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1GHGEmissions" xlink:label="loc_125" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1GHGEmissions" xlink:label="loc_125" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_125" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossLocationbasedScope2GHGEmissions" xlink:label="loc_121" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossLocationbasedScope2GHGEmissions" xlink:label="loc_121" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_121" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossMarketbasedScope2GHGEmissions" xlink:label="loc_122" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossMarketbasedScope2GHGEmissions" xlink:label="loc_122" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_122" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1And2GHGEmissions" xlink:label="loc_124" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1And2GHGEmissions" xlink:label="loc_124" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_124" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope3GHGEmissions" xlink:label="loc_127" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope3GHGEmissions" xlink:label="loc_127" xlink:type="locator"/>
         <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_127" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope12And3GHGEmissions" xlink:label="loc_126" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope12And3GHGEmissions" xlink:label="loc_126" xlink:type="locator"/>
         <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_126" xlink:type="arc"/>
         
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PriceForEachMetricTonneOfGHGEmissionsUsedToAssessCostsOfGHGEmissions" xlink:label="loc_141" xlink:type="locator"/>
@@ -146,7 +146,7 @@
 
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PerformanceMetricsAreIncludedInRemunerationPolicies" xlink:label="loc_140" xlink:type="locator"/>
         <link:presentationArc order="200.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_140" xlink:type="arc"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PercentageOfExecutiveManagementRemunerationRecognisedLinkedToClimaterelatedConsiderations" xlink:label="loc_136" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PercentageOfExecutiveManagementRemunerationRecognisedInTheCurrentPeriodLinkedToClimaterelatedConsiderations" xlink:label="loc_136" xlink:type="locator"/>
         <link:presentationArc order="210.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_69" xlink:to="loc_136" xlink:type="arc"/>
 
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossFinancedEmissionsRelatedToAUM" xlink:label="loc_70" xlink:type="locator"/>

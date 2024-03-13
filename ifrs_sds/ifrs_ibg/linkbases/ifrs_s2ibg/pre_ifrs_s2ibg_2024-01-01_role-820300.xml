@@ -56,7 +56,7 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_26" xlink:to="loc_27" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_RefrigerantsMember" xlink:label="loc_28" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_27" xlink:to="loc_28" xlink:type="arc"/>
-        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_GrossScope1GHGEmissions" xlink:label="loc_30" xlink:type="locator"/>
+        <link:loc xlink:href="../../../ifrs_sds/ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1GHGEmissions" xlink:label="loc_30" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_GrossScope1GHGEmissionsLineItems" xlink:label="loc_29" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_29" xlink:to="loc_30" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_RefrigerantsConsumedPercentageWithZeroOzonedepletingPotential" xlink:label="loc_32" xlink:type="locator"/>
