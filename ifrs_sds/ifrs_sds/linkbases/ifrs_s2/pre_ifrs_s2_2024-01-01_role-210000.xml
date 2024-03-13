@@ -131,7 +131,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1GHGEmissions" xlink:label="loc_96" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_Scope1And2GHGEmissionsLineItems" xlink:label="loc_95" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_96" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MeasurementApproachUsedInCalculatingGHGEmissionsIfAlignedWithGHGProtocol" xlink:label="loc_102" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MeasurementApproachUsedInCalculatingGHGEmissionsIfMeasuredInAccordanceWithGHGProtocol" xlink:label="loc_102" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ApproachUsedToMeasureGHGEmissionsExplanatory" xlink:label="loc_101" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_102" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_CategoriesIncludedWithinMeasureOfScope3GHGEmissions" xlink:label="loc_106" xlink:type="locator"/>
@@ -357,9 +357,9 @@
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_76" xlink:to="loc_174" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimaterelatedRisksHaveBeenPrioritisedRelativeToOtherTypesOfRisk" xlink:label="loc_175" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_174" xlink:to="loc_175" xlink:type="arc"/>
-        
+
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ChangesToMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsAndReasonsForChangesExplanatory" xlink:label="loc_176" xlink:type="locator"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_176" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_176" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ChangesMadeToMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissions" xlink:label="loc_177" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_176" xlink:to="loc_177" xlink:type="arc"/>
     
@@ -381,15 +381,15 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_PlannedUseOfCarbonCreditsExplanatory" xlink:label="loc_196" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_148" xlink:to="loc_196" xlink:type="arc"/>    
         
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGHGEmissionsWhenNotInAccordanceWithGHGProtocolExplanatory" xlink:label="loc_197" xlink:type="locator"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_197" xlink:type="arc"/>    
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MethodAndMeasurementApproachUsedInCalculatingGHGEmissionsIfNotMeasuredInAccordanceWithGHGProtocolExplanatory" xlink:label="loc_197" xlink:type="locator"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_197" xlink:type="arc"/>    
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EmissionFactorsUsedInCalculatingGHGEmissionsExplanatory" xlink:label="loc_198" xlink:type="locator"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_198" xlink:type="arc"/> 
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_198" xlink:type="arc"/> 
         
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentScope3GHGEmissionsMeasuredUsingInputsFromSpecificActivitiesWithinValueChainExplanatory" xlink:label="loc_199" xlink:type="locator"/>
-        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_199" xlink:type="arc"/>    
+        <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_199" xlink:type="arc"/>    
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ExtentScope3GHGEmissionsMeasuredUsingVerifiedInputsExplanatory" xlink:label="loc_200" xlink:type="locator"/>
-        <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_200" xlink:type="arc"/> 
+        <link:presentationArc order="70.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_200" xlink:type="arc"/> 
 
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_MetricsForRisksAndOpportunitiesAbstract" xlink:label="loc_203" xlink:type="locator"/>
         <link:presentationArc order="5.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_86" xlink:to="loc_203" xlink:type="arc"/>
@@ -434,5 +434,8 @@
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_235" xlink:to="loc_237" xlink:type="arc"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_237" xlink:to="loc_70" xlink:type="arc"/>        
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_237" xlink:to="loc_71" xlink:type="arc"/>
+        
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory" xlink:label="loc_238" xlink:type="locator"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_101" xlink:to="loc_238" xlink:type="arc"/>
     </link:presentationLink>
 </link:linkbase>
