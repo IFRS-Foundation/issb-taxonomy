@@ -88,9 +88,6 @@
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CustomersNumber" xlink:label="loc_57" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_CustomersNumberLineItems" xlink:label="loc_56" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_56" xlink:to="loc_57" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_NaturalGasDeliveredAmount" xlink:label="loc_59" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_IFGU000BAbstract" xlink:label="loc_58" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_58" xlink:to="loc_59" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_4" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:to="loc_11" xlink:type="arc"/>
@@ -109,7 +106,6 @@
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_IndustrialCustomersMember" xlink:label="loc_53" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_51" xlink:to="loc_53" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_48" xlink:to="loc_56" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_58" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_2" xlink:to="loc_17" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-01-01.xsd#ifrs-ibg_EnforcementProceedingsOccurringAsResultOfPipelineSafetyConsideration" xlink:label="loc_22" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_19" xlink:to="loc_22" xlink:type="arc"/>
