@@ -1361,5 +1361,10 @@
         <link:label id="ifrs-sds_ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory_label" xlink:label="res_694" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Reason why measurement approach, inputs and assumptions used to measure GHG emissions chosen [text block]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory" xlink:label="loc_694" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_694" xlink:to="res_694" xlink:type="arc"/>
+
+        <link:label id="ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures_label" xlink:label="res_695" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sources of guidance applied in preparing sustainability-related financial disclosures</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures" xlink:label="loc_695" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_695" xlink:to="res_695" xlink:type="arc"/>
+ 
     </link:labelLink>
 </link:linkbase>

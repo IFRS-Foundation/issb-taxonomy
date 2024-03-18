@@ -471,4 +471,6 @@
     <xsd:element abstract="true" id="ifrs-sds_ComparativeInformationAbstract" name="ComparativeInformationAbstract" nillable="true" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="duration"/>
     
     <xsd:element abstract="false" id="ifrs-sds_ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory" name="ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory" nillable="true" substitutionGroup="xbrli:item" type="dtr-2022:textBlockItemType" xbrli:periodType="duration"/> 
+
+    <xsd:element abstract="false" id="ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures" name="SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures" nillable="true" substitutionGroup="xbrli:item" type="enum2:enumerationSetItemType" xbrli:periodType="duration" enum2:domain="ifrs-sds:SustainabilityMetricSourcesDomain" enum2:headUsable="false" enum2:linkrole="https://xbrl.ifrs.org/role/ifrs_sds/ifrs_sds-dim_2024-01-01_role-995000" /> 
 </xsd:schema>

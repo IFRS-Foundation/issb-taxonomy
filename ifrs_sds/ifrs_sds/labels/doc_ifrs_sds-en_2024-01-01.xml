@@ -916,5 +916,8 @@ These risks could carry financial implications for an entity, such as costs resu
         <link:label id="ifrs-sds_ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory_documentation" xlink:label="res_300" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">The reason why the entity has chosen the measurement approach, inputs and assumptions it uses to measure its greenhouse gas emissions.</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ReasonWhyMeasurementApproachInputsAndAssumptionsUsedToMeasureGHGEmissionsChosenExplanatory" xlink:label="loc_300" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_300" xlink:to="res_300" xlink:type="arc"/>
+        <link:label id="ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures_documentation" xlink:label="res_301" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">The standards, pronouncements, industry practice and other sources of guidance that the entity has applied in preparing its sustainability-related financial disclosures, including, if applicable, identifying the disclosure topics in the SASB Standards.</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures" xlink:label="loc_301" xlink:type="locator"/>
+        <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_301" xlink:to="res_301" xlink:type="arc"/>
     </link:labelLink>
 </link:linkbase>

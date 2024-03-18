@@ -1680,5 +1680,14 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_44" xlink:to="res_930" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_45" xlink:to="res_930" xlink:type="arc"/>
 
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures" xlink:label="loc_439" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_439" xlink:to="res_57" xlink:type="arc"/>
+        
+        <link:reference xlink:label="res_931" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
+            <ref:Name>Metric Code(s)</ref:Name>
+            <ref:Number>S1.59.a.2</ref:Number>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_439" xlink:to="res_931" xlink:type="arc"/>
+        
     </link:referenceLink>
 </link:linkbase>
