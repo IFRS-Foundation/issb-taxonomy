@@ -229,7 +229,7 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_7" xlink:to="loc_10" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_LongTermMember" xlink:label="loc_37" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_34" xlink:to="loc_37" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_41" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_41" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:to="loc_41" xlink:type="arc"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_23" xlink:to="loc_49" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TradeoffsBetweenRisksAndOpportunitiesConsideredExplanatory" xlink:label="loc_52" xlink:type="locator"/>

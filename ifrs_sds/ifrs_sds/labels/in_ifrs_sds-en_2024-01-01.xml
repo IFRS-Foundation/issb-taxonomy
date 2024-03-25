@@ -42,7 +42,7 @@ All climate-related risks and opportunities are sustainability-related risks and
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonsOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccurExplanatory" xlink:label="loc_15" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_15" xlink:to="res_2" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_TimeHorizonsOverWhichEffectsOfRiskOrOpportunityCouldReasonablyBeExpectedToOccur" xlink:label="loc_16" xlink:type="locator"/>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_17" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_17" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_17" xlink:to="res_2" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_CurrentAndAnticipatedEffectsOfRisksAndOpportunitiesOnBusinessModelAndValueChainExplanatory" xlink:label="loc_18" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_18" xlink:to="res_2" xlink:type="arc"/>

@@ -248,7 +248,7 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_27" xlink:to="loc_30" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_LongTermMember" xlink:label="loc_38" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_35" xlink:to="loc_38" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_42" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_42" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_24" xlink:to="loc_42" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_WhereInBusinessModelAndValueChainRisksAndOpportunitiesAreConcentratedExplanatory" xlink:label="loc_48" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_46" xlink:to="loc_48" xlink:type="arc"/>

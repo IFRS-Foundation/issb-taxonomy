@@ -201,7 +201,7 @@
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_30" xlink:to="res_16" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_HowDefinitionOfTimeHorizonsIsLinkedToPlanningHorizonsUsedForStrategicDecisionmakingExplanatory" xlink:label="loc_31" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_31" xlink:to="res_16" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_32" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_32" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_32" xlink:to="res_12" xlink:type="arc"/>
         <link:reference xlink:label="res_17" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -1600,7 +1600,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S2.10.2</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_249" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_249" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_249" xlink:to="res_270" xlink:type="arc"/>
         <link:reference xlink:label="res_276" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>

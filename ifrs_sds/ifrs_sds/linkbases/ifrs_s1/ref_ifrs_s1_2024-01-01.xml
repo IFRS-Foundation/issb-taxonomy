@@ -200,7 +200,7 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>30</ref:Paragraph>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_31" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_31" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_31" xlink:to="res_15" xlink:type="arc"/>
         <link:reference xlink:label="res_16" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
@@ -1038,7 +1038,7 @@
             <ref:Name>Metric Code(s)</ref:Name>
             <ref:Number>S1.30.1</ref:Number>
         </link:reference>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresAboutRisksAndOpportunitiesThatCouldReasonablyBeExpectedToAffectProspectsExplanatory" xlink:label="loc_178" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherDisclosuresThatEnableUnderstandingAboutRisksAndOpportunitiesExplanatory" xlink:label="loc_178" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_178" xlink:to="res_199" xlink:type="arc"/>
         <link:reference xlink:label="res_205" xlink:role="http://www.xbrl.org/2003/role/commentaryRef" xlink:type="resource">
             <ref:Name>Metric Code(s)</ref:Name>
