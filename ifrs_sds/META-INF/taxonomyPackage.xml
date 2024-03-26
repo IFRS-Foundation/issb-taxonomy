@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><!--
-        Taxonomy: 2024-01-01 (Proposed)
+        Taxonomy: 2024-04-26 (Final)
         ********************** 
         Copyright (c) 2024 IFRS Foundation
         All rights reserved. Reproduction and use rights are strictly limited.
@@ -8,7 +8,7 @@
         **********************
 -->
 <tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
-  <tp:identifier>http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-01-01/ifrs_sds</tp:identifier>
+  <tp:identifier>http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds</tp:identifier>
   <tp:name>The IFRS Sustainability Disclosure Taxonomy</tp:name>
   <tp:description>Proposed IFRS Sustainability Disclosure Taxonomy for public comment</tp:description>
   <tp:version>Proposed</tp:version>
@@ -16,17 +16,17 @@
   <tp:publisher>IFRS Foundation</tp:publisher>
   <tp:publisherURL>http://www.ifrs.org/</tp:publisherURL>
   <tp:publisherCountry>GB</tp:publisherCountry>
-  <tp:publicationDate>2024-01-01</tp:publicationDate>
+  <tp:publicationDate>2024-04-26</tp:publicationDate>
    <tp:entryPoints>
       <tp:entryPoint>
          <tp:name>IFRS Sustainable Disclosure Standards entry-point</tp:name>
          <tp:description>This is the entry point for the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
-         <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-01-01/ifrs_sds_2024-01-01.xsd"/>
+         <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds_2024-04-26.xsd"/>
       </tp:entryPoint>
       <tp:entryPoint>
          <tp:name>IFRS Sustainable Disclosure Standards essential entry-point</tp:name>
          <tp:description>This Entry Point is provided as a base from which regulators or preparers can build extensions to the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
-         <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-01-01/ifrs_sds_ext_2024-01-01.xsd"/>
+         <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds_ext_2024-04-26.xsd"/>
       </tp:entryPoint>
    </tp:entryPoints>
   <tp:versioningReports/>
