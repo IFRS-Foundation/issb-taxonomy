@@ -118,7 +118,7 @@
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityTopicsDomain" xlink:label="loc_61" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_61" xlink:to="loc_60" xlink:type="arc"/>
 
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityMetricSourcesDomain" xlink:label="loc_63" xlink:type="locator"/>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourcesOfGuidanceDomain" xlink:label="loc_63" xlink:type="locator"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_CDSBFrameworkApplicationGuidanceMember" xlink:label="loc_64" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_63" xlink:to="loc_64" xlink:type="arc"/>
          <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_EuropeanSustainabilityReportingStandardsMember" xlink:label="loc_65" xlink:type="locator"/>

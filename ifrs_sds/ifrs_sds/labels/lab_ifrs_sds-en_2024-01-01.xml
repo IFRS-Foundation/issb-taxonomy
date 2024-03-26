@@ -1259,8 +1259,8 @@
         <link:label id="ifrs-sds_SourceFromWhichMetricWasDrawn_label" xlink:label="res_664" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Source from which metric was drawn</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourceFromWhichMetricWasDrawn" xlink:label="loc_418" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_418" xlink:to="res_664" xlink:type="arc"/>
-        <link:label id="ifrs-sds_SustainabilityMetricSourcesDomain_label" xlink:label="res_665" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sustainability metric sources [domain]</link:label>
-        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SustainabilityMetricSourcesDomain" xlink:label="loc_419" xlink:type="locator"/>
+        <link:label id="ifrs-sds_SourcesOfGuidanceDomain_label" xlink:label="res_665" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">Sources of guidance [domain]</link:label>
+        <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SourcesOfGuidanceDomain" xlink:label="loc_419" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_419" xlink:to="res_665" xlink:type="arc"/>
         <link:label id="ifrs-sds_SASBStandardsMember_label" xlink:label="res_666" xlink:role="http://www.xbrl.org/2003/role/label" xlink:type="resource" xml:lang="en">SASB Standards [member]</link:label>
         <link:loc xlink:href="../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_SASBStandardsMember" xlink:label="loc_420" xlink:type="locator"/>
