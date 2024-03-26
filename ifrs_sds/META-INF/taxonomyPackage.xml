@@ -23,8 +23,6 @@
          <tp:description>This is the entry point for the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
          <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-01-01/ifrs_sds_2024-01-01.xsd"/>
       </tp:entryPoint>
-   </tp:entryPoints>
-      <tp:entryPoints>
       <tp:entryPoint>
          <tp:name>IFRS Sustainable Disclosure Standards essential entry-point</tp:name>
          <tp:description>This Entry Point is provided as a base from which regulators or preparers can build extensions to the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
