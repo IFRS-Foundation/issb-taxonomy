@@ -414,7 +414,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
-            <ref:Clause>i.2</ref:Clause>
+            <ref:Clause>i</ref:Clause>
+            <ref:Subclause>2</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimaterelatedScenarioAnalysisIncludedDiverseRangeOfClimaterelatedScenarios" xlink:label="loc_52" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_52" xlink:to="res_34" xlink:type="arc"/>
@@ -424,7 +425,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
-            <ref:Clause>i.3</ref:Clause>
+            <ref:Clause>i</ref:Clause>
+            <ref:Subclause>3</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimaterelatedScenariosUsedAreAssociatedWithClimaterelatedTransitionRisksOrClimaterelatedPhysicalRisks" xlink:label="loc_53" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_53" xlink:to="res_35" xlink:type="arc"/>
@@ -434,7 +436,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>22</ref:Paragraph>
             <ref:Subparagraph>b</ref:Subparagraph>
-            <ref:Clause>i.4</ref:Clause>
+            <ref:Clause>i</ref:Clause>
+            <ref:Subclause>4</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ClimaterelatedScenarioUsedThatIsAlignedWithLatestInternationalAgreementOnClimateChange" xlink:label="loc_54" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_54" xlink:to="res_36" xlink:type="arc"/>
@@ -528,7 +531,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>iv.1</ref:Clause>
+            <ref:Clause>iv</ref:Clause>
+            <ref:Subclause>1</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_ConsolidatedAccountingGroupMember" xlink:label="loc_68" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_68" xlink:to="res_45" xlink:type="arc"/>
@@ -538,7 +542,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>iv.2</ref:Clause>
+            <ref:Clause>iv</ref:Clause>
+            <ref:Subclause>2</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_OtherInvesteesExcludedFromConsolidatedAccountingGroupMember" xlink:label="loc_69" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_69" xlink:to="res_46" xlink:type="arc"/>
@@ -548,7 +553,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>i.1</ref:Clause>
+            <ref:Clause>i</ref:Clause>
+            <ref:Subclause>1</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope1GHGEmissions" xlink:label="loc_70" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_70" xlink:to="res_47" xlink:type="arc"/>
@@ -558,7 +564,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>i.2</ref:Clause>
+            <ref:Clause>i</ref:Clause>
+            <ref:Subclause>2</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossLocationbasedScope2GHGEmissions" xlink:label="loc_71" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_71" xlink:to="res_48" xlink:type="arc"/>
@@ -585,7 +592,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>i.3</ref:Clause>
+            <ref:Clause>i</ref:Clause>
+            <ref:Subclause>3</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_AbsoluteGrossScope3GHGEmissions" xlink:label="loc_73" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_73" xlink:to="res_51" xlink:type="arc"/>
@@ -645,7 +653,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>vi.1</ref:Clause>
+            <ref:Clause>vi</ref:Clause>
+            <ref:Subclause>1</ref:Subclause>
         </link:reference>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-01-01.xsd#ifrs-sds_DetailsOfInclusionWithinScope3GHGEmissionsExplanatory" xlink:label="loc_79" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_79" xlink:to="res_56" xlink:type="arc"/>
@@ -2677,7 +2686,8 @@
             <ref:IssueDate>2023-06-26</ref:IssueDate>
             <ref:Paragraph>29</ref:Paragraph>
             <ref:Subparagraph>a</ref:Subparagraph>
-            <ref:Clause>iii.2</ref:Clause>
+            <ref:Clause>iii</ref:Clause>
+            <ref:Subclause>2</ref:Subclause>
         </link:reference>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_925" xlink:to="res_925" xlink:type="arc"/>
         <link:reference xlink:label="res_926" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
