@@ -10,8 +10,8 @@
 <tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
   <tp:identifier>http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds</tp:identifier>
   <tp:name>The IFRS Sustainability Disclosure Taxonomy</tp:name>
-  <tp:description>Proposed IFRS Sustainability Disclosure Taxonomy for public comment</tp:description>
-  <tp:version>Proposed</tp:version>
+  <tp:description>IFRS Sustainability Disclosure Taxonomy 2024</tp:description>
+  <tp:version>2024 Final</tp:version>
   <tp:license href="http://go.ifrs.org/IFRSTterms/" name="The IFRS Taxonomy - Terms and Conditions"/>
   <tp:publisher>IFRS Foundation</tp:publisher>
   <tp:publisherURL>http://www.ifrs.org/</tp:publisherURL>
