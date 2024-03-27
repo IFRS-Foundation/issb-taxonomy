@@ -13,7 +13,7 @@
     <gen:link xlink:role="http://www.xbrl.org/2008/role/link" xlink:type="extended">
         <reference:reference xlink:label="res_1" xlink:role="http://www.xbrl.org/2008/role/reference" xlink:type="resource">
             <ref:Name>IFRS</ref:Name>
-            <ref:Number>S2IB</ref:Number>
+            <ref:Number>S2IBG</ref:Number>
             <ref:IssueDate>2023-01-21</ref:IssueDate>
         </reference:reference>
         <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-805100" xlink:label="loc_1" xlink:type="locator"/>
