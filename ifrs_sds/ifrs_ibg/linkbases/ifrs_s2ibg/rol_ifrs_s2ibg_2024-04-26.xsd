@@ -1180,7 +1180,7 @@
                 <link:usedOn>link:presentationLink</link:usedOn>
             </link:roleType>
             <link:roleType id="ifrs_s2ibg_2024-04-26_role-830301e" roleURI="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-04-26_role-830301e">
-                <link:definition>[830301e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</link:definition>
+                <link:definition>[830301e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Customers, number [table]</link:definition>
                 <link:usedOn>link:calculationLink</link:usedOn>
                 <link:usedOn>link:definitionLink</link:usedOn>
                 <link:usedOn>link:presentationLink</link:usedOn>
