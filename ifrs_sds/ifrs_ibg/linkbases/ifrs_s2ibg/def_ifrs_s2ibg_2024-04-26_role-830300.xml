@@ -11,6 +11,7 @@
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-04-26_role-830300b" xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300b" xlink:type="simple"/>
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-04-26_role-830300c" xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300c" xlink:type="simple"/>
     <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-04-26_role-830300d" xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300d" xlink:type="simple"/>
+    <link:roleRef roleURI="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-04-26_role-830300e" xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300e" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/all" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#all" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#hypercube-dimension" xlink:type="simple"/>
     <link:arcroleRef arcroleURI="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:href="http://www.xbrl.org/2005/xbrldt-2005.xsd#dimension-domain" xlink:type="simple"/>
@@ -75,4 +76,23 @@
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_7" xlink:type="arc"/>
     </link:definitionLink>
+    <link:definitionLink xlink:role="https://xbrl.ifrs.org/role/ifrs_ibg/ifrs_s2ibg_2024-04-26_role-830300e" xlink:type="extended">
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CustomersNumberTable" xlink:label="loc_2" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CustomersNumberAbstract" xlink:label="loc_1" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xbrldt:closed="true" xbrldt:contextElement="scenario" xlink:arcrole="http://xbrl.org/int/dim/arcrole/all" xlink:from="loc_1" xlink:to="loc_2" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CustomerTypeAxis" xlink:label="loc_3" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/hypercube-dimension" xlink:from="loc_2" xlink:to="loc_3" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CustomerTypeDomain" xlink:label="loc_4" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="loc_3" xlink:to="loc_4" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CommercialCustomersMember" xlink:label="loc_5" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_5" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CustomersNumber" xlink:label="loc_10" xlink:type="locator"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_CustomersNumberLineItems" xlink:label="loc_9" xlink:type="locator"/>
+        <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_9" xlink:to="loc_10" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_IndustrialCustomersMember" xlink:label="loc_6" xlink:type="locator"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_6" xlink:type="arc"/>
+        <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_9" xlink:type="arc"/>
+        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_ResidentialCustomersMember" xlink:label="loc_7" xlink:type="locator"/>
+        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_4" xlink:to="loc_7" xlink:type="arc"/>
+    </link:definitionLink>    
 </link:linkbase>

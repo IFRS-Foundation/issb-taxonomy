@@ -593,8 +593,8 @@
         <label:label xlink:label="res_196" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300d] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Pipelines, percentage inspected [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300d" xlink:label="loc_196" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_196" xlink:to="res_196" xlink:type="arc"/>
-        <label:label xlink:label="res_197" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830301e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Customers, number [table]</label:label>
-        <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830301e" xlink:label="loc_197" xlink:type="locator"/>
+        <label:label xlink:label="res_197" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830300e] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) - Customers, number [table]</label:label>
+        <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300e" xlink:label="loc_197" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-label" xlink:from="loc_197" xlink:to="res_197" xlink:type="arc"/>
         <label:label xlink:label="res_198" xlink:role="http://www.xbrl.org/2008/role/label" xlink:type="resource" xml:lang="en">[830301f] Industry Metrics - Infrastructure - Gas Utilities &amp; Distributors (IF-GU) (1) - Natural gas delivered, percentage [table]</label:label>
         <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830301f" xlink:label="loc_198" xlink:type="locator"/>

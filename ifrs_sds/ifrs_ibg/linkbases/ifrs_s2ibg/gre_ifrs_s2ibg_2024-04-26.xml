@@ -404,7 +404,7 @@
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_195" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300d" xlink:label="loc_196" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_196" xlink:to="res_1" xlink:type="arc"/>
-        <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830301e" xlink:label="loc_197" xlink:type="locator"/>
+        <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830300e" xlink:label="loc_197" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_197" xlink:to="res_1" xlink:type="arc"/>
         <link:loc xlink:href="rol_ifrs_s2ibg_2024-04-26.xsd#ifrs_s2ibg_2024-04-26_role-830301f" xlink:label="loc_198" xlink:type="locator"/>
         <gen:arc xlink:arcrole="http://xbrl.org/arcrole/2008/element-reference" xlink:from="loc_198" xlink:to="res_1" xlink:type="arc"/>
