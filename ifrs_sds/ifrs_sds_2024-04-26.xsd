@@ -205,6 +205,6 @@
     <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_sds/dimensions_2024-04-26" schemaLocation="ifrs_sds/dimensions/rol_ifrs_sds-dim_2024-04-26.xsd"/>
     <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s1_2024-04-26" schemaLocation="ifrs_sds/linkbases/ifrs_s1/rol_ifrs_s1_2024-04-26.xsd"/>
     <xsd:import namespace="https://xbrl.ifrs.org/role/ifrs_sds/rol_ifrs_s2_2024-04-26" schemaLocation="ifrs_sds/linkbases/ifrs_s2/rol_ifrs_s2_2024-04-26.xsd"/>
-    <xsd:import namespace="https://xbrl.ifrs.org/taxonomy/2024-04-26/ifrs-im" schemaLocation="ifrs_ibg/ifrs_ibg-cor_2024-04-26.xsd"/>
+    <xsd:import namespace="https://xbrl.ifrs.org/taxonomy/2024-04-26/ifrs-ibg" schemaLocation="ifrs_ibg/ifrs_ibg-cor_2024-04-26.xsd"/>
     <xsd:import namespace="https://xbrl.ifrs.org/taxonomy/2024-04-26/ifrs-sds" schemaLocation="ifrs_sds/ifrs_sds-cor_2024-04-26.xsd"/>
 </xsd:schema>
