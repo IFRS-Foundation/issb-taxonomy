@@ -19,12 +19,12 @@
   <tp:publicationDate>2024-04-26</tp:publicationDate>
    <tp:entryPoints>
       <tp:entryPoint>
-         <tp:name>IFRS Sustainable Disclosure Standards entry-point</tp:name>
+         <tp:name>IFRS Sustainability Disclosure Standards entry-point</tp:name>
          <tp:description>This is the entry point for the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
          <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds_2024-04-26.xsd"/>
       </tp:entryPoint>
       <tp:entryPoint>
-         <tp:name>IFRS Sustainable Disclosure Standards essential entry-point</tp:name>
+         <tp:name>IFRS Sustainability Disclosure Standards essential entry-point</tp:name>
          <tp:description>This Entry Point is provided as a base from which regulators or preparers can build extensions to the IFRS Sustainability Disclosure Taxonomy for IFRS Sustainability Disclosures.</tp:description>
          <tp:entryPointDocument href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds_ext_2024-04-26.xsd"/>
       </tp:entryPoint>
