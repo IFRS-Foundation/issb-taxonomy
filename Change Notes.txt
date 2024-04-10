@@ -17,14 +17,13 @@ Changes:
 * Removed terse labels that did not map to metric/sub-metric codes (eg CG-AA) 
 * Changed terse labels (many per element) to commentary references (comma separated list), the least inappropriate standard reference type.
 * Changed all references applied to abstract elements (members etc) to be simply "reference" type (rather than disclosure or example).
-* Split IM pres ELRs (830300 and 830800) into parts where the defs conflict with each other.
+* Split IM pres ELRs (830300 and 830800) into parts (830301 and 830801) where the defs conflict with each other.
 * Add TopicsCoveredByIntegratedGovernanceDisclosure, TopicsCoveredByIntegratedRiskManagementDisclosure, TopicsOfRiskOrOpportunity (S1 and S2)
 * Add 5 elements in S2 strategy and decision-making section, rearrange presentation
 * Add Start (and end) of reporting period in which climate-related scenario analysis was carried out
 * Add four additional elements for subparagraphs under IFRS S2.25(a)
 * Correct reference for Disclosure of approach entity uses to measure its greenhouse gas emissions [text block]
 * add additional reference ( S2.29(a)(iii)(1) ) to Measurement approach entity uses in calculating greenhouse gas emissions
-* add example monetary and percentage disclosures under S2 29(b)-(d)
 * add 'metric used to set target' and 'metrics used to monitor progress' categoricals, also three sub elements for value of target to S1 and S2.
 * add 'target has been revised' to disclosures of targets.
 * add 'planned use of carbon credits'
@@ -47,6 +46,17 @@ Changes:
 * add containing text element 'Statement of compliance with IFRS Sustainability Disclosure Standards' for 'Entity has made explicit and unreserved statement of compliance'
 * remove OtherAssetClassMember
 * made "GHGEmission target details [text block]" parent to S2.36 a-d categoricals, remove greenhouse gas emission targets [abstract]
+* Improve various labels 
+* Link enum domain linkbase into core schema file so that enum values should always be EE 2.0 valid.
+* Changed ifrs_im to ifrs_ibg to better align to the wording/naming of the Standards
+* Separate measurement approach info into two fields - one enum if you follow GHG, one text if you don't. Added specific field for 'Reason why measurement approach, inputs and assumptions used to measure GHG emissions chosen [text block]'
+* Add 'essentials' entry point similar to IFRS Accounting, to provide a sensible starting point for filer definition without having to start from just the core schema (so getting labels and refs etc.).
+* Add 'Sources of guidance applied in preparing sustainability-related financial disclosures'
+* Change appropriate elements (back) to instants. Everything seems to have accidentally become a duration element at some point.
+* Add subclause element to references where needed.
+
+
+
 
 __Proposed Taxonomy__
 Corrections to staff draft:
