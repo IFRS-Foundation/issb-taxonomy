@@ -3114,8 +3114,6 @@
         </link:reference>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_AnimalProteinAxis" xlink:label="loc_548" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_548" xlink:to="res_6102" xlink:type="arc"/>
-        <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_AnimalProteinAxis" xlink:label="loc_549" xlink:type="locator"/>
-        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_549" xlink:to="res_6102" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_AnimalProteinPercentageOutsourced" xlink:label="loc_550" xlink:type="locator"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_550" xlink:to="res_231" xlink:type="arc"/>
         <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_63" xlink:to="res_231" xlink:type="arc"/>
