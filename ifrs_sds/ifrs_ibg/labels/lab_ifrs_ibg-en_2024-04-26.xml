@@ -23,7 +23,7 @@
         <link:label id="ifrs-ibg_ProductsEligibleToCertificationToEnvironmentalProductLifecycleStandardPercentageCertified_measurementGuidance" xlink:label="res_110" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Percentage (%) by revenue [xbrli:pure]</link:label>
         <link:loc xlink:href="../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_ProductsEligibleToCertificationToEnvironmentalProductLifecycleStandardPercentageCertified" xlink:label="loc_86" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_86" xlink:to="res_110" xlink:type="arc"/>
-        <link:label id="ifrs-ibg_ProductionUnits_measurementGuidance" xlink:label="res_129" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number of units [pure]</link:label>
+        <link:label id="ifrs-ibg_ProductionUnits_measurementGuidance" xlink:label="res_129" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number of units [xbrli:pure]</link:label>
         <link:loc xlink:href="../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_ProductionUnits" xlink:label="loc_98" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_98" xlink:to="res_129" xlink:type="arc"/>
         <link:label id="ifrs-ibg_EnergyConsumed_measurementGuidance" xlink:label="res_139" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Gigajoules (GJ) [utr:GJ]</link:label>
@@ -611,7 +611,7 @@
         <link:label id="ifrs-ibg_HomesCertifiedResidentialEnergyEfficiencyRatingNumberThatObtained_measurementGuidance" xlink:label="res_2456" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Number [xbrli:pure]</link:label>
         <link:loc xlink:href="../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_HomesCertifiedResidentialEnergyEfficiencyRatingNumberThatObtained" xlink:label="loc_1323" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1323" xlink:to="res_2456" xlink:type="arc"/>
-        <link:label id="ifrs-ibg_HomesCertifiedResidentialEnergyEfficiencyRatingAverage_measurementGuidance" xlink:label="res_2459" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Rating [pure]</link:label>
+        <link:label id="ifrs-ibg_HomesCertifiedResidentialEnergyEfficiencyRatingAverage_measurementGuidance" xlink:label="res_2459" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Rating [xbrli:pure]</link:label>
         <link:loc xlink:href="../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_HomesCertifiedResidentialEnergyEfficiencyRatingAverage" xlink:label="loc_1324" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_1324" xlink:to="res_2459" xlink:type="arc"/>
         <link:label id="ifrs-ibg_WaterFixturesCertifiedToWaterEfficiencyStandardPercentage_measurementGuidance" xlink:label="res_2466" xlink:role="http://www.xbrl.org/2003/role/measurementGuidance" xlink:type="resource" xml:lang="en">Percentage (%) [xbrli:pure]</link:label>
