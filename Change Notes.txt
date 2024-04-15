@@ -54,7 +54,7 @@ Changes:
 * Add 'Sources of guidance applied in preparing sustainability-related financial disclosures'
 * Change appropriate elements (back) to instants. Everything seems to have accidentally become a duration element at some point.
 * Add subclause element to references where needed.
-
+* Add xbrl type hints in square brackets (for example '[utr:m3]') to the measurement guidance labels.
 
 
 
