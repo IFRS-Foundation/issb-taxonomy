@@ -4,7 +4,7 @@ import sys
 from arelle import ModelXbrl, ModelManager, Cntlr, Validate, FileSource
 from arelle.PackageManager import parsePackage
 
-path = r'C:\Users\ojones\IFRS Foundation\Taxonomy - Documents\Sustainability\7. Final Taxonomy\Taxonomy\2024-04-11_RC\ifrs_sds_2024-04-26.zip'
+path = r'../ifrs_sds.zip'
 
 
 class TestTaxonomyPackage():

@@ -25,10 +25,10 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f CI\requirements.txt ]; then pip install -r CI\requirements.txt; fi
+        pip install -r CI/requirements.txt
     - name: Test package entrypoints with arelle
       run: |
         zip -r ifrs_sds.zip ifrs_sds
     - name: Test package entrypoints with Arelle
       run: |
-        python -u CI\Test_Taxonomy_Pacakge.py ..\ifrs_sds.zip
+        python -u CI/Test_Taxonomy_Package.py ../ifrs_sds.zip
