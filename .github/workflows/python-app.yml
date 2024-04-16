@@ -25,6 +25,7 @@ jobs:
         cache: 'pip' # caching pip dependencies
     - name: Install dependencies
       run: |
+        pip install .ci/arelle_release-2.25.9-py3-none-any.whl
         pip install --find-links .ci/ -r .ci/requirements.txt
     - name: Create taxonomy package
       run: |
