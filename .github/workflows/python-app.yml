@@ -26,9 +26,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r CI/requirements.txt
-    - name: Test package entrypoints with arelle
+    - name: Create taxonomy package
       run: |
         zip -r ifrs_sds.zip ifrs_sds
     - name: Test package entrypoints with Arelle
       run: |
-        python -u CI/Test_Taxonomy_Package.py ../ifrs_sds.zip
+        python -u CI/Test_Taxonomy_Package.py ifrs_sds.zip
