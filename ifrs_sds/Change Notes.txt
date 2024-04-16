@@ -1,4 +1,8 @@
-__Final Taxonomy__
+__Final Taxonomy (2024 Annual)__
+
+Points of interest:
+* "Sustainability metrics [domain]" is intended to include all the possible reportable metrics from both the main body of the Standards (sds entry point) and the Industry based guidance (ibg entry point). The members of this domain are therefore of non asbtract xbrli:item, rather than domainItemType. Filers are expected to include any additional reported items they need to disclose structured meta data under S1 or S2 into this domain (to be used with the appropriate disclosure table structures).
+* "Essential" entry point is intended as a suitable base for building filer taxonomies. Includes labels and references for end-user information, defintions of extensible enum domains and dimension defaults for reporting consistency, but omits the other ISSB presentation and definition structures that are primarily for understanding of the taxonomy rather than necessarily reporting.
 
 Corrections:
 * Typo in the documentation of all dimensions. Should have been “[...] An axis of a table defines the nature of the relationship _between_ the" (Corporatings)
