@@ -1,6 +1,6 @@
 wheel~=0.38.4
 anytree~=2.9.0
-https://github.com/Arelle/Arelle/releases/download/2.25.9/arelle_release-2.25.9-py3-none-any.whl
+arelle==2.25.9
 # arelle core modules
 certifi==2024.2.2
 lxml==5.2.1
