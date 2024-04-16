@@ -21,6 +21,8 @@ class TestTaxonomyPackage():
                         self.readEntryPoints(filesource)
                         for name, urls in sorted(self.taxonomyPackage["entryPoints"].items(), key=lambda i: i[0][2]):
                             self.validate_entry_point_from_package(filesource, name, urls)
+                        return
+        raise IOError("File is not taxonomy package")
 
     def readEntryPoints(self, filesource:FileSource):
         metadataFiles = filesource.taxonomyPackageMetadataFiles
