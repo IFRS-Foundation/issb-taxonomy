@@ -3,7 +3,7 @@
         ********************** 
         Copyright (c) 2024 IFRS Foundation
         All rights reserved. Reproduction and use rights are strictly limited.
-        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to https://www.ifrs.org/legal/terms-and-conditions/.
         The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
         **********************
 --><xsd:schema elementFormDefault="qualified" targetNamespace="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds" xmlns:combined_entry_point="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds" xmlns:ifrs-sds="https://xbrl.ifrs.org/taxonomy/2023-04-04/ifrs-sds" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
