@@ -1,6 +1,6 @@
 wheel~=0.38.4
 anytree~=2.9.0
-arelle==2.25.9
+arelle-release==2.25.9
 # arelle core modules
 certifi==2024.2.2
 lxml==5.2.1
