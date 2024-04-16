@@ -70,7 +70,6 @@
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_52" xlink:to="loc_54" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MediumTermMember" xlink:label="loc_58" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_56" xlink:to="loc_58" xlink:type="arc"/>
-        <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_7" xlink:to="loc_10" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_NitrousOxideN2OMember" xlink:label="loc_13" xlink:type="locator"/>
         <link:definitionArc order="30.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_10" xlink:to="loc_13" xlink:type="arc"/>
         <link:loc xlink:href="../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_Scope3GHGEmissionsMember" xlink:label="loc_24" xlink:type="locator"/>
