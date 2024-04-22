@@ -167,12 +167,7 @@
         <link:label id="ifrs-ibg_WoodFibreMaterialsPurchasedPercentageFromThirdpartyCertifiedForestlands_documentation" xlink:label="res_53" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Percentage of weight of wood fibre materials purchased from third-party certified forestlands.</link:label>
         <link:loc xlink:href="../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_WoodFibreMaterialsPurchasedPercentageFromThirdpartyCertifiedForestlands" xlink:label="loc_53" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_53" xlink:to="res_53" xlink:type="arc"/>
-        <link:label id="ifrs-ibg_ThirdpartyForestManagementStandardAxis_documentation" xlink:label="res_54" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Third-party forest management standards are those certifying forests are
-harvested in a sustainable manner and ensuring adherence to
-environmental and social criteria including legal compliance, land rights,
-community and worker relations, environmental impact and biodiversity,
-forest management plans and practices, land use, wildlife habitat
-conservation and water conservation, among others.</link:label>
+        <link:label id="ifrs-ibg_ThirdpartyForestManagementStandardAxis_documentation" xlink:label="res_54" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Third-party forest management standards are those certifying forests are harvested in a sustainable manner and ensuring adherence to environmental and social criteria including legal compliance, land rights, community and worker relations, environmental impact and biodiversity, forest management plans and practices, land use, wildlife habitat conservation and water conservation, among others.</link:label>
         <link:loc xlink:href="../ifrs_ibg-cor_2024-04-26.xsd#ifrs-ibg_ThirdpartyForestManagementStandardAxis" xlink:label="loc_54" xlink:type="locator"/>
         <link:labelArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="loc_54" xlink:to="res_54" xlink:type="arc"/>
         <link:label id="ifrs-ibg_WoodFibreMaterialsPurchasedPercentageFromThirdpartyCertifiedForestlandsLineItems_documentation" xlink:label="res_55" xlink:role="http://www.xbrl.org/2003/role/documentation" xlink:type="resource" xml:lang="en">Line items represent ESG concepts included in a table. These concepts are used to disclose reportable information associated with domain members defined in one or many axes to the table.</link:label>
