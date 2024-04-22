@@ -263,9 +263,8 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_RiskManagementOfRisksAndOpportunitiesLineItems" xlink:label="loc_5" xlink:type="locator"/>
 
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_1" xlink:to="loc_5" xlink:type="arc"/>
-        
+
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_ProcessesAndRelatedPoliciesToIdentifyAssessPrioritiseAndMonitorRisksExplanatory" xlink:label="loc_76" xlink:type="locator"/>
-        <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_RiskManagementAbstract" xlink:label="loc_75" xlink:type="locator"/>
         <link:definitionArc order="10.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_5" xlink:to="loc_76" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_WhetherAndHowScenarioAnalysisUsedToInformIdentificationOfRisksExplanatory" xlink:label="loc_77" xlink:type="locator"/>
         <link:definitionArc order="20.0" xlink:arcrole="http://xbrl.org/int/dim/arcrole/domain-member" xlink:from="loc_76" xlink:to="loc_77" xlink:type="arc"/>
