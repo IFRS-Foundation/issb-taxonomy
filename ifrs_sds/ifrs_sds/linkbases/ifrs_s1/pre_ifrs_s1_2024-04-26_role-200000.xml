@@ -106,7 +106,7 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_73" xlink:to="loc_74" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsDevelopedByEntityAbstract" xlink:label="loc_79" xlink:type="locator"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsAndTargetsAbstract" xlink:label="loc_78" xlink:type="locator"/>
-        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_79" xlink:type="arc"/>
+        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_79" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsDevelopedByEntityTable" xlink:label="loc_80" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_79" xlink:to="loc_80" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsAxis" xlink:label="loc_81" xlink:type="locator"/>
@@ -211,7 +211,7 @@
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_79" xlink:to="loc_83" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricMeasureType" xlink:label="loc_86" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_86" xlink:type="arc"/>
-        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_91" xlink:type="arc"/>
+        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_91" xlink:type="arc"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_91" xlink:to="loc_95" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_DescriptionOfSpecificQuantitativeOrQualitativeTargetSetOrRequiredToMeetExplanatory" xlink:label="loc_97" xlink:type="locator"/>
         <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_97" xlink:type="arc"/>
@@ -243,7 +243,7 @@
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_83" xlink:to="loc_87" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_PeriodOverWhichTargetApplies" xlink:label="loc_98" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_98" xlink:type="arc"/>
-        <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_103" xlink:type="arc"/>
+        <link:presentationArc order="50.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_103" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_FinancialStatementsToWhichSustainabilityrelatedFinancialDisclosuresRelate" xlink:label="loc_111" xlink:type="locator"/>
         <link:presentationArc order="30.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_111" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_InformationAboutSignificantDifferencesBetweenDataAndAssumptionsUsedPreparingSustainabilityrelatedFinancialDisclosuresAndRelatedFinancialStatementsExplanatory" xlink:label="loc_125" xlink:type="locator"/>
@@ -261,7 +261,7 @@
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_BasePeriodFromWhichProgressForTargetIsMeasured" xlink:label="loc_99" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_95" xlink:to="loc_99" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_OtherDisclosuresAboutPerformanceInRelationToRisksAndOpportunitiesExplanatory" xlink:label="loc_107" xlink:type="locator"/>
-        <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_107" xlink:type="arc"/>
+        <link:presentationArc order="60.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_107" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_DateOfStartOfReportingPeriod" xlink:label="loc_112" xlink:type="locator"/>
         <link:presentationArc order="40.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_108" xlink:to="loc_112" xlink:type="arc"/>
 
@@ -311,7 +311,7 @@
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_174" xlink:to="loc_175" xlink:type="arc"/>
 
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsForRisksAndOpportunitiesAbstract" xlink:label="loc_203" xlink:type="locator"/>
-        <link:presentationArc order="5.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_203" xlink:type="arc"/>
+        <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_203" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsForRisksAndOpportunitiesTable" xlink:label="loc_204" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_203" xlink:to="loc_204" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_RisksAndOpportunitiesAxis" xlink:label="loc_205" xlink:type="locator"/>
@@ -323,7 +323,7 @@
 
 
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SourceOfMetricsOtherThanIFRSStandardsAbstract" xlink:label="loc_215" xlink:type="locator"/>
-        <link:presentationArc order="5.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_215" xlink:type="arc"/>
+        <link:presentationArc order="20.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_78" xlink:to="loc_215" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SourceOfMetricsOtherThanIFRSStandardsTable" xlink:label="loc_216" xlink:type="locator"/>
         <link:presentationArc order="10.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_215" xlink:to="loc_216" xlink:type="arc"/>
         <link:loc xlink:href="../../ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsAxis" xlink:label="loc_217" xlink:type="locator"/>
