@@ -1,0 +1,16 @@
+<!--
+        Taxonomy: 2024-04-26 (Proposed)
+        ********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><xsd:schema elementFormDefault="qualified" targetNamespace="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/combined_entry_point" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+    <!--Baseline ISSB Taxonomy -->
+    <xsd:import namespace="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds" schemaLocation="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds_2024-04-26.xsd"/>
+    <!--Top-up jurisdictional requirements -->
+    <xsd:import namespace="https://xbrl.ifrs.org/taxonomy/2024-04-26/ifrs-im" schemaLocation="top_up_2023-09-08.xsd"/>
+
+</xsd:schema>

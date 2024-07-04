@@ -1,0 +1,18 @@
+<!--
+        Taxonomy: 2024-04-26 (Final)
+        ********************** 
+        Copyright (c) 2024 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to https://www.ifrs.org/legal/terms-and-conditions/.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><xsd:schema elementFormDefault="qualified" targetNamespace="https://xbrl.yy/taxonomy/republisher_sustainablity_standards/2024-04-26/republisher_2024-04-26.xsd"  xmlns:ifrs-sds="https://xbrl.ifrs.org/taxonomy/2023-04-04/ifrs-sds" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <xsd:annotation>
+        <xsd:appinfo>
+            <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="republisher/linkbases/partA/ref_partA_2024-04-26.xml" xlink:role="http://www.xbrl.org/2003/role/referenceLinkbaseRef" xlink:type="simple"/>
+            <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="republisher/linkbases/partB/ref_partB_2024-04-26.xml" xlink:role="http://www.xbrl.org/2003/role/referenceLinkbaseRef" xlink:type="simple"/>
+            <link:linkbaseRef xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" xlink:href="republisher/linkbases/partC/ref_partC_2024-04-26.xml" xlink:role="http://www.xbrl.org/2003/role/referenceLinkbaseRef" xlink:type="simple"/>
+        </xsd:appinfo>
+    </xsd:annotation>
+    <xsd:import namespace="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds" schemaLocation="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds_2024-04-26.xsd"/>
+</xsd:schema>

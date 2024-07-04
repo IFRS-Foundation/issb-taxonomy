@@ -1,0 +1,28 @@
+<!--
+        Taxonomy: 2023-07-27 (Proposed)
+        ********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><xsd:schema elementFormDefault="qualified" targetNamespace="https://xbrl.zz/taxonomy/utopia_sustainablity_standards/2023-09-08/top_up" xmlns:combined_entry_point="http://xbrl.ifrs.org/taxonomy/ifrs_sds/2023-07-27/ifrs_sds/ifrs_sds_entry_point" xmlns:ifrs-sds="https://xbrl.ifrs.org/taxonomy/2023-04-04/ifrs-sds" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <xsd:annotation>
+        <xsd:appinfo>
+
+        </xsd:appinfo>
+    </xsd:annotation>
+    <xsd:import namespace="http://www.w3.org/1999/xlink" schemaLocation="http://www.xbrl.org/2003/xlink-2003-12-31.xsd"/>
+    <xsd:import namespace="http://www.xbrl.org/2003/XLink" schemaLocation="http://www.xbrl.org/2003/xl-2003-12-31.xsd"/>
+    <xsd:import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
+    <xsd:import namespace="http://www.xbrl.org/2003/linkbase" schemaLocation="http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd"/>
+    <xsd:import namespace="http://www.xbrl.org/dtr/type/2022-03-31" schemaLocation="https://www.xbrl.org/dtr/type/2022-03-31/types.xsd"/>
+    <xsd:import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd"/>
+    <xsd:import namespace="http://xbrl.org/2008/generic" schemaLocation="http://www.xbrl.org/2008/generic-link.xsd"/>
+    <xsd:import namespace="http://xbrl.org/2008/label" schemaLocation="http://www.xbrl.org/2008/generic-label.xsd"/>
+    <xsd:import namespace="http://xbrl.org/2008/reference" schemaLocation="http://www.xbrl.org/2008/generic-reference.xsd"/>
+    <xsd:import namespace="http://xbrl.org/2020/extensible-enumerations-2.0" schemaLocation="https://www.xbrl.org/2020/extensible-enumerations-2.0.xsd"/>
+
+
+
+</xsd:schema>

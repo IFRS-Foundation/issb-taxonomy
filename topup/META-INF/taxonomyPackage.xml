@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+        Taxonomy: 2023-07-27 (Proposed)
+        ********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'Interjurisdictional Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+-->
+<tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
+  <tp:identifier>https://xbrl.zz/taxonomy/utopia_sustainablity_standards/2023-09-08</tp:identifier>
+  <tp:name>The Utopia Jurisdictional Sustainability Disclosure Taxonomy</tp:name>
+  <tp:description>Example jurisdictional top-up taxonomy for the IFRS Sustainable Disclosure Standards</tp:description>
+  <tp:version>Proposed</tp:version>
+  <tp:license href="http://go.ifrs.org/IFRSTterms/" name="The IFRS Taxonomy - Terms and Conditions"/>
+  <tp:publisher>IFRS Foundation</tp:publisher>
+  <tp:publisherURL>http://www.ifrs.org/</tp:publisherURL>
+  <tp:publisherCountry>GB</tp:publisherCountry>
+  <tp:publicationDate>2023-09-08</tp:publicationDate>
+   <tp:entryPoints>
+      <tp:entryPoint>
+         <tp:name>Combined entry-point for reporting Utopia jurisdictional Sustainability Disclosure Standards</tp:name>
+         <tp:description>This is the entry point for reporting under Utopia jurisdictional Sustainability Disclosure Standards.</tp:description>
+         <tp:entryPointDocument href="https://xbrl.zz/taxonomy/utopia_sustainablity_standards/2023-09-08/reporting_2023-09-08.xsd"/>
+      </tp:entryPoint>
+      <tp:entryPoint>
+         <tp:name>Utopia jurisdictional Sustainability Disclosure Standards entry-point</tp:name>
+         <tp:description>This is the entry point for viewing only the Utopia jurisdictional Sustainability Disclosure Standards top-up elements.</tp:description>
+         <tp:entryPointDocument href="https://xbrl.zz/taxonomy/utopia_sustainablity_standards/2023-09-08/top_up_2023-09-08.xsd"/>
+      </tp:entryPoint>
+   </tp:entryPoints>
+  <tp:versioningReports/>
+</tp:taxonomyPackage>

@@ -1,0 +1,329 @@
+<!--
+        Taxonomy: 2024-04-26 (Final)
+        ********************** 
+        Copyright (c) 2024 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to https://www.ifrs.org/legal/terms-and-conditions/.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'International Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+--><link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:ref="http://www.xbrl.org/2006/ref" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2006/ref http://www.xbrl.org/2006/ref-2006-02-27.xsd http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+    <link:referenceLink xlink:role="http://www.xbrl.org/2003/role/link" xlink:type="extended">
+        <link:reference xlink:label="res_57" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>59</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosuresExplanatory" xlink:label="loc_80" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_80" xlink:to="res_57" xlink:type="arc"/>
+        <link:reference xlink:label="res_58" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>59</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IndustrysAppliedInPreparingSustainabilityrelatedFinancialDisclosuresExplanatory" xlink:label="loc_81" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_81" xlink:to="res_58" xlink:type="arc"/>
+        <link:reference xlink:label="res_59" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>22</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_FinancialStatementsToWhichSustainabilityrelatedFinancialDisclosuresRelate" xlink:label="loc_82" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_82" xlink:to="res_59" xlink:type="arc"/>
+        <link:reference xlink:label="res_60" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>66</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_DateOfStartOfReportingPeriod" xlink:label="loc_83" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_83" xlink:to="res_60" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_DateOfEndOfReportingPeriod" xlink:label="loc_84" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_84" xlink:to="res_60" xlink:type="arc"/>
+        <link:reference xlink:label="res_61" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>66</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_ReasonForUsingReportingPeriodLongerOrShorterThan12MonthsExplanatory" xlink:label="loc_85" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_85" xlink:to="res_61" xlink:type="arc"/>
+        <link:reference xlink:label="res_62" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>66</ref:Paragraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_AmountsDisclosedInSustainabilityrelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_86" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_86" xlink:to="res_62" xlink:type="arc"/>
+        <link:reference xlink:label="res_63" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>68</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_InformationAboutTransactionsOtherEventsAndConditionsThatOccurAfterEndOfReportingPeriodButBeforeDateOnWhichSustainabilityrelatedFinancialDisclosuresAreAuthorisedForIssueExplanatory" xlink:label="loc_87" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_87" xlink:to="res_63" xlink:type="arc"/>
+        <link:reference xlink:label="res_64" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>72</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_EntityMadeExplicitAndUnreservedStatementOfCompliance" xlink:label="loc_88" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_88" xlink:to="res_64" xlink:type="arc"/>
+        <link:reference xlink:label="res_65" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>74</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_InformationAboutJudgementsApartFromThoseInvolvingEstimationsOfAmountsExplanatory" xlink:label="loc_89" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_89" xlink:to="res_65" xlink:type="arc"/>
+        <link:reference xlink:label="res_66" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>78</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SourcesOfMeasurementUncertaintyAndAssumptionsApproximationsAndJudgementsMadeInMeasuringAmountsSubjectToHighLevelOfMeasurementUncertaintyExplanatory" xlink:label="loc_90" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_90" xlink:to="res_66" xlink:type="arc"/>
+        <link:reference xlink:label="res_67" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B33</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TypeOfMaterialInformationNotDisclosedDueToProhibitionOfDisclosureAndExplanationOfSourceOfRestrictionExplanatory" xlink:label="loc_91" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_91" xlink:to="res_67" xlink:type="arc"/>
+        <link:reference xlink:label="res_68" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B36</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_FactThatExemptionTakenPermittingEntityToOmitCommerciallySensitiveInformationAboutOpportunityExplanatory" xlink:label="loc_92" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_92" xlink:to="res_68" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_ExemptionTakenPermittingEntityToOmitCommerciallySensitiveInformationAboutOpportunity" xlink:label="loc_93" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_93" xlink:to="res_68" xlink:type="arc"/>
+        <link:reference xlink:label="res_69" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B42</ref:Paragraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_InformationAboutSignificantDifferencesBetweenDataAndAssumptionsUsedPreparingSustainabilityrelatedFinancialDisclosuresAndRelatedFinancialStatementsExplanatory" xlink:label="loc_94" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_94" xlink:to="res_69" xlink:type="arc"/>
+        <link:reference xlink:label="res_70" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B50</ref:Paragraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_ReasonsForRevisingComparativeAmountDisclosedThatReflectsNewInformationInRelationToEstimatedAmountDisclosedInPrecedingPeriodExplanatory" xlink:label="loc_95" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_95" xlink:to="res_70" xlink:type="arc"/>
+        <link:reference xlink:label="res_71" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B54</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_ImpracticableToReviseComparativeAmountForPrecedingPeriodExplanatory" xlink:label="loc_96" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_96" xlink:to="res_71" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_RevisionOfComparativeAmountOfMetricForPrecedingPeriodIsImpracticable" xlink:label="loc_97" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_97" xlink:to="res_71" xlink:type="arc"/>
+        <link:reference xlink:label="res_72" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B58</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_DescriptionOfNatureOfErrorsInPriorPeriodsExplanatory" xlink:label="loc_98" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_98" xlink:to="res_72" xlink:type="arc"/>
+        <link:reference xlink:label="res_73" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B58</ref:Paragraph>
+            <ref:Subparagraph>c</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_CircumstancesThatLedToExistenceOfPriorPeriodErrorsThatAreImpracticableToCorrectAndDescriptionOfHowAndFromWhenErrorsHaveBeenCorrectedExplanatory" xlink:label="loc_99" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_99" xlink:to="res_73" xlink:type="arc"/>
+        <link:reference xlink:label="res_74" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>E1</ref:Paragraph>
+        </link:reference>
+        <link:reference xlink:label="res_435" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>E1</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_EarlyApplicationOfNewOrAmendedIFRSSustainabilityStandardTable" xlink:label="loc_100" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_100" xlink:to="res_435" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IFRSSustainabilityDisclosureStandardsAxis" xlink:label="loc_101" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_101" xlink:to="res_435" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IFRSSustainabilityDisclosureStandardsDomain" xlink:label="loc_102" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_102" xlink:to="res_435" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_GeneralRequirementsForDisclosureOfSustainabilityrelatedFinancialInformationMember" xlink:label="loc_103" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_103" xlink:to="res_435" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_NewOrAmendedIFRSSustainabilityDisclosureStandardIsAppliedEarly" xlink:label="loc_104" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_104" xlink:to="res_74" xlink:type="arc"/>
+        <link:reference xlink:label="res_75" xlink:role="http://www.xbrl.org/2003/role/disclosureRef" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>E5</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TransitionReliefTakenPermittingDisclosureOnOnlyClimaterelatedRisksAndOpportunitiesExplanatory" xlink:label="loc_105" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_105" xlink:to="res_75" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TransitionReliefUsedPermittingDisclosureOnOnlyClimaterelatedRisksAndOpportunities" xlink:label="loc_106" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_106" xlink:to="res_75" xlink:type="arc"/>
+        <link:reference xlink:label="res_76" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B52</ref:Paragraph>
+            <ref:Subparagraph>a</ref:Subparagraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_RetrospectiveApplicationAndRetrospectiveRestatementAxis" xlink:label="loc_107" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_76" xlink:type="arc"/>
+        <link:reference xlink:label="res_77" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B50</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_77" xlink:type="arc"/>
+        <link:reference xlink:label="res_78" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B58</ref:Paragraph>
+            <ref:Subparagraph>b</ref:Subparagraph>
+        </link:reference>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_107" xlink:to="res_78" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_CurrentlyStatedMember" xlink:label="loc_108" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_76" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_108" xlink:to="res_77" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_PreviouslyStatedMember" xlink:label="loc_109" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_109" xlink:to="res_76" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_109" xlink:to="res_77" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IncreaseDecreaseDueToRetrospectiveApplicationOrRetrospectiveRestatementMember" xlink:label="loc_110" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_76" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_77" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_110" xlink:to="res_78" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IncreaseDecreaseDueToRedefinitionOrReplacementOfMetricMember" xlink:label="loc_111" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_111" xlink:to="res_76" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IncreaseDecreaseDueToChangesInEstimatesMember" xlink:label="loc_112" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_112" xlink:to="res_77" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_IncreaseDecreaseDueToCorrectionsOfPriorPeriodErrorsMember" xlink:label="loc_113" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_113" xlink:to="res_78" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_114" xlink:to="res_392" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_RangesDomain" xlink:label="loc_115" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_115" xlink:to="res_392" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_BottomOfRangeMember" xlink:label="loc_116" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_116" xlink:to="res_392" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TopOfRangeMember" xlink:label="loc_117" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_117" xlink:to="res_392" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SustainabilityrelatedMetricMeasureTypeDomain" xlink:label="loc_141" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_141" xlink:to="res_401" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_AbsoluteMeasureMember" xlink:label="loc_142" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_142" xlink:to="res_401" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MeasureExpressedInRelationToAnotherMetricMember" xlink:label="loc_143" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_143" xlink:to="res_401" xlink:type="arc"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_QualitativeMeasureMember" xlink:label="loc_144" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_144" xlink:to="res_401" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_25" xlink:to="res_374" xlink:type="arc"/>
+        
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SustainabilityTopicsDomain" xlink:label="loc_774" xlink:type="locator"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_ClimateTopicMember" xlink:label="loc_775" xlink:type="locator"/>
+     
+             
+        <link:reference xlink:label="res_920" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>C2</ref:Paragraph>        
+            <ref:Subparagraph>a</ref:Subparagraph>      
+        </link:reference> 
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_GlobalReportingInitiativeStandardsMember" xlink:label="loc_422" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_422" xlink:to="res_920" xlink:type="arc"/> 
+        <link:reference xlink:label="res_921" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>C2</ref:Paragraph>        
+            <ref:Subparagraph>b</ref:Subparagraph>      
+        </link:reference> 
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_EuropeanSustainabilityReportingStandardsMember" xlink:label="loc_423" xlink:type="locator"/>  
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_423" xlink:to="res_921" xlink:type="arc"/> 
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricValueText" xlink:label="loc_425" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_425" xlink:to="res_912" xlink:type="arc"/> 
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricValueNumeric" xlink:label="loc_426" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_426" xlink:to="res_912" xlink:type="arc"/> 
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricValuePercentage" xlink:label="loc_427" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_427" xlink:to="res_912" xlink:type="arc"/> 
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricUsedToSetTarget" xlink:label="loc_428" xlink:type="locator"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_MetricsUsedToMonitorProgress" xlink:label="loc_429" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_428" xlink:to="res_45" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_429" xlink:to="res_45" xlink:type="arc"/>
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TargetValueText" xlink:label="loc_430" xlink:type="locator"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TargetValueNumeric" xlink:label="loc_431" xlink:type="locator"/>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TargetValuePercentage" xlink:label="loc_432" xlink:type="locator"/>
+
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_430" xlink:to="res_46" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_431" xlink:to="res_46" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_432" xlink:to="res_46" xlink:type="arc"/>
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_TargetHasBeenRevised" xlink:label="loc_433" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_433" xlink:to="res_51" xlink:type="arc"/>
+
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SustainabilityResilienceTable" xlink:label="loc_435" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_435" xlink:to="res_392" xlink:type="arc"/> 
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_2" xlink:to="res_392" xlink:type="arc"/>  
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_3" xlink:to="res_392" xlink:type="arc"/>  
+
+        <link:reference xlink:label="res_929" xlink:role="http://www.xbrl.org/2003/role/reference" xlink:type="resource">
+            <ref:Name>Republisher Standards</ref:Name>
+            <ref:Number>Part A - Fundamental Matters</ref:Number>
+            <ref:IssueDate>2023-06-26</ref:IssueDate>
+            <ref:Paragraph>B54</ref:Paragraph>
+        </link:reference>
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_EffectsOfRisksAndOpportunitiesOnStrategyAndDecisionmakingTable" xlink:label="loc_436" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_436" xlink:to="res_929" xlink:type="arc"/>  
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_58" xlink:to="res_929" xlink:type="arc"/>  
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_59" xlink:to="res_929" xlink:type="arc"/>  
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_FactThatAmountsDisclosedInSustainabilityRelatedFinancialDisclosuresAreNotEntirelyComparableDueToChangeInLengthOfReportingPeriod" xlink:label="loc_437" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_437" xlink:to="res_62" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_437" xlink:to="res_318" xlink:type="arc"/>
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_StatementOfComplianceWithIFRSSustainabilityDisclosureStandards" xlink:label="loc_438" xlink:type="locator"/>        
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_438" xlink:to="res_64" xlink:type="arc"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_438" xlink:to="res_322" xlink:type="arc"/>
+        
+        
+        <link:loc xlink:href="https://xbrl.ifrs.org/taxonomy/ifrs_sds/2024-04-26/ifrs_sds/ifrs_sds-cor_2024-04-26.xsd#ifrs-sds_SourcesOfGuidanceAppliedInPreparingSustainabilityrelatedFinancialDisclosures" xlink:label="loc_439" xlink:type="locator"/>
+        <link:referenceArc xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-reference" xlink:from="loc_439" xlink:to="res_57" xlink:type="arc"/>
+        
+    </link:referenceLink>
+</link:linkbase>

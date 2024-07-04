@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+        Taxonomy: 2023-07-27 (Proposed)
+        ********************** 
+        Copyright (c) 2023 IFRS Foundation
+        All rights reserved. Reproduction and use rights are strictly limited.
+        For more information on the IFRS Foundation's copyright and the terms and conditions of use for these files, please refer to http://go.ifrs.org/IFRSTterms.
+        The IFRS Foundation has trade marks registered around the world (Marks) including 'ISSB', the ISSB logo, 'IFRIC', 'IFRS', the IFRS logo, the 'Hexagon Device', and 'Interjurisdictional Sustainability Disclosure Standards'. Further details of the IFRS Foundation's Marks are available from the IFRS Foundation on request.
+        **********************
+-->
+<tp:taxonomyPackage xml:lang="en" xmlns:tp="http://xbrl.org/2016/taxonomy-package" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.org/2016/taxonomy-package http://www.xbrl.org/2016/taxonomy-package.xsd">
+  <tp:identifier>https://xbrl.yy/taxonomy/republisher_sustainablity_standards/2024-04-26/</tp:identifier>
+  <tp:name>The Republisher Jurisdictional Sustainability Disclosure Taxonomy</tp:name>
+  <tp:description>Example jurisdictional add-on taxonomy for the IFRS Sustainable Disclosure Standards</tp:description>
+  <tp:version>Proposed</tp:version>
+  <tp:license href="http://go.ifrs.org/IFRSTterms/" name="The IFRS Taxonomy - Terms and Conditions"/>
+  <tp:publisher>IFRS Foundation</tp:publisher>
+  <tp:publisherURL>http://www.ifrs.org/</tp:publisherURL>
+  <tp:publisherCountry>GB</tp:publisherCountry>
+  <tp:publicationDate>2024-04-26</tp:publicationDate>
+   <tp:entryPoints>
+      <tp:entryPoint>
+         <tp:name>Republisher jurisdictional Sustainability Disclosure Standards entry-point</tp:name>
+         <tp:description>This is the entry point for viewing the Sustainability Disclosure Standards for the Republisher jurisdiction.</tp:description>
+         <tp:entryPointDocument href="https://xbrl.yy/taxonomy/republisher_sustainablity_standards/2024-04-26/republisher_2024-04-26.xsd"/>
+      </tp:entryPoint>
+   </tp:entryPoints>
+  <tp:versioningReports/>
+</tp:taxonomyPackage>
